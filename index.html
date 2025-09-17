@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outlier</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <header id="main-header">
+        <div class="header-left">
+            <strong class="title-font">Outlier</strong>
+            <span id="header-date" class="date-font"></span>
+        </div>
+    </header>
+
+    <main id="homepage">
+        <div class="logo">
+            <svg viewBox="0 0 100 80" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="10" fill="#121212"/>
+                <circle cx="50" cy="20" r="10" fill="#121212"/>
+                <circle cx="20" cy="50" r="10" fill="#121212"/>
+                <circle cx="50" cy="50" r="10" fill="#121212"/>
+                <circle cx="85" cy="35" r="10" fill="none" stroke="#6aaa64" stroke-width="3"/>
+            </svg>
+        </div>
+        <h2>Outlier</h2>
+        <p class="instructions">Find the word that doesn't fit the hidden category.</p>
+        
+        <div class="button-container">
+            <button id="play-btn">Play</button>
+            <button class="secondary-btn">Log In</button>
+            <button class="secondary-btn">Create an Account</button>
+        </div>
+    </main>
+
+    <main id="game-page" class="hidden">
+        <p class="game-instruction">Choose the one odd one!</p>
+        <div id="tokens-container"></div>
+        
+        <div class="game-footer">
+            <div id="mistakes-counter"></div>
+            <div class="game-controls">
+                <button id="prev-btn" class="nav-btn hidden">←</button>
+                <div id="center-controls">
+                    <button id="shuffle-btn"><span class="thin-font">Shuffle</span></button>
+                    <button id="submit-btn" disabled><span class="thin-font">Submit</span></button>
+                </div>
+                <button id="next-btn" class="nav-btn hidden">→</button>
+            </div>
+            <div id="progress-tracker"></div>
+            <div id="review-explanation" class="hidden"></div>
+        </div>
+    </main>
+    
+    <div id="result-modal" class="modal-overlay">
+        <div class="modal-content">
+            <h2 id="result-title"></h2>
+            <p id="final-score" class="hidden"></p>
+            <p class="category-label">CATEGORY</p>
+            <p id="result-category"></p>
+            <p id="result-explanation"></p>
+            <button id="continue-btn">Continue →</button>
+        </div>
+    </div>
+
+</body>
+</html>
