@@ -125,3 +125,64 @@ button {
 #result-category { font-size: 1.5rem; font-weight: bold; margin: 0 0 15px 0; }
 #continue-btn { max-width: 200px; margin: 20px auto 0 auto; }
 #continue-btn.view-puzzle-btn { background-color: var(--secondary-color); }
+
+/* --- Login Page Styles --- */
+#login-page {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+#auth-form {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.input-group {
+    text-align: left;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 15px;
+    font-size: 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+}
+
+.input-group input:focus {
+    outline: none;
+    border-color: var(--dark-border-color);
+}
+
+.error-text {
+    color: var(--error-color);
+    min-height: 20px;
+    margin: 0;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 30px;
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+/* Ensure the main pill button class is defined */
+.pill-button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+}
