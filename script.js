@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Replace the old setupHomepage() with this async function to load data first
     async function initializeApp() {
         try {
-            const response = await fetch('puzzles.json');
+            const response = await fetch('puzzles.json', { cache: 'no-cache' });
             puzzles = await response.json();
             setupHomepage(); // Now run the original setup
         } catch (error) {
