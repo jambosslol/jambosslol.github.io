@@ -1,11 +1,30 @@
 
 document.addEventListener('DOMContentLoaded', () => {
+
+    // At the top of your script.js, outside any function
+    let puzzles = [];
+
+    // Replace the old setupHomepage() with this async function to load data first
+    async function initializeApp() {
+        try {
+            const response = await fetch('puzzles.json');
+            puzzles = await response.json();
+            setupHomepage(); // Now run the original setup
+        } catch (error) {
+            console.error("Failed to load puzzles:", error);
+            // You could display an error message to the user here
+        }
+    }
+
+    // Call the new initializer at the end of the script
+    initializeApp(); 
+    /*
     const puzzles = [
         { tokens: ["LEVEL", "RADAR", "REFER", "KAYAK", "LASER"], answer_index: 4, category: "Palindromes", explanation: "These words read the same forwards and back.", completed: false },
         { tokens: ["VENUS", "CERES", "MERCURY", "MARS", "PLUTO"], answer_index: 1, category: "Planets", explanation: "These are all planets or former planets.", completed: false },
         { tokens: ["THEATER", "LITER", "FIBER", "CENTER", "METER"], answer_index: 1, category: "US Spellings with -ER", explanation: "These words have UK counterparts ending in -re.", completed: false }
     ];
-
+    */
     // DOM Elements
     const homepage = document.getElementById('homepage'), gamePage = document.getElementById('game-page'), playBtn = document.getElementById('play-btn');
     const headerDateSpan = document.getElementById('header-date'), mistakesCounter = document.getElementById('mistakes-counter');
