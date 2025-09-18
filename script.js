@@ -1,36 +1,83 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-app.js";
+import { auth } from './firebase-config.js';
 import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth.js";
 
-// Your web app's Firebase configuration (copy from your HTML)
-const firebaseConfig = {
-    apiKey: "AIzaSyBNCE1U6rZ4mymmFuKCXMHEpkEYPEzx2O4",
-    authDomain: "odd1out-eecdd.firebaseapp.com",
-    projectId: "odd1out-eecdd",
-    storageBucket: "odd1out-eecdd.firebasestorage.app",
-    messagingSenderId: "1014717037898",
-    appId: "1:1014717037898:web:9fecf922f4f4e343a015b3"
-};
+let puzzles = [];
+let currentUser = null;
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const auth = getAuth(app);
-
+// This listener is the single source of truth for the user's login state
 onAuthStateChanged(auth, (user) => {
+    currentUser = user;
+    const loginBtn = document.getElementById('login-btn');
+    const createAccountBtn = document.getElementById('create-account-btn');
+
     if (user) {
-        // User is signed in!
+        // User is LOGGED IN
         console.log("User is logged in:", user.email);
-        // You could display their email on the page, or show a 'Log Out' button.
+        // Hide the login and create account buttons
+        if(loginBtn) loginBtn.classList.add('hidden');
+        if(createAccountBtn) createAccountBtn.classList.add('hidden');
+        
+        // If we land on the page with #game, start the game.
+        if (window.location.hash === '#game') {
+            showGamePage();
+        }
     } else {
-        // User is signed out.
+        // User is LOGGED OUT
         console.log("User is not logged in.");
+        // Make sure the buttons are visible
+        if(loginBtn) loginBtn.classList.remove('hidden');
+        if(createAccountBtn) createAccountBtn.classList.remove('hidden');
     }
 });
 
-// At the top of your script.js, outside any function
-let puzzles = [];
-
+// Waits for the HTML page to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
+    const homepage = document.getElementById('homepage');
+    const gamePage = document.getElementById('game-page');
+    const playBtn = document.getElementById('play-btn');
+    const loginBtn = document.getElementById('login-btn');
+    const createAccountBtn = document.getElementById('create-account-btn');
+
+    // This function hides the homepage and shows the game
+    function showGamePage() {
+        if (!gamePage.classList.contains('hidden')) return;
+        homepage.classList.add('hidden');
+        gamePage.classList.remove('hidden');
+        if (puzzles.length > 0 && !document.getElementById('tokens-container').hasChildNodes()) {
+            startGame();
+        }
+    }
+
+    // --- BUTTON EVENT LISTENERS ---
+    if (playBtn) {
+        playBtn.addEventListener('click', () => {
+            if (currentUser) {
+                window.location.hash = 'game';
+                showGamePage();
+            } else {
+                window.location.href = 'login.html?redirect=game';
+            }
+        });
+    }
+
+    if (loginBtn) {
+        loginBtn.addEventListener('click', () => {
+            window.location.href = 'login.html';
+        });
+    }
     
+    if (createAccountBtn) {
+        createAccountBtn.addEventListener('click', () => {
+            window.location.href = 'login.html';
+        });
+    }
+
+    // Check the URL hash on initial page load
+    if (window.location.hash !== '#game') {
+        homepage.classList.remove('hidden');
+        gamePage.classList.add('hidden');
+    }
+
     // Replace the old setupHomepage() with this async function to load data first
     async function initializeApp() {
         try {
@@ -53,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
     */
     // DOM Elements
-    const homepage = document.getElementById('homepage'), gamePage = document.getElementById('game-page'), playBtn = document.getElementById('play-btn');
+    
     const headerDateSpan = document.getElementById('header-date'), mistakesCounter = document.getElementById('mistakes-counter');
     const tokensContainer = document.getElementById('tokens-container'), shuffleBtn = document.getElementById('shuffle-btn'), submitBtn = document.getElementById('submit-btn');
     const progressTracker = document.getElementById('progress-tracker'), resultModal = document.getElementById('result-modal');

@@ -186,3 +186,9 @@ button {
     color: white;
     border: none;
 }
+
+#form-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 10px 0;
+}

@@ -3,40 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outlier</title>
+    <title>The Outlier</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js?v=1.0" defer></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GMT7WNF6MX"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-GMT7WNF6MX');
-    </script>
-    <script type="module">
-        // Import the functions you need from the SDKs you need
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-app.js";
-        import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-analytics.js";
-        // TODO: Add SDKs for Firebase products that you want to use
-        // https://firebase.google.com/docs/web/setup#available-libraries
-
-        // Your web app's Firebase configuration
-        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-        const firebaseConfig = {
-            apiKey: "AIzaSyBNCE1U6rZ4mymmFuKCXMHEpkEYPEzx2O4",
-            authDomain: "odd1out-eecdd.firebaseapp.com",
-            projectId: "odd1out-eecdd",
-            storageBucket: "odd1out-eecdd.firebasestorage.app",
-            messagingSenderId: "1014717037898",
-            appId: "1:1014717037898:web:9fecf922f4f4e343a015b3",
-            measurementId: "G-MLY80D9SGW"
-        };
-
-        // Initialize Firebase
-        const app = initializeApp(firebaseConfig);
-        const analytics = getAnalytics(app);
-    </script>
+    <script src="script.js?v=1.2" type="module"></script>
+    
 </head>
 <body>
 
@@ -63,9 +33,9 @@
         <div class="button-container">
             <button id="play-btn">Play</button>
             <a href="login.html">
-                <button class="secondary-btn">Log In</button>
+                <button id="login-btn" class="secondary-btn">Log In</button>
             </a>
-            <button class="secondary-btn">Create an Account</button>
+            <button id="create-account-btn" class="secondary-btn">Create an Account</button>
         </div>
     </main>
 
