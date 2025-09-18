@@ -1,1 +1,41 @@
-
+[
+    {
+        "tokens": [
+            "SUMMER",
+            "LETTER",
+            "HAPPY",
+            "APPLE",
+            "OCEAN"
+        ],
+        "answer_index": 4,
+        "category": "Double Letters",
+        "explanation": "All tokens except 'OCEAN' contain at least one double letter.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Inch",
+            "Foot",
+            "Yard",
+            "Mile",
+            "Liter"
+        ],
+        "answer_index": 4,
+        "category": "Units of Length",
+        "explanation": "All tokens except 'Liter' are common units used to measure length or distance. 'Liter' is a unit for measuring volume.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "FLOW",
+            "STOP",
+            "STRESSED",
+            "DECAF",
+            "FLOP"
+        ],
+        "answer_index": 4,
+        "category": "Reversible Words",
+        "explanation": "All words except 'FLOP' can be spelled backwards to form another common English word: FLOW (WOLF), STOP (POTS), STRESSED (DESSERTS), and DECAF (FACED). 'FLOP' spelled backwards ('POLF') is not a recognized word.",
+        "completed": false
+    }
+]
