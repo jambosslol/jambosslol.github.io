@@ -1,9 +1,36 @@
+import { initializeApp } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-app.js";
+import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth.js";
+
+// Your web app's Firebase configuration (copy from your HTML)
+const firebaseConfig = {
+    apiKey: "AIzaSyBNCE1U6rZ4mymmFuKCXMHEpkEYPEzx2O4",
+    authDomain: "odd1out-eecdd.firebaseapp.com",
+    projectId: "odd1out-eecdd",
+    storageBucket: "odd1out-eecdd.firebasestorage.app",
+    messagingSenderId: "1014717037898",
+    appId: "1:1014717037898:web:9fecf922f4f4e343a015b3"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+
+onAuthStateChanged(auth, (user) => {
+    if (user) {
+        // User is signed in!
+        console.log("User is logged in:", user.email);
+        // You could display their email on the page, or show a 'Log Out' button.
+    } else {
+        // User is signed out.
+        console.log("User is not logged in.");
+    }
+});
+
+// At the top of your script.js, outside any function
+let puzzles = [];
 
 document.addEventListener('DOMContentLoaded', () => {
-
-    // At the top of your script.js, outside any function
-    let puzzles = [];
-
+    
     // Replace the old setupHomepage() with this async function to load data first
     async function initializeApp() {
         try {

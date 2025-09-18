@@ -1,52 +1,71 @@
-const auth = firebase.auth();
-const emailInput = document.getElementById('email-input');
-const passwordInput = document.getElementById('password-input');
-const actionButton = document.getElementById('action-button');
+// Import the functions you'll need from the Firebase SDKs
+import { initializeApp } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-app.js";
+import { getAuth, fetchSignInMethodsForEmail, createUserWithEmailAndPassword, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth.js";
 
+// Your web app's Firebase configuration (copy from your HTML)
+const firebaseConfig = {
+    apiKey: "AIzaSyBNCE1U6rZ4mymmFuKCXMHEpkEYPEzx2O4",
+    authDomain: "odd1out-eecdd.firebaseapp.com",
+    projectId: "odd1out-eecdd",
+    storageBucket: "odd1out-eecdd.firebasestorage.app",
+    messagingSenderId: "1014717037898",
+    appId: "1:1014717037898:web:9fecf922f4f4e343a015b3"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+
+// --- DOM Elements & State ---
+const authForm = document.getElementById('auth-form');
+const emailInput = document.getElementById('email-input');
+const passwordGroup = document.getElementById('password-group');
+const passwordInput = document.getElementById('password-input');
+const actionBtn = document.getElementById('action-btn');
+const errorMessage = document.getElementById('error-message');
+let emailChecked = false;
 let emailExists = false;
 
-// This function runs when the user clicks a "Check Email" button
-async function checkEmail() {
-    const email = emailInput.value;
-    try {
-        // This is the Firebase function to check if an account exists
-        const methods = await auth.fetchSignInMethodsForEmail(email);
+// --- Event Listener ---
+authForm.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    errorMessage.textContent = '';
+    if (!emailChecked) {
+        await checkEmail();
+    } else {
+        await handleAuthAction();
+    }
+});
 
-        if (methods.length > 0) {
-            // Email exists, prompt for login
-            emailExists = true;
-            passwordInput.classList.remove('hidden');
-            actionButton.textContent = 'Log In';
-        } else {
-            // Email does not exist, prompt for signup
-            emailExists = false;
-            passwordInput.classList.remove('hidden');
-            actionButton.textContent = 'Create Account';
-        }
+// --- Functions ---
+async function checkEmail() {
+    try {
+        const methods = await fetchSignInMethodsForEmail(auth, emailInput.value);
+        emailExists = methods.length > 0;
+        passwordGroup.classList.remove('hidden');
+        actionBtn.textContent = emailExists ? 'Log In' : 'Create Account';
+        emailChecked = true;
+        emailInput.disabled = true;
     } catch (error) {
-        console.error("Error checking email:", error);
+        errorMessage.textContent = 'Could not verify email. Please try again.';
     }
 }
 
-// This function runs when the user clicks the "Log In" or "Create Account" button
 async function handleAuthAction() {
     const email = emailInput.value;
     const password = passwordInput.value;
-
+    if (password.length < 6) {
+        errorMessage.textContent = 'Password must be at least 6 characters long.';
+        return;
+    }
     try {
         if (emailExists) {
-            // Log the user in
-            await auth.signInWithEmailAndPassword(email, password);
-            console.log("Successfully logged in!");
+            await signInWithEmailAndPassword(auth, email, password);
         } else {
-            // Create a new account
-            await auth.createUserWithEmailAndPassword(email, password);
-            console.log("Successfully created account!");
+            await createUserWithEmailAndPassword(auth, email, password);
         }
-        // On success, redirect back to the game
-        window.location.href = 'index.html';
+        window.location.href = 'index.html'; // Redirect to game on success
     } catch (error) {
-        console.error("Authentication failed:", error.message);
-        alert("Error: " + error.message);
+        errorMessage.textContent = error.message;
     }
 }
