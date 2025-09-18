@@ -1,0 +1,40 @@
+name: Generate Daily Puzzles
+
+on:
+  schedule:
+    # Runs at 05:00 UTC (1:00 AM EDT) every day.
+    # You can adjust the time as needed.
+    - cron: '0 5 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out your repository's code
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      # Step 2: Set up a Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Step 3: Install Python libraries (you must have a requirements.txt file)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Step 4: Run your puzzle generation script
+      - name: Generate new puzzles
+        run: python generate_puzzles.py
+
+      # Step 5: Commit the new puzzles.json file back to your repository
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "feat: ✨ Generate new daily puzzles"
+          file_pattern: puzzles.json
