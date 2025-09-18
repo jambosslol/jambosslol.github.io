@@ -9,6 +9,9 @@ on:
   # This line allows you to run the workflow manually from the "Actions" tab on GitHub.
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-and-commit:
     runs-on: ubuntu-latest
