@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "SUMMER",
-            "LETTER",
-            "HAPPY",
-            "APPLE",
-            "OCEAN"
+            "Apple",
+            "Ant",
+            "Ape",
+            "Orange",
+            "Aardvark"
         ],
-        "answer_index": 4,
-        "category": "Double Letters",
-        "explanation": "All tokens except 'OCEAN' contain at least one double letter.",
+        "answer_index": 3,
+        "category": "Starting Letter",
+        "explanation": "All words except 'Orange' begin with the letter 'A'.",
         "completed": false
     },
     {
         "tokens": [
-            "Inch",
-            "Foot",
-            "Yard",
-            "Mile",
-            "Liter"
+            "Sun",
+            "Lamp",
+            "Firefly",
+            "Moon",
+            "Candle"
         ],
-        "answer_index": 4,
-        "category": "Units of Length",
-        "explanation": "All tokens except 'Liter' are common units used to measure length or distance. 'Liter' is a unit for measuring volume.",
+        "answer_index": 3,
+        "category": "Sources of Light",
+        "explanation": "The Moon reflects light from the sun, whereas the Sun, Lamp, Firefly, and Candle all produce their own light.",
         "completed": false
     },
     {
         "tokens": [
-            "FLOW",
-            "STOP",
-            "STRESSED",
-            "DECAF",
-            "FLOP"
+            "KNIGHT",
+            "FLOWER",
+            "WASTE",
+            "WRIGHT",
+            "PLUME"
         ],
         "answer_index": 4,
-        "category": "Reversible Words",
-        "explanation": "All words except 'FLOP' can be spelled backwards to form another common English word: FLOW (WOLF), STOP (POTS), STRESSED (DESSERTS), and DECAF (FACED). 'FLOP' spelled backwards ('POLF') is not a recognized word.",
+        "category": "Homophones",
+        "explanation": "Four of the words have a common homophone with a different spelling (knight/night, flower/flour, waste/waist, wright/right). 'Plume' does not.",
         "completed": false
     }
 ]
