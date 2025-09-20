@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Apple",
-            "Ant",
-            "Ape",
-            "Orange",
-            "Aardvark"
-        ],
-        "answer_index": 3,
-        "category": "Starting Letter",
-        "explanation": "All words except 'Orange' begin with the letter 'A'.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Sun",
-            "Lamp",
-            "Firefly",
-            "Moon",
-            "Candle"
-        ],
-        "answer_index": 3,
-        "category": "Sources of Light",
-        "explanation": "The Moon reflects light from the sun, whereas the Sun, Lamp, Firefly, and Candle all produce their own light.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "KNIGHT",
-            "FLOWER",
-            "WASTE",
-            "WRIGHT",
-            "PLUME"
+            "APPLE",
+            "BOOK",
+            "MISSISSIPPI",
+            "HAPPY",
+            "CHAIR"
         ],
         "answer_index": 4,
-        "category": "Homophones",
-        "explanation": "Four of the words have a common homophone with a different spelling (knight/night, flower/flour, waste/waist, wright/right). 'Plume' does not.",
+        "category": "Words containing a double letter",
+        "explanation": "All words except 'CHAIR' contain at least one pair of identical consecutive letters.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Tornado",
+            "Hurricane",
+            "Blizzard",
+            "Earthquake",
+            "Tsunami"
+        ],
+        "answer_index": 3,
+        "category": "Natural Phenomena",
+        "explanation": "Tornado, Hurricane, Blizzard, and Tsunami are all natural phenomena primarily related to atmospheric or oceanic activity (weather/water). An Earthquake is a geological event caused by tectonic shifts in the Earth's crust.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "RELY",
+            "INSIST",
+            "CONSIST",
+            "FOCUS",
+            "DEPEND"
+        ],
+        "answer_index": 2,
+        "category": "Verbs Followed by 'ON'",
+        "explanation": "Four of the verbs (RELY, INSIST, FOCUS, DEPEND) are commonly followed by the preposition 'on'. 'CONSIST' is typically followed by 'of'.",
         "completed": false
     }
 ]
