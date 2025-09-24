@@ -4,34 +4,33 @@ import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/
 let puzzles = [];
 let currentUser = null;
 
-// This listener is the single source of truth for the user's login state
-onAuthStateChanged(auth, (user) => {
-    currentUser = user;
-    const loginBtn = document.getElementById('login-btn');
-    const createAccountBtn = document.getElementById('create-account-btn');
-
-    if (user) {
-        // User is LOGGED IN
-        console.log("User is logged in:", user.email);
-        // Hide the login and create account buttons
-        if(loginBtn) loginBtn.classList.add('hidden');
-        if(createAccountBtn) createAccountBtn.classList.add('hidden');
-        
-        // If we land on the page with #game, start the game.
-        if (window.location.hash === '#game') {
-            showGamePage();
-        }
-    } else {
-        // User is LOGGED OUT
-        console.log("User is not logged in.");
-        // Make sure the buttons are visible
-        if(loginBtn) loginBtn.classList.remove('hidden');
-        if(createAccountBtn) createAccountBtn.classList.remove('hidden');
-    }
-});
-
 // Waits for the HTML page to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
+    // --- Authentication State Listener ---
+    // MOVED HERE: This listener now runs only after the page is fully loaded,
+    // ensuring it can always find the login and create account buttons.
+    onAuthStateChanged(auth, (user) => {
+        currentUser = user;
+        const loginBtn = document.getElementById('login-btn');
+        const createAccountBtn = document.getElementById('create-account-btn');
+
+        if (user) {
+            // User is LOGGED IN: Hide the buttons
+            console.log("User is logged in:", user.email);
+            if(loginBtn) loginBtn.classList.add('hidden');
+            if(createAccountBtn) createAccountBtn.classList.add('hidden');
+            
+            if (window.location.hash === '#game') {
+                showGamePage();
+            }
+        } else {
+            // User is LOGGED OUT: Show the buttons
+            console.log("User is not logged in.");
+            if(loginBtn) loginBtn.classList.remove('hidden');
+            if(createAccountBtn) createAccountBtn.classList.remove('hidden');
+        }
+    });
+
     const homepage = document.getElementById('homepage');
     const gamePage = document.getElementById('game-page');
     const playBtn = document.getElementById('play-btn');
@@ -51,8 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- BUTTON EVENT LISTENERS ---
     if (playBtn) {
         playBtn.addEventListener('click', () => {
-            // MODIFICATION: The check for `currentUser` has been removed.
-            // Now, any user can play the game without needing to log in.
+            // Takes the user to the game without signing in
             window.location.hash = 'game';
             showGamePage();
         });
@@ -60,12 +58,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (loginBtn) {
         loginBtn.addEventListener('click', () => {
+            // Takes the user to the login/signup page
             window.location.href = 'login.html';
         });
     }
     
     if (createAccountBtn) {
         createAccountBtn.addEventListener('click', () => {
+            // Also takes the user to the login/signup page
             window.location.href = 'login.html';
         });
     }
@@ -76,19 +76,17 @@ document.addEventListener('DOMContentLoaded', () => {
         gamePage.classList.add('hidden');
     }
 
-    // Replace the old setupHomepage() with this async function to load data first
+    // Fetches puzzles and then sets up the homepage
     async function initializeApp() {
         try {
-            const response = await fetch('puzzles.json', { cache: 'no-cache' });
-            puzzles = await response.json();
-            setupHomepage(); // Now run the original setup
+            const response = await fetch('puzzles.json', { cache: 'no-cache' }); //
+            puzzles = await response.json(); //
+            setupHomepage();
         } catch (error) {
             console.error("Failed to load puzzles:", error);
-            // You could display an error message to the user here
         }
     }
 
-    // Call the new initializer at the end of the script
     initializeApp(); 
     
     // DOM Elements
@@ -108,8 +106,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const today = new Date();
         const options = { year: 'numeric', month: 'long', day: 'numeric' };
         headerDateSpan.textContent = today.toLocaleDateString('en-US', options);
-        // MODIFICATION: The redundant event listener that was here has been removed.
-        // The main listener at the top of the script now handles this button.
     }
 
     function startGame() {
@@ -214,22 +210,19 @@ document.addEventListener('DOMContentLoaded', () => {
         tokenButtons.forEach(btn => btn.querySelector('span').classList.add('fading-out'));
         
         setTimeout(() => {
-            // Fisher-Yates shuffle algorithm
             for (let i = tokenData.length - 1; i > 0; i--) {
                 const j = Math.floor(Math.random() * (i + 1));
                 [tokenData[i], tokenData[j]] = [tokenData[j], tokenData[i]];
             }
             
-            // Re-assign data and text to the existing buttons
             tokenButtons.forEach((button, i) => {
                 button.querySelector('span').textContent = tokenData[i].text;
                 button.dataset.index = tokenData[i].originalIndex;
                 button.disabled = tokenData[i].isDisabled;
-                button.classList.remove('selected'); // Clear all selections before re-applying
+                button.classList.remove('selected');
                 button.querySelector('span').classList.remove('fading-out');
             });
 
-            // Re-select the button that now holds the originally selected text
             if (selectedText) {
                 const newButtonToSelect = Array.from(tokenButtons).find(btn => btn.querySelector('span').textContent === selectedText);
                 if (newButtonToSelect && !newButtonToSelect.disabled) {
@@ -283,14 +276,14 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     function displayPuzzleInReview(index) {
-        loadPuzzle(index); // Renders the neutral state buttons
+        loadPuzzle(index);
         const puzzle = puzzles[index];
         
         tokensContainer.querySelectorAll('.token-btn').forEach((button) => {
             button.disabled = true;
             const buttonIndex = parseInt(button.dataset.index);
             if (buttonIndex === puzzle.answer_index) {
-                button.classList.add('review-correct'); // Use static highlight class
+                button.classList.add('review-correct');
             }
         });
         reviewExplanation.textContent = puzzle.explanation;
@@ -318,7 +311,4 @@ document.addEventListener('DOMContentLoaded', () => {
     continueBtn.addEventListener('click', hideResultModalAndContinue);
     prevBtn.addEventListener('click', () => navigateReview(-1));
     nextBtn.addEventListener('click', () => navigateReview(1));
-    
-    // This call was removed from the end of the file to prevent redundancy.
-    // It is correctly called once within initializeApp().
 });
