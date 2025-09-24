@@ -2,10 +2,6 @@ import { auth } from './firebase-config.js';
 import { getAuth, fetchSignInMethodsForEmail, createUserWithEmailAndPassword, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth.js";
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Check if the user was redirected from the play button
-    const urlParams = new URLSearchParams(window.location.search);
-    const redirectToGame = urlParams.get('redirect') === 'game';
-
     // --- DOM ELEMENTS ---
     const authForm = document.getElementById('auth-form');
     const formTitle = document.getElementById('form-title');
@@ -20,14 +16,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const actionBtn = document.getElementById('action-btn');
     const errorMessage = document.getElementById('error-message');
 
-    // --- State to manage the form flow ---
-    let formStep = 'check-email'; // Can be 'check-email', 'login', or 'signup'
+    // This variable tracks which step the user is on.
+    let formStep = 'check-email'; // 'check-email', 'login', or 'signup'
 
-    // --- Main Form Event Listener ---
+    /**
+     * This is the main function that runs when the user clicks the "Continue" or "Log In" button.
+     */
     authForm.addEventListener('submit', (event) => {
-        event.preventDefault(); 
-        errorMessage.textContent = ''; 
+        event.preventDefault(); // Prevents the page from reloading
+        errorMessage.textContent = ''; // Clear any old error messages
 
+        // We decide what to do based on the current formStep
         switch (formStep) {
             case 'check-email':
                 handleCheckEmail();
@@ -42,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     /**
-     * Step 1: Check if the entered email is already registered in Firebase.
+     * Step 1: Check if the entered email is already registered.
      */
     async function handleCheckEmail() {
         const email = emailInput.value;
@@ -51,29 +50,28 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         try {
-            // This is the key Firebase function to check for an existing user.
+            // This Firebase function checks if an account with the email exists.
             const methods = await fetchSignInMethodsForEmail(auth, email);
-            emailInput.disabled = true; // Lock the email field
+            emailInput.disabled = true; // Lock the email field after checking
 
+            // If the 'methods' array is not empty, the user exists.
             if (methods.length > 0) {
-                // --- EMAIL EXISTS ---
-                // The user has an account, so prepare the form for login.
+                // --- USER EXISTS: Prepare for LOGIN ---
                 formStep = 'login';
                 formTitle.textContent = 'Log In';
-                formInstruction.textContent = 'Welcome back! Enter your password.';
+                formInstruction.textContent = 'Welcome back! Please enter your password.';
                 loginPasswordGroup.classList.remove('hidden');
                 actionBtn.textContent = 'Log In';
-                loginPasswordInput.focus(); // Focus on the password field
+                loginPasswordInput.focus(); // Automatically focus the password input
             } else {
-                // --- EMAIL DOES NOT EXIST ---
-                // The user is new, so prepare the form for signup.
+                // --- USER DOES NOT EXIST: Prepare for SIGN UP ---
                 formStep = 'signup';
                 formTitle.textContent = 'Create an Account';
-                formInstruction.textContent = 'This email is not registered. Create a password to sign up.';
+                formInstruction.textContent = 'This email isn\'t registered. Create a password to sign up.';
                 signupPasswordGroup.classList.remove('hidden');
                 confirmPasswordGroup.classList.remove('hidden');
-                actionBtn.textContent = 'Create Account';
-                signupPasswordInput.focus();
+                actionBtn.textContent = 'Create Account & Sign In';
+                signupPasswordInput.focus(); // Automatically focus the create password input
             }
         } catch (error) {
             console.error("Error checking email:", error);
@@ -82,28 +80,27 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /**
-     * Step 2 (Login): Authenticate the existing user.
+     * Step 2a: The user exists, so we log them in.
      */
     async function handleLogin() {
         const email = emailInput.value;
         const password = loginPasswordInput.value;
         try {
             await signInWithEmailAndPassword(auth, email, password);
-            // On successful login, redirect to the game.
+            // After successful login, send the user to the game.
             window.location.href = 'index.html#game';
         } catch (error) {
-            // Provide more specific error feedback
             if (error.code === 'auth/wrong-password' || error.code === 'auth/invalid-credential') {
-                errorMessage.textContent = "Incorrect password. Please try again.";
+                errorMessage.textContent = "That password doesn't look right. Please try again.";
             } else {
-                errorMessage.textContent = "An error occurred during login.";
+                errorMessage.textContent = "An unexpected error occurred during login.";
                 console.error("Login Error:", error);
             }
         }
     }
 
     /**
-     * Step 2 (Signup): Create a new user account.
+     * Step 2b: The user is new, so we create an account.
      */
     async function handleSignup() {
         const email = emailInput.value;
@@ -121,10 +118,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try {
             await createUserWithEmailAndPassword(auth, email, password);
-            // On successful signup, redirect to the game.
+            // After successful account creation, send the user to the game.
             window.location.href = 'index.html#game';
         } catch (error) {
             errorMessage.textContent = error.message;
+            console.error("Signup Error:", error);
         }
     }
 });
