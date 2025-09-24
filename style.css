@@ -27,13 +27,27 @@ main { max-width: 600px; margin: 0 auto; padding: 40px 20px; text-align: center;
 
 /* --- Header --- */
 #main-header {
-    min-height: 160px; padding: 0 20px; display: flex; align-items: center;
+    padding: 0 20px;
     border-bottom: 1px solid var(--border-color);
 }
-.header-left {
-    width: 100%; max-width: 1200px; margin: 0 auto; display: flex;
-    align-items: baseline; gap: 20px;
+
+/* NEW: Main container for header content */
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 160px;
 }
+
+.header-left {
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+}
+
 .title-font { font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 4rem; }
 .date-font { font-family: 'Courier New', Courier, monospace; font-size: 1.5rem; color: var(--secondary-color); }
 
@@ -49,10 +63,21 @@ button {
 }
 #play-btn, #submit-btn, #continue-btn { background-color: var(--primary-color); color: white; border: none; width: 100%; }
 #play-btn:hover, #submit-btn:hover:not(:disabled) { filter: brightness(1.1); transform: scale(1.02); }
-.secondary-btn, #shuffle-btn {
+
+/* MODIFIED: Added #auth-action-btn to this rule */
+.secondary-btn, #shuffle-btn, #auth-action-btn {
     background-color: transparent; color: var(--text-color); width: 100%;
     border: 1px solid var(--dark-border-color);
 }
+
+/* NEW: Styles for the new header button */
+#auth-action-btn {
+    width: auto; /* Override width: 100% */
+    padding: 10px 25px;
+    font-size: 1rem;
+}
+
+
 .secondary-btn:hover, #shuffle-btn:hover { background-color: #f0f0f0; }
 .thin-font { font-weight: 400; }
 

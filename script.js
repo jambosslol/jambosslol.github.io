@@ -1,5 +1,6 @@
 import { auth } from './firebase-config.js';
-import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth.js";
+// MODIFIED: Import the signOut function
+import { getAuth, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth.js";
 
 let puzzles = [];
 let currentUser = null;
@@ -7,27 +8,43 @@ let currentUser = null;
 // Waits for the HTML page to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
     // --- Authentication State Listener ---
-    // MOVED HERE: This listener now runs only after the page is fully loaded,
-    // ensuring it can always find the login and create account buttons.
     onAuthStateChanged(auth, (user) => {
         currentUser = user;
         const loginBtn = document.getElementById('login-btn');
         const createAccountBtn = document.getElementById('create-account-btn');
+        const authActionBtn = document.getElementById('auth-action-btn'); // NEW: Get the header button
 
         if (user) {
-            // User is LOGGED IN: Hide the buttons
-            console.log("User is logged in:", user.email);
+            // User is LOGGED IN
+            // Hide homepage buttons
             if(loginBtn) loginBtn.classList.add('hidden');
             if(createAccountBtn) createAccountBtn.classList.add('hidden');
+            
+            // NEW: Configure header button for "Sign Out"
+            authActionBtn.textContent = 'Sign Out';
+            authActionBtn.onclick = () => {
+                signOut(auth).then(() => {
+                    // Redirect to homepage on successful sign out
+                    window.location.href = 'index.html';
+                }).catch((error) => {
+                    console.error("Sign out error:", error);
+                });
+            };
             
             if (window.location.hash === '#game') {
                 showGamePage();
             }
         } else {
-            // User is LOGGED OUT: Show the buttons
-            console.log("User is not logged in.");
+            // User is LOGGED OUT
+            // Show homepage buttons
             if(loginBtn) loginBtn.classList.remove('hidden');
             if(createAccountBtn) createAccountBtn.classList.remove('hidden');
+            
+            // NEW: Configure header button for "Log In"
+            authActionBtn.textContent = 'Log In';
+            authActionBtn.onclick = () => {
+                window.location.href = 'login.html';
+            };
         }
     });
 
@@ -50,7 +67,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- BUTTON EVENT LISTENERS ---
     if (playBtn) {
         playBtn.addEventListener('click', () => {
-            // Takes the user to the game without signing in
             window.location.hash = 'game';
             showGamePage();
         });
@@ -58,14 +74,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (loginBtn) {
         loginBtn.addEventListener('click', () => {
-            // Takes the user to the login/signup page
             window.location.href = 'login.html';
         });
     }
     
     if (createAccountBtn) {
         createAccountBtn.addEventListener('click', () => {
-            // Also takes the user to the login/signup page
             window.location.href = 'login.html';
         });
     }
