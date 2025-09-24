@@ -51,12 +51,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- BUTTON EVENT LISTENERS ---
     if (playBtn) {
         playBtn.addEventListener('click', () => {
-            if (currentUser) {
-                window.location.hash = 'game';
-                showGamePage();
-            } else {
-                window.location.href = 'login.html?redirect=game';
-            }
+            // MODIFICATION: The check for `currentUser` has been removed.
+            // Now, any user can play the game without needing to log in.
+            window.location.hash = 'game';
+            showGamePage();
         });
     }
 
@@ -92,15 +90,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Call the new initializer at the end of the script
     initializeApp(); 
-    /*
-    const puzzles = [
-        { tokens: ["LEVEL", "RADAR", "REFER", "KAYAK", "LASER"], answer_index: 4, category: "Palindromes", explanation: "These words read the same forwards and back.", completed: false },
-        { tokens: ["VENUS", "CERES", "MERCURY", "MARS", "PLUTO"], answer_index: 1, category: "Planets", explanation: "These are all planets or former planets.", completed: false },
-        { tokens: ["THEATER", "LITER", "FIBER", "CENTER", "METER"], answer_index: 1, category: "US Spellings with -ER", explanation: "These words have UK counterparts ending in -re.", completed: false }
-    ];
-    */
-    // DOM Elements
     
+    // DOM Elements
     const headerDateSpan = document.getElementById('header-date'), mistakesCounter = document.getElementById('mistakes-counter');
     const tokensContainer = document.getElementById('tokens-container'), shuffleBtn = document.getElementById('shuffle-btn'), submitBtn = document.getElementById('submit-btn');
     const progressTracker = document.getElementById('progress-tracker'), resultModal = document.getElementById('result-modal');
@@ -117,7 +108,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const today = new Date();
         const options = { year: 'numeric', month: 'long', day: 'numeric' };
         headerDateSpan.textContent = today.toLocaleDateString('en-US', options);
-        playBtn.addEventListener('click', startGame);
+        // MODIFICATION: The redundant event listener that was here has been removed.
+        // The main listener at the top of the script now handles this button.
     }
 
     function startGame() {
@@ -281,10 +273,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     function enterReviewMode() {
         inReviewMode = true;
-        // Hide center controls (Shuffle and Submit)
-        // document.getElementById('center-controls').classList.add('hidden');
         shuffleBtn.classList.add('hidden');
-        // shuffleBtn.parentElement.classList.add('hidden');
         submitBtn.classList.add('hidden');
         prevBtn.classList.remove('hidden');
         nextBtn.classList.remove('hidden');
@@ -297,7 +286,6 @@ document.addEventListener('DOMContentLoaded', () => {
         loadPuzzle(index); // Renders the neutral state buttons
         const puzzle = puzzles[index];
         
-        // This now happens synchronously, before the next browser paint
         tokensContainer.querySelectorAll('.token-btn').forEach((button) => {
             button.disabled = true;
             const buttonIndex = parseInt(button.dataset.index);
@@ -320,7 +308,6 @@ document.addEventListener('DOMContentLoaded', () => {
             currentPuzzleIndex = newIndex;
             updateNavButtonsState();
             reviewExplanation.classList.add('hidden');
-// Hide old explanation before loading new one
             displayPuzzleInReview(currentPuzzleIndex);
         }
     }
@@ -332,6 +319,6 @@ document.addEventListener('DOMContentLoaded', () => {
     prevBtn.addEventListener('click', () => navigateReview(-1));
     nextBtn.addEventListener('click', () => navigateReview(1));
     
-    setupHomepage();
+    // This call was removed from the end of the file to prevent redundancy.
+    // It is correctly called once within initializeApp().
 });
-
