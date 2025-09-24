@@ -1,8 +1,8 @@
 import { auth } from './firebase-config.js';
 import { getAuth, fetchSignInMethodsForEmail, createUserWithEmailAndPassword, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth.js";
 
-// --- Check for Redirect Instruction ---
 document.addEventListener('DOMContentLoaded', () => {
+    // Check if the user was redirected from the play button
     const urlParams = new URLSearchParams(window.location.search);
     const redirectToGame = urlParams.get('redirect') === 'game';
 
@@ -20,13 +20,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const actionBtn = document.getElementById('action-btn');
     const errorMessage = document.getElementById('error-message');
 
-    // --- Game State ---
-    let formStep = 'check-email'; // 'check-email', 'login', or 'signup'
+    // --- State to manage the form flow ---
+    let formStep = 'check-email'; // Can be 'check-email', 'login', or 'signup'
 
-    // --- Event Listener for the Form ---
+    // --- Main Form Event Listener ---
     authForm.addEventListener('submit', (event) => {
-        event.preventDefault(); // Prevents the page from reloading
-        errorMessage.textContent = ''; // Clear previous errors
+        event.preventDefault(); 
+        errorMessage.textContent = ''; 
 
         switch (formStep) {
             case 'check-email':
@@ -41,31 +41,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    async function handleAuthAction() {
-        const email = emailInput.value;
-        const password = passwordInput.value;
-        // ... password validation ...
-
-        try {
-            if (emailExists) {
-                await signInWithEmailAndPassword(auth, email, password);
-            } else {
-                await createUserWithEmailAndPassword(auth, email, password);
-            }
-            
-            // --- NEW REDIRECT LOGIC ---
-            // On success, check if we need to redirect to the game or the homepage
-            if (redirectToGame) {
-                window.location.href = 'index.html#game'; // Go to the game page view
-            } else {
-                window.location.href = 'index.html'; // Go back to the homepage
-            }
-
-        } catch (error) {
-            errorMessage.textContent = error.message;
-        }
-    }
-
+    /**
+     * Step 1: Check if the entered email is already registered in Firebase.
+     */
     async function handleCheckEmail() {
         const email = emailInput.value;
         if (!email) {
@@ -73,24 +51,29 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         try {
+            // This is the key Firebase function to check for an existing user.
             const methods = await fetchSignInMethodsForEmail(auth, email);
             emailInput.disabled = true; // Lock the email field
 
             if (methods.length > 0) {
-                // Email EXISTS, so prepare for login
+                // --- EMAIL EXISTS ---
+                // The user has an account, so prepare the form for login.
                 formStep = 'login';
                 formTitle.textContent = 'Log In';
                 formInstruction.textContent = 'Welcome back! Enter your password.';
                 loginPasswordGroup.classList.remove('hidden');
                 actionBtn.textContent = 'Log In';
+                loginPasswordInput.focus(); // Focus on the password field
             } else {
-                // Email DOES NOT exist, so prepare for signup
+                // --- EMAIL DOES NOT EXIST ---
+                // The user is new, so prepare the form for signup.
                 formStep = 'signup';
                 formTitle.textContent = 'Create an Account';
                 formInstruction.textContent = 'This email is not registered. Create a password to sign up.';
                 signupPasswordGroup.classList.remove('hidden');
                 confirmPasswordGroup.classList.remove('hidden');
                 actionBtn.textContent = 'Create Account';
+                signupPasswordInput.focus();
             }
         } catch (error) {
             console.error("Error checking email:", error);
@@ -98,22 +81,30 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    /**
+     * Step 2 (Login): Authenticate the existing user.
+     */
     async function handleLogin() {
         const email = emailInput.value;
         const password = loginPasswordInput.value;
         try {
             await signInWithEmailAndPassword(auth, email, password);
-            // For login, respect the redirect parameter
-            if (redirectToGame) {
-                window.location.href = 'index.html#game';
-            } else {
-                window.location.href = 'index.html';
-            }
+            // On successful login, redirect to the game.
+            window.location.href = 'index.html#game';
         } catch (error) {
-            errorMessage.textContent = "Incorrect password. Please try again.";
+            // Provide more specific error feedback
+            if (error.code === 'auth/wrong-password' || error.code === 'auth/invalid-credential') {
+                errorMessage.textContent = "Incorrect password. Please try again.";
+            } else {
+                errorMessage.textContent = "An error occurred during login.";
+                console.error("Login Error:", error);
+            }
         }
     }
 
+    /**
+     * Step 2 (Signup): Create a new user account.
+     */
     async function handleSignup() {
         const email = emailInput.value;
         const password = signupPasswordInput.value;
@@ -130,21 +121,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try {
             await createUserWithEmailAndPassword(auth, email, password);
-            // **THE CHANGE:** After creating an account, ALWAYS redirect to the game.
+            // On successful signup, redirect to the game.
             window.location.href = 'index.html#game';
         } catch (error) {
             errorMessage.textContent = error.message;
         }
     }
-
-    async function successfulAuth() {
-        if (redirectToGame) {
-            window.location.href = 'index.html#game'; // Go to the game page view
-        } else {
-            window.location.href = 'index.html'; // Go back to the homepage
-        }
-    }
 });
-
-
-
