@@ -1,60 +1,50 @@
 import { auth } from './firebase-config.js';
-// MODIFIED: Import the signOut function
 import { getAuth, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth.js";
 
 let puzzles = [];
 let currentUser = null;
 
-// Waits for the HTML page to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
-    // --- Authentication State Listener ---
     onAuthStateChanged(auth, (user) => {
         currentUser = user;
         const loginBtn = document.getElementById('login-btn');
         const createAccountBtn = document.getElementById('create-account-btn');
-        const authActionBtn = document.getElementById('auth-action-btn'); // NEW: Get the header button
+        const authActionBtn = document.getElementById('auth-action-btn');
+        const createAccountHeaderBtn = document.getElementById('create-account-header-btn');
+
+        // MODIFICATION: Permanently hide the homepage login/signup buttons
+        if (loginBtn) loginBtn.parentElement.classList.add('hidden');
+        if (createAccountBtn) createAccountBtn.parentElement.classList.add('hidden');
 
         if (user) {
             // User is LOGGED IN
-            // Hide homepage buttons
-            if(loginBtn) loginBtn.classList.add('hidden');
-            if(createAccountBtn) createAccountBtn.classList.add('hidden');
-            
-            // NEW: Configure header button for "Sign Out"
             authActionBtn.textContent = 'Sign Out';
+            authActionBtn.classList.remove('hidden');
+            createAccountHeaderBtn.classList.add('hidden');
+
             authActionBtn.onclick = () => {
                 signOut(auth).then(() => {
-                    // Redirect to homepage on successful sign out
                     window.location.href = 'index.html';
-                }).catch((error) => {
-                    console.error("Sign out error:", error);
                 });
             };
             
-            if (window.location.hash === '#game') {
-                showGamePage();
-            }
         } else {
             // User is LOGGED OUT
-            // Show homepage buttons
-            if(loginBtn) loginBtn.classList.remove('hidden');
-            if(createAccountBtn) createAccountBtn.classList.remove('hidden');
-            
-            // NEW: Configure header button for "Log In"
-            authActionBtn.textContent = 'Log In';
-            authActionBtn.onclick = () => {
-                window.location.href = 'login.html';
-            };
+            // MODIFICATION: The text and actions for the header buttons have been swapped.
+            authActionBtn.textContent = 'Create Account';
+            authActionBtn.classList.remove('hidden');
+            createAccountHeaderBtn.textContent = 'Log In';
+            createAccountHeaderBtn.classList.remove('hidden');
+
+            authActionBtn.onclick = () => { window.location.href = 'signup.html'; };
+            createAccountHeaderBtn.onclick = () => { window.location.href = 'login.html'; };
         }
     });
 
     const homepage = document.getElementById('homepage');
     const gamePage = document.getElementById('game-page');
     const playBtn = document.getElementById('play-btn');
-    const loginBtn = document.getElementById('login-btn');
-    const createAccountBtn = document.getElementById('create-account-btn');
 
-    // This function hides the homepage and shows the game
     function showGamePage() {
         if (!gamePage.classList.contains('hidden')) return;
         homepage.classList.add('hidden');
@@ -64,38 +54,26 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // --- BUTTON EVENT LISTENERS ---
     if (playBtn) {
         playBtn.addEventListener('click', () => {
             window.location.hash = 'game';
             showGamePage();
         });
     }
-
-    if (loginBtn) {
-        loginBtn.addEventListener('click', () => {
-            window.location.href = 'login.html';
-        });
-    }
     
-    if (createAccountBtn) {
-        createAccountBtn.addEventListener('click', () => {
-            window.location.href = 'login.html';
-        });
-    }
-
-    // Check the URL hash on initial page load
-    if (window.location.hash !== '#game') {
-        homepage.classList.remove('hidden');
-        gamePage.classList.add('hidden');
-    }
-
-    // Fetches puzzles and then sets up the homepage
+    // This is the main function that loads puzzle data
     async function initializeApp() {
         try {
-            const response = await fetch('puzzles.json', { cache: 'no-cache' }); //
-            puzzles = await response.json(); //
+            const response = await fetch('puzzles.json', { cache: 'no-cache' });
+            puzzles = await response.json();
             setupHomepage();
+
+            // The check to show the game page was moved here.
+            // This ensures it only runs AFTER the puzzles have been loaded, fixing the bug.
+            if (window.location.hash === '#game') {
+                showGamePage();
+            }
+
         } catch (error) {
             console.error("Failed to load puzzles:", error);
         }
@@ -103,7 +81,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     initializeApp(); 
     
-    // DOM Elements
     const headerDateSpan = document.getElementById('header-date'), mistakesCounter = document.getElementById('mistakes-counter');
     const tokensContainer = document.getElementById('tokens-container'), shuffleBtn = document.getElementById('shuffle-btn'), submitBtn = document.getElementById('submit-btn');
     const progressTracker = document.getElementById('progress-tracker'), resultModal = document.getElementById('result-modal');
@@ -112,7 +89,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const continueBtn = document.getElementById('continue-btn'), prevBtn = document.getElementById('prev-btn');
     const nextBtn = document.getElementById('next-btn'), reviewExplanation = document.getElementById('review-explanation');
 
-    // Game State
     let lives = 3, currentPuzzleIndex = 0, selectedTokenIndex = null;
     let isGameBeaten = false, inReviewMode = false;
 
@@ -319,7 +295,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
     
-    // Event listeners
     submitBtn.addEventListener('click', handleSubmit);
     shuffleBtn.addEventListener('click', handleShuffle);
     continueBtn.addEventListener('click', hideResultModalAndContinue);

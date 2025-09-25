@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account - The Outlier</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="signup.js" type="module"></script>
+</head>
+<body>
+
+    <main id="signup-page">
+        <h2 id="form-title">Create an Account</h2>
+        <p id="form-instruction" class="instructions">Enter your email and create a password.</p>
+
+        <form id="signup-form">
+            <div class="input-group">
+                <label for="email-input">Email</label>
+                <input type="email" id="email-input" required autocomplete="email">
+            </div>
+
+            <div class="input-group">
+                <label for="password-input">Password (6+ characters)</label>
+                <input type="password" id="password-input" required minlength="6" autocomplete="new-password">
+            </div>
+
+            <div class="input-group">
+                <label for="confirm-password-input">Confirm Password</label>
+                <input type="password" id="confirm-password-input" required minlength="6" autocomplete="new-password">
+            </div>
+            
+            <button type="submit" id="action-btn" class="pill-button">Create Account</button>
+            <p id="error-message" class="error-text"></p>
+        </form>
+
+        <p class="form-switcher">Already have an account? <a href="login.html">Log in</a></p>
+    </main>
+
+</body>
+</html>

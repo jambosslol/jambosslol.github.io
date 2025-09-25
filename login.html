@@ -10,35 +10,25 @@
 <body>
 
     <main id="login-page">
-        <h2 id="form-title">Log In or Sign Up</h2>
-        <p id="form-instruction" class="instructions">Enter your email to continue.</p>
+        <h2 id="form-title">Log In</h2>
+        <p id="form-instruction" class="instructions">Welcome back! Please enter your credentials.</p>
 
-        <form id="auth-form">
-            <div class="input-group" id="email-group">
+        <form id="login-form">
+            <div class="input-group">
                 <label for="email-input">Email</label>
                 <input type="email" id="email-input" required autocomplete="email">
             </div>
 
-            <div class="input-group hidden" id="signup-password-group">
-                <label for="signup-password-input">Create a Password (6+ characters)</label>
-                <input type="password" id="signup-password-input" minlength="6" autocomplete="new-password">
-            </div>
-
-            <div class="input-group hidden" id="confirm-password-group">
-                <label for="confirm-password-input">Confirm Password</label>
-                <input type="password" id="confirm-password-input" minlength="6" autocomplete="new-password">
-            </div>
-
-            <div class="input-group hidden" id="login-password-group">
-                <label for="login-password-input">Password</label>
-                <input type="password" id="login-password-input" autocomplete="current-password">
+            <div class="input-group">
+                <label for="password-input">Password</label>
+                <input type="password" id="password-input" required autocomplete="current-password">
             </div>
             
-            <button type="submit" id="action-btn" class="pill-button">Continue</button>
+            <button type="submit" id="action-btn" class="pill-button">Log In</button>
             <p id="error-message" class="error-text"></p>
         </form>
 
-        <a href="index.html" class="back-link">← Back to Game</a>
+        <p class="form-switcher">Don't have an account? <a href="signup.html">Create one</a></p>
     </main>
 
 </body>

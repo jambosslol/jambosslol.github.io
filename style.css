@@ -31,7 +31,6 @@ main { max-width: 600px; margin: 0 auto; padding: 40px 20px; text-align: center;
     border-bottom: 1px solid var(--border-color);
 }
 
-/* NEW: Main container for header content */
 .header-content {
     display: flex;
     justify-content: space-between;
@@ -46,6 +45,12 @@ main { max-width: 600px; margin: 0 auto; padding: 40px 20px; text-align: center;
     display: flex;
     align-items: baseline;
     gap: 20px;
+}
+
+/* NEW: Styles for the right side of the header */
+.header-right {
+    display: flex;
+    gap: 10px;
 }
 
 .title-font { font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 4rem; }
@@ -64,19 +69,17 @@ button {
 #play-btn, #submit-btn, #continue-btn { background-color: var(--primary-color); color: white; border: none; width: 100%; }
 #play-btn:hover, #submit-btn:hover:not(:disabled) { filter: brightness(1.1); transform: scale(1.02); }
 
-/* MODIFIED: Added #auth-action-btn to this rule */
-.secondary-btn, #shuffle-btn, #auth-action-btn {
+.secondary-btn, #shuffle-btn {
     background-color: transparent; color: var(--text-color); width: 100%;
     border: 1px solid var(--dark-border-color);
 }
 
-/* NEW: Styles for the new header button */
-#auth-action-btn {
-    width: auto; /* Override width: 100% */
+/* Make header buttons fit their content */
+.header-right .secondary-btn {
+    width: auto;
     padding: 10px 25px;
     font-size: 1rem;
 }
-
 
 .secondary-btn:hover, #shuffle-btn:hover { background-color: #f0f0f0; }
 .thin-font { font-weight: 400; }
@@ -94,7 +97,7 @@ button {
     animation: verticalWiggle 0.8s ease-in-out;
     background-color: var(--primary-color); color: white;
 }
-.token-btn.review-correct { /* Static highlight for review mode */
+.token-btn.review-correct {
     background-color: var(--primary-color); color: white; transition: none;
 }
 @keyframes verticalWiggle {
@@ -151,12 +154,12 @@ button {
 #continue-btn { max-width: 200px; margin: 20px auto 0 auto; }
 #continue-btn.view-puzzle-btn { background-color: var(--secondary-color); }
 
-/* --- Login Page Styles --- */
-#login-page {
+/* --- Login & Signup Page Styles --- */
+#login-page, #signup-page {
     animation: fadeIn 0.5s ease-in-out;
 }
 
-#auth-form {
+#login-form, #signup-form {
     margin-top: 40px;
     display: flex;
     flex-direction: column;
@@ -180,7 +183,7 @@ button {
     font-size: 1rem;
     border: 1px solid var(--border-color);
     border-radius: 8px;
-    box-sizing: border-box; /* Ensures padding doesn't affect width */
+    box-sizing: border-box;
 }
 
 .input-group input:focus {
@@ -194,18 +197,23 @@ button {
     margin: 0;
 }
 
-.back-link {
+.back-link, .form-switcher {
     display: inline-block;
     margin-top: 30px;
     color: var(--secondary-color);
     text-decoration: none;
 }
 
-.back-link:hover {
+.back-link:hover, .form-switcher a:hover {
     text-decoration: underline;
 }
 
-/* Ensure the main pill button class is defined */
+.form-switcher a {
+    color: var(--primary-color);
+    font-weight: bold;
+    text-decoration: none;
+}
+
 .pill-button {
     background-color: var(--primary-color);
     color: white;
