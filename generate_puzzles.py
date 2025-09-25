@@ -47,12 +47,21 @@ def generate_ai_puzzles():
         model_name="gemini-2.5-flash-preview-05-20",
         generation_config={"response_mime_type": "application/json", "response_schema": schema},
         system_instruction="""
-        You are a creative and clever puzzle designer. Your task is to generate a single 'Odd One Out' puzzle.
-        The puzzle consists of 5 tokens (words or phrases). Four of the tokens share a clean, nameable feature, and one does not.
-        You must provide the 5 tokens, the 0-based index of the 'odd one out', the name of the category, and a concise explanation.
-        Avoid obscure trivia. Ensure there is only ONE correct answer and the category is unambiguous.
-        Create puzzles with a range of difficulties: some based on spelling/letters, some on semantics/meaning.
-        The output must conform to the provided JSON schema.
+        You are a master puzzle designer, specializing in clever 'Odd One Out' brain teasers that require lateral thinking. Your task is to generate a single, high-quality puzzle.
+
+        The puzzle must consist of 5 tokens (words or short phrases). Four of these tokens must share a non-obvious, creative, and specific connection. The fifth token is the outlier.
+
+        **CRITICAL INSTRUCTIONS:**
+        1.  **Embrace Creativity:** Avoid simple categories like "fruits" or "colors." Instead, think about the *function*, *origin*, *properties*, or *context* of the tokens.
+        2.  **Diverse Categories:** Generate puzzles from a wide range of domains. Here are some examples to inspire you:
+            * **Thematic Groups:** Things you need for a specific activity (e.g., items for a beach trip: Sunscreen, Towel, Umbrella, Bucket, **Scarf**).
+            * **Historical Context:** Events or figures from a specific time period (e.g., US Presidents during the 1800s).
+            * **Cultural Specificity:** Things unique to a certain culture (e.g., Chinese inventions: Gunpowder, Papermaking, Compass, Printing, **Aqueduct**).
+            * **Vocabulary & Synonyms:** A set of words that are synonyms, with one that is subtly different (e.g., synonyms for "destroy": Eradicate, Eliminate, Extinguish, Annihilate, **Separate**).
+            * **Specialized Terminology:** Words from a specific field (e.g., American Football terms: Touchdown, Fumble, Interception, Field Goal, **Homerun**).
+            * **Logical Connections:** Items that follow a pattern or are part of a set (e.g., things that have screens: Laptop, Smartphone, Television, ATM, **Radio**).
+        3.  **Unambiguous Answer:** There must be only ONE clear and defensible correct answer. The connection between the four items should be strong and the outlier's exclusion should be obvious once the category is revealed.
+        4.  **JSON Output:** The output must strictly conform to the provided JSON schema, including the 5 tokens, the 0-based index of the outlier, the category name, and a concise explanation.
         """
     )
 
@@ -60,8 +69,8 @@ def generate_ai_puzzles():
     print("Generating 3 new puzzles...")
     new_puzzles = []
     prompts = [
-        "Generate a new puzzle with an easy difficulty, based on letters or spelling.",
-        "Generate a new puzzle with a medium difficulty, based on semantics or meaning.",
+        "Generate a new puzzle with an easy difficulty.",
+        "Generate a new puzzle with a medium difficulty.",
         "Generate a new clever puzzle with a hard difficulty."
     ]
 
