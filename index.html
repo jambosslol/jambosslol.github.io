@@ -5,10 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Outlier</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js?v=1.3" type="module"></script>
+    <script src="script.js?v=1.2" type="module"></script>
     
-</head>
-<body>
+</head><body>
 
     <header id="main-header">
         <div class="header-content">
@@ -16,10 +15,34 @@
                 <strong class="title-font">Outlier</strong>
                 <span id="header-date" class="date-font"></span>
             </div>
-            <!-- MODIFIED: Container for multiple header buttons -->
+            <!-- MODIFIED: Wrapped header controls for better layout -->
             <div class="header-right">
-                <button id="create-account-header-btn" class="secondary-btn hidden">Create Account</button>
-                <button id="auth-action-btn" class="secondary-btn"></button>
+                <!-- NEW: Stats Dropdown -->
+                <div id="stats-dropdown" class="dropdown hidden">
+                    <button id="stats-btn" class="secondary-btn">Stats</button>
+                    <div id="stats-content" class="dropdown-content">
+                        <h3>Your Statistics</h3>
+                        <div class="stat-item">
+                            <span id="stats-played" class="stat-value">0</span>
+                            <span class="stat-label">Played</span>
+                        </div>
+                        <div class="stat-item">
+                            <span id="stats-wins" class="stat-value">0</span>
+                            <span class="stat-label">Wins</span>
+                        </div>
+                        <div class="stat-item">
+                            <span id="stats-current-streak" class="stat-value">0</span>
+                            <span class="stat-label">Current Streak</span>
+                        </div>
+                        <div class="stat-item">
+                            <span id="stats-max-streak" class="stat-value">0</span>
+                            <span class="stat-label">Max Streak</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Auth Buttons -->
+                <button id="create-account-header-btn" class="secondary-btn hidden"></button>
+                <button id="auth-action-btn" class="secondary-btn hidden"></button>
             </div>
         </div>
     </header>
@@ -39,11 +62,11 @@
         
         <div class="button-container">
             <button id="play-btn">Play</button>
-            <!-- MODIFIED: Links to the new, separate pages -->
-            <a href="login.html">
+            <!-- These buttons are now hidden by default via script.js -->
+            <a href="login.html" class="hidden">
                 <button id="login-btn" class="secondary-btn">Log In</button>
             </a>
-             <a href="signup.html">
+            <a href="signup.html" class="hidden">
                 <button id="create-account-btn" class="secondary-btn">Create an Account</button>
             </a>
         </div>

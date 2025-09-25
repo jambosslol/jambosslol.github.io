@@ -47,14 +47,58 @@ main { max-width: 600px; margin: 0 auto; padding: 40px 20px; text-align: center;
     gap: 20px;
 }
 
-/* NEW: Styles for the right side of the header */
+.title-font { font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 4rem; }
+.date-font { font-family: 'Courier New', Courier, monospace; font-size: 1.5rem; color: var(--secondary-color); }
+
 .header-right {
     display: flex;
+    align-items: center;
     gap: 10px;
 }
 
-.title-font { font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 4rem; }
-.date-font { font-family: 'Courier New', Courier, monospace; font-size: 1.5rem; color: var(--secondary-color); }
+/* --- Stats Dropdown Styles --- */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 220px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+}
+
+.dropdown-content h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+.dropdown-content .stat-item {
+    display: inline-block;
+    width: 45%;
+    margin-bottom: 15px;
+}
+
+.stat-value {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.stat-label {
+    font-size: 0.8rem;
+    color: var(--secondary-color);
+}
+
+.show { display: block; }
 
 /* --- Homepage & General Buttons --- */
 .logo { width: 100px; margin: 40px auto 10px auto; }
@@ -74,8 +118,7 @@ button {
     border: 1px solid var(--dark-border-color);
 }
 
-/* Make header buttons fit their content */
-.header-right .secondary-btn {
+#auth-action-btn, #create-account-header-btn, #stats-btn {
     width: auto;
     padding: 10px 25px;
     font-size: 1rem;
@@ -97,7 +140,7 @@ button {
     animation: verticalWiggle 0.8s ease-in-out;
     background-color: var(--primary-color); color: white;
 }
-.token-btn.review-correct {
+.token-btn.review-correct { /* Static highlight for review mode */
     background-color: var(--primary-color); color: white; transition: none;
 }
 @keyframes verticalWiggle {
@@ -154,12 +197,12 @@ button {
 #continue-btn { max-width: 200px; margin: 20px auto 0 auto; }
 #continue-btn.view-puzzle-btn { background-color: var(--secondary-color); }
 
-/* --- Login & Signup Page Styles --- */
+/* --- Login/Signup Page Styles --- */
 #login-page, #signup-page {
     animation: fadeIn 0.5s ease-in-out;
 }
 
-#login-form, #signup-form {
+#auth-form {
     margin-top: 40px;
     display: flex;
     flex-direction: column;
@@ -197,21 +240,15 @@ button {
     margin: 0;
 }
 
-.back-link, .form-switcher {
+.back-link {
     display: inline-block;
     margin-top: 30px;
     color: var(--secondary-color);
     text-decoration: none;
 }
 
-.back-link:hover, .form-switcher a:hover {
+.back-link:hover {
     text-decoration: underline;
-}
-
-.form-switcher a {
-    color: var(--primary-color);
-    font-weight: bold;
-    text-decoration: none;
 }
 
 .pill-button {
@@ -225,3 +262,9 @@ button {
     font-weight: bold;
     margin: 10px 0;
 }
+
+.auth-switch-link {
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
