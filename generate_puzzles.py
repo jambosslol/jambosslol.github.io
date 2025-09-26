@@ -1,7 +1,6 @@
 import os
 import json
 import google.generativeai as genai
-# MODIFICATION: Import the random library to shuffle the tokens
 import random
 
 def generate_ai_puzzles():
@@ -78,21 +77,16 @@ def generate_ai_puzzles():
             
             puzzle_data = json.loads(response.text)
             
-            # --- MODIFICATION: Shuffle the answer choices ---
             tokens = puzzle_data["tokens"]
             correct_answer_index = puzzle_data["answer_index"]
             correct_answer_value = tokens[correct_answer_index]
             
-            # Shuffle the list of tokens randomly
             random.shuffle(tokens)
             
-            # Find the new index of the correct answer
             new_correct_index = tokens.index(correct_answer_value)
             
-            # Update the puzzle data with the shuffled list and new index
             puzzle_data["tokens"] = tokens
             puzzle_data["answer_index"] = new_correct_index
-            # --- End of modification ---
 
             puzzle_data["completed"] = False
             new_puzzles.append(puzzle_data)
