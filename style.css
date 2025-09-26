@@ -27,78 +27,15 @@ main { max-width: 600px; margin: 0 auto; padding: 40px 20px; text-align: center;
 
 /* --- Header --- */
 #main-header {
-    padding: 0 20px;
+    min-height: 160px; padding: 0 20px; display: flex; align-items: center;
     border-bottom: 1px solid var(--border-color);
 }
-
-.header-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    min-height: 160px;
-}
-
 .header-left {
-    display: flex;
-    align-items: baseline;
-    gap: 20px;
+    width: 100%; max-width: 1200px; margin: 0 auto; display: flex;
+    align-items: baseline; gap: 20px;
 }
-
 .title-font { font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 4rem; }
 .date-font { font-family: 'Courier New', Courier, monospace; font-size: 1.5rem; color: var(--secondary-color); }
-
-.header-right {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-/* --- Stats Dropdown Styles --- */
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    right: 0;
-    background-color: #f9f9f9;
-    min-width: 220px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-    border-radius: 8px;
-    padding: 20px;
-    text-align: center;
-}
-
-.dropdown-content h3 {
-    margin-top: 0;
-    margin-bottom: 20px;
-    font-size: 1.2rem;
-}
-
-.dropdown-content .stat-item {
-    display: inline-block;
-    width: 45%;
-    margin-bottom: 15px;
-}
-
-.stat-value {
-    display: block;
-    font-size: 2rem;
-    font-weight: bold;
-}
-
-.stat-label {
-    font-size: 0.8rem;
-    color: var(--secondary-color);
-}
-
-.show { display: block; }
 
 /* --- Homepage & General Buttons --- */
 .logo { width: 100px; margin: 40px auto 10px auto; }
@@ -112,18 +49,10 @@ button {
 }
 #play-btn, #submit-btn, #continue-btn { background-color: var(--primary-color); color: white; border: none; width: 100%; }
 #play-btn:hover, #submit-btn:hover:not(:disabled) { filter: brightness(1.1); transform: scale(1.02); }
-
 .secondary-btn, #shuffle-btn {
     background-color: transparent; color: var(--text-color); width: 100%;
     border: 1px solid var(--dark-border-color);
 }
-
-#auth-action-btn, #create-account-header-btn, #stats-btn {
-    width: auto;
-    padding: 10px 25px;
-    font-size: 1rem;
-}
-
 .secondary-btn:hover, #shuffle-btn:hover { background-color: #f0f0f0; }
 .thin-font { font-weight: 400; }
 
@@ -197,8 +126,8 @@ button {
 #continue-btn { max-width: 200px; margin: 20px auto 0 auto; }
 #continue-btn.view-puzzle-btn { background-color: var(--secondary-color); }
 
-/* --- Login/Signup Page Styles --- */
-#login-page, #signup-page {
+/* --- Login Page Styles --- */
+#login-page {
     animation: fadeIn 0.5s ease-in-out;
 }
 
@@ -206,7 +135,11 @@ button {
     margin-top: 40px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 25px; 
+}
+
+#action-btn {
+    margin-top: 10px;
 }
 
 .input-group {
@@ -215,7 +148,7 @@ button {
 
 .input-group label {
     display: block;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
     color: var(--secondary-color);
     font-size: 0.9rem;
 }
@@ -226,7 +159,7 @@ button {
     font-size: 1rem;
     border: 1px solid var(--border-color);
     border-radius: 8px;
-    box-sizing: border-box;
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
 
 .input-group input:focus {
@@ -263,8 +196,54 @@ button {
     margin: 10px 0;
 }
 
-.auth-switch-link {
-    margin-top: 20px;
+/* --- Stats Dropdown --- */
+.header-right {
+    position: relative;
+    display: flex;
+    gap: 10px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+#stats-btn {
+    background-color: transparent;
+    color: var(--text-color);
+    border: 1px solid var(--dark-border-color);
+    padding: 10px 25px;
+    font-size: 1rem;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 220px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 8px;
+    padding: 12px 16px;
     font-size: 0.9rem;
+}
+.dropdown-content.show {
+    display: block;
+}
+.stats-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    text-align: center;
+}
+.stat-item {
+    display: flex;
+    flex-direction: column;
+}
+.stat-value {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.stat-label {
+    font-size: 0.8rem;
+    color: var(--secondary-color);
 }
 

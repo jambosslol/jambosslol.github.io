@@ -1,6 +1,8 @@
 import os
 import json
 import google.generativeai as genai
+# MODIFICATION: Import the random library to shuffle the tokens
+import random
 
 def generate_ai_puzzles():
     """
@@ -8,8 +10,6 @@ def generate_ai_puzzles():
     """
     try:
         # --- 1. API Key Configuration ---
-        # It's best practice to set your API key as an environment variable
-        # to avoid committing it directly into your code.
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
             raise ValueError("GEMINI_API_KEY environment variable not set!")
@@ -22,14 +22,11 @@ def generate_ai_puzzles():
         return
 
     # --- 2. Define the JSON Output Schema ---
-    # This schema tells the AI exactly how to structure its response.
     schema = {
         "type": "OBJECT",
         "properties": {
             "tokens": {
                 "type": "ARRAY",
-                # "minItems": 5,
-                # "maxItems": 5,
                 "items": {"type": "STRING"}
             },
             "answer_index": {
@@ -69,9 +66,9 @@ def generate_ai_puzzles():
     print("Generating 3 new puzzles...")
     new_puzzles = []
     prompts = [
-        "Generate a new puzzle with an easy difficulty.",
-        "Generate a new puzzle with a medium difficulty.",
-        "Generate a new clever puzzle with a hard difficulty."
+        "Generate a new puzzle based on a common theme or activity.",
+        "Generate a new puzzle based on historical or cultural knowledge.",
+        "Generate a new clever puzzle based on vocabulary or logical connections."
     ]
 
     for i in range(3):
@@ -79,10 +76,24 @@ def generate_ai_puzzles():
             print(f"  - Generating puzzle {i+1}...")
             response = model.generate_content(prompts[i])
             
-            # The response text will be a JSON string, so we parse it
             puzzle_data = json.loads(response.text)
             
-            # Add the 'completed' field required by the frontend
+            # --- MODIFICATION: Shuffle the answer choices ---
+            tokens = puzzle_data["tokens"]
+            correct_answer_index = puzzle_data["answer_index"]
+            correct_answer_value = tokens[correct_answer_index]
+            
+            # Shuffle the list of tokens randomly
+            random.shuffle(tokens)
+            
+            # Find the new index of the correct answer
+            new_correct_index = tokens.index(correct_answer_value)
+            
+            # Update the puzzle data with the shuffled list and new index
+            puzzle_data["tokens"] = tokens
+            puzzle_data["answer_index"] = new_correct_index
+            # --- End of modification ---
+
             puzzle_data["completed"] = False
             new_puzzles.append(puzzle_data)
 
