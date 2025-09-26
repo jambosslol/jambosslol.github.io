@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "SUMMER",
-            "LETTER",
-            "HAPPY",
-            "APPLE",
-            "OCEAN"
+            "Lantern",
+            "Candle",
+            "Flashlight",
+            "Sun",
+            "Headlamp"
         ],
-        "answer_index": 4,
-        "category": "Double Letters",
-        "explanation": "All tokens except 'OCEAN' contain at least one double letter.",
+        "answer_index": 3,
+        "category": "Sources of Illumination",
+        "explanation": "All tokens except the Sun are artificial, man-made devices designed to produce light. The Sun is a natural celestial light source.",
         "completed": false
     },
     {
         "tokens": [
-            "Inch",
-            "Foot",
-            "Yard",
-            "Mile",
-            "Liter"
+            "Anubis",
+            "Minotaur",
+            "Sphinx",
+            "Cerberus",
+            "Medusa"
         ],
-        "answer_index": 4,
-        "category": "Units of Length",
-        "explanation": "All tokens except 'Liter' are common units used to measure length or distance. 'Liter' is a unit for measuring volume.",
+        "answer_index": 0,
+        "category": "Mythological Origins",
+        "explanation": "Medusa, Minotaur, Cerberus, and Sphinx are all well-known creatures or figures from Greek mythology. Anubis is an ancient Egyptian deity associated with mummification and the afterlife.",
         "completed": false
     },
     {
         "tokens": [
-            "FLOW",
-            "STOP",
-            "STRESSED",
-            "DECAF",
-            "FLOP"
+            "Liter",
+            "Meter",
+            "Second",
+            "Gram",
+            "Volume"
         ],
         "answer_index": 4,
-        "category": "Reversible Words",
-        "explanation": "All words except 'FLOP' can be spelled backwards to form another common English word: FLOW (WOLF), STOP (POTS), STRESSED (DESSERTS), and DECAF (FACED). 'FLOP' spelled backwards ('POLF') is not a recognized word.",
+        "category": "Standard Units of Measurement",
+        "explanation": "Meter (length), Liter (volume), Gram (mass), and Second (time) are all standard units of measurement for fundamental quantities. Volume, however, is a physical quantity itself, not a unit of measurement.",
         "completed": false
     }
 ]
