@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Lantern",
-            "Candle",
-            "Flashlight",
-            "Sun",
-            "Headlamp"
+            "Baking Powder",
+            "Egg White",
+            "Salt",
+            "Yeast",
+            "Baking Soda"
+        ],
+        "answer_index": 2,
+        "category": "Baking Ingredients",
+        "explanation": "All tokens except 'Salt' are commonly used as leavening agents to make baked goods rise. 'Salt' is used for flavor.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza",
+            "Temple of Artemis at Ephesus",
+            "Parthenon",
+            "Colossus of Rhodes"
         ],
         "answer_index": 3,
-        "category": "Sources of Illumination",
-        "explanation": "All tokens except the Sun are artificial, man-made devices designed to produce light. The Sun is a natural celestial light source.",
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "Four of the tokens represent structures from the canonical list of the Original Seven Wonders of the Ancient World. The Parthenon, while an ancient Greek marvel, is not included in that specific list.",
         "completed": false
     },
     {
         "tokens": [
-            "Anubis",
-            "Minotaur",
-            "Sphinx",
-            "Cerberus",
-            "Medusa"
+            "Laugh",
+            "Jump",
+            "Swim",
+            "Eat",
+            "Run"
         ],
-        "answer_index": 0,
-        "category": "Mythological Origins",
-        "explanation": "Medusa, Minotaur, Cerberus, and Sphinx are all well-known creatures or figures from Greek mythology. Anubis is an ancient Egyptian deity associated with mummification and the afterlife.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Liter",
-            "Meter",
-            "Second",
-            "Gram",
-            "Volume"
-        ],
-        "answer_index": 4,
-        "category": "Standard Units of Measurement",
-        "explanation": "Meter (length), Liter (volume), Gram (mass), and Second (time) are all standard units of measurement for fundamental quantities. Volume, however, is a physical quantity itself, not a unit of measurement.",
+        "answer_index": 3,
+        "category": "Verbs with common noun forms directly describing the action",
+        "explanation": "Run, Jump, Swim, and Laugh can all be directly used as common nouns to refer to the act itself (e.g., 'a run', 'a jump', 'a swim', 'a laugh'). 'Eat' is primarily a verb; its noun forms (like 'a meal' or 'eating') are distinct.",
         "completed": false
     }
 ]
