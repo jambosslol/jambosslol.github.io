@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Baking Powder",
-            "Egg White",
-            "Salt",
-            "Yeast",
-            "Baking Soda"
+            "Incandescent Bulb",
+            "Torch",
+            "Candle",
+            "Oil Lamp",
+            "Kerosene Lantern"
+        ],
+        "answer_index": 0,
+        "category": "Lighting Devices Using a Wick",
+        "explanation": "Candle, Oil Lamp, Kerosene Lantern, and Torch (which historically often involved a wick-like material soaked in fuel) all rely on a wick to draw fuel to a flame for illumination. An Incandescent Bulb produces light from an electrically heated filament, with no wick involved.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Printing",
+            "Gunpowder",
+            "Aqueduct",
+            "Papermaking",
+            "Compass"
         ],
         "answer_index": 2,
-        "category": "Baking Ingredients",
-        "explanation": "All tokens except 'Salt' are commonly used as leavening agents to make baked goods rise. 'Salt' is used for flavor.",
+        "category": "Ancient Chinese Innovations",
+        "explanation": "Gunpowder, Papermaking, Compass, and Printing are widely recognized as the 'Four Great Inventions of Ancient China.' The aqueduct is a major engineering achievement of the Roman Empire.",
         "completed": false
     },
     {
         "tokens": [
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Temple of Artemis at Ephesus",
-            "Parthenon",
-            "Colossus of Rhodes"
+            "Top",
+            "Wheel",
+            "Whirlwind",
+            "Pendulum",
+            "Gyroscope"
         ],
         "answer_index": 3,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "Four of the tokens represent structures from the canonical list of the Original Seven Wonders of the Ancient World. The Parthenon, while an ancient Greek marvel, is not included in that specific list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Laugh",
-            "Jump",
-            "Swim",
-            "Eat",
-            "Run"
-        ],
-        "answer_index": 3,
-        "category": "Verbs with common noun forms directly describing the action",
-        "explanation": "Run, Jump, Swim, and Laugh can all be directly used as common nouns to refer to the act itself (e.g., 'a run', 'a jump', 'a swim', 'a laugh'). 'Eat' is primarily a verb; its noun forms (like 'a meal' or 'eating') are distinct.",
+        "category": "Objects/Phenomena Characterized by Rotational Motion",
+        "explanation": "Top, Wheel, Whirlwind, and Gyroscope are all primarily defined by or involve a significant degree of rotational or spinning motion. A Pendulum, however, is characterized by oscillatory (swinging) motion, not rotation.",
         "completed": false
     }
 ]
