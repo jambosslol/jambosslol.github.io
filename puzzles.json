@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Incandescent Bulb",
-            "Torch",
-            "Candle",
-            "Oil Lamp",
-            "Kerosene Lantern"
+            "Illuminated Manuscript",
+            "Codex",
+            "Scroll",
+            "Cuneiform Tablet",
+            "Printing Press"
         ],
-        "answer_index": 0,
-        "category": "Lighting Devices Using a Wick",
-        "explanation": "Candle, Oil Lamp, Kerosene Lantern, and Torch (which historically often involved a wick-like material soaked in fuel) all rely on a wick to draw fuel to a flame for illumination. An Incandescent Bulb produces light from an electrically heated filament, with no wick involved.",
+        "answer_index": 4,
+        "category": "Forms of Pre-Industrial Textual Preservation",
+        "explanation": "The first four items represent distinct physical forms or types of documents used for textual preservation and dissemination prior to the invention of mechanical printing, all of which were hand-produced. The 'Printing Press' is a machine for the mass production of texts, not a form of the text itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing",
-            "Gunpowder",
-            "Aqueduct",
-            "Papermaking",
-            "Compass"
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon",
+            "Eiffel Tower",
+            "Great Pyramid of Giza",
+            "Colossus of Rhodes"
         ],
         "answer_index": 2,
-        "category": "Ancient Chinese Innovations",
-        "explanation": "Gunpowder, Papermaking, Compass, and Printing are widely recognized as the 'Four Great Inventions of Ancient China.' The aqueduct is a major engineering achievement of the Roman Empire.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens represent four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and is not on that historical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Top",
-            "Wheel",
-            "Whirlwind",
-            "Pendulum",
-            "Gyroscope"
+            "For",
+            "Eight",
+            "To",
+            "Won",
+            "Blew"
         ],
-        "answer_index": 3,
-        "category": "Objects/Phenomena Characterized by Rotational Motion",
-        "explanation": "Top, Wheel, Whirlwind, and Gyroscope are all primarily defined by or involve a significant degree of rotational or spinning motion. A Pendulum, however, is characterized by oscillatory (swinging) motion, not rotation.",
+        "answer_index": 4,
+        "category": "Homophones of Numbers",
+        "explanation": "Eight, For, To, and Won are all homophones for numbers (8, 4, 2, 1 respectively). Blew is a homophone for 'blue' (a color) or a verb, but not a number.",
         "completed": false
     }
 ]
