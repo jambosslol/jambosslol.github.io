@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
+            "Mechanical Watch",
+            "Accordion",
+            "Music Box",
+            "Wind-up Toy",
+            "Jack-in-the-Box"
+        ],
+        "answer_index": 1,
+        "category": "Spring-Driven Mechanisms",
+        "explanation": "All tokens except the Accordion are devices that are typically powered or activated by a winding mechanism which stores energy in a spring to operate.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Scribe",
             "Illuminated Manuscript",
             "Codex",
-            "Scroll",
-            "Cuneiform Tablet",
-            "Printing Press"
+            "Newspaper",
+            "Scroll"
         ],
-        "answer_index": 4,
-        "category": "Forms of Pre-Industrial Textual Preservation",
-        "explanation": "The first four items represent distinct physical forms or types of documents used for textual preservation and dissemination prior to the invention of mechanical printing, all of which were hand-produced. The 'Printing Press' is a machine for the mass production of texts, not a form of the text itself.",
+        "answer_index": 3,
+        "category": "Pre-Industrialized Information Dissemination",
+        "explanation": "Scribe, Scroll, Codex, and Illuminated Manuscript all represent methods, roles, or formats for creating and preserving written information predominantly by hand, predating the era of mechanical mass printing. The Newspaper is a product of mass printing technology, enabling widespread, rapid dissemination.",
         "completed": false
     },
     {
         "tokens": [
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Eiffel Tower",
-            "Great Pyramid of Giza",
-            "Colossus of Rhodes"
-        ],
-        "answer_index": 2,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four tokens represent four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and is not on that historical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "For",
-            "Eight",
-            "To",
+            "Ate",
+            "Too",
             "Won",
-            "Blew"
+            "Here",
+            "For"
         ],
-        "answer_index": 4,
+        "answer_index": 3,
         "category": "Homophones of Numbers",
-        "explanation": "Eight, For, To, and Won are all homophones for numbers (8, 4, 2, 1 respectively). Blew is a homophone for 'blue' (a color) or a verb, but not a number.",
+        "explanation": "Ate, For, Won, and Too are all homophones of numerical values (eight, four, one, two respectively). Here is a homophone of hear, neither of which represents a number.",
         "completed": false
     }
 ]
