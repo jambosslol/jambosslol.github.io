@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Mechanical Watch",
-            "Accordion",
-            "Music Box",
-            "Wind-up Toy",
-            "Jack-in-the-Box"
+            "Script",
+            "Audience",
+            "Actor",
+            "Director",
+            "Stage"
         ],
         "answer_index": 1,
-        "category": "Spring-Driven Mechanisms",
-        "explanation": "All tokens except the Accordion are devices that are typically powered or activated by a winding mechanism which stores energy in a spring to operate.",
+        "category": "Essential Elements of Theatrical Production",
+        "explanation": "Script, Director, Actor, and Stage are all fundamental components directly involved in the creation and performance of a theatrical play. The Audience experiences the play but is not a component of its production.",
         "completed": false
     },
     {
         "tokens": [
-            "Scribe",
-            "Illuminated Manuscript",
-            "Codex",
-            "Newspaper",
-            "Scroll"
+            "Watt",
+            "Ohm",
+            "Ampere",
+            "Volt",
+            "Hertz"
         ],
-        "answer_index": 3,
-        "category": "Pre-Industrialized Information Dissemination",
-        "explanation": "Scribe, Scroll, Codex, and Illuminated Manuscript all represent methods, roles, or formats for creating and preserving written information predominantly by hand, predating the era of mechanical mass printing. The Newspaper is a product of mass printing technology, enabling widespread, rapid dissemination.",
+        "answer_index": 4,
+        "category": "Fundamental Electrical Circuit Properties",
+        "explanation": "Volt, Ampere, Ohm, and Watt are fundamental SI units used to quantify core properties (electric potential, current, resistance, and power, respectively) directly within an electrical circuit. These units are intricately linked by principles like Ohm's Law and the electrical power formula. Hertz, while an SI unit named after a scientist, measures frequency, which describes the rate of a periodic phenomenon or signal, rather than an intrinsic property or interaction within the circuit itself like the others.",
         "completed": false
     },
     {
         "tokens": [
-            "Ate",
-            "Too",
-            "Won",
-            "Here",
-            "For"
+            "Ray",
+            "Gleam",
+            "Sparkle",
+            "Echo",
+            "Glimmer"
         ],
         "answer_index": 3,
-        "category": "Homophones of Numbers",
-        "explanation": "Ate, For, Won, and Too are all homophones of numerical values (eight, four, one, two respectively). Here is a homophone of hear, neither of which represents a number.",
+        "category": "Manifestations of Light",
+        "explanation": "Gleam, Glimmer, Sparkle, and Ray all describe different forms or qualities of light. Echo, in contrast, refers to a reflection of sound.",
         "completed": false
     }
 ]
