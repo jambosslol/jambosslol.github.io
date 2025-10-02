@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Script",
-            "Audience",
-            "Actor",
-            "Director",
-            "Stage"
+            "Electricity",
+            "Heat",
+            "Thought",
+            "Light",
+            "Sound"
+        ],
+        "answer_index": 2,
+        "category": "Phenomena transmitted through a physical medium",
+        "explanation": "Sound, Light, Electricity, and Heat are all physical phenomena or forms of energy that are transmitted or propagate through a physical medium (or a vacuum for light). 'Thought' is a mental process that does not transmit through a physical medium in the same way.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lord Byron",
+            "Jane Austen",
+            "Mary Shelley",
+            "John Keats",
+            "Percy Bysshe Shelley"
         ],
         "answer_index": 1,
-        "category": "Essential Elements of Theatrical Production",
-        "explanation": "Script, Director, Actor, and Stage are all fundamental components directly involved in the creation and performance of a theatrical play. The Audience experiences the play but is not a component of its production.",
+        "category": "British Romantic Literary Figures",
+        "explanation": "Mary Shelley, Lord Byron, John Keats, and Percy Bysshe Shelley were all prominent figures in the British Romantic movement of the early 19th century, known for their emphasis on emotion, individualism, and the glorification of nature. Jane Austen, while a contemporary, is associated with the novel of manners and realism, a distinct literary style from Romanticism.",
         "completed": false
     },
     {
         "tokens": [
-            "Watt",
-            "Ohm",
-            "Ampere",
-            "Volt",
-            "Hertz"
+            "Pair",
+            "Bunch",
+            "Dozen",
+            "Gross",
+            "Score"
         ],
-        "answer_index": 4,
-        "category": "Fundamental Electrical Circuit Properties",
-        "explanation": "Volt, Ampere, Ohm, and Watt are fundamental SI units used to quantify core properties (electric potential, current, resistance, and power, respectively) directly within an electrical circuit. These units are intricately linked by principles like Ohm's Law and the electrical power formula. Hertz, while an SI unit named after a scientist, measures frequency, which describes the rate of a periodic phenomenon or signal, rather than an intrinsic property or interaction within the circuit itself like the others.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Ray",
-            "Gleam",
-            "Sparkle",
-            "Echo",
-            "Glimmer"
-        ],
-        "answer_index": 3,
-        "category": "Manifestations of Light",
-        "explanation": "Gleam, Glimmer, Sparkle, and Ray all describe different forms or qualities of light. Echo, in contrast, refers to a reflection of sound.",
+        "answer_index": 1,
+        "category": "Units of Quantity",
+        "explanation": "Dozen (12), Pair (2), Gross (144), and Score (20) all represent specific, fixed numerical quantities. 'Bunch' refers to an imprecise, variable quantity.",
         "completed": false
     }
 ]
