@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Electricity",
-            "Heat",
-            "Thought",
-            "Light",
-            "Sound"
+            "Thermometer",
+            "Barometer",
+            "Speedometer",
+            "Odometer",
+            "Periscope"
         ],
-        "answer_index": 2,
-        "category": "Phenomena transmitted through a physical medium",
-        "explanation": "Sound, Light, Electricity, and Heat are all physical phenomena or forms of energy that are transmitted or propagate through a physical medium (or a vacuum for light). 'Thought' is a mental process that does not transmit through a physical medium in the same way.",
+        "answer_index": 4,
+        "category": "Instruments for Physical Measurement",
+        "explanation": "Odometer, Thermometer, Barometer, and Speedometer are all instruments designed to measure a specific physical property (distance, temperature, atmospheric pressure, and speed, respectively). A Periscope is an optical instrument used for observation, not measurement.",
         "completed": false
     },
     {
         "tokens": [
-            "Lord Byron",
-            "Jane Austen",
-            "Mary Shelley",
-            "John Keats",
-            "Percy Bysshe Shelley"
+            "Gunpowder",
+            "Steam Engine",
+            "Paper",
+            "Printing",
+            "Compass"
         ],
         "answer_index": 1,
-        "category": "British Romantic Literary Figures",
-        "explanation": "Mary Shelley, Lord Byron, John Keats, and Percy Bysshe Shelley were all prominent figures in the British Romantic movement of the early 19th century, known for their emphasis on emotion, individualism, and the glorification of nature. Jane Austen, while a contemporary, is associated with the novel of manners and realism, a distinct literary style from Romanticism.",
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Printing (woodblock), Compass, and Paper (papermaking) are traditionally recognized as the 'Four Great Inventions of Ancient China'. The Steam Engine was developed in Europe during the Industrial Revolution.",
         "completed": false
     },
     {
         "tokens": [
-            "Pair",
-            "Bunch",
-            "Dozen",
-            "Gross",
-            "Score"
+            "Void",
+            "Darkness",
+            "Stillness",
+            "Melody",
+            "Silence"
         ],
-        "answer_index": 1,
-        "category": "Units of Quantity",
-        "explanation": "Dozen (12), Pair (2), Gross (144), and Score (20) all represent specific, fixed numerical quantities. 'Bunch' refers to an imprecise, variable quantity.",
+        "answer_index": 3,
+        "category": "Conditions Defined by Absence",
+        "explanation": "Silence (absence of sound), Darkness (absence of light), Stillness (absence of movement), and Void (absence of matter or content) all describe states characterized by a lack or absence of something. Melody, however, describes the presence and arrangement of musical sound.",
         "completed": false
     }
 ]
