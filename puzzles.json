@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Thermometer",
-            "Barometer",
-            "Speedometer",
-            "Odometer",
-            "Periscope"
+            "Code",
+            "Law",
+            "Bone",
+            "Silence",
+            "Heart"
+        ],
+        "answer_index": 2,
+        "category": "Things that can be 'broken' metaphorically or conceptually",
+        "explanation": "Heart, law, silence, and code can all be 'broken' in a non-physical, conceptual, or metaphorical sense. A bone is typically only 'broken' in a literal, physical sense.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Temple of Artemis at Ephesus",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza"
         ],
         "answer_index": 4,
-        "category": "Instruments for Physical Measurement",
-        "explanation": "Odometer, Thermometer, Barometer, and Speedometer are all instruments designed to measure a specific physical property (distance, temperature, atmospheric pressure, and speed, respectively). A Periscope is an optical instrument used for observation, not measurement.",
+        "category": "Fates of the Seven Wonders of the Ancient World",
+        "explanation": "Four of the tokens (Hanging Gardens of Babylon, Colossus of Rhodes, Lighthouse of Alexandria, Temple of Artemis at Ephesus) represent wonders of the ancient world that are no longer standing. The Great Pyramid of Giza is the only one of the original Seven Wonders that is still largely intact today.",
         "completed": false
     },
     {
         "tokens": [
-            "Gunpowder",
-            "Steam Engine",
-            "Paper",
-            "Printing",
-            "Compass"
+            "Elevator",
+            "Ladder",
+            "Rocket",
+            "Balloon",
+            "Kite"
         ],
         "answer_index": 1,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Printing (woodblock), Compass, and Paper (papermaking) are traditionally recognized as the 'Four Great Inventions of Ancient China'. The Steam Engine was developed in Europe during the Industrial Revolution.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Void",
-            "Darkness",
-            "Stillness",
-            "Melody",
-            "Silence"
-        ],
-        "answer_index": 3,
-        "category": "Conditions Defined by Absence",
-        "explanation": "Silence (absence of sound), Darkness (absence of light), Stillness (absence of movement), and Void (absence of matter or content) all describe states characterized by a lack or absence of something. Melody, however, describes the presence and arrangement of musical sound.",
+        "category": "Objects of Ascent",
+        "explanation": "Balloon, Rocket, Kite, and Elevator are all objects that are designed to or capable of moving upwards on their own. A Ladder is a stationary structure that a person climbs upwards, rather than moving upwards itself.",
         "completed": false
     }
 ]
