@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Code",
-            "Law",
-            "Bone",
-            "Silence",
-            "Heart"
-        ],
-        "answer_index": 2,
-        "category": "Things that can be 'broken' metaphorically or conceptually",
-        "explanation": "Heart, law, silence, and code can all be 'broken' in a non-physical, conceptual, or metaphorical sense. A bone is typically only 'broken' in a literal, physical sense.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Temple of Artemis at Ephesus",
-            "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza"
-        ],
-        "answer_index": 4,
-        "category": "Fates of the Seven Wonders of the Ancient World",
-        "explanation": "Four of the tokens (Hanging Gardens of Babylon, Colossus of Rhodes, Lighthouse of Alexandria, Temple of Artemis at Ephesus) represent wonders of the ancient world that are no longer standing. The Great Pyramid of Giza is the only one of the original Seven Wonders that is still largely intact today.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Elevator",
-            "Ladder",
-            "Rocket",
-            "Balloon",
-            "Kite"
+            "Piano",
+            "Conductor's Baton",
+            "Guitar",
+            "Drums",
+            "Violin"
         ],
         "answer_index": 1,
-        "category": "Objects of Ascent",
-        "explanation": "Balloon, Rocket, Kite, and Elevator are all objects that are designed to or capable of moving upwards on their own. A Ladder is a stationary structure that a person climbs upwards, rather than moving upwards itself.",
+        "category": "Musical Instruments",
+        "explanation": "Guitar, Piano, Drums, and Violin are all instruments designed to produce musical sounds. A Conductor's Baton is a tool used for directing an orchestra or choir, but does not produce sound itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Eiffel Tower",
+            "Great Pyramid of Giza"
+        ],
+        "answer_index": 3,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all traditional Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not part of this ancient list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "SIGH",
+            "SHOUT",
+            "GLIMMER",
+            "RUMBLE",
+            "WHISPER"
+        ],
+        "answer_index": 2,
+        "category": "Sensory Descriptors",
+        "explanation": "WHISPER, SHOUT, RUMBLE, and SIGH are all words that describe types of sounds or auditory experiences. GLIMMER describes a visual phenomenon, specifically a faint, wavering light.",
         "completed": false
     }
 ]
