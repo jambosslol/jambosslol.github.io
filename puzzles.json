@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Piano",
-            "Conductor's Baton",
-            "Guitar",
-            "Drums",
-            "Violin"
+            "Tinder",
+            "Kindling",
+            "Flint",
+            "Fuelwood",
+            "Marshmallow"
+        ],
+        "answer_index": 4,
+        "category": "Elements of Fire Building",
+        "explanation": "Flint, Tinder, Kindling, and Fuelwood are all essential components or stages in the process of starting and sustaining a fire. A Marshmallow is an item typically cooked over a fire, not used to create or build it.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Hieroglyphs",
+            "Cuneiform",
+            "Phoenician Alphabet",
+            "Quipu",
+            "Rosetta Stone"
+        ],
+        "answer_index": 4,
+        "category": "Ancient Information Recording Methods",
+        "explanation": "Cuneiform, Hieroglyphs, Quipu, and the Phoenician Alphabet are all distinct systems or methods used by ancient civilizations to record information or communicate. The Rosetta Stone, however, is a specific artifact that contained text in multiple scripts, crucial for deciphering Egyptian Hieroglyphs, but it is not an information recording system itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Fracture",
+            "Melt",
+            "Splinter",
+            "Shatter",
+            "Crumble"
         ],
         "answer_index": 1,
-        "category": "Musical Instruments",
-        "explanation": "Guitar, Piano, Drums, and Violin are all instruments designed to produce musical sounds. A Conductor's Baton is a tool used for directing an orchestra or choir, but does not produce sound itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Eiffel Tower",
-            "Great Pyramid of Giza"
-        ],
-        "answer_index": 3,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all traditional Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not part of this ancient list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "SIGH",
-            "SHOUT",
-            "GLIMMER",
-            "RUMBLE",
-            "WHISPER"
-        ],
-        "answer_index": 2,
-        "category": "Sensory Descriptors",
-        "explanation": "WHISPER, SHOUT, RUMBLE, and SIGH are all words that describe types of sounds or auditory experiences. GLIMMER describes a visual phenomenon, specifically a faint, wavering light.",
+        "category": "Forms of Physical Disintegration or Damage",
+        "explanation": "Shatter, Splinter, Crumble, and Fracture all describe a form of breaking apart or structural damage to a solid object. Melt describes a change of state from solid to liquid, rather than a breaking apart.",
         "completed": false
     }
 ]
