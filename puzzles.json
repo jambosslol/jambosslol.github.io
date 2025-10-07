@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Tinder",
-            "Kindling",
-            "Flint",
-            "Fuelwood",
-            "Marshmallow"
+            "Meter per second",
+            "Mach",
+            "Knot",
+            "Miles per hour",
+            "Kilogram"
         ],
         "answer_index": 4,
-        "category": "Elements of Fire Building",
-        "explanation": "Flint, Tinder, Kindling, and Fuelwood are all essential components or stages in the process of starting and sustaining a fire. A Marshmallow is an item typically cooked over a fire, not used to create or build it.",
+        "category": "Units of Speed Measurement",
+        "explanation": "Knot, Mach, Meter per second, and Miles per hour are all standard units used to measure speed or velocity. Kilogram is a unit of mass.",
         "completed": false
     },
     {
         "tokens": [
-            "Hieroglyphs",
-            "Cuneiform",
-            "Phoenician Alphabet",
-            "Quipu",
-            "Rosetta Stone"
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Acropolis of Athens"
         ],
         "answer_index": 4,
-        "category": "Ancient Information Recording Methods",
-        "explanation": "Cuneiform, Hieroglyphs, Quipu, and the Phoenician Alphabet are all distinct systems or methods used by ancient civilizations to record information or communicate. The Rosetta Stone, however, is a specific artifact that contained text in multiple scripts, crucial for deciphering Egyptian Hieroglyphs, but it is not an information recording system itself.",
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditional entries on the list of the Seven Wonders of the Ancient World. The Acropolis of Athens, while a significant ancient historical site, is not on that specific list.",
         "completed": false
     },
     {
         "tokens": [
-            "Fracture",
-            "Melt",
-            "Splinter",
-            "Shatter",
-            "Crumble"
+            "Law",
+            "Silence",
+            "Bone",
+            "Habit",
+            "Record"
         ],
-        "answer_index": 1,
-        "category": "Forms of Physical Disintegration or Damage",
-        "explanation": "Shatter, Splinter, Crumble, and Fracture all describe a form of breaking apart or structural damage to a solid object. Melt describes a change of state from solid to liquid, rather than a breaking apart.",
+        "answer_index": 2,
+        "category": "Figurative uses of 'Break'",
+        "explanation": "Law, Silence, Record, and Habit are all abstract concepts or states that can be 'broken' idiomatically or metaphorically (e.g., breaking a law, breaking the silence, breaking a record, breaking a habit). A Bone, however, is a physical object that undergoes a literal physical fracture when 'broken'.",
         "completed": false
     }
 ]
