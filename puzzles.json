@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Meter per second",
-            "Mach",
-            "Knot",
-            "Miles per hour",
-            "Kilogram"
+            "Fertilizer",
+            "Manure",
+            "Peat Moss",
+            "Compost",
+            "Weed Killer"
         ],
         "answer_index": 4,
-        "category": "Units of Speed Measurement",
-        "explanation": "Knot, Mach, Meter per second, and Miles per hour are all standard units used to measure speed or velocity. Kilogram is a unit of mass.",
+        "category": "Garden Soil Amendments",
+        "explanation": "Fertilizer, Compost, Manure, and Peat Moss are all substances commonly added to soil to improve its quality, fertility, or structure for desired plant growth. Weed Killer, however, is used to eliminate unwanted plants and does not enhance the soil or intended plant health.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Acropolis of Athens"
+            "Papermaking",
+            "Printing Press",
+            "Gunpowder",
+            "Astrolabe",
+            "Compass"
         ],
-        "answer_index": 4,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditional entries on the list of the Seven Wonders of the Ancient World. The Acropolis of Athens, while a significant ancient historical site, is not on that specific list.",
+        "answer_index": 3,
+        "category": "Ancient Chinese Innovations",
+        "explanation": "Gunpowder, the compass, papermaking, and the printing press are collectively known as the 'Four Great Inventions of Ancient China'. The astrolabe, while a significant historical instrument, originated primarily in the Hellenistic world and was not one of these specific Chinese innovations.",
         "completed": false
     },
     {
         "tokens": [
-            "Law",
-            "Silence",
-            "Bone",
-            "Habit",
-            "Record"
+            "EYE",
+            "FOR",
+            "TO",
+            "WON",
+            "ATE"
         ],
-        "answer_index": 2,
-        "category": "Figurative uses of 'Break'",
-        "explanation": "Law, Silence, Record, and Habit are all abstract concepts or states that can be 'broken' idiomatically or metaphorically (e.g., breaking a law, breaking the silence, breaking a record, breaking a habit). A Bone, however, is a physical object that undergoes a literal physical fracture when 'broken'.",
+        "answer_index": 0,
+        "category": "Homophones of Numbers",
+        "explanation": "FOR, TO, ATE, and WON are all homophones of a number (four, two, eight, one, respectively). EYE is a homophone of 'I', which is a pronoun, not a number.",
         "completed": false
     }
 ]
