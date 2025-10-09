@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Fertilizer",
-            "Manure",
-            "Peat Moss",
-            "Compost",
-            "Weed Killer"
-        ],
-        "answer_index": 4,
-        "category": "Garden Soil Amendments",
-        "explanation": "Fertilizer, Compost, Manure, and Peat Moss are all substances commonly added to soil to improve its quality, fertility, or structure for desired plant growth. Weed Killer, however, is used to eliminate unwanted plants and does not enhance the soil or intended plant health.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Papermaking",
-            "Printing Press",
-            "Gunpowder",
-            "Astrolabe",
-            "Compass"
-        ],
-        "answer_index": 3,
-        "category": "Ancient Chinese Innovations",
-        "explanation": "Gunpowder, the compass, papermaking, and the printing press are collectively known as the 'Four Great Inventions of Ancient China'. The astrolabe, while a significant historical instrument, originated primarily in the Hellenistic world and was not one of these specific Chinese innovations.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "EYE",
-            "FOR",
-            "TO",
-            "WON",
-            "ATE"
+            "Mirror",
+            "Candle",
+            "Lamp",
+            "Sun",
+            "Firefly"
         ],
         "answer_index": 0,
-        "category": "Homophones of Numbers",
-        "explanation": "FOR, TO, ATE, and WON are all homophones of a number (four, two, eight, one, respectively). EYE is a homophone of 'I', which is a pronoun, not a number.",
+        "category": "Sources of Light",
+        "explanation": "Sun, Lamp, Candle, and Firefly are all natural or artificial objects that produce their own light. A Mirror, however, reflects light but does not generate it.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Holy Grail",
+            "Camelot",
+            "Round Table",
+            "Mjolnir",
+            "Excalibur"
+        ],
+        "answer_index": 3,
+        "category": "Elements of Arthurian Legend",
+        "explanation": "Excalibur, Camelot, the Round Table, and the Holy Grail are all iconic components of the King Arthur legends. Mjolnir is the hammer of the Norse god Thor.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Recede",
+            "Subside",
+            "Ebb",
+            "Wane",
+            "Flourish"
+        ],
+        "answer_index": 4,
+        "category": "Verbs of Diminishing State or Movement",
+        "explanation": "Wane, Recede, Ebb, and Subside all describe a gradual process of decreasing, lessening, or moving away. Flourish, in contrast, means to grow or develop vigorously.",
         "completed": false
     }
 ]
