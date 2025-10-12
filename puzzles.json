@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Bluff",
-            "Stalemate",
-            "En Passant",
-            "Castling",
-            "Checkmate"
+            "Sundial",
+            "Compass",
+            "Chronometer",
+            "Pendulum",
+            "Hourglass"
         ],
-        "answer_index": 0,
-        "category": "Specific Chess Terminology",
-        "explanation": "Checkmate, Stalemate, Castling, and En Passant are all specific terms or moves unique to the game of Chess. 'Bluff' is a term associated with card games like Poker, referring to a deceptive play, not a Chess mechanic.",
+        "answer_index": 1,
+        "category": "Instruments or Components for Time Measurement",
+        "explanation": "Sundial, Hourglass, Pendulum (a key component in mechanical clocks), and Chronometer are all directly associated with measuring or indicating time. A Compass is used for navigation and indicating direction.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Temple of Artemis",
-            "Great Wall of China",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza"
+            "Domitian",
+            "Caligula",
+            "Augustus",
+            "Commodus",
+            "Nero"
         ],
         "answer_index": 2,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Colossus of Rhodes, Hanging Gardens of Babylon, and Temple of Artemis are all traditionally listed among the original Seven Wonders of the Ancient World. The Great Wall of China, while an iconic ancient structure, is not part of that specific list.",
+        "category": "Infamous Roman Emperors",
+        "explanation": "Nero, Caligula, Commodus, and Domitian are all Roman Emperors widely known for their tyrannical, cruel, or erratic rule. Augustus, in contrast, was the first Roman Emperor and is largely remembered for bringing stability, prosperity, and the Pax Romana.",
         "completed": false
     },
     {
         "tokens": [
-            "Glimmer",
-            "Radiance",
-            "Shine",
-            "Sparkle",
-            "Obscure"
+            "Lunar",
+            "Mercurial",
+            "Saturnine",
+            "Martial",
+            "Jovial"
         ],
-        "answer_index": 4,
-        "category": "Concepts of Illumination",
-        "explanation": "Glimmer, Sparkle, Radiance, and Shine all describe forms or acts of emitting or reflecting light. Obscure means to make something unclear or to hide it, which is the opposite.",
+        "answer_index": 0,
+        "category": "Adjectives Derived from Celestial Bodies",
+        "explanation": "Saturnine (Saturn), Martial (Mars), Jovial (Jupiter), and Mercurial (Mercury) are all adjectives derived from the names of planets. Lunar is derived from the Moon, which is a natural satellite, not a planet.",
         "completed": false
     }
 ]
