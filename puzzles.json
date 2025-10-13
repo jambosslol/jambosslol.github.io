@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Sundial",
-            "Compass",
-            "Chronometer",
-            "Pendulum",
-            "Hourglass"
+            "Dam",
+            "Tunnel",
+            "Embankment",
+            "Levee",
+            "Weir"
         ],
         "answer_index": 1,
-        "category": "Instruments or Components for Time Measurement",
-        "explanation": "Sundial, Hourglass, Pendulum (a key component in mechanical clocks), and Chronometer are all directly associated with measuring or indicating time. A Compass is used for navigation and indicating direction.",
+        "category": "Structures for Impeding or Containing Water Flow",
+        "explanation": "Dam, Levee, Weir, and Embankment are all types of civil engineering structures designed to hold back, contain, or divert water. A Tunnel, however, is a subterranean passage *through* a barrier, not one that impedes flow.",
         "completed": false
     },
     {
         "tokens": [
-            "Domitian",
-            "Caligula",
-            "Augustus",
-            "Commodus",
-            "Nero"
+            "Hanging Gardens of Babylon",
+            "Great Wall of China",
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes"
         ],
-        "answer_index": 2,
-        "category": "Infamous Roman Emperors",
-        "explanation": "Nero, Caligula, Commodus, and Domitian are all Roman Emperors widely known for their tyrannical, cruel, or erratic rule. Augustus, in contrast, was the first Roman Emperor and is largely remembered for bringing stability, prosperity, and the Pax Romana.",
+        "answer_index": 1,
+        "category": "The Seven Ancient Wonders of the World",
+        "explanation": "Four of the tokens are among the traditionally listed Seven Ancient Wonders of the World. The Great Wall of China, while a monumental ancient marvel, is not included in that specific classical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Lunar",
-            "Mercurial",
-            "Saturnine",
-            "Martial",
-            "Jovial"
+            "Aye",
+            "Won",
+            "Ate",
+            "For",
+            "Too"
         ],
         "answer_index": 0,
-        "category": "Adjectives Derived from Celestial Bodies",
-        "explanation": "Saturnine (Saturn), Martial (Mars), Jovial (Jupiter), and Mercurial (Mercury) are all adjectives derived from the names of planets. Lunar is derived from the Moon, which is a natural satellite, not a planet.",
+        "category": "Homophones for Numerical Values",
+        "explanation": "The words 'Won', 'Too', 'For', and 'Ate' are homophones for the numbers one, two, four, and eight, respectively. 'Aye' is a homophone for the letter 'I', not a numerical value.",
         "completed": false
     }
 ]
