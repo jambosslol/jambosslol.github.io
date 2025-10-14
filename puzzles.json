@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Dam",
-            "Tunnel",
-            "Embankment",
-            "Levee",
-            "Weir"
+            "Sundial",
+            "Calendar",
+            "Hourglass",
+            "Clock",
+            "Watch"
         ],
         "answer_index": 1,
-        "category": "Structures for Impeding or Containing Water Flow",
-        "explanation": "Dam, Levee, Weir, and Embankment are all types of civil engineering structures designed to hold back, contain, or divert water. A Tunnel, however, is a subterranean passage *through* a barrier, not one that impedes flow.",
+        "category": "Instruments for Measuring Present Time",
+        "explanation": "Clock, Watch, Sundial, and Hourglass are all instruments designed to measure and display the current, ongoing passage of time. A Calendar is used to organize and schedule time over longer periods, but does not actively measure the progression of the present moment.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Great Wall of China",
-            "Great Pyramid of Giza",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes"
-        ],
-        "answer_index": 1,
-        "category": "The Seven Ancient Wonders of the World",
-        "explanation": "Four of the tokens are among the traditionally listed Seven Ancient Wonders of the World. The Great Wall of China, while a monumental ancient marvel, is not included in that specific classical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Aye",
-            "Won",
-            "Ate",
-            "For",
-            "Too"
+            "Colosseum",
+            "Statue of Zeus at Olympia",
+            "Pyramids of Giza",
+            "Temple of Artemis at Ephesus",
+            "Hanging Gardens of Babylon"
         ],
         "answer_index": 0,
-        "category": "Homophones for Numerical Values",
-        "explanation": "The words 'Won', 'Too', 'For', and 'Ate' are homophones for the numbers one, two, four, and eight, respectively. 'Aye' is a homophone for the letter 'I', not a numerical value.",
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Temple of Artemis, and Statue of Zeus are all traditionally listed as part of the original Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient structure, is not included in that historical list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Cleave",
+            "Incise",
+            "Dissect",
+            "Rupture",
+            "Sever"
+        ],
+        "answer_index": 3,
+        "category": "Verbs of Deliberate Division",
+        "explanation": "Sever, Cleave, Dissect, and Incise all describe a deliberate action of cutting or splitting, often with a tool or intent for careful separation. Rupture, however, refers to a sudden breaking or bursting, which is often accidental and does not necessarily involve a clean cut or the use of an implement.",
         "completed": false
     }
 ]
