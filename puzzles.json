@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Sundial",
-            "Calendar",
-            "Hourglass",
-            "Clock",
-            "Watch"
+            "Curtain",
+            "Spotlight",
+            "Podium",
+            "Script",
+            "Stage"
         ],
-        "answer_index": 1,
-        "category": "Instruments for Measuring Present Time",
-        "explanation": "Clock, Watch, Sundial, and Hourglass are all instruments designed to measure and display the current, ongoing passage of time. A Calendar is used to organize and schedule time over longer periods, but does not actively measure the progression of the present moment.",
+        "answer_index": 2,
+        "category": "Essential Elements of Theatrical Performance",
+        "explanation": "Curtain, Script, Stage, and Spotlight are all integral components or aspects of a live theatrical play. A podium is typically used for speeches, lectures, or debates, not a theatrical performance.",
         "completed": false
     },
     {
         "tokens": [
-            "Colosseum",
-            "Statue of Zeus at Olympia",
-            "Pyramids of Giza",
-            "Temple of Artemis at Ephesus",
-            "Hanging Gardens of Babylon"
-        ],
-        "answer_index": 0,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Temple of Artemis, and Statue of Zeus are all traditionally listed as part of the original Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient structure, is not included in that historical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Cleave",
-            "Incise",
-            "Dissect",
-            "Rupture",
-            "Sever"
+            "Cyclops",
+            "Medusa",
+            "The Graeae",
+            "Narcissus",
+            "Argus Panoptes"
         ],
         "answer_index": 3,
-        "category": "Verbs of Deliberate Division",
-        "explanation": "Sever, Cleave, Dissect, and Incise all describe a deliberate action of cutting or splitting, often with a tool or intent for careful separation. Rupture, however, refers to a sudden breaking or bursting, which is often accidental and does not necessarily involve a clean cut or the use of an implement.",
+        "category": "Mythological Figures with Unique Ocular Traits or Powers",
+        "explanation": "Cyclops, Argus Panoptes, Medusa, and The Graeae are all mythological figures or creatures whose defining characteristic or power is directly related to an unusual number of eyes (Cyclops, Argus, Graeae) or the magical effect of their gaze (Medusa). Narcissus, while associated with sight through his obsession with his own reflection, does not possess unique ocular features or powers himself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Soar",
+            "Float",
+            "Crawl",
+            "Drift",
+            "Glide"
+        ],
+        "answer_index": 2,
+        "category": "Modes of Movement",
+        "explanation": "Glide, Soar, Drift, and Float all describe types of movement that are typically smooth, continuous, and often require minimal or no continuous physical effort, often facilitated by external forces like air or water. Crawl, in contrast, implies active, often strenuous, and segmented motion involving direct physical effort.",
         "completed": false
     }
 ]
