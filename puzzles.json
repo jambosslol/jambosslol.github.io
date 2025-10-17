@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Colon",
-            "Period",
-            "Dash",
-            "Semicolon",
-            "Comma"
-        ],
-        "answer_index": 3,
-        "category": "Punctuation Marks with Common Alternate Meanings",
-        "explanation": "All tokens except 'Semicolon' are punctuation marks that also have a distinct and common meaning as an unrelated noun or verb (e.g., 'Period' as a duration, 'Comma' as a state of unconsciousness, 'Colon' as an organ, 'Dash' as a quick movement). 'Semicolon' primarily refers only to the punctuation mark itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Henry Winstanley",
-            "Marie Curie",
-            "Alexander Bogdanov",
-            "Karl Scheele",
-            "Galileo Galilei"
+            "Ampere",
+            "Second",
+            "Meter",
+            "Kilogram",
+            "Fahrenheit"
         ],
         "answer_index": 4,
-        "category": "Pioneers Whose Demise Was Linked to Their Work",
-        "explanation": "Marie Curie, Alexander Bogdanov, Karl Scheele, and Henry Winstanley all died as a direct consequence of their pioneering scientific or engineering work or creations. Galileo Galilei died of natural causes (illness) while under house arrest, though his persecution was a result of his scientific beliefs, his death was not a direct physical consequence of his work or inventions.",
+        "category": "International System of Units (SI) Base Units",
+        "explanation": "Second, Meter, Kilogram, and Ampere are four of the seven fundamental SI base units. Fahrenheit is a unit of temperature measurement, but it is not an SI base unit; Kelvin is the SI base unit for temperature.",
         "completed": false
     },
     {
         "tokens": [
-            "Ghost",
-            "True",
-            "Love",
-            "Fairy",
-            "War"
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Pyramid of Giza",
+            "Acropolis of Athens"
         ],
-        "answer_index": 1,
-        "category": "Common Story Types",
-        "explanation": "Fairy, Ghost, War, and Love can all precede \"story\" to denote a specific, recognized genre or type of narrative (Fairy Tale/Story, Ghost Story, War Story, Love Story). \"True\" describes the veracity of a story, not a genre.",
+        "answer_index": 4,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are traditionally listed as four of the Seven Wonders of the Ancient World. The Acropolis of Athens, while a very significant ancient site, is not included in the traditional list of the Seven Wonders.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Duet",
+            "Sextet",
+            "Quintet",
+            "Quartet",
+            "Trio"
+        ],
+        "answer_index": 0,
+        "category": "Musical Ensembles of Three or More",
+        "explanation": "Trio, Quartet, Quintet, and Sextet refer to musical ensembles consisting of three, four, five, and six performers, respectively. Duet refers to an ensemble of two performers, making it the odd one out.",
         "completed": false
     }
 ]
