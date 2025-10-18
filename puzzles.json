@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ampere",
-            "Second",
-            "Meter",
-            "Kilogram",
-            "Fahrenheit"
+            "Bulb",
+            "Stem",
+            "Root",
+            "Rhizome",
+            "Tuber"
         ],
-        "answer_index": 4,
-        "category": "International System of Units (SI) Base Units",
-        "explanation": "Second, Meter, Kilogram, and Ampere are four of the seven fundamental SI base units. Fahrenheit is a unit of temperature measurement, but it is not an SI base unit; Kelvin is the SI base unit for temperature.",
+        "answer_index": 1,
+        "category": "Plant Anatomy",
+        "explanation": "Root, Tuber, Bulb, and Rhizome are all plant structures that typically grow underground. The Stem, however, primarily grows above ground.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Pyramid of Giza",
-            "Acropolis of Athens"
+            "Bartholomew Roberts",
+            "Blackbeard",
+            "Henry Morgan",
+            "Francis Drake",
+            "William Kidd"
         ],
-        "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four tokens are traditionally listed as four of the Seven Wonders of the Ancient World. The Acropolis of Athens, while a very significant ancient site, is not included in the traditional list of the Seven Wonders.",
+        "answer_index": 3,
+        "category": "Notable Pirates of the Golden Age of Piracy",
+        "explanation": "Blackbeard, Henry Morgan, Bartholomew Roberts, and William Kidd are all widely considered prominent figures during the 'Golden Age of Piracy,' which primarily spanned the late 17th and early 18th centuries. Francis Drake, while a famous privateer, operated in the late 16th century, predating this specific historical period.",
         "completed": false
     },
     {
         "tokens": [
-            "Duet",
-            "Sextet",
-            "Quintet",
-            "Quartet",
-            "Trio"
+            "Major",
+            "Scale",
+            "Chord",
+            "Lyric",
+            "Minor"
         ],
-        "answer_index": 0,
-        "category": "Musical Ensembles of Three or More",
-        "explanation": "Trio, Quartet, Quintet, and Sextet refer to musical ensembles consisting of three, four, five, and six performers, respectively. Duet refers to an ensemble of two performers, making it the odd one out.",
+        "answer_index": 3,
+        "category": "Fundamental Musical Structural Elements",
+        "explanation": "Major, Minor, Chord, and Scale are all fundamental components of musical harmony or melody. Lyric refers to the words of a song, not a structural musical element.",
         "completed": false
     }
 ]
