@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Bulb",
-            "Stem",
-            "Root",
-            "Rhizome",
-            "Tuber"
+            "Director",
+            "Set Designer",
+            "Audience",
+            "Script",
+            "Actor"
         ],
-        "answer_index": 1,
-        "category": "Plant Anatomy",
-        "explanation": "Root, Tuber, Bulb, and Rhizome are all plant structures that typically grow underground. The Stem, however, primarily grows above ground.",
+        "answer_index": 2,
+        "category": "Elements of a Theatrical Production Team",
+        "explanation": "Script, Director, Actor, and Set Designer are all integral parts of the creative and technical team responsible for producing a play. The Audience, while essential, receives the finished production but is not involved in its creation.",
         "completed": false
     },
     {
         "tokens": [
-            "Bartholomew Roberts",
-            "Blackbeard",
-            "Henry Morgan",
-            "Francis Drake",
-            "William Kidd"
+            "Parchment",
+            "Codex",
+            "Printing Press",
+            "Scroll",
+            "Tablet"
         ],
-        "answer_index": 3,
-        "category": "Notable Pirates of the Golden Age of Piracy",
-        "explanation": "Blackbeard, Henry Morgan, Bartholomew Roberts, and William Kidd are all widely considered prominent figures during the 'Golden Age of Piracy,' which primarily spanned the late 17th and early 18th centuries. Francis Drake, while a famous privateer, operated in the late 16th century, predating this specific historical period.",
+        "answer_index": 2,
+        "category": "Ancient and Medieval Methods of Knowledge Preservation",
+        "explanation": "Parchment, Scroll, Codex, and Tablet are all materials or forms used for creating and preserving written records in ancient and medieval times, preceding mechanical reproduction. The Printing Press, while crucial for knowledge dissemination, is a much later technological innovation for mass production, not a form of individual record-keeping from those eras.",
         "completed": false
     },
     {
         "tokens": [
-            "Major",
-            "Scale",
-            "Chord",
-            "Lyric",
-            "Minor"
+            "Insist",
+            "Concentrate",
+            "Agree",
+            "Refuse",
+            "Rely"
         ],
         "answer_index": 3,
-        "category": "Fundamental Musical Structural Elements",
-        "explanation": "Major, Minor, Chord, and Scale are all fundamental components of musical harmony or melody. Lyric refers to the words of a song, not a structural musical element.",
+        "category": "Verbs Often Followed by \"On\"",
+        "explanation": "The verbs \"Rely,\" \"Insist,\" \"Concentrate,\" and \"Agree\" are all commonly followed by the preposition \"on\" (e.g., rely on, insist on, concentrate on, agree on). \"Refuse\" is not typically followed by \"on\"; it usually takes \"to\" (as in \"refuse to do something\") or stands alone.",
         "completed": false
     }
 ]
