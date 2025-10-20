@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Director",
-            "Set Designer",
-            "Audience",
-            "Script",
-            "Actor"
+            "Pawn",
+            "Die",
+            "King",
+            "Queen",
+            "Rook"
         ],
-        "answer_index": 2,
-        "category": "Elements of a Theatrical Production Team",
-        "explanation": "Script, Director, Actor, and Set Designer are all integral parts of the creative and technical team responsible for producing a play. The Audience, while essential, receives the finished production but is not involved in its creation.",
+        "answer_index": 1,
+        "category": "Components of Chess",
+        "explanation": "King, Queen, Rook, and Pawn are all specific pieces used in the game of Chess. A 'Die' (or dice) is not used in Chess, but rather in many other board games for generating random numbers.",
         "completed": false
     },
     {
         "tokens": [
-            "Parchment",
-            "Codex",
-            "Printing Press",
-            "Scroll",
-            "Tablet"
+            "Archimedes' Screw",
+            "Printing",
+            "Gunpowder",
+            "Compass",
+            "Papermaking"
         ],
-        "answer_index": 2,
-        "category": "Ancient and Medieval Methods of Knowledge Preservation",
-        "explanation": "Parchment, Scroll, Codex, and Tablet are all materials or forms used for creating and preserving written records in ancient and medieval times, preceding mechanical reproduction. The Printing Press, while crucial for knowledge dissemination, is a much later technological innovation for mass production, not a form of individual record-keeping from those eras.",
+        "answer_index": 0,
+        "category": "Ancient Inventions",
+        "explanation": "Papermaking, Compass, Gunpowder, and Printing are known as the 'Four Great Inventions of Ancient China'. Archimedes' Screw is an ancient invention attributed to Archimedes of Syracuse (Ancient Greece).",
         "completed": false
     },
     {
         "tokens": [
-            "Insist",
-            "Concentrate",
-            "Agree",
-            "Refuse",
-            "Rely"
+            "Key",
+            "Rhythm",
+            "Scale",
+            "Rest",
+            "Note"
         ],
-        "answer_index": 3,
-        "category": "Verbs Often Followed by \"On\"",
-        "explanation": "The verbs \"Rely,\" \"Insist,\" \"Concentrate,\" and \"Agree\" are all commonly followed by the preposition \"on\" (e.g., rely on, insist on, concentrate on, agree on). \"Refuse\" is not typically followed by \"on\"; it usually takes \"to\" (as in \"refuse to do something\") or stands alone.",
+        "answer_index": 1,
+        "category": "Homographs with Musical and Everyday Meanings",
+        "explanation": "Scale, Rest, Note, and Key all have distinct meanings as both musical terms and common, unrelated everyday words (e.g., musical scale vs. weighing scale; musical rest vs. to rest). Rhythm, while a fundamental musical concept, does not have a widely recognized, completely distinct non-musical homographic meaning.",
         "completed": false
     }
 ]
