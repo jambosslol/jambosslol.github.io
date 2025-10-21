@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pawn",
-            "Die",
-            "King",
-            "Queen",
-            "Rook"
-        ],
-        "answer_index": 1,
-        "category": "Components of Chess",
-        "explanation": "King, Queen, Rook, and Pawn are all specific pieces used in the game of Chess. A 'Die' (or dice) is not used in Chess, but rather in many other board games for generating random numbers.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Archimedes' Screw",
-            "Printing",
-            "Gunpowder",
-            "Compass",
-            "Papermaking"
+            "Spatula",
+            "Sieve",
+            "Grater",
+            "Peeler",
+            "Whisk"
         ],
         "answer_index": 0,
-        "category": "Ancient Inventions",
-        "explanation": "Papermaking, Compass, Gunpowder, and Printing are known as the 'Four Great Inventions of Ancient China'. Archimedes' Screw is an ancient invention attributed to Archimedes of Syracuse (Ancient Greece).",
+        "category": "Kitchen Tools for Physical Ingredient Transformation",
+        "explanation": "Whisk, Grater, Peeler, and Sieve are all kitchen tools primarily used to physically alter the form, texture, or size of an ingredient (e.g., aerating, shredding, removing skin, separating particles). A Spatula, however, is primarily used for lifting, spreading, flipping, or scraping, manipulating ingredients without fundamentally changing their inherent physical state.",
         "completed": false
     },
     {
         "tokens": [
-            "Key",
-            "Rhythm",
-            "Scale",
-            "Rest",
-            "Note"
+            "Roman Colosseum",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Statue of Zeus at Olympia",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 1,
-        "category": "Homographs with Musical and Everyday Meanings",
-        "explanation": "Scale, Rest, Note, and Key all have distinct meanings as both musical terms and common, unrelated everyday words (e.g., musical scale vs. weighing scale; musical rest vs. to rest). Rhythm, while a fundamental musical concept, does not have a widely recognized, completely distinct non-musical homographic meaning.",
+        "answer_index": 0,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "Four of the items (Great Pyramid of Giza, Colossus of Rhodes, Lighthouse of Alexandria, Statue of Zeus at Olympia) are traditionally listed among the Seven Wonders of the Ancient World. The Roman Colosseum, while an impressive ancient structure, is not part of this specific list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Dawn",
+            "Midnight",
+            "Eclipse",
+            "Noon",
+            "Dusk"
+        ],
+        "answer_index": 2,
+        "category": "Daily Astronomical Periods",
+        "explanation": "Dawn, Noon, Dusk, and Midnight are all terms referring to specific, regular periods or points within a daily cycle of light and darkness on Earth. An Eclipse is a periodic celestial event where one body obscures another, not a fixed time of day in the same sense.",
         "completed": false
     }
 ]
