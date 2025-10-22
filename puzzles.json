@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Spatula",
-            "Sieve",
-            "Grater",
-            "Peeler",
-            "Whisk"
+            "Protagonist",
+            "Stanza",
+            "Resolution",
+            "Antagonist",
+            "Climax"
         ],
-        "answer_index": 0,
-        "category": "Kitchen Tools for Physical Ingredient Transformation",
-        "explanation": "Whisk, Grater, Peeler, and Sieve are all kitchen tools primarily used to physically alter the form, texture, or size of an ingredient (e.g., aerating, shredding, removing skin, separating particles). A Spatula, however, is primarily used for lifting, spreading, flipping, or scraping, manipulating ingredients without fundamentally changing their inherent physical state.",
+        "answer_index": 1,
+        "category": "Elements of a Narrative Story Structure",
+        "explanation": "Protagonist, Antagonist, Climax, and Resolution are all fundamental elements or stages within a traditional narrative story structure. A Stanza, however, is a structural unit found specifically in poetry, which often does not adhere to the same narrative arc conventions.",
         "completed": false
     },
     {
         "tokens": [
-            "Roman Colosseum",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Statue of Zeus at Olympia",
-            "Great Pyramid of Giza"
+            "Ouroboros",
+            "Dreamcatcher",
+            "Maneki-neko",
+            "Hamsa Hand",
+            "Four-leaf clover"
         ],
         "answer_index": 0,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "Four of the items (Great Pyramid of Giza, Colossus of Rhodes, Lighthouse of Alexandria, Statue of Zeus at Olympia) are traditionally listed among the Seven Wonders of the Ancient World. The Roman Colosseum, while an impressive ancient structure, is not part of this specific list.",
+        "category": "Cross-Cultural Good Luck Charms",
+        "explanation": "Four-leaf clover, Maneki-neko, Hamsa Hand, and Dreamcatcher are all widely recognized as symbols or talismans believed to bring good luck or ward off evil in various cultures. The Ouroboros, while a significant ancient symbol, represents cycles, infinity, or self-reflexivity, rather than good fortune.",
         "completed": false
     },
     {
         "tokens": [
-            "Dawn",
-            "Midnight",
-            "Eclipse",
-            "Noon",
-            "Dusk"
+            "Pulp",
+            "Fever",
+            "Lumpy",
+            "Jolly",
+            "Only"
         ],
-        "answer_index": 2,
-        "category": "Daily Astronomical Periods",
-        "explanation": "Dawn, Noon, Dusk, and Midnight are all terms referring to specific, regular periods or points within a daily cycle of light and darkness on Earth. An Eclipse is a periodic celestial event where one body obscures another, not a fixed time of day in the same sense.",
+        "answer_index": 1,
+        "category": "QWERTY Keyboard Handedness",
+        "explanation": "Four of the words ('Pulp', 'Jolly', 'Lumpy', 'Only') can be typed using only keys on the right side of a standard QWERTY keyboard. 'Fever' can only be typed using keys on the left side.",
         "completed": false
     }
 ]
