@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Gleam",
-            "Glint",
-            "Beam",
-            "Ray",
-            "Shadow"
+            "King",
+            "Bishop",
+            "Knight",
+            "Queen",
+            "Rook"
         ],
-        "answer_index": 4,
-        "category": "Manifestations of Light",
-        "explanation": "Ray, Beam, Gleam, and Glint all describe various forms or appearances of light. Shadow, however, is an area of darkness created by the obstruction of light, representing its absence.",
+        "answer_index": 2,
+        "category": "Chess Piece Movement",
+        "explanation": "King, Queen, Rook, and Bishop all move in straight lines (horizontally, vertically, or diagonally) across the board. The Knight is the only piece that moves in an 'L' shape and can jump over other pieces, making its movement distinct from the others.",
         "completed": false
     },
     {
         "tokens": [
-            "Giordano Bruno",
-            "Leonardo da Vinci",
-            "Jan Hus",
-            "Socrates",
-            "Joan of Arc"
-        ],
-        "answer_index": 1,
-        "category": "Historical Figures Condemned/Executed for Beliefs",
-        "explanation": "Socrates, Joan of Arc, Giordano Bruno, and Jan Hus were all prominent historical figures who were condemned or executed by the prevailing authorities of their time for their beliefs, teachings, or actions. Leonardo da Vinci, while a revolutionary thinker, was never condemned or executed in this manner; he was largely patronized and admired during his lifetime.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Foreside",
-            "Upside",
-            "Downside",
-            "Inside",
-            "Outside"
+            "Titanium",
+            "Uranium",
+            "Neptunium",
+            "Plutonium",
+            "Cerium"
         ],
         "answer_index": 0,
-        "category": "Common Compound Positional Nouns",
-        "explanation": "Upside, Downside, Inside, and Outside are all widely recognized compound nouns often used to describe aspects, locations, or perspectives (e.g., 'the upside of the situation,' 'the inside of the box'). 'Foreside' is not a standard or commonly used English word of this type.",
+        "category": "Elements named after celestial bodies",
+        "explanation": "Uranium, Neptunium, Plutonium, and Cerium are all elements named after celestial bodies (Uranus, Neptune, Pluto, and Ceres). Titanium is named after the Titans, a group of mythological deities, not a celestial body.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Amble",
+            "Stride",
+            "Gaze",
+            "Shuffle",
+            "Sashay"
+        ],
+        "answer_index": 2,
+        "category": "Verbs Describing Forms of Walking",
+        "explanation": "Amble, Stride, Sashay, and Shuffle are all verbs that denote specific ways of walking or moving on foot. Gaze, however, describes a way of looking intently, not walking.",
         "completed": false
     }
 ]
