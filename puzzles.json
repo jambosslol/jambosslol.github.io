@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "King",
-            "Bishop",
-            "Knight",
-            "Queen",
-            "Rook"
+            "Byte",
+            "Kilobyte",
+            "Pixel",
+            "Megabyte",
+            "Gigabyte"
         ],
         "answer_index": 2,
-        "category": "Chess Piece Movement",
-        "explanation": "King, Queen, Rook, and Bishop all move in straight lines (horizontally, vertically, or diagonally) across the board. The Knight is the only piece that moves in an 'L' shape and can jump over other pieces, making its movement distinct from the others.",
+        "category": "Digital Data Storage Units",
+        "explanation": "Byte, Kilobyte, Megabyte, and Gigabyte are all units used to measure digital data storage capacity. Pixel is a unit used to measure image resolution or display elements, not storage capacity.",
         "completed": false
     },
     {
         "tokens": [
-            "Titanium",
-            "Uranium",
-            "Neptunium",
-            "Plutonium",
-            "Cerium"
+            "Colossus of Rhodes",
+            "Eiffel Tower",
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon"
         ],
-        "answer_index": 0,
-        "category": "Elements named after celestial bodies",
-        "explanation": "Uranium, Neptunium, Plutonium, and Cerium are all elements named after celestial bodies (Uranus, Neptune, Pluto, and Ceres). Titanium is named after the Titans, a group of mythological deities, not a celestial body.",
+        "answer_index": 1,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four items are traditionally recognized as four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not part of that ancient list.",
         "completed": false
     },
     {
         "tokens": [
-            "Amble",
-            "Stride",
-            "Gaze",
-            "Shuffle",
-            "Sashay"
+            "Second",
+            "Ampere",
+            "Meter",
+            "Liter",
+            "Kilogram"
         ],
-        "answer_index": 2,
-        "category": "Verbs Describing Forms of Walking",
-        "explanation": "Amble, Stride, Sashay, and Shuffle are all verbs that denote specific ways of walking or moving on foot. Gaze, however, describes a way of looking intently, not walking.",
+        "answer_index": 3,
+        "category": "SI Base Units",
+        "explanation": "Meter, Kilogram, Second, and Ampere are four of the seven SI Base Units, representing fundamental quantities. Liter is a unit of volume, but it is not an SI Base Unit; it is a derived unit or a non-SI unit accepted for use with SI.",
         "completed": false
     }
 ]
