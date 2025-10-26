@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Byte",
-            "Kilobyte",
-            "Pixel",
-            "Megabyte",
-            "Gigabyte"
+            "Marinate",
+            "Simmer",
+            "Poach",
+            "Braise",
+            "Saut\u00e9"
         ],
-        "answer_index": 2,
-        "category": "Digital Data Storage Units",
-        "explanation": "Byte, Kilobyte, Megabyte, and Gigabyte are all units used to measure digital data storage capacity. Pixel is a unit used to measure image resolution or display elements, not storage capacity.",
+        "answer_index": 0,
+        "category": "Culinary Cooking Methods",
+        "explanation": "Saut\u00e9, braise, simmer, and poach are all specific cooking methods that involve applying heat to food. Marinating is a cold preparation process to flavor or tenderize food, not a cooking method itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Eiffel Tower",
             "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon"
+            "Colosseum",
+            "Taj Mahal",
+            "Petra",
+            "Great Wall of China"
         ],
-        "answer_index": 1,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four items are traditionally recognized as four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not part of that ancient list.",
+        "answer_index": 0,
+        "category": "Global Wonders Lists",
+        "explanation": "Four of the tokens (Colosseum, Petra, Taj Mahal, Great Wall of China) are recognized as part of the 'New7Wonders of the World.' The 'Lighthouse of Alexandria' is one of the 'Seven Wonders of the Ancient World.'",
         "completed": false
     },
     {
         "tokens": [
-            "Second",
-            "Ampere",
-            "Meter",
-            "Liter",
-            "Kilogram"
+            "Blue",
+            "To",
+            "Ate",
+            "For",
+            "Won"
         ],
-        "answer_index": 3,
-        "category": "SI Base Units",
-        "explanation": "Meter, Kilogram, Second, and Ampere are four of the seven SI Base Units, representing fundamental quantities. Liter is a unit of volume, but it is not an SI Base Unit; it is a derived unit or a non-SI unit accepted for use with SI.",
+        "answer_index": 0,
+        "category": "Homophones of Numbers",
+        "explanation": "\"Ate\", \"For\", \"Won\", and \"To\" are homophones for the numbers 'Eight', 'Four', 'One', and 'Two' respectively. 'Blue' does not have a common number homophone.",
         "completed": false
     }
 ]
