@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Marinate",
-            "Simmer",
-            "Poach",
-            "Braise",
-            "Saut\u00e9"
+            "Three Little Pigs",
+            "The Boy Who Cried Wolf",
+            "Peter and the Wolf",
+            "Goldilocks",
+            "Little Red Riding Hood"
         ],
-        "answer_index": 0,
-        "category": "Culinary Cooking Methods",
-        "explanation": "Saut\u00e9, braise, simmer, and poach are all specific cooking methods that involve applying heat to food. Marinating is a cold preparation process to flavor or tenderize food, not a cooking method itself.",
+        "answer_index": 3,
+        "category": "Classic Stories Featuring a Wolf",
+        "explanation": "The first four tokens are titles of classic stories or fables in which a wolf plays a central role as an antagonist or main character. 'Goldilocks' (referring to 'Goldilocks and the Three Bears') does not feature a wolf.",
         "completed": false
     },
     {
         "tokens": [
-            "Lighthouse of Alexandria",
-            "Colosseum",
-            "Taj Mahal",
-            "Petra",
-            "Great Wall of China"
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Donatello",
+            "Raphael",
+            "Rembrandt"
         ],
-        "answer_index": 0,
-        "category": "Global Wonders Lists",
-        "explanation": "Four of the tokens (Colosseum, Petra, Taj Mahal, Great Wall of China) are recognized as part of the 'New7Wonders of the World.' The 'Lighthouse of Alexandria' is one of the 'Seven Wonders of the Ancient World.'",
+        "answer_index": 4,
+        "category": "High Italian Renaissance Artists",
+        "explanation": "Leonardo da Vinci, Michelangelo, Raphael, and Donatello are widely considered the four greatest artists of the High Renaissance in Italy. Rembrandt was a prominent artist of the Dutch Golden Age, a different period and region.",
         "completed": false
     },
     {
         "tokens": [
-            "Blue",
-            "To",
-            "Ate",
-            "For",
-            "Won"
+            "Quiet",
+            "Whisper",
+            "Mute",
+            "Still",
+            "Hush"
         ],
-        "answer_index": 0,
-        "category": "Homophones of Numbers",
-        "explanation": "\"Ate\", \"For\", \"Won\", and \"To\" are homophones for the numbers 'Eight', 'Four', 'One', and 'Two' respectively. 'Blue' does not have a common number homophone.",
+        "answer_index": 1,
+        "category": "Absence or Cessation of Sound",
+        "explanation": "Mute, Still, Hush, and Quiet all refer to the absence of sound or the act of making something silent. Whisper is a soft form of sound, not an absence of it.",
         "completed": false
     }
 ]
