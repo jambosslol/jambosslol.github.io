@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Compass",
-            "Pendulum",
-            "Hourglass",
-            "Sundial",
-            "Chronometer"
-        ],
-        "answer_index": 0,
-        "category": "Instruments for Measuring Time",
-        "explanation": "A Sundial, Hourglass, Pendulum (a core component of many clocks), and Chronometer are all devices used for measuring or keeping track of time. A Compass, however, is an instrument used for navigation and indicating direction.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Watling Street",
-            "Appian Way",
-            "Ermine Street",
-            "Fosse Way",
-            "Peddars Way"
-        ],
-        "answer_index": 1,
-        "category": "Major Roman Roads in Britannia",
-        "explanation": "Watling Street, Fosse Way, Ermine Street, and Peddars Way are all significant Roman roads located in ancient Britannia (Great Britain). The Appian Way (Via Appia) is a famous Roman road, but it is located in Italy.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Debt",
-            "Knife",
-            "Hour",
-            "Clock",
-            "Gnome"
+            "Piano",
+            "Drums",
+            "Guitar",
+            "Microphone",
+            "Violin"
         ],
         "answer_index": 3,
-        "category": "Words with a silent letter",
-        "explanation": "Knife (silent 'K'), Gnome (silent 'G'), Debt (silent 'B'), and Hour (silent 'H') all contain a silent letter. Clock does not have a silent letter.",
+        "category": "Musical Instruments",
+        "explanation": "Guitar, Piano, Drums, and Violin are all types of musical instruments that produce sound. A Microphone is a device used to capture and amplify sound, but it is not an instrument itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Battle of Midway",
+            "Battle of Lepanto",
+            "Battle of Waterloo",
+            "Battle of Tsushima",
+            "Battle of Trafalgar"
+        ],
+        "answer_index": 2,
+        "category": "Decisive Naval Engagements",
+        "explanation": "The Battle of Trafalgar, Battle of Midway, Battle of Lepanto, and Battle of Tsushima were all historically significant naval battles. The Battle of Waterloo, while also a decisive engagement, was a land battle.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Gross",
+            "Score",
+            "Hundred",
+            "Pair",
+            "Dozen"
+        ],
+        "answer_index": 2,
+        "category": "Specific Counting Units",
+        "explanation": "Dozen (12), Pair (2), Score (20), and Gross (144) are all specific, named traditional units for counting a certain quantity of items. 'Hundred' is a standard decimal number and not a specialized traditional counting unit in the same way.",
         "completed": false
     }
 ]
