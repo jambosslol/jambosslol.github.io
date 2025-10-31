@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Piano",
-            "Drums",
-            "Guitar",
-            "Microphone",
-            "Violin"
+            "RAM",
+            "Processor",
+            "Mouse",
+            "Hard Drive",
+            "Motherboard"
         ],
-        "answer_index": 3,
-        "category": "Musical Instruments",
-        "explanation": "Guitar, Piano, Drums, and Violin are all types of musical instruments that produce sound. A Microphone is a device used to capture and amplify sound, but it is not an instrument itself.",
+        "answer_index": 2,
+        "category": "Internal Computer Hardware",
+        "explanation": "Processor, RAM, Hard Drive, and Motherboard are essential internal components found within a computer's casing. A Mouse is an external peripheral input device.",
         "completed": false
     },
     {
         "tokens": [
-            "Battle of Midway",
-            "Battle of Lepanto",
-            "Battle of Waterloo",
-            "Battle of Tsushima",
-            "Battle of Trafalgar"
+            "Pyramids of Giza",
+            "Colossus of Rhodes",
+            "Eiffel Tower",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon"
         ],
         "answer_index": 2,
-        "category": "Decisive Naval Engagements",
-        "explanation": "The Battle of Trafalgar, Battle of Midway, Battle of Lepanto, and Battle of Tsushima were all historically significant naval battles. The Battle of Waterloo, while also a decisive engagement, was a land battle.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are widely recognized as four of the Seven Wonders of the Ancient World. The Eiffel Tower, while a famous landmark, is a modern structure and not part of that ancient list.",
         "completed": false
     },
     {
         "tokens": [
-            "Gross",
-            "Score",
-            "Hundred",
-            "Pair",
-            "Dozen"
+            "Gas",
+            "Plasma",
+            "Liquid",
+            "Solid",
+            "Solution"
         ],
-        "answer_index": 2,
-        "category": "Specific Counting Units",
-        "explanation": "Dozen (12), Pair (2), Score (20), and Gross (144) are all specific, named traditional units for counting a certain quantity of items. 'Hundred' is a standard decimal number and not a specialized traditional counting unit in the same way.",
+        "answer_index": 4,
+        "category": "States of Matter",
+        "explanation": "Solid, Liquid, Gas, and Plasma are the four fundamental states of matter. A Solution is a homogeneous mixture, not a state of matter itself.",
         "completed": false
     }
 ]
