@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Director",
-            "Actor",
-            "Stage Manager",
-            "Audience",
-            "Playwright"
+            "Publisher",
+            "Bookworm",
+            "Editor",
+            "Author",
+            "Illustrator"
         ],
-        "answer_index": 3,
-        "category": "Key Roles in Theatrical Production",
-        "explanation": "Director, Actor, Playwright, and Stage Manager are all integral roles involved in the creation, rehearsal, and live performance of a stage play. The Audience observes and experiences the play, but is not a participant in its production.",
+        "answer_index": 1,
+        "category": "Book Production Roles",
+        "explanation": "Author, Editor, Illustrator, and Publisher are all roles directly involved in the creation, refinement, or dissemination of a book. A Bookworm is an avid reader, consuming books rather than producing them.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Statue of Zeus at Olympia",
-            "Temple of Artemis at Ephesus",
-            "Colosseum",
-            "Great Pyramid of Giza"
+            "John F. Kennedy",
+            "Nelson Mandela",
+            "Rosa Parks",
+            "Martin Luther King Jr.",
+            "Malcolm X"
         ],
-        "answer_index": 3,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, and Temple of Artemis at Ephesus are all traditionally listed as four of the Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient Roman structure, is not part of this specific list.",
+        "answer_index": 1,
+        "category": "Key Figures of the American Civil Rights Movement",
+        "explanation": "Martin Luther King Jr., Rosa Parks, Malcolm X, and John F. Kennedy were all prominent figures associated with the American Civil Rights Movement. Nelson Mandela was a central figure in the anti-apartheid movement in South Africa.",
         "completed": false
     },
     {
         "tokens": [
-            "Gargoyle",
-            "Nave",
-            "Buttress",
-            "Stained Glass",
-            "Minaret"
+            "Decade",
+            "Gross",
+            "Score",
+            "Pair",
+            "Dozen"
         ],
-        "answer_index": 4,
-        "category": "Features of Gothic Cathedrals",
-        "explanation": "Stained glass, the nave (main body), buttresses (often flying buttresses), and gargoyles are all iconic architectural features of Gothic cathedrals. A minaret, however, is a distinctive tower found in mosque architecture.",
+        "answer_index": 0,
+        "category": "Fixed Numerical Quantities of Items",
+        "explanation": "A Dozen (12), Pair (2), Score (20), and Gross (144) are all specific numerical quantities used to count items. A Decade, however, is a period of 10 years, referring to a quantity of time rather than items.",
         "completed": false
     }
 ]
