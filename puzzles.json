@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Publisher",
-            "Bookworm",
-            "Editor",
-            "Author",
-            "Illustrator"
+            "Foxfire",
+            "Firefly",
+            "Moon",
+            "Anglerfish",
+            "Glow-worm"
         ],
-        "answer_index": 1,
-        "category": "Book Production Roles",
-        "explanation": "Author, Editor, Illustrator, and Publisher are all roles directly involved in the creation, refinement, or dissemination of a book. A Bookworm is an avid reader, consuming books rather than producing them.",
+        "answer_index": 2,
+        "category": "Naturally Bioluminescent Entities",
+        "explanation": "Fireflies, Anglerfish, Foxfire (bioluminescent fungi), and Glow-worms are all living organisms that naturally produce their own light through bioluminescence. The Moon appears to glow, but it does so by reflecting sunlight, rather than generating its own light.",
         "completed": false
     },
     {
         "tokens": [
-            "John F. Kennedy",
-            "Nelson Mandela",
-            "Rosa Parks",
-            "Martin Luther King Jr.",
-            "Malcolm X"
-        ],
-        "answer_index": 1,
-        "category": "Key Figures of the American Civil Rights Movement",
-        "explanation": "Martin Luther King Jr., Rosa Parks, Malcolm X, and John F. Kennedy were all prominent figures associated with the American Civil Rights Movement. Nelson Mandela was a central figure in the anti-apartheid movement in South Africa.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Decade",
-            "Gross",
-            "Score",
-            "Pair",
-            "Dozen"
+            "Christopher Columbus",
+            "Juan Sebastian Elcano",
+            "James Cook",
+            "Ferdinand Magellan",
+            "Francis Drake"
         ],
         "answer_index": 0,
-        "category": "Fixed Numerical Quantities of Items",
-        "explanation": "A Dozen (12), Pair (2), Score (20), and Gross (144) are all specific numerical quantities used to count items. A Decade, however, is a period of 10 years, referring to a quantity of time rather than items.",
+        "category": "Historic Global Circumnavigators",
+        "explanation": "Ferdinand Magellan (via his expedition), Francis Drake, James Cook, and Juan Sebastian Elcano (who completed Magellan's expedition) are all historically credited with circumnavigating the globe. Christopher Columbus, while a significant explorer, never completed a circumnavigation.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Alchemy",
+            "Mutation",
+            "Evolution",
+            "Metamorphosis",
+            "Stagnation"
+        ],
+        "answer_index": 4,
+        "category": "Processes of Significant Change",
+        "explanation": "All tokens except 'Stagnation' describe a process involving a fundamental and often dramatic change or transformation. 'Stagnation,' conversely, refers to a lack of change or movement.",
         "completed": false
     }
 ]
