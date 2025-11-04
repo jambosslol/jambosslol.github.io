@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Foxfire",
-            "Firefly",
-            "Moon",
-            "Anglerfish",
-            "Glow-worm"
-        ],
-        "answer_index": 2,
-        "category": "Naturally Bioluminescent Entities",
-        "explanation": "Fireflies, Anglerfish, Foxfire (bioluminescent fungi), and Glow-worms are all living organisms that naturally produce their own light through bioluminescence. The Moon appears to glow, but it does so by reflecting sunlight, rather than generating its own light.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Christopher Columbus",
-            "Juan Sebastian Elcano",
-            "James Cook",
-            "Ferdinand Magellan",
-            "Francis Drake"
-        ],
-        "answer_index": 0,
-        "category": "Historic Global Circumnavigators",
-        "explanation": "Ferdinand Magellan (via his expedition), Francis Drake, James Cook, and Juan Sebastian Elcano (who completed Magellan's expedition) are all historically credited with circumnavigating the globe. Christopher Columbus, while a significant explorer, never completed a circumnavigation.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Alchemy",
-            "Mutation",
-            "Evolution",
-            "Metamorphosis",
-            "Stagnation"
+            "Quill",
+            "Inkwell",
+            "Parchment",
+            "Binding",
+            "e-reader"
         ],
         "answer_index": 4,
-        "category": "Processes of Significant Change",
-        "explanation": "All tokens except 'Stagnation' describe a process involving a fundamental and often dramatic change or transformation. 'Stagnation,' conversely, refers to a lack of change or movement.",
+        "category": "Traditional Bookcraft",
+        "explanation": "Parchment, Quill, Inkwell, and Binding are all traditional materials or processes associated with the physical creation and form of books, while an e-reader is a modern digital device used for reading them.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lantern Festival",
+            "Diwali",
+            "Bastille Day",
+            "D\u00eda de los Muertos",
+            "Carnival"
+        ],
+        "answer_index": 2,
+        "category": "Traditional Cultural and Religious Festivals",
+        "explanation": "Lantern Festival, D\u00eda de los Muertos, Diwali, and Carnival are all major cultural or religious festivals with deep historical traditions, often celebrated over multiple days with specific customs and symbolic meanings. Bastille Day, while a national holiday, is primarily a political commemoration of a specific historical event for national independence rather than a broad traditional cultural or religious festival.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Street",
+            "Spot",
+            "Flash",
+            "Strobe",
+            "River"
+        ],
+        "answer_index": 4,
+        "category": "Words that commonly precede 'light'",
+        "explanation": "Flashlight, spotlight, strobe light, and street light are all common compound terms or phrases. 'River light' is not a standard, widely recognized term in the same manner as the others.",
         "completed": false
     }
 ]
