@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Quill",
-            "Inkwell",
-            "Parchment",
-            "Binding",
-            "e-reader"
-        ],
-        "answer_index": 4,
-        "category": "Traditional Bookcraft",
-        "explanation": "Parchment, Quill, Inkwell, and Binding are all traditional materials or processes associated with the physical creation and form of books, while an e-reader is a modern digital device used for reading them.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Lantern Festival",
-            "Diwali",
-            "Bastille Day",
-            "D\u00eda de los Muertos",
-            "Carnival"
+            "Epilogue",
+            "Dedication",
+            "Climax",
+            "Table of Contents",
+            "Prologue"
         ],
         "answer_index": 2,
-        "category": "Traditional Cultural and Religious Festivals",
-        "explanation": "Lantern Festival, D\u00eda de los Muertos, Diwali, and Carnival are all major cultural or religious festivals with deep historical traditions, often celebrated over multiple days with specific customs and symbolic meanings. Bastille Day, while a national holiday, is primarily a political commemoration of a specific historical event for national independence rather than a broad traditional cultural or religious festival.",
+        "category": "Elements of a Novel Not Part of the Primary Narrative",
+        "explanation": "Epilogue, Prologue, Dedication, and Table of Contents are all supplementary sections of a novel that exist outside the main story's primary plot. The Climax, however, is a critical turning point that occurs *within* the primary narrative arc itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Street",
-            "Spot",
-            "Flash",
-            "Strobe",
-            "River"
+            "Leonardo da Vinci",
+            "Rembrandt",
+            "Raphael",
+            "Donatello",
+            "Michelangelo"
         ],
-        "answer_index": 4,
-        "category": "Words that commonly precede 'light'",
-        "explanation": "Flashlight, spotlight, strobe light, and street light are all common compound terms or phrases. 'River light' is not a standard, widely recognized term in the same manner as the others.",
+        "answer_index": 1,
+        "category": "Major Italian Renaissance Artists",
+        "explanation": "Leonardo da Vinci, Michelangelo, Raphael, and Donatello were all pivotal Italian artists of the High Renaissance period. Rembrandt was a renowned Dutch painter from the Baroque period.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Kindle",
+            "Eclipse",
+            "Dim",
+            "Obscure",
+            "Shadow"
+        ],
+        "answer_index": 0,
+        "category": "Words associated with reducing or blocking light",
+        "explanation": "Dim, Obscure, Shadow, and Eclipse all refer to making something less bright, unclear, or blocking light. Kindle, however, means to light or ignite, thus bringing light.",
         "completed": false
     }
 ]
