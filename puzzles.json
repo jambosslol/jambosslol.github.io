@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Epilogue",
-            "Dedication",
-            "Climax",
-            "Table of Contents",
-            "Prologue"
-        ],
-        "answer_index": 2,
-        "category": "Elements of a Novel Not Part of the Primary Narrative",
-        "explanation": "Epilogue, Prologue, Dedication, and Table of Contents are all supplementary sections of a novel that exist outside the main story's primary plot. The Climax, however, is a critical turning point that occurs *within* the primary narrative arc itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Leonardo da Vinci",
-            "Rembrandt",
-            "Raphael",
-            "Donatello",
-            "Michelangelo"
+            "Snow",
+            "Dew",
+            "Rain",
+            "Hail",
+            "Sleet"
         ],
         "answer_index": 1,
-        "category": "Major Italian Renaissance Artists",
-        "explanation": "Leonardo da Vinci, Michelangelo, Raphael, and Donatello were all pivotal Italian artists of the High Renaissance period. Rembrandt was a renowned Dutch painter from the Baroque period.",
+        "category": "Forms of Atmospheric Water",
+        "explanation": "Rain, Snow, Hail, and Sleet are all forms of precipitation that fall from the sky. Dew forms on surfaces due to condensation and does not fall from the sky.",
         "completed": false
     },
     {
         "tokens": [
-            "Kindle",
-            "Eclipse",
-            "Dim",
-            "Obscure",
-            "Shadow"
+            "Battle of Waterloo",
+            "Magna Carta",
+            "The Napoleonic Code",
+            "Arc de Triomphe",
+            "Trafalgar Square"
         ],
-        "answer_index": 0,
-        "category": "Words associated with reducing or blocking light",
-        "explanation": "Dim, Obscure, Shadow, and Eclipse all refer to making something less bright, unclear, or blocking light. Kindle, however, means to light or ignite, thus bringing light.",
+        "answer_index": 1,
+        "category": "Associated with the Napoleonic Era",
+        "explanation": "All items except 'Magna Carta' are directly associated with Napoleon Bonaparte or the Napoleonic Wars. The Napoleonic Code was established by him, the Battle of Waterloo was his final defeat, the Arc de Triomphe was commissioned to commemorate his victories, and Trafalgar Square commemorates a key British victory during the Napoleonic Wars. The Magna Carta is a 13th-century English charter of rights, unrelated to Napoleon.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Splinter",
+            "Fracture",
+            "Crumble",
+            "Weld",
+            "Shatter"
+        ],
+        "answer_index": 3,
+        "category": "Verbs of Disintegration",
+        "explanation": "Shatter, splinter, fracture, and crumble all describe processes or actions where an object breaks apart, divides into smaller pieces, or loses its structural integrity. 'Weld' is a process of joining or fusing pieces together.",
         "completed": false
     }
 ]
