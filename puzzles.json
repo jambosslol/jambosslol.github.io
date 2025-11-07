@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Snow",
-            "Dew",
-            "Rain",
-            "Hail",
-            "Sleet"
+            "Slug",
+            "Whitefly",
+            "Aphid",
+            "Snail",
+            "Ladybug"
         ],
-        "answer_index": 1,
-        "category": "Forms of Atmospheric Water",
-        "explanation": "Rain, Snow, Hail, and Sleet are all forms of precipitation that fall from the sky. Dew forms on surfaces due to condensation and does not fall from the sky.",
+        "answer_index": 4,
+        "category": "Common Garden Pests",
+        "explanation": "Aphid, Snail, Slug, and Whitefly are all common organisms considered pests in a garden, often causing damage to plants. A Ladybug, conversely, is a beneficial insect known for preying on garden pests like aphids.",
         "completed": false
     },
     {
         "tokens": [
-            "Battle of Waterloo",
-            "Magna Carta",
-            "The Napoleonic Code",
-            "Arc de Triomphe",
-            "Trafalgar Square"
+            "Red Queen",
+            "Blue Fairy",
+            "Blackbeard",
+            "White Rabbit",
+            "Green Knight"
         ],
-        "answer_index": 1,
-        "category": "Associated with the Napoleonic Era",
-        "explanation": "All items except 'Magna Carta' are directly associated with Napoleon Bonaparte or the Napoleonic Wars. The Napoleonic Code was established by him, the Battle of Waterloo was his final defeat, the Arc de Triomphe was commissioned to commemorate his victories, and Trafalgar Square commemorates a key British victory during the Napoleonic Wars. The Magna Carta is a 13th-century English charter of rights, unrelated to Napoleon.",
+        "answer_index": 2,
+        "category": "Fictional/Mythological Figures Identified by a Color Adjective",
+        "explanation": "The Red Queen, Green Knight, White Rabbit, and Blue Fairy are all fictional or mythological characters whose primary identifier in their name is a color adjective. Blackbeard was a historical pirate whose descriptive moniker refers to a physical characteristic, not a symbolic color within a character's title.",
         "completed": false
     },
     {
         "tokens": [
-            "Splinter",
-            "Fracture",
-            "Crumble",
-            "Weld",
-            "Shatter"
+            "Refer",
+            "Spoon",
+            "Racecar",
+            "Madam",
+            "Noon"
         ],
-        "answer_index": 3,
-        "category": "Verbs of Disintegration",
-        "explanation": "Shatter, splinter, fracture, and crumble all describe processes or actions where an object breaks apart, divides into smaller pieces, or loses its structural integrity. 'Weld' is a process of joining or fusing pieces together.",
+        "answer_index": 1,
+        "category": "Words with matching first and last letters",
+        "explanation": "\"Madam,\" \"Racecar,\" \"Refer,\" and \"Noon\" all begin and end with the same letter. \"Spoon\" does not.",
         "completed": false
     }
 ]
