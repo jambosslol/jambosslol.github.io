@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Slug",
-            "Whitefly",
-            "Aphid",
-            "Snail",
-            "Ladybug"
+            "Soccer",
+            "Lacrosse",
+            "Hockey",
+            "Baseball",
+            "Polo"
         ],
-        "answer_index": 4,
-        "category": "Common Garden Pests",
-        "explanation": "Aphid, Snail, Slug, and Whitefly are all common organisms considered pests in a garden, often causing damage to plants. A Ladybug, conversely, is a beneficial insect known for preying on garden pests like aphids.",
+        "answer_index": 3,
+        "category": "Sports Featuring a Scoring Hat Trick",
+        "explanation": "In Soccer, Hockey, Lacrosse, and Polo, a 'hat trick' signifies a positive achievement of scoring three goals in a single game. In Baseball, while the term is occasionally used, it refers to striking out three times, which is a negative outcome.",
         "completed": false
     },
     {
         "tokens": [
-            "Red Queen",
-            "Blue Fairy",
-            "Blackbeard",
-            "White Rabbit",
-            "Green Knight"
-        ],
-        "answer_index": 2,
-        "category": "Fictional/Mythological Figures Identified by a Color Adjective",
-        "explanation": "The Red Queen, Green Knight, White Rabbit, and Blue Fairy are all fictional or mythological characters whose primary identifier in their name is a color adjective. Blackbeard was a historical pirate whose descriptive moniker refers to a physical characteristic, not a symbolic color within a character's title.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Refer",
-            "Spoon",
-            "Racecar",
-            "Madam",
-            "Noon"
+            "Lighthouse of Alexandria",
+            "Petra",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza"
         ],
         "answer_index": 1,
-        "category": "Words with matching first and last letters",
-        "explanation": "\"Madam,\" \"Racecar,\" \"Refer,\" and \"Noon\" all begin and end with the same letter. \"Spoon\" does not.",
+        "category": "The Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Colossus of Rhodes, Lighthouse of Alexandria, and Hanging Gardens of Babylon are all included in the original Seven Wonders of the Ancient World. Petra is a renowned archaeological city but was not part of this classical list; it is often cited among modern lists of wonders.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Table",
+            "Knife",
+            "Island",
+            "Debt",
+            "Answer"
+        ],
+        "answer_index": 0,
+        "category": "Words with a silent letter",
+        "explanation": "All words except 'Table' contain a prominent silent letter (Knife: K, Answer: W, Debt: B, Island: S). 'Table' has no silent letters.",
         "completed": false
     }
 ]
