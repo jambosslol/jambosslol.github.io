@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Soccer",
-            "Lacrosse",
-            "Hockey",
-            "Baseball",
-            "Polo"
-        ],
-        "answer_index": 3,
-        "category": "Sports Featuring a Scoring Hat Trick",
-        "explanation": "In Soccer, Hockey, Lacrosse, and Polo, a 'hat trick' signifies a positive achievement of scoring three goals in a single game. In Baseball, while the term is occasionally used, it refers to striking out three times, which is a negative outcome.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Lighthouse of Alexandria",
-            "Petra",
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza"
-        ],
-        "answer_index": 1,
-        "category": "The Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Colossus of Rhodes, Lighthouse of Alexandria, and Hanging Gardens of Babylon are all included in the original Seven Wonders of the Ancient World. Petra is a renowned archaeological city but was not part of this classical list; it is often cited among modern lists of wonders.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Table",
-            "Knife",
-            "Island",
-            "Debt",
-            "Answer"
+            "Pendulum",
+            "Top",
+            "Record Player",
+            "Gyroscope",
+            "Whirligig"
         ],
         "answer_index": 0,
-        "category": "Words with a silent letter",
-        "explanation": "All words except 'Table' contain a prominent silent letter (Knife: K, Answer: W, Debt: B, Island: S). 'Table' has no silent letters.",
+        "category": "Objects Primarily Associated with Spinning or Rotation",
+        "explanation": "Top, Gyroscope, Whirligig, and Record Player are all objects whose primary function or characteristic involves spinning or rotation. A pendulum, however, swings back and forth.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Pegasus",
+            "Sphinx",
+            "Minotaur",
+            "Cerberus",
+            "Medusa"
+        ],
+        "answer_index": 0,
+        "category": "Mythological Challenges",
+        "explanation": "Medusa, Cerberus, Minotaur, and Sphinx are all mythological beings primarily known as formidable obstacles, challenges, or guardians faced by heroes in various myths. Pegasus, on the other hand, is famously depicted as a noble helper or mount for heroes like Perseus and Bellerophon.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "FLAME",
+            "TRAIN",
+            "SMILE",
+            "CHAIR",
+            "POCKET"
+        ],
+        "answer_index": 4,
+        "category": "Words revealing another word by losing their initial letter",
+        "explanation": "All words except 'POCKET' form a different, common English word when their first letter is removed (SMILE -> MILE, CHAIR -> HAIR, TRAIN -> RAIN, FLAME -> LAME). 'POCKET' becomes 'OCKET', which is not a recognized English word.",
         "completed": false
     }
 ]
