@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pendulum",
-            "Top",
-            "Record Player",
-            "Gyroscope",
-            "Whirligig"
+            "Headline",
+            "Index",
+            "Glossary",
+            "Preface",
+            "Chapter"
         ],
         "answer_index": 0,
-        "category": "Objects Primarily Associated with Spinning or Rotation",
-        "explanation": "Top, Gyroscope, Whirligig, and Record Player are all objects whose primary function or characteristic involves spinning or rotation. A pendulum, however, swings back and forth.",
+        "category": "Structural Sections of a Book",
+        "explanation": "Chapter, Preface, Glossary, and Index are all distinct structural sections commonly found within a book. A Headline, while a textual component, is typically found in articles, newspapers, or magazines, rather than being a section within a book.",
         "completed": false
     },
     {
         "tokens": [
-            "Pegasus",
-            "Sphinx",
-            "Minotaur",
-            "Cerberus",
-            "Medusa"
+            "Osiris",
+            "Pluto",
+            "Zeus",
+            "Hades",
+            "Hel"
         ],
-        "answer_index": 0,
-        "category": "Mythological Challenges",
-        "explanation": "Medusa, Cerberus, Minotaur, and Sphinx are all mythological beings primarily known as formidable obstacles, challenges, or guardians faced by heroes in various myths. Pegasus, on the other hand, is famously depicted as a noble helper or mount for heroes like Perseus and Bellerophon.",
+        "answer_index": 2,
+        "category": "Deities of the Underworld",
+        "explanation": "Hades (Greek), Osiris (Egyptian), Hel (Norse), and Pluto (Roman) are all prominent deities associated with the underworld or afterlife in their respective mythologies. Zeus is the king of the Olympian gods, associated with the sky and thunder, not the underworld.",
         "completed": false
     },
     {
         "tokens": [
-            "FLAME",
-            "TRAIN",
-            "SMILE",
-            "CHAIR",
-            "POCKET"
+            "Gaze",
+            "Chime",
+            "Murmur",
+            "Roar",
+            "Whisper"
         ],
-        "answer_index": 4,
-        "category": "Words revealing another word by losing their initial letter",
-        "explanation": "All words except 'POCKET' form a different, common English word when their first letter is removed (SMILE -> MILE, CHAIR -> HAIR, TRAIN -> RAIN, FLAME -> LAME). 'POCKET' becomes 'OCKET', which is not a recognized English word.",
+        "answer_index": 0,
+        "category": "Verbs of Auditory Action",
+        "explanation": "All tokens except 'Gaze' are verbs describing a type of sound or the act of making a sound. 'Gaze' describes a way of looking intently (a visual action).",
         "completed": false
     }
 ]
