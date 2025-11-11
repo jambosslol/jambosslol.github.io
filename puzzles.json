@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Headline",
-            "Index",
-            "Glossary",
-            "Preface",
-            "Chapter"
-        ],
-        "answer_index": 0,
-        "category": "Structural Sections of a Book",
-        "explanation": "Chapter, Preface, Glossary, and Index are all distinct structural sections commonly found within a book. A Headline, while a textual component, is typically found in articles, newspapers, or magazines, rather than being a section within a book.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Osiris",
-            "Pluto",
-            "Zeus",
-            "Hades",
-            "Hel"
+            "Sundial",
+            "Hourglass",
+            "Compass",
+            "Calendar",
+            "Clock"
         ],
         "answer_index": 2,
-        "category": "Deities of the Underworld",
-        "explanation": "Hades (Greek), Osiris (Egyptian), Hel (Norse), and Pluto (Roman) are all prominent deities associated with the underworld or afterlife in their respective mythologies. Zeus is the king of the Olympian gods, associated with the sky and thunder, not the underworld.",
+        "category": "Instruments of Time Measurement",
+        "explanation": "Hourglass, Sundial, Clock, and Calendar are all tools or systems used to measure or track time. A Compass is an instrument used to determine geographic direction.",
         "completed": false
     },
     {
         "tokens": [
-            "Gaze",
-            "Chime",
-            "Murmur",
-            "Roar",
-            "Whisper"
+            "U.S. Constitution",
+            "Bill of Rights",
+            "Emancipation Proclamation",
+            "Declaration of Independence",
+            "Magna Carta"
         ],
-        "answer_index": 0,
-        "category": "Verbs of Auditory Action",
-        "explanation": "All tokens except 'Gaze' are verbs describing a type of sound or the act of making a sound. 'Gaze' describes a way of looking intently (a visual action).",
+        "answer_index": 4,
+        "category": "Foundational U.S. Historical Documents",
+        "explanation": "The Declaration of Independence, U.S. Constitution, Bill of Rights, and Emancipation Proclamation are all seminal historical documents of the United States. The Magna Carta is a foundational document in English law, originating in England.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "SCORE",
+            "EPOCH",
+            "CENTURY",
+            "DECADE",
+            "MILLENNIUM"
+        ],
+        "answer_index": 1,
+        "category": "Specific Quantifiable Time Spans",
+        "explanation": "DECADE (10 years), CENTURY (100 years), MILLENNIUM (1000 years), and SCORE (20 years) all refer to specific, defined durations of time. EPOCH refers to a notable period of time, but not a fixed, quantifiable length.",
         "completed": false
     }
 ]
