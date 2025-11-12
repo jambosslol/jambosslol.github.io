@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Sundial",
-            "Hourglass",
-            "Compass",
-            "Calendar",
-            "Clock"
+            "Paragraph",
+            "Metaphor",
+            "Hyperbole",
+            "Alliteration",
+            "Simile"
         ],
-        "answer_index": 2,
-        "category": "Instruments of Time Measurement",
-        "explanation": "Hourglass, Sundial, Clock, and Calendar are all tools or systems used to measure or track time. A Compass is an instrument used to determine geographic direction.",
+        "answer_index": 0,
+        "category": "Figures of Speech",
+        "explanation": "Metaphor, Simile, Alliteration, and Hyperbole are all rhetorical figures of speech used to enhance writing through imaginative comparison or sound. A Paragraph is a structural unit of prose used for organizing text, not a figure of speech.",
         "completed": false
     },
     {
         "tokens": [
-            "U.S. Constitution",
             "Bill of Rights",
-            "Emancipation Proclamation",
+            "The Art of War",
+            "Magna Carta",
             "Declaration of Independence",
-            "Magna Carta"
-        ],
-        "answer_index": 4,
-        "category": "Foundational U.S. Historical Documents",
-        "explanation": "The Declaration of Independence, U.S. Constitution, Bill of Rights, and Emancipation Proclamation are all seminal historical documents of the United States. The Magna Carta is a foundational document in English law, originating in England.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "SCORE",
-            "EPOCH",
-            "CENTURY",
-            "DECADE",
-            "MILLENNIUM"
+            "US Constitution"
         ],
         "answer_index": 1,
-        "category": "Specific Quantifiable Time Spans",
-        "explanation": "DECADE (10 years), CENTURY (100 years), MILLENNIUM (1000 years), and SCORE (20 years) all refer to specific, defined durations of time. EPOCH refers to a notable period of time, but not a fixed, quantifiable length.",
+        "category": "Foundational Documents of Rights and Governance",
+        "explanation": "Magna Carta, the US Constitution, the Declaration of Independence, and the Bill of Rights are all foundational legal or political documents that establish rights, governance, or independence, primarily within Western democratic traditions. 'The Art of War' is a military treatise on strategy and tactics, not a document establishing rights or a system of government.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Glimmer",
+            "Sparkle",
+            "Echo",
+            "Shimmer",
+            "Radiance"
+        ],
+        "answer_index": 2,
+        "category": "Visual Manifestations",
+        "explanation": "Glimmer, Sparkle, Radiance, and Shimmer are all words describing various visual aspects or manifestations of light. Echo refers to a reflection of sound, not light, making it the odd one out.",
         "completed": false
     }
 ]
