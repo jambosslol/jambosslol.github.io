@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Paragraph",
-            "Metaphor",
-            "Hyperbole",
-            "Alliteration",
-            "Simile"
-        ],
-        "answer_index": 0,
-        "category": "Figures of Speech",
-        "explanation": "Metaphor, Simile, Alliteration, and Hyperbole are all rhetorical figures of speech used to enhance writing through imaginative comparison or sound. A Paragraph is a structural unit of prose used for organizing text, not a figure of speech.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Bill of Rights",
-            "The Art of War",
-            "Magna Carta",
-            "Declaration of Independence",
-            "US Constitution"
-        ],
-        "answer_index": 1,
-        "category": "Foundational Documents of Rights and Governance",
-        "explanation": "Magna Carta, the US Constitution, the Declaration of Independence, and the Bill of Rights are all foundational legal or political documents that establish rights, governance, or independence, primarily within Western democratic traditions. 'The Art of War' is a military treatise on strategy and tactics, not a document establishing rights or a system of government.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Glimmer",
-            "Sparkle",
-            "Echo",
-            "Shimmer",
-            "Radiance"
+            "Bucket",
+            "Jar",
+            "Brick",
+            "Vase",
+            "Mug"
         ],
         "answer_index": 2,
-        "category": "Visual Manifestations",
-        "explanation": "Glimmer, Sparkle, Radiance, and Shimmer are all words describing various visual aspects or manifestations of light. Echo refers to a reflection of sound, not light, making it the odd one out.",
+        "category": "Objects Designed for Containment",
+        "explanation": "Bucket, Vase, Mug, and Jar are all typically hollow vessels designed primarily to contain liquids or other items. A Brick is a solid building material, not designed for containment.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Colosseum",
+            "Temple of Artemis at Ephesus",
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon"
+        ],
+        "answer_index": 0,
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "All tokens except the Colosseum are included in the traditional list of the Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, was not part of that specific original list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Chapter",
+            "Prologue",
+            "Index",
+            "Epilogue",
+            "Foreword"
+        ],
+        "answer_index": 2,
+        "category": "Book Sections",
+        "explanation": "Chapter, Prologue, Epilogue, and Foreword are all sequential or narrative-related sections of a book. An Index is a reference list, typically found at the back, that helps locate information but is not a direct part of the book's narrative or introductory/concluding text.",
         "completed": false
     }
 ]
