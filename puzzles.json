@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Bucket",
-            "Jar",
-            "Brick",
-            "Vase",
-            "Mug"
+            "Megabyte",
+            "Gigabyte",
+            "Terabyte",
+            "Hertz",
+            "Kilobyte"
         ],
-        "answer_index": 2,
-        "category": "Objects Designed for Containment",
-        "explanation": "Bucket, Vase, Mug, and Jar are all typically hollow vessels designed primarily to contain liquids or other items. A Brick is a solid building material, not designed for containment.",
+        "answer_index": 3,
+        "category": "Units of Digital Data Capacity",
+        "explanation": "Kilobyte, Megabyte, Gigabyte, and Terabyte are all standard units used to measure digital data storage capacity. Hertz is a unit of frequency.",
         "completed": false
     },
     {
         "tokens": [
-            "Colosseum",
-            "Temple of Artemis at Ephesus",
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon"
+            "Cubism",
+            "Pop Art",
+            "Renaissance",
+            "Impressionism",
+            "Surrealism"
         ],
-        "answer_index": 0,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "All tokens except the Colosseum are included in the traditional list of the Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, was not part of that specific original list.",
+        "answer_index": 2,
+        "category": "Specific Art Movements",
+        "explanation": "Impressionism, Cubism, Surrealism, and Pop Art are distinct art movements that emerged primarily from the late 19th and 20th centuries. The Renaissance, however, was a broad historical and cultural era (roughly 14th to 17th century) that encompassed various art styles and periods, rather than a singular defined art movement in the same way as the others.",
         "completed": false
     },
     {
         "tokens": [
-            "Chapter",
-            "Prologue",
-            "Index",
-            "Epilogue",
-            "Foreword"
+            "Madam",
+            "Racecar",
+            "Dog",
+            "Refer",
+            "Level"
         ],
         "answer_index": 2,
-        "category": "Book Sections",
-        "explanation": "Chapter, Prologue, Epilogue, and Foreword are all sequential or narrative-related sections of a book. An Index is a reference list, typically found at the back, that helps locate information but is not a direct part of the book's narrative or introductory/concluding text.",
+        "category": "Palindromes",
+        "explanation": "Madam, Level, Racecar, and Refer are all palindromes, meaning they read the same forwards and backward. Dog is not a palindrome; its reverse spells 'God'.",
         "completed": false
     }
 ]
