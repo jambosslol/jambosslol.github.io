@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Megabyte",
-            "Gigabyte",
-            "Terabyte",
-            "Hertz",
-            "Kilobyte"
+            "Proofreader",
+            "Illustrator",
+            "Editor",
+            "Publisher",
+            "Manuscript"
         ],
-        "answer_index": 3,
-        "category": "Units of Digital Data Capacity",
-        "explanation": "Kilobyte, Megabyte, Gigabyte, and Terabyte are all standard units used to measure digital data storage capacity. Hertz is a unit of frequency.",
+        "answer_index": 1,
+        "category": "Roles and Stages in Textual Book Production",
+        "explanation": "Manuscript, Editor, Proofreader, and Publisher are all directly involved in the creation, refinement, and distribution of the *written text* of a book. An Illustrator primarily creates visual content, not textual.",
         "completed": false
     },
     {
         "tokens": [
-            "Cubism",
-            "Pop Art",
-            "Renaissance",
-            "Impressionism",
-            "Surrealism"
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria",
+            "Temple of Artemis",
+            "Great Wall of China"
         ],
-        "answer_index": 2,
-        "category": "Specific Art Movements",
-        "explanation": "Impressionism, Cubism, Surrealism, and Pop Art are distinct art movements that emerged primarily from the late 19th and 20th centuries. The Renaissance, however, was a broad historical and cultural era (roughly 14th to 17th century) that encompassed various art styles and periods, rather than a singular defined art movement in the same way as the others.",
+        "answer_index": 4,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "Four of the tokens (Great Pyramid of Giza, Lighthouse of Alexandria, Colossus of Rhodes, Temple of Artemis) are traditionally recognized as four of the Seven Wonders of the Ancient World. The Great Wall of China, while an impressive ancient structure, is not part of that specific list.",
         "completed": false
     },
     {
         "tokens": [
-            "Madam",
-            "Racecar",
-            "Dog",
-            "Refer",
-            "Level"
+            "SIGH",
+            "GIGGLE",
+            "WHISPER",
+            "SHOUT",
+            "BLINK"
         ],
-        "answer_index": 2,
-        "category": "Palindromes",
-        "explanation": "Madam, Level, Racecar, and Refer are all palindromes, meaning they read the same forwards and backward. Dog is not a palindrome; its reverse spells 'God'.",
+        "answer_index": 4,
+        "category": "Actions Primarily Producing Vocal or Breath Sounds",
+        "explanation": "All tokens except 'BLINK' describe actions that inherently produce a sound using the vocal cords or breath. 'BLINK' is a silent action of the eyes.",
         "completed": false
     }
 ]
