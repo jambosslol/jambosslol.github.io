@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Kilogram",
-            "Meter",
-            "Second",
-            "Litre",
-            "Ampere"
+            "Microscope",
+            "Papyrus",
+            "Parchment",
+            "Scroll",
+            "Tablet (clay)"
         ],
-        "answer_index": 3,
-        "category": "SI Base Units",
-        "explanation": "Meter, Kilogram, Second, and Ampere are four of the seven fundamental SI (International System of Units) base units. Litre is a derived unit of volume, not a base unit.",
+        "answer_index": 0,
+        "category": "Ancient Writing Mediums",
+        "explanation": "Scroll, Tablet (clay), Parchment, and Papyrus are all historical materials or forms used for writing and preserving information in ancient times. A Microscope is an optical instrument used for viewing very small objects.",
         "completed": false
     },
     {
         "tokens": [
-            "Compass",
-            "Paper",
-            "Penicillin",
-            "Printing",
-            "Gunpowder"
+            "Stonehenge",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria"
         ],
-        "answer_index": 2,
-        "category": "Ancient Chinese Inventions",
-        "explanation": "Paper, Gunpowder, Compass, and Printing are famously known as the 'Four Great Inventions of Ancient China'. Penicillin was discovered by Alexander Fleming in the United Kingdom in the 20th century.",
+        "answer_index": 0,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Lighthouse of Alexandria, Hanging Gardens of Babylon, and Colossus of Rhodes are all traditionally listed among the Seven Wonders of the Ancient World. Stonehenge, while an ancient and historically significant monument, is not part of this specific list.",
         "completed": false
     },
     {
         "tokens": [
-            "Insist",
-            "Focus",
-            "Belong",
-            "Depend",
-            "Rely"
+            "Smile",
+            "Snicker",
+            "Cackle",
+            "Chuckle",
+            "Giggle"
         ],
-        "answer_index": 2,
-        "category": "Verbs commonly followed by a specific preposition",
-        "explanation": "All tokens except 'Belong' are verbs commonly followed by the preposition 'ON' (Depend ON, Insist ON, Rely ON, Focus ON). 'Belong' is typically followed by 'TO' (Belong TO).",
+        "answer_index": 0,
+        "category": "Forms of Vocal Laughter",
+        "explanation": "Giggle, Chuckle, Snicker, and Cackle are all distinct vocalizations of laughter, involving sound. A smile is a facial expression of pleasure or amusement, but it does not involve a vocal sound.",
         "completed": false
     }
 ]
