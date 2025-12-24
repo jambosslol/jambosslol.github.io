@@ -10,6 +10,30 @@ let puzzles = [];
 let currentUser = null;
 let appInitialized = false;
 
+// If Firestore is misconfigured (rules / billing / auth domain), disable it after first hard failure
+let firestoreDisabledReason = null;
+let firestoreWarningShown = false;
+
+function isPermissionDeniedError(e) {
+    return e && (e.code === 'permission-denied' || e.code === 'auth/unauthorized-domain');
+}
+
+function disableFirestore(reason, error) {
+    if (!firestoreDisabledReason) {
+        firestoreDisabledReason = reason || 'unknown';
+        console.warn("Disabling Firestore for this session:", firestoreDisabledReason, error);
+    }
+    if (!firestoreWarningShown) {
+        firestoreWarningShown = true;
+        // Keep the UX simple: game remains playable; stats/progress fall back to localStorage.
+        alert("Heads up: Cloud save is disabled because Firebase Firestore permissions are blocking access. The game will still work locally, but stats/progress won't sync until Firestore rules are fixed.");
+    }
+}
+
+function canUseFirestore() {
+    return !!currentUser && !firestoreDisabledReason;
+}
+
 // Game State
 let lives = 3;
 let currentPuzzleIndex = 0;
@@ -31,8 +55,15 @@ let migrationJustHappened = false;
 
 // --- Firestore and State Management Functions ---
 
+function getLocalDateKey(date = new Date()) {
+    const y = date.getFullYear();
+    const m = String(date.getMonth() + 1).padStart(2, '0');
+    const d = String(date.getDate()).padStart(2, '0');
+    return `${y}-${m}-${d}`;
+}
+
 async function saveGameState() {
-    const today = new Date().toISOString().slice(0, 10);
+    const today = getLocalDateKey();
     // Ensure puzzles are not empty before saving
     if (!puzzles || puzzles.length === 0) return; 
     
@@ -45,25 +76,40 @@ async function saveGameState() {
         inReviewMode: inReviewMode
     };
 
-    if (currentUser) {
-        const userProgressRef = doc(db, "user_progress", currentUser.uid);
-        await setDoc(userProgressRef, { [today]: gameState }, { merge: true });
+    if (canUseFirestore()) {
+        try {
+            const userProgressRef = doc(db, "user_progress", currentUser.uid);
+            await setDoc(userProgressRef, { [today]: gameState }, { merge: true });
+        } catch (e) {
+            // If Firestore is misconfigured (rules, billing, auth domain), don't break gameplay.
+            console.warn("Failed to save game state to Firestore; falling back to localStorage.", e);
+            if (isPermissionDeniedError(e)) disableFirestore('permission-denied', e);
+            localStorage.setItem('outlierGameState', JSON.stringify(gameState));
+        }
     } else {
         localStorage.setItem('outlierGameState', JSON.stringify(gameState));
     }
 }
 
 async function loadGameState() {
-    const today = new Date().toISOString().slice(0, 10);
+    const today = getLocalDateKey();
     let loadedState = null;
 
-    if (currentUser) {
-        const userProgressRef = doc(db, "user_progress", currentUser.uid);
-        const docSnap = await getDoc(userProgressRef);
-        if (docSnap.exists() && docSnap.data()[today]) {
-            loadedState = docSnap.data()[today];
+    if (canUseFirestore()) {
+        try {
+            const userProgressRef = doc(db, "user_progress", currentUser.uid);
+            const docSnap = await getDoc(userProgressRef);
+            if (docSnap.exists() && docSnap.data()[today]) {
+                loadedState = docSnap.data()[today];
+            }
+        } catch (e) {
+            console.warn("Failed to load game state from Firestore; will try localStorage.", e);
+            if (isPermissionDeniedError(e)) disableFirestore('permission-denied', e);
         }
-    } else {
+    }
+
+    // Always allow localStorage fallback (useful if Firestore read fails, or user just switched devices/browsers)
+    if (!loadedState) {
         const savedStateJSON = localStorage.getItem('outlierGameState');
         if (savedStateJSON) {
             const savedState = JSON.parse(savedStateJSON);
@@ -88,8 +134,21 @@ async function loadGameState() {
 
 async function loadUserStats() {
     if (!currentUser) return;
+    if (!canUseFirestore()) {
+        populateStatsDropdown();
+        return;
+    }
     const statsRef = doc(db, "user_stats", currentUser.uid);
-    const docSnap = await getDoc(statsRef);
+    let docSnap;
+    try {
+        docSnap = await getDoc(statsRef);
+    } catch (e) {
+        console.warn("Failed to load user stats from Firestore.", e);
+        if (isPermissionDeniedError(e)) disableFirestore('permission-denied', e);
+        // Keep defaults; don't block gameplay.
+        populateStatsDropdown();
+        return;
+    }
 
     if (docSnap.exists()) {
         userStats = docSnap.data();
@@ -110,29 +169,42 @@ function populateStatsDropdown() {
 
 async function handleEndOfGame(didWin) {
     if (!currentUser) return;
+    if (!canUseFirestore()) return;
 
     // First, ensure the stats are loaded to avoid overwriting with defaults
     const statsRef = doc(db, "user_stats", currentUser.uid);
-    const docSnap = await getDoc(statsRef);
-    if (docSnap.exists()) {
-        userStats = docSnap.data();
+    try {
+        const docSnap = await getDoc(statsRef);
+        if (docSnap.exists()) {
+            userStats = docSnap.data();
+        }
+    } catch (e) {
+        console.warn("Failed to read stats before updating.", e);
+        if (isPermissionDeniedError(e)) disableFirestore('permission-denied', e);
+        // Don't attempt to write if reads are failing; avoid breaking UX.
+        return;
     }
     
-    if (didWin) {
-        const newStreak = (userStats.currentStreak || 0) + 1;
-        await setDoc(statsRef, {
-            gamesPlayed: increment(1),
-            wins: increment(1),
-            currentStreak: newStreak,
-            maxStreak: Math.max(userStats.maxStreak || 0, newStreak)
-        }, { merge: true });
-    } else {
-        await setDoc(statsRef, {
-            gamesPlayed: increment(1),
-            currentStreak: 0
-        }, { merge: true });
+    try {
+        if (didWin) {
+            const newStreak = (userStats.currentStreak || 0) + 1;
+            await setDoc(statsRef, {
+                gamesPlayed: increment(1),
+                wins: increment(1),
+                currentStreak: newStreak,
+                maxStreak: Math.max(userStats.maxStreak || 0, newStreak)
+            }, { merge: true });
+        } else {
+            await setDoc(statsRef, {
+                gamesPlayed: increment(1),
+                currentStreak: 0
+            }, { merge: true });
+        }
+        await loadUserStats();
+    } catch (e) {
+        console.warn("Failed to update stats in Firestore.", e);
+        if (isPermissionDeniedError(e)) disableFirestore('permission-denied', e);
     }
-    await loadUserStats();
 }
 
 
@@ -180,46 +252,53 @@ function updateHeaderUI(user) {
 
 document.addEventListener('DOMContentLoaded', () => {
     onAuthStateChanged(auth, async (user) => {
-        const oldUser = currentUser;
-        currentUser = user;
+        try {
+            const oldUser = currentUser;
+            currentUser = user;
 
-        updateHeaderUI(user);
+            updateHeaderUI(user);
 
-        // SCENARIO 1: User just logged in (Migration may be needed)
-        if (user && !oldUser) {
-            await loadUserStats();
+            // SCENARIO 1: User just logged in (Migration may be needed)
+            if (user && !oldUser) {
+                await loadUserStats();
 
-            const localData = localStorage.getItem('outlierGameState');
-            const today = new Date().toISOString().slice(0, 10);
-            
-            if (localData) {
-                const savedState = JSON.parse(localData);
-                if (savedState.date === today && savedState.puzzles && savedState.puzzles.length > 0) {
-                    migrationJustHappened = true; 
+                const localData = localStorage.getItem('outlierGameState');
+                const today = getLocalDateKey();
+                
+                if (localData) {
+                    const savedState = JSON.parse(localData);
+                    if (savedState.date === today && savedState.puzzles && savedState.puzzles.length > 0) {
+                        migrationJustHappened = true; 
 
-                    puzzles = savedState.puzzles;
-                    lives = savedState.lives;
-                    currentPuzzleIndex = savedState.currentPuzzleIndex;
-                    isGameBeaten = savedState.isGameBeaten;
-                    inReviewMode = savedState.inReviewMode;
-                    
-                    // MODIFICATION: Update stats if the migrated game was a win
-                    if (isGameBeaten) {
-                        await handleEndOfGame(true);
+                        puzzles = savedState.puzzles;
+                        lives = savedState.lives;
+                        currentPuzzleIndex = savedState.currentPuzzleIndex;
+                        isGameBeaten = savedState.isGameBeaten;
+                        inReviewMode = savedState.inReviewMode;
+                        
+                        // MODIFICATION: Update stats if the migrated game was a win
+                        if (isGameBeaten) {
+                            await handleEndOfGame(true);
+                        }
+                        
+                        await saveGameState();
+                        localStorage.removeItem('outlierGameState');
                     }
-                    
-                    saveGameState();
-                    localStorage.removeItem('outlierGameState');
                 }
+            // SCENARIO 2: User just logged out
+            } else if (!user && oldUser) {
+                resetGameState();
+                // Re-enable Firestore attempts for the next login session
+                firestoreDisabledReason = null;
             }
-        // SCENARIO 2: User just logged out
-        } else if (!user && oldUser) {
-            resetGameState();
-        }
-        
-        if (!appInitialized) {
-            appInitialized = true;
-            await initializeApp();
+            
+            if (!appInitialized) {
+                appInitialized = true;
+                await initializeApp();
+            }
+        } catch (e) {
+            console.error("Auth state handler failed:", e);
+            if (isPermissionDeniedError(e)) disableFirestore('permission-denied', e);
         }
     });
 

@@ -1,0 +1,62 @@
+name: Generate daily puzzles
+
+on:
+  schedule:
+    # Daily at 07:15 UTC (adjust as you like)
+    - cron: "15 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-puzzles
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify GEMINI_API_KEY secret is set
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -z "${GEMINI_API_KEY}" ]; then
+            echo "GEMINI_API_KEY is not set. Add it in: Settings -> Secrets and variables -> Actions." >&2
+            exit 1
+          fi
+
+      - name: Generate puzzles
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Optional override if you want to force a specific model:
+          # GEMINI_MODEL: gemini-2.0-flash
+        run: |
+          python generate_puzzles.py
+
+      - name: Commit and push if puzzles.json changed
+        run: |
+          if git diff --quiet -- puzzles.json; then
+            echo "No changes to puzzles.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add puzzles.json
+          git commit -m "chore: update daily puzzles"
+          git push
+
+
