@@ -15,6 +15,9 @@ This repo is a static GitHub Pages game that:
 
 This repo includes a scheduled GitHub Action: `.github/workflows/generate-puzzles.yml`.
 
+Current schedule is set for **12:05 AM EST** (which is **05:05 UTC**).
+Note: GitHub’s scheduler uses **UTC**, so during **EDT (DST)** it will run at **1:05 AM** local unless you change the cron seasonally.
+
 ### 1) Add the Gemini key as a GitHub Secret
 
 In your GitHub repo:

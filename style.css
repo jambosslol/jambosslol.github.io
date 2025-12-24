@@ -30,9 +30,20 @@ main { max-width: 600px; margin: 0 auto; padding: 40px 20px; text-align: center;
     min-height: 160px; padding: 0 20px; display: flex; align-items: center;
     border-bottom: 1px solid var(--border-color);
 }
+.header-content {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+}
 .header-left {
-    width: 100%; max-width: 1200px; margin: 0 auto; display: flex;
-    align-items: baseline; gap: 20px;
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+    min-width: 0;
 }
 .title-font { font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 4rem; }
 .date-font { font-family: 'Courier New', Courier, monospace; font-size: 1.5rem; color: var(--secondary-color); }
@@ -201,6 +212,12 @@ button {
     position: relative;
     display: flex;
     gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+}
+.header-right .secondary-btn,
+#stats-btn {
+    width: auto;
 }
 .dropdown {
     position: relative;
