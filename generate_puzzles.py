@@ -144,8 +144,11 @@ def generate_ai_puzzles():
     # and fall back gracefully if a model isn't available for your key/project.
     # Default to a single modern model to avoid noisy 404s for keys that don't have access
     # to certain model families / API versions. You can override via GEMINI_MODEL.
-    default_model = os.getenv("GEMINI_MODEL", "").strip() or "gemini-2.0-flash"
-    model_candidates = [default_model]
+    #
+    # Default requested model: Gemini 2.5 Flash.
+    default_model = os.getenv("GEMINI_MODEL", "").strip() or "gemini-2.5-flash"
+    # Keep a fallback in case the key/API version doesn't have access to 2.5 yet.
+    model_candidates = [default_model, "gemini-2.0-flash"]
 
     system_instruction = """
         You are a master puzzle designer, specializing in clever 'Odd One Out' brain teasers that require lateral thinking. Your task is to generate a single, high-quality puzzle.
