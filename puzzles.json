@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Appendix",
-            "Foreword",
-            "Chapter",
             "Prologue",
-            "Epilogue"
+            "Alibi",
+            "Deduction",
+            "Red Herring",
+            "Motive"
         ],
-        "answer_index": 2,
-        "category": "Book Structural Elements",
-        "explanation": "Prologue, Epilogue, Foreword, and Appendix are all sections of a book that typically frame or supplement the main narrative or content. A Chapter, on the other hand, is a primary organizational unit *within* the main body of the text, advancing the core story or subject matter.",
+        "answer_index": 0,
+        "category": "Core Elements of a Mystery Story",
+        "explanation": "Red Herring, Alibi, Deduction, and Motive are all specific concepts or elements directly involved in the plot, investigation, or resolution of a mystery story. A Prologue is a general structural device for books, not intrinsically tied to the mechanics or typical elements of the mystery genre itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Christopher Columbus",
-            "James Cook",
-            "Ferdinand Magellan",
-            "Vasco da Gama",
-            "Marco Polo"
+            "Temple of Artemis",
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "The Great Wall of China"
         ],
         "answer_index": 4,
-        "category": "Pioneering Transoceanic Explorers",
-        "explanation": "Christopher Columbus, Ferdinand Magellan, Vasco da Gama, and James Cook are renowned for their pioneering sea voyages across oceans to new continents or around the world. Marco Polo, while a famous explorer, is primarily known for his extensive overland journey through Asia.",
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "All tokens except 'The Great Wall of China' are traditionally listed among the Seven Wonders of the Ancient World. The Great Wall is a magnificent historical structure, but it is not one of the original seven.",
         "completed": false
     },
     {
         "tokens": [
-            "TONGS",
-            "GLOVE",
-            "PANTS",
-            "BINOCULARS",
-            "SCISSORS"
+            "Liter",
+            "Watt",
+            "Gram",
+            "Inch",
+            "Meter"
         ],
-        "answer_index": 1,
-        "category": "Plural Nouns for Objects with Two Symmetrical Parts",
-        "explanation": "PANTS, SCISSORS, BINOCULARS, and TONGS are all nouns that are grammatically plural, referring to objects inherently composed of two symmetrical parts. GLOVE is a singular noun.",
+        "answer_index": 3,
+        "category": "International System of Units (SI)",
+        "explanation": "Meter, Liter, Gram, and Watt are all units either within or formally accepted for use with the International System of Units (SI). Inch is a unit of length from the Imperial and US customary systems, not SI.",
         "completed": false
     }
 ]
