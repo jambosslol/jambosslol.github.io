@@ -22,6 +22,19 @@ def generate_ai_puzzles():
         print("Example: export GEMINI_API_KEY='Your-API-Key-Here'")
         raise SystemExit(1)
 
+    def _is_quota_error(e: Exception) -> bool:
+        msg = str(e).lower()
+        return (
+            "quota exceeded" in msg
+            or "exceeded your current quota" in msg
+            or "429" in msg
+            or "rate limit" in msg
+        )
+
+    def _is_model_not_found(e: Exception) -> bool:
+        msg = str(e).lower()
+        return "is not found" in msg or "not supported for generatecontent" in msg or "404" in msg
+
     def _response_text(resp: Any) -> str:
         """
         Best-effort extraction of text from google-generativeai responses across versions.
@@ -129,15 +142,10 @@ def generate_ai_puzzles():
     #
     # Preview model names can disappear. We'll try a small list of likely-stable model ids
     # and fall back gracefully if a model isn't available for your key/project.
-    model_candidates = [
-        os.getenv("GEMINI_MODEL", "").strip(),
-        "gemini-2.0-flash",
-        "gemini-1.5-flash",
-        "gemini-1.5-pro",
-        # Keep your old preview as a last-ditch attempt
-        "gemini-2.5-flash-preview-05-20",
-    ]
-    model_candidates = [m for m in model_candidates if m]
+    # Default to a single modern model to avoid noisy 404s for keys that don't have access
+    # to certain model families / API versions. You can override via GEMINI_MODEL.
+    default_model = os.getenv("GEMINI_MODEL", "").strip() or "gemini-2.0-flash"
+    model_candidates = [default_model]
 
     system_instruction = """
         You are a master puzzle designer, specializing in clever 'Odd One Out' brain teasers that require lateral thinking. Your task is to generate a single, high-quality puzzle.
@@ -236,6 +244,16 @@ def generate_ai_puzzles():
                     break
                 except Exception as e:
                     last_err = e
+                    # If we're out of quota, don't fail the workflow—just keep existing puzzles.json
+                    # so the website remains up and playable.
+                    if _is_quota_error(e):
+                        print("\nGemini quota is exceeded for this key/project.")
+                        print("Keeping existing puzzles.json and exiting successfully (no update).")
+                        return
+                    # If the model isn't available for this key/API, don't waste retries.
+                    if _is_model_not_found(e):
+                        print(f"    - {model_name} is not available for this API/key: {e}")
+                        break
                     wait_s = min(8, 2 ** (attempt - 1))
                     print(f"    - {model_name} attempt {attempt}/3 failed: {e}. Retrying in {wait_s}s...")
                     time.sleep(wait_s)
@@ -256,7 +274,8 @@ def generate_ai_puzzles():
         print("\nSuccessfully generated and saved 3 new puzzles to puzzles.json!")
     else:
         print("\nFailed to generate a full set of 3 puzzles. The puzzles.json file was not updated.")
-        raise SystemExit(1)
+        # Exit successfully so scheduled automation doesn't spam failures when Gemini is unavailable.
+        return
 
 if __name__ == "__main__":
     generate_ai_puzzles()
