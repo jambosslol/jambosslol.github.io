@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Prologue",
+            "Judge",
+            "Prosecutor",
             "Alibi",
-            "Deduction",
-            "Red Herring",
-            "Motive"
+            "Jury",
+            "Defendant"
         ],
-        "answer_index": 0,
-        "category": "Core Elements of a Mystery Story",
-        "explanation": "Red Herring, Alibi, Deduction, and Motive are all specific concepts or elements directly involved in the plot, investigation, or resolution of a mystery story. A Prologue is a general structural device for books, not intrinsically tied to the mechanics or typical elements of the mystery genre itself.",
+        "answer_index": 2,
+        "category": "Essential Roles or Participants in a Criminal Trial",
+        "explanation": "Judge, Defendant, Prosecutor, and Jury are all essential roles or groups of participants in a criminal trial. An Alibi, however, is a type of defense or evidence, not a person or group involved in the trial.",
         "completed": false
     },
     {
         "tokens": [
-            "Temple of Artemis",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "The Great Wall of China"
-        ],
-        "answer_index": 4,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "All tokens except 'The Great Wall of China' are traditionally listed among the Seven Wonders of the Ancient World. The Great Wall is a magnificent historical structure, but it is not one of the original seven.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Liter",
-            "Watt",
-            "Gram",
-            "Inch",
-            "Meter"
+            "Hadrian's Wall",
+            "Great Wall",
+            "Kremlin Wall",
+            "Pyramid of Giza",
+            "Walls of Troy"
         ],
         "answer_index": 3,
-        "category": "International System of Units (SI)",
-        "explanation": "Meter, Liter, Gram, and Watt are all units either within or formally accepted for use with the International System of Units (SI). Inch is a unit of length from the Imperial and US customary systems, not SI.",
+        "category": "Historical Defensive Walls",
+        "explanation": "The Great Wall, Hadrian's Wall, Walls of Troy, and Kremlin Wall are all famous historical structures primarily built for defense or fortification. The Pyramid of Giza is an ancient tomb.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Break down",
+            "Calm down",
+            "Slow down",
+            "Shut down",
+            "Write down"
+        ],
+        "answer_index": 4,
+        "category": "Phrasal Verbs of Diminution or Cessation",
+        "explanation": "The phrases 'Slow down', 'Break down', 'Shut down', and 'Calm down' all use 'down' to signify a reduction, cessation, or failure of a process or state. 'Write down' uses 'down' to indicate recording information, which does not imply diminution or cessation.",
         "completed": false
     }
 ]
