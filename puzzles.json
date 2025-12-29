@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Nut",
-            "Safe",
-            "Whip",
-            "Egg",
-            "Code"
+            "Periodical",
+            "Easel",
+            "Atlas",
+            "Manuscript",
+            "Encyclopedia"
         ],
-        "answer_index": 2,
-        "category": "Items or Concepts Broken, Solved, or Forced Open by 'Cracking'",
-        "explanation": "Egg, Code, Safe, and Nut are all things that can be 'cracked' in the sense of being broken, solved, or forced open. A 'Whip' is different because it 'cracks' (or one 'cracks a whip') referring to the sharp sound it makes, not the whip itself being broken or solved.",
+        "answer_index": 1,
+        "category": "Types of Library Resources",
+        "explanation": "Encyclopedia, Atlas, Periodical, and Manuscript are all forms of written or printed materials commonly found as resources in a library. An Easel is a stand for supporting an artist's canvas or a display board, not a typical library resource.",
         "completed": false
     },
     {
         "tokens": [
-            "Hamlet",
-            "Othello",
-            "King Lear",
-            "Paradise Lost",
-            "Macbeth"
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Great Wall of China",
+            "Lighthouse of Alexandria"
         ],
         "answer_index": 3,
-        "category": "Major Tragedies by William Shakespeare",
-        "explanation": "Hamlet, Macbeth, Othello, and King Lear are all renowned tragedies penned by William Shakespeare. Paradise Lost is an epic poem written by John Milton.",
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the original Seven Wonders of the Ancient World. The Great Wall of China, while an ancient and magnificent structure, was not included in that classical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Einsteinium",
-            "Curium",
-            "Nobelium",
-            "Mendelevium",
-            "Oxygen"
+            "Plasma",
+            "Liquid",
+            "Gas",
+            "Temperature",
+            "Solid"
         ],
-        "answer_index": 4,
-        "category": "Elements Named After Scientists",
-        "explanation": "Curium, Einsteinium, Mendelevium, and Nobelium are all chemical elements named in honor of specific notable scientists (Marie Curie, Albert Einstein, Dmitri Mendeleev, and Alfred Nobel, respectively). Oxygen is derived from Greek words meaning 'acid-forming' and is not named after a person.",
+        "answer_index": 3,
+        "category": "Fundamental States of Matter",
+        "explanation": "Solid, Liquid, Gas, and Plasma are the four fundamental states of matter. Temperature is a physical property that measures the average kinetic energy of particles, not a state of matter itself.",
         "completed": false
     }
 ]
