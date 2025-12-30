@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Periodical",
-            "Easel",
-            "Atlas",
-            "Manuscript",
-            "Encyclopedia"
+            "Fertilizing",
+            "Pruning",
+            "Planting",
+            "Weeding",
+            "Harvesting"
+        ],
+        "answer_index": 4,
+        "category": "Actions for Sustaining Plant Growth and Health",
+        "explanation": "Planting, weeding, pruning, and fertilizing are all activities directly related to establishing, maintaining, and improving the health and growth of plants. Harvesting, while part of gardening, is the act of collecting mature produce, which typically signifies the completion of a growth cycle rather than an action for the plant's continued vitality.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Temple of Artemis",
+            "Great Pyramid of Giza",
+            "Great Wall of China"
+        ],
+        "answer_index": 4,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Colossus of Rhodes, Temple of Artemis, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. The Great Wall of China, while an impressive ancient structure, is not included in the classical list of the Seven Wonders of the Ancient World.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Break the ice",
+            "Break a window",
+            "Break the bank",
+            "Break a leg",
+            "Break new ground"
         ],
         "answer_index": 1,
-        "category": "Types of Library Resources",
-        "explanation": "Encyclopedia, Atlas, Periodical, and Manuscript are all forms of written or printed materials commonly found as resources in a library. An Easel is a stand for supporting an artist's canvas or a display board, not a typical library resource.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Great Wall of China",
-            "Lighthouse of Alexandria"
-        ],
-        "answer_index": 3,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the original Seven Wonders of the Ancient World. The Great Wall of China, while an ancient and magnificent structure, was not included in that classical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Plasma",
-            "Liquid",
-            "Gas",
-            "Temperature",
-            "Solid"
-        ],
-        "answer_index": 3,
-        "category": "Fundamental States of Matter",
-        "explanation": "Solid, Liquid, Gas, and Plasma are the four fundamental states of matter. Temperature is a physical property that measures the average kinetic energy of particles, not a state of matter itself.",
+        "category": "Idiomatic Expressions vs. Literal Action with 'Break'",
+        "explanation": "'Break a leg,' 'Break new ground,' 'Break the bank,' and 'Break the ice' are all common idiomatic expressions where the word 'break' is used figuratively. 'Break a window' describes a literal act of shattering a window.",
         "completed": false
     }
 ]
