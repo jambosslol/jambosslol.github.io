@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Fertilizing",
-            "Pruning",
-            "Planting",
-            "Weeding",
-            "Harvesting"
-        ],
-        "answer_index": 4,
-        "category": "Actions for Sustaining Plant Growth and Health",
-        "explanation": "Planting, weeding, pruning, and fertilizing are all activities directly related to establishing, maintaining, and improving the health and growth of plants. Harvesting, while part of gardening, is the act of collecting mature produce, which typically signifies the completion of a growth cycle rather than an action for the plant's continued vitality.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Temple of Artemis",
-            "Great Pyramid of Giza",
-            "Great Wall of China"
-        ],
-        "answer_index": 4,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Colossus of Rhodes, Temple of Artemis, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. The Great Wall of China, while an impressive ancient structure, is not included in the classical list of the Seven Wonders of the Ancient World.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Break the ice",
-            "Break a window",
-            "Break the bank",
-            "Break a leg",
-            "Break new ground"
+            "Pinhead",
+            "Blockhead",
+            "Arrowhead",
+            "Drumhead",
+            "Hammerhead"
         ],
         "answer_index": 1,
-        "category": "Idiomatic Expressions vs. Literal Action with 'Break'",
-        "explanation": "'Break a leg,' 'Break new ground,' 'Break the bank,' and 'Break the ice' are all common idiomatic expressions where the word 'break' is used figuratively. 'Break a window' describes a literal act of shattering a window.",
+        "category": "Compound Words Referring to Physical Ends",
+        "explanation": "Hammerhead (the end of a hammer or a shark's head), Pinhead (the top of a pin), Arrowhead (the tip of an arrow), and Drumhead (the playing surface of a drum) all refer to a literal, physical, or functional end-part of an object or a creature named after such a part. Blockhead, however, is a metaphorical term for a stupid person, not a physical end-part or a creature named after one.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Ikebana",
+            "Haiku",
+            "Sumi-e",
+            "Origami",
+            "Bonsai"
+        ],
+        "answer_index": 1,
+        "category": "Traditional Japanese Visual Arts",
+        "explanation": "Ikebana (flower arrangement), Origami (paper folding), Sumi-e (ink painting), and Bonsai (miniature tree cultivation) are all traditional Japanese visual art forms. Haiku is a form of Japanese poetry, which is a literary art.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Bilingual",
+            "Bicycle",
+            "Biopic",
+            "Biped",
+            "Bifocals"
+        ],
+        "answer_index": 2,
+        "category": "Prefix 'Bi-' Meaning",
+        "explanation": "All words except 'Biopic' contain the prefix 'bi-', explicitly meaning 'two' (e.g., two wheels, two focal points, two languages, two feet). 'Biopic' is a shortened form of 'biographical picture', where 'bio-' refers to 'life' rather than the number two.",
         "completed": false
     }
 ]
