@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pinhead",
-            "Blockhead",
-            "Arrowhead",
-            "Drumhead",
-            "Hammerhead"
+            "Proofreader",
+            "Manuscript",
+            "Publisher",
+            "Editor",
+            "Illustrator"
         ],
-        "answer_index": 1,
-        "category": "Compound Words Referring to Physical Ends",
-        "explanation": "Hammerhead (the end of a hammer or a shark's head), Pinhead (the top of a pin), Arrowhead (the tip of an arrow), and Drumhead (the playing surface of a drum) all refer to a literal, physical, or functional end-part of an object or a creature named after such a part. Blockhead, however, is a metaphorical term for a stupid person, not a physical end-part or a creature named after one.",
+        "answer_index": 4,
+        "category": "Roles and Stages in Textual Book Production",
+        "explanation": "Manuscript, Editor, Publisher, and Proofreader are all directly involved in the creation, refinement, and distribution of the *written content* of a book. An Illustrator, while essential to many books, focuses primarily on the *visuals*, not the textual development or publishing process itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Ikebana",
-            "Haiku",
-            "Sumi-e",
-            "Origami",
-            "Bonsai"
+            "Martin Luther King Jr.",
+            "Malcolm X",
+            "Ruby Bridges",
+            "Susan B. Anthony",
+            "Rosa Parks"
         ],
-        "answer_index": 1,
-        "category": "Traditional Japanese Visual Arts",
-        "explanation": "Ikebana (flower arrangement), Origami (paper folding), Sumi-e (ink painting), and Bonsai (miniature tree cultivation) are all traditional Japanese visual art forms. Haiku is a form of Japanese poetry, which is a literary art.",
+        "answer_index": 3,
+        "category": "Figures of the American Civil Rights Movement",
+        "explanation": "All tokens, except Susan B. Anthony, are prominent figures or symbols associated with the American Civil Rights Movement of the mid-20th century. Susan B. Anthony was a leader in the women's suffrage movement during the 19th and early 20th centuries.",
         "completed": false
     },
     {
         "tokens": [
-            "Bilingual",
-            "Bicycle",
-            "Biopic",
-            "Biped",
-            "Bifocals"
+            "Batch",
+            "Pair",
+            "Quartet",
+            "Trio",
+            "Dozen"
         ],
-        "answer_index": 2,
-        "category": "Prefix 'Bi-' Meaning",
-        "explanation": "All words except 'Biopic' contain the prefix 'bi-', explicitly meaning 'two' (e.g., two wheels, two focal points, two languages, two feet). 'Biopic' is a shortened form of 'biographical picture', where 'bio-' refers to 'life' rather than the number two.",
+        "answer_index": 0,
+        "category": "Words Denoting a Specific, Fixed Quantity",
+        "explanation": "Trio, Dozen, Pair, and Quartet all refer to a precise, fixed quantity (3, 12, 2, and 4 respectively). 'Batch' refers to an indefinite amount of items.",
         "completed": false
     }
 ]
