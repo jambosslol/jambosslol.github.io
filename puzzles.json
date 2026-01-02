@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Proofreader",
-            "Manuscript",
-            "Publisher",
-            "Editor",
-            "Illustrator"
+            "Cash",
+            "Passport",
+            "Driver's License",
+            "Credit Card",
+            "Loyalty Card"
+        ],
+        "answer_index": 1,
+        "category": "Items typically stored in a standard wallet for daily use",
+        "explanation": "Driver's License, Credit Card, Cash, and Loyalty Card are all common items stored in a standard wallet for everyday transactions or identification. A Passport, while an identification document, is usually too large and not typically carried in a standard daily-use wallet; it's more for travel and often kept separately.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Trajan",
+            "Augustus",
+            "Julius Caesar",
+            "Nero",
+            "Alexander the Great"
         ],
         "answer_index": 4,
-        "category": "Roles and Stages in Textual Book Production",
-        "explanation": "Manuscript, Editor, Publisher, and Proofreader are all directly involved in the creation, refinement, and distribution of the *written content* of a book. An Illustrator, while essential to many books, focuses primarily on the *visuals*, not the textual development or publishing process itself.",
+        "category": "Prominent Figures of the Roman Empire",
+        "explanation": "Julius Caesar, Augustus, Nero, and Trajan were all pivotal figures or emperors of the Roman Empire. Alexander the Great was a Macedonian king who lived centuries before the Roman Empire's height and was not associated with Rome.",
         "completed": false
     },
     {
         "tokens": [
-            "Martin Luther King Jr.",
-            "Malcolm X",
-            "Ruby Bridges",
-            "Susan B. Anthony",
-            "Rosa Parks"
+            "Exuberant",
+            "Serene",
+            "Jubilant",
+            "Ecstatic",
+            "Elated"
         ],
-        "answer_index": 3,
-        "category": "Figures of the American Civil Rights Movement",
-        "explanation": "All tokens, except Susan B. Anthony, are prominent figures or symbols associated with the American Civil Rights Movement of the mid-20th century. Susan B. Anthony was a leader in the women's suffrage movement during the 19th and early 20th centuries.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Batch",
-            "Pair",
-            "Quartet",
-            "Trio",
-            "Dozen"
-        ],
-        "answer_index": 0,
-        "category": "Words Denoting a Specific, Fixed Quantity",
-        "explanation": "Trio, Dozen, Pair, and Quartet all refer to a precise, fixed quantity (3, 12, 2, and 4 respectively). 'Batch' refers to an indefinite amount of items.",
+        "answer_index": 1,
+        "category": "High-Intensity Joy",
+        "explanation": "Ecstatic, Jubilant, Elated, and Exuberant are all synonyms describing intense, high-energy happiness. Serene describes a state of calm, peacefulness, which is distinctly different.",
         "completed": false
     }
 ]
