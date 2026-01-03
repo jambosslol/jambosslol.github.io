@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Cash",
-            "Passport",
-            "Driver's License",
-            "Credit Card",
-            "Loyalty Card"
+            "Mirror",
+            "Candle",
+            "Sun",
+            "Firefly",
+            "Star"
         ],
-        "answer_index": 1,
-        "category": "Items typically stored in a standard wallet for daily use",
-        "explanation": "Driver's License, Credit Card, Cash, and Loyalty Card are all common items stored in a standard wallet for everyday transactions or identification. A Passport, while an identification document, is usually too large and not typically carried in a standard daily-use wallet; it's more for travel and often kept separately.",
+        "answer_index": 0,
+        "category": "Things that Generate or Emit Their Own Light",
+        "explanation": "Candle, Firefly, Sun, and Star all produce or emit their own light. A mirror, however, only reflects light and does not generate it.",
         "completed": false
     },
     {
         "tokens": [
-            "Trajan",
-            "Augustus",
-            "Julius Caesar",
-            "Nero",
-            "Alexander the Great"
+            "Hanging Gardens of Babylon",
+            "Temple of Artemis at Ephesus",
+            "Mausoleum at Halicarnassus",
+            "Statue of Zeus at Olympia",
+            "Great Pyramid of Giza"
         ],
         "answer_index": 4,
-        "category": "Prominent Figures of the Roman Empire",
-        "explanation": "Julius Caesar, Augustus, Nero, and Trajan were all pivotal figures or emperors of the Roman Empire. Alexander the Great was a Macedonian king who lived centuries before the Roman Empire's height and was not associated with Rome.",
+        "category": "Ancient Wonders' Survival",
+        "explanation": "Four of these are among the original Seven Wonders of the Ancient World that no longer exist or are largely destroyed. The Great Pyramid of Giza is the only one of the original seven that still stands today.",
         "completed": false
     },
     {
         "tokens": [
-            "Exuberant",
-            "Serene",
-            "Jubilant",
-            "Ecstatic",
-            "Elated"
+            "MANUAL",
+            "SCROLL",
+            "TEXTBOOK",
+            "ATLAS",
+            "NOVEL"
         ],
         "answer_index": 1,
-        "category": "High-Intensity Joy",
-        "explanation": "Ecstatic, Jubilant, Elated, and Exuberant are all synonyms describing intense, high-energy happiness. Serene describes a state of calm, peacefulness, which is distinctly different.",
+        "category": "Types of Bound Books",
+        "explanation": "Novel, Atlas, Textbook, and Manual are all common types of bound books. A Scroll is an ancient form of document typically rolled, not bound with pages.",
         "completed": false
     }
 ]
