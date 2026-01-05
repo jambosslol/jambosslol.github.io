@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Keyboard",
-            "Microphone",
-            "Paper",
-            "Typewriter",
-            "Pen"
-        ],
-        "answer_index": 1,
-        "category": "Direct Tools for Text Creation",
-        "explanation": "Pen, Paper, Keyboard, and Typewriter are all direct tools or mediums used to create or record written text. A Microphone is used to capture audio, which can be transcribed into text, but it does not directly produce written content itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Printing Press",
-            "Papermaking",
-            "Compass",
-            "Gunpowder",
-            "Wheel"
+            "Sirius",
+            "Polaris",
+            "Sun",
+            "Proxima Centauri",
+            "Moon"
         ],
         "answer_index": 4,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "The first four items (Printing Press, Compass, Gunpowder, Papermaking) are traditionally known as the Four Great Inventions of Ancient China. The wheel is an ancient invention but is not one of these specific four.",
+        "category": "Celestial Bodies that Emit Their Own Light",
+        "explanation": "Sun, Polaris, Sirius, and Proxima Centauri are all stars that generate and emit their own light. The Moon, however, is a natural satellite that only reflects light from the Sun.",
         "completed": false
     },
     {
         "tokens": [
-            "Onion",
-            "Banana",
-            "Lasagna",
-            "Artichoke",
-            "Cabbage"
+            "Colosseum",
+            "Temple of Artemis at Ephesus",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Statue of Zeus at Olympia"
+        ],
+        "answer_index": 0,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are all recognized as part of the Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient structure, is not included in that specific list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Enigma",
+            "Solution",
+            "Conundrum",
+            "Paradox",
+            "Riddle"
         ],
         "answer_index": 1,
-        "category": "Items with Distinct Layers",
-        "explanation": "Onion, Artichoke, Cabbage, and Lasagna are all typically composed of or consumed in distinct, visible layers. A Banana, while peeled, does not have such internal or structural layers.",
+        "category": "Concepts of Puzzlement vs. Resolution",
+        "explanation": "Conundrum, Enigma, Riddle, and Paradox all refer to something puzzling, mysterious, or difficult to understand or solve. A 'Solution' is the answer or explanation to such a problem, making it the odd one out.",
         "completed": false
     }
 ]
