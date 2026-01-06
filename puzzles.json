@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Sirius",
-            "Polaris",
-            "Sun",
-            "Proxima Centauri",
-            "Moon"
+            "Shutter Speed",
+            "ISO",
+            "Tripod",
+            "Aperture",
+            "Easel"
         ],
         "answer_index": 4,
-        "category": "Celestial Bodies that Emit Their Own Light",
-        "explanation": "Sun, Polaris, Sirius, and Proxima Centauri are all stars that generate and emit their own light. The Moon, however, is a natural satellite that only reflects light from the Sun.",
+        "category": "Essential Photography Concepts & Equipment",
+        "explanation": "Aperture, Shutter Speed, and ISO are the three fundamental settings that control exposure in photography. A Tripod is a common accessory used to stabilize a camera. An Easel, however, is primarily used for painting or displaying artwork, not directly involved in the process of capturing a photograph.",
         "completed": false
     },
     {
         "tokens": [
-            "Colosseum",
-            "Temple of Artemis at Ephesus",
-            "Great Pyramid of Giza",
             "Hanging Gardens of Babylon",
-            "Statue of Zeus at Olympia"
-        ],
-        "answer_index": 0,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four tokens are all recognized as part of the Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient structure, is not included in that specific list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Enigma",
-            "Solution",
-            "Conundrum",
-            "Paradox",
-            "Riddle"
+            "Eiffel Tower",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza"
         ],
         "answer_index": 1,
-        "category": "Concepts of Puzzlement vs. Resolution",
-        "explanation": "Conundrum, Enigma, Riddle, and Paradox all refer to something puzzling, mysterious, or difficult to understand or solve. A 'Solution' is the answer or explanation to such a problem, making it the odd one out.",
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all among the original Seven Wonders of the Ancient World. The Eiffel Tower is a modern landmark.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Chapter",
+            "Page",
+            "Paragraph",
+            "Sentence",
+            "Plot"
+        ],
+        "answer_index": 4,
+        "category": "Structural Units of Written Text",
+        "explanation": "Chapter, Paragraph, Sentence, and Page are all structural divisions or units found within written text or a book. Plot, however, refers to the narrative content or sequence of events, rather than a structural component.",
         "completed": false
     }
 ]
