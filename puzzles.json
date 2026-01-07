@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Shutter Speed",
-            "ISO",
-            "Tripod",
-            "Aperture",
-            "Easel"
+            "Kilometer",
+            "Meter",
+            "Mile",
+            "Yard",
+            "Acre"
         ],
         "answer_index": 4,
-        "category": "Essential Photography Concepts & Equipment",
-        "explanation": "Aperture, Shutter Speed, and ISO are the three fundamental settings that control exposure in photography. A Tripod is a common accessory used to stabilize a camera. An Easel, however, is primarily used for painting or displaying artwork, not directly involved in the process of capturing a photograph.",
+        "category": "Units of Linear Measurement",
+        "explanation": "Mile, Kilometer, Yard, and Meter are all units used to measure linear distance. Acre is a unit used to measure area.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Eiffel Tower",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza"
+            "James Cook",
+            "Marco Polo",
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Ferdinand Magellan"
         ],
         "answer_index": 1,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all among the original Seven Wonders of the Ancient World. The Eiffel Tower is a modern landmark.",
+        "category": "Pioneering Maritime Explorers",
+        "explanation": "Magellan, Columbus, Da Gama, and Cook are renowned for their extensive sea voyages that opened new maritime routes and discovered new lands. Marco Polo is primarily famous for his overland journeys to Asia via the Silk Road.",
         "completed": false
     },
     {
         "tokens": [
-            "Chapter",
-            "Page",
-            "Paragraph",
-            "Sentence",
-            "Plot"
+            "To",
+            "Ate",
+            "Five",
+            "Won",
+            "Fore"
         ],
-        "answer_index": 4,
-        "category": "Structural Units of Written Text",
-        "explanation": "Chapter, Paragraph, Sentence, and Page are all structural divisions or units found within written text or a book. Plot, however, refers to the narrative content or sequence of events, rather than a structural component.",
+        "answer_index": 2,
+        "category": "Homophones of Numbers",
+        "explanation": "Won, To, Fore, and Ate are homophones for the numbers 'one', 'two', 'four', and 'eight' respectively. Five does not have a common homophone that is a different word.",
         "completed": false
     }
 ]
