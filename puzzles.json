@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Kilometer",
-            "Meter",
-            "Mile",
-            "Yard",
-            "Acre"
+            "Dust Jacket",
+            "Spine",
+            "Bookmark",
+            "Page",
+            "E-reader"
         ],
         "answer_index": 4,
-        "category": "Units of Linear Measurement",
-        "explanation": "Mile, Kilometer, Yard, and Meter are all units used to measure linear distance. Acre is a unit used to measure area.",
+        "category": "Elements or accessories of a physical book",
+        "explanation": "All tokens except 'E-reader' are either a physical component of a printed book or an accessory specifically used with a printed book. An E-reader is a digital device for reading.",
         "completed": false
     },
     {
         "tokens": [
-            "James Cook",
-            "Marco Polo",
-            "Christopher Columbus",
-            "Vasco da Gama",
-            "Ferdinand Magellan"
+            "Battle of Midway",
+            "Battle of Thermopylae",
+            "Battle of Hastings",
+            "Battle of Gettysburg",
+            "Battle of Stalingrad"
         ],
-        "answer_index": 1,
-        "category": "Pioneering Maritime Explorers",
-        "explanation": "Magellan, Columbus, Da Gama, and Cook are renowned for their extensive sea voyages that opened new maritime routes and discovered new lands. Marco Polo is primarily famous for his overland journeys to Asia via the Silk Road.",
+        "answer_index": 0,
+        "category": "Major Historical Land Battles",
+        "explanation": "All listed battles, except for the Battle of Midway, were predominantly land-based military engagements. The Battle of Midway was a decisive naval battle fought primarily by aircraft carriers in the Pacific Ocean.",
         "completed": false
     },
     {
         "tokens": [
-            "To",
-            "Ate",
-            "Five",
-            "Won",
-            "Fore"
+            "ROTATOR",
+            "MADAM",
+            "RACECAR",
+            "MIRROR",
+            "LEVEL"
         ],
-        "answer_index": 2,
-        "category": "Homophones of Numbers",
-        "explanation": "Won, To, Fore, and Ate are homophones for the numbers 'one', 'two', 'four', and 'eight' respectively. Five does not have a common homophone that is a different word.",
+        "answer_index": 3,
+        "category": "Palindromes",
+        "explanation": "All tokens except 'MIRROR' are palindromes, meaning they read the same forwards and backwards.",
         "completed": false
     }
 ]
