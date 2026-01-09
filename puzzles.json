@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Dust Jacket",
-            "Spine",
-            "Bookmark",
-            "Page",
-            "E-reader"
+            "Cultivator",
+            "Watering Can",
+            "Spade",
+            "Rake",
+            "Trowel"
         ],
-        "answer_index": 4,
-        "category": "Elements or accessories of a physical book",
-        "explanation": "All tokens except 'E-reader' are either a physical component of a printed book or an accessory specifically used with a printed book. An E-reader is a digital device for reading.",
+        "answer_index": 1,
+        "category": "Garden Tools for Soil Work",
+        "explanation": "Spade, Trowel, Rake, and Cultivator are all tools primarily used for digging, moving, or preparing soil. A Watering Can is used for providing water to plants.",
         "completed": false
     },
     {
         "tokens": [
-            "Battle of Midway",
-            "Battle of Thermopylae",
-            "Battle of Hastings",
-            "Battle of Gettysburg",
-            "Battle of Stalingrad"
+            "Magna Carta",
+            "Universal Declaration of Human Rights",
+            "Domesday Book",
+            "Declaration of Independence",
+            "U.S. Constitution"
         ],
-        "answer_index": 0,
-        "category": "Major Historical Land Battles",
-        "explanation": "All listed battles, except for the Battle of Midway, were predominantly land-based military engagements. The Battle of Midway was a decisive naval battle fought primarily by aircraft carriers in the Pacific Ocean.",
+        "answer_index": 2,
+        "category": "Foundational Documents on Rights and Governance",
+        "explanation": "The Magna Carta, Declaration of Independence, U.S. Constitution, and Universal Declaration of Human Rights are all seminal documents that establish or declare fundamental rights, principles of governance, or national sovereignty. The Domesday Book, however, was a comprehensive land survey and census conducted in England for administrative and taxation purposes, not primarily concerned with establishing rights or political principles.",
         "completed": false
     },
     {
         "tokens": [
-            "ROTATOR",
-            "MADAM",
-            "RACECAR",
-            "MIRROR",
-            "LEVEL"
+            "Gas",
+            "Plasma",
+            "Solid",
+            "Vapor",
+            "Liquid"
         ],
         "answer_index": 3,
-        "category": "Palindromes",
-        "explanation": "All tokens except 'MIRROR' are palindromes, meaning they read the same forwards and backwards.",
+        "category": "Fundamental States of Matter",
+        "explanation": "Solid, Liquid, Gas, and Plasma are considered the four fundamental states of matter. Vapor, while related to gas, is not classified as a distinct fundamental state in the same way.",
         "completed": false
     }
 ]
