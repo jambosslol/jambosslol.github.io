@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Audience",
-            "Producer",
-            "Stage Manager",
-            "Actor",
-            "Director"
+            "Dice",
+            "Fry",
+            "Grill",
+            "Roast",
+            "Bake"
         ],
         "answer_index": 0,
-        "category": "Active Roles in a Theatrical Production",
-        "explanation": "Director, Actor, Producer, and Stage Manager are all active roles directly involved in creating and executing a theatrical production. The Audience observes the production but is not an active participant in its creation or running.",
+        "category": "Methods of Cooking with Heat",
+        "explanation": "Bake, Roast, Grill, and Fry are all methods of cooking food using heat. Dice is a method of cutting food, not cooking it.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing Press",
-            "Steam Engine",
-            "Compass",
-            "Gunpowder",
-            "Papermaking"
+            "Erato",
+            "Clio",
+            "Artemis",
+            "Calliope",
+            "Thalia"
         ],
-        "answer_index": 1,
-        "category": "Ancient Chinese Inventions",
-        "explanation": "Compass, Gunpowder, Printing Press, and Papermaking are collectively known as the 'Four Great Inventions of Ancient China.' The Steam Engine was a key invention of the Industrial Revolution, originating in the Western world much later.",
+        "answer_index": 2,
+        "category": "The Muses of Greek Mythology",
+        "explanation": "Clio, Erato, Calliope, and Thalia are all among the nine Muses, goddesses who inspired the arts and sciences in Greek mythology. Artemis is a prominent Olympian goddess, but she is not one of the Muses.",
         "completed": false
     },
     {
         "tokens": [
-            "CONSCIOUS",
-            "JEALOUS",
-            "TIRED",
-            "RESPONSIBLE",
-            "CAPABLE"
+            "Table",
+            "Bed",
+            "Pin",
+            "River",
+            "Nail"
         ],
-        "answer_index": 3,
-        "category": "Adjectives and Prepositional Usage",
-        "explanation": "The words 'Capable', 'Conscious', 'Tired', and 'Jealous' are all adjectives commonly followed by the preposition 'of'. 'Responsible' is commonly followed by the preposition 'for'.",
+        "answer_index": 0,
+        "category": "Objects With a Figurative 'Head'",
+        "explanation": "Bed (headboard), Nail (head of a nail), River (riverhead/headwaters), and Pin (pinhead) all commonly use the word 'head' to describe a specific part or origin. A table does not typically have a 'head'.",
         "completed": false
     }
 ]
