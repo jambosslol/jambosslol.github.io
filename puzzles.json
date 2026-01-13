@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Dice",
-            "Fry",
-            "Grill",
-            "Roast",
-            "Bake"
+            "Hammer",
+            "Matchstick",
+            "Fuel",
+            "Battery",
+            "Candle"
         ],
         "answer_index": 0,
-        "category": "Methods of Cooking with Heat",
-        "explanation": "Bake, Roast, Grill, and Fry are all methods of cooking food using heat. Dice is a method of cutting food, not cooking it.",
+        "category": "Consumable or Depleting Items",
+        "explanation": "Matchstick, battery, candle, and fuel are all items that are consumed or depleted during their primary use. A hammer is a durable tool that is not consumed in this manner.",
         "completed": false
     },
     {
         "tokens": [
-            "Erato",
-            "Clio",
-            "Artemis",
-            "Calliope",
-            "Thalia"
+            "Dr. Watson",
+            "Hercule Poirot",
+            "Mycroft Holmes",
+            "Irene Adler",
+            "Sherlock Holmes"
         ],
-        "answer_index": 2,
-        "category": "The Muses of Greek Mythology",
-        "explanation": "Clio, Erato, Calliope, and Thalia are all among the nine Muses, goddesses who inspired the arts and sciences in Greek mythology. Artemis is a prominent Olympian goddess, but she is not one of the Muses.",
+        "answer_index": 1,
+        "category": "Characters from Arthur Conan Doyle's Sherlock Holmes Canon",
+        "explanation": "Sherlock Holmes, Dr. Watson, Mycroft Holmes, and Irene Adler are all central characters from the stories written by Arthur Conan Doyle featuring Sherlock Holmes. Hercule Poirot is a famous fictional detective created by Agatha Christie.",
         "completed": false
     },
     {
         "tokens": [
-            "Table",
-            "Bed",
-            "Pin",
-            "River",
-            "Nail"
+            "Shout",
+            "Hum",
+            "Whisper",
+            "Mutter",
+            "Murmur"
         ],
         "answer_index": 0,
-        "category": "Objects With a Figurative 'Head'",
-        "explanation": "Bed (headboard), Nail (head of a nail), River (riverhead/headwaters), and Pin (pinhead) all commonly use the word 'head' to describe a specific part or origin. A table does not typically have a 'head'.",
+        "category": "Vocalization Volume",
+        "explanation": "Whisper, Murmur, Hum, and Mutter are all forms of low-volume or subdued vocalizations. Shout is the odd one out as it describes a loud, high-volume vocalization.",
         "completed": false
     }
 ]
