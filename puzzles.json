@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Hammer",
-            "Matchstick",
-            "Fuel",
-            "Battery",
-            "Candle"
-        ],
-        "answer_index": 0,
-        "category": "Consumable or Depleting Items",
-        "explanation": "Matchstick, battery, candle, and fuel are all items that are consumed or depleted during their primary use. A hammer is a durable tool that is not consumed in this manner.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Dr. Watson",
-            "Hercule Poirot",
-            "Mycroft Holmes",
-            "Irene Adler",
-            "Sherlock Holmes"
+            "Yeast",
+            "Flour",
+            "Whipped Egg Whites",
+            "Baking Soda",
+            "Baking Powder"
         ],
         "answer_index": 1,
-        "category": "Characters from Arthur Conan Doyle's Sherlock Holmes Canon",
-        "explanation": "Sherlock Holmes, Dr. Watson, Mycroft Holmes, and Irene Adler are all central characters from the stories written by Arthur Conan Doyle featuring Sherlock Holmes. Hercule Poirot is a famous fictional detective created by Agatha Christie.",
+        "category": "Leavening Agents in Baking",
+        "explanation": "Yeast, Baking Soda, Baking Powder, and Whipped Egg Whites are all distinct methods or ingredients used to introduce gas into doughs or batters, causing them to rise and become lighter. Flour is a primary structural ingredient but does not act as a leavening agent itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Shout",
-            "Hum",
-            "Whisper",
-            "Mutter",
-            "Murmur"
+            "Colossus of Rhodes",
+            "Pyramids of Giza",
+            "Hanging Gardens of Babylon",
+            "Great Wall of China",
+            "Lighthouse of Alexandria"
         ],
-        "answer_index": 0,
-        "category": "Vocalization Volume",
-        "explanation": "Whisper, Murmur, Hum, and Mutter are all forms of low-volume or subdued vocalizations. Shout is the odd one out as it describes a loud, high-volume vocalization.",
+        "answer_index": 3,
+        "category": "Wonders of the Ancient World",
+        "explanation": "The first four items are traditionally listed among the Seven Wonders of the Ancient World. The Great Wall of China is a famous landmark but is not considered one of the original Seven Wonders of the Ancient World.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Tongs",
+            "Binoculars",
+            "Shirt",
+            "Pants",
+            "Scissors"
+        ],
+        "answer_index": 2,
+        "category": "Nouns Commonly Used in Plural Form",
+        "explanation": "All items except 'Shirt' are nouns that are commonly used in the plural form and often referred to with 'a pair of' (e.g., a pair of pants, a pair of scissors, a pair of binoculars, a pair of tongs). 'Shirt' is typically used in the singular.",
         "completed": false
     }
 ]
