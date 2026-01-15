@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Yeast",
-            "Flour",
-            "Whipped Egg Whites",
-            "Baking Soda",
-            "Baking Powder"
+            "Battery",
+            "Pawns",
+            "Tokens",
+            "Dice",
+            "Cards"
         ],
-        "answer_index": 1,
-        "category": "Leavening Agents in Baking",
-        "explanation": "Yeast, Baking Soda, Baking Powder, and Whipped Egg Whites are all distinct methods or ingredients used to introduce gas into doughs or batters, causing them to rise and become lighter. Flour is a primary structural ingredient but does not act as a leavening agent itself.",
+        "answer_index": 0,
+        "category": "Physical Components of Traditional Board Games",
+        "explanation": "Dice, Pawns, Cards, and Tokens are all common physical components found inside the box of a traditional, non-electronic board game. A battery is not typically found in such games.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Pyramids of Giza",
-            "Hanging Gardens of Babylon",
-            "Great Wall of China",
-            "Lighthouse of Alexandria"
+            "Artemis",
+            "Thalia",
+            "Calliope",
+            "Erato",
+            "Clio"
         ],
-        "answer_index": 3,
-        "category": "Wonders of the Ancient World",
-        "explanation": "The first four items are traditionally listed among the Seven Wonders of the Ancient World. The Great Wall of China is a famous landmark but is not considered one of the original Seven Wonders of the Ancient World.",
+        "answer_index": 0,
+        "category": "The Nine Muses of Greek Mythology",
+        "explanation": "Calliope, Clio, Erato, and Thalia are all Muses in Greek mythology, each presiding over a specific art or science. Artemis is one of the twelve Olympian gods, not a Muse.",
         "completed": false
     },
     {
         "tokens": [
-            "Tongs",
-            "Binoculars",
-            "Shirt",
-            "Pants",
-            "Scissors"
+            "Mercurial",
+            "Martial",
+            "Lunatic",
+            "Jovial",
+            "Saturnine"
         ],
         "answer_index": 2,
-        "category": "Nouns Commonly Used in Plural Form",
-        "explanation": "All items except 'Shirt' are nouns that are commonly used in the plural form and often referred to with 'a pair of' (e.g., a pair of pants, a pair of scissors, a pair of binoculars, a pair of tongs). 'Shirt' is typically used in the singular.",
+        "category": "Adjectives Derived from Planets",
+        "explanation": "All tokens except 'Lunatic' are adjectives derived from the names of planets (Saturn, Mars, Jupiter, Mercury). 'Lunatic' is derived from 'Luna', which is the Moon.",
         "completed": false
     }
 ]
