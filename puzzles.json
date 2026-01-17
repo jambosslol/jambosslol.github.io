@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Phobos",
-            "Valles Marineris",
-            "Olympus Mons",
-            "Triton",
-            "Curiosity"
+            "Masthead",
+            "Headline",
+            "Dateline",
+            "Footnote",
+            "Byline"
         ],
         "answer_index": 3,
-        "category": "Features and Objects of Mars",
-        "explanation": "Olympus Mons (a volcano), Phobos (a moon), Curiosity (a rover), and Valles Marineris (a canyon system) are all distinct features or objects associated with the planet Mars. Triton is a moon of Neptune.",
+        "category": "Components of News Publications",
+        "explanation": "Headline, Byline, Dateline, and Masthead are all standard structural elements found within a newspaper or magazine publication. A footnote, in contrast, is typically used for citations or supplemental information in academic papers or books, not general news publications.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Great Wall of China",
-            "Pyramid of Giza",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon"
+            "Trajan",
+            "Hadrian",
+            "Nerva",
+            "Nero",
+            "Antoninus Pius"
         ],
-        "answer_index": 1,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "All items except the Great Wall of China are traditionally listed as one of the Seven Wonders of the Ancient World. The Great Wall is an ancient marvel but not part of that specific list.",
+        "answer_index": 3,
+        "category": "Roman Emperors of the Principate",
+        "explanation": "Nerva, Trajan, Hadrian, and Antoninus Pius are all traditionally counted among the 'Five Good Emperors' of Rome, a period known for stability and prosperity. Nero, however, reigned much earlier and is remembered for his tyrannical and extravagant rule.",
         "completed": false
     },
     {
         "tokens": [
-            "FREIGHT",
-            "LIGHT",
-            "NEIGHBOR",
-            "WEIGHT",
-            "SLEIGH"
+            "Cubit",
+            "Knot",
+            "Hand",
+            "Foot",
+            "Span"
         ],
         "answer_index": 1,
-        "category": "Words Containing the 'EIGH' Digraph",
-        "explanation": "Four of the words (Neighbor, Weight, Sleigh, Freight) contain the specific letter sequence 'EIGH'. 'Light' contains 'IGH' but does not include the 'E'.",
+        "category": "Units of Length Derived from Human Anatomy",
+        "explanation": "Foot, Hand, Span, and Cubit are all traditional units of length historically derived from specific human body parts. Knot is a unit of speed, not length, and is not derived from human anatomy.",
         "completed": false
     }
 ]
