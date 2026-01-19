@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "FULL",
-            "QUARTER",
-            "GIBBOUS",
-            "CRESCENT",
-            "ECLIPSE"
+            "Kelp Forest",
+            "Hydrothermal Vent",
+            "Black Smoker",
+            "Mariana Trench",
+            "Anglerfish"
+        ],
+        "answer_index": 0,
+        "category": "Deep Ocean Features and Organisms",
+        "explanation": "Anglerfish, Hydrothermal Vent, Mariana Trench, and Black Smoker are all found predominantly in the deep ocean's abyssal or hadal zones. A Kelp Forest is a shallow, sunlit, coastal marine ecosystem.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Pyramids of Giza",
+            "Great Wall of China"
         ],
         "answer_index": 4,
-        "category": "Phases of the Moon",
-        "explanation": "Crescent, Gibbous, Quarter, and Full are all recognized phases of the moon. An eclipse, while involving the moon, is an astronomical event rather than a phase of its illuminated appearance.",
+        "category": "The Seven Ancient Wonders of the World",
+        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all traditionally listed among the Seven Ancient Wonders of the World. The Great Wall of China, while an immense ancient structure, is not included in that specific classical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Cubit",
-            "Pace",
-            "Hand",
-            "Meter",
-            "Fathom"
+            "Level",
+            "Madam",
+            "Racecar",
+            "River",
+            "Refer"
         ],
         "answer_index": 3,
-        "category": "Traditional Body-Based Units of Length",
-        "explanation": "Cubit, Hand, Pace, and Fathom are historical units of length traditionally based on parts of the human body or human stride. The Meter is a standardized unit from the metric system, not directly derived from the human body.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Ground",
-            "Day",
-            "Fast",
-            "Window",
-            "Heart"
-        ],
-        "answer_index": 3,
-        "category": "Words Preceding 'Break'",
-        "explanation": "Heart (heartbreak), Day (daybreak), Ground (groundbreaking), and Fast (breakfast) are all words that commonly precede 'break' to form a well-known compound word or phrase. 'Window' does not form such a common compound.",
+        "category": "Palindromic Words",
+        "explanation": "All words except 'River' are palindromes, meaning they read the same forwards and backwards.",
         "completed": false
     }
 ]
