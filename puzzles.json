@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Kelp Forest",
-            "Hydrothermal Vent",
-            "Black Smoker",
-            "Mariana Trench",
-            "Anglerfish"
+            "Shout",
+            "Whisper",
+            "Listen",
+            "Scream",
+            "Mumble"
+        ],
+        "answer_index": 2,
+        "category": "Modes of Sound Emission",
+        "explanation": "Whisper, Shout, Scream, and Mumble are all actions that involve *producing* or *emitting* vocal sounds. 'Listen' is the act of *perceiving* or *receiving* sound, not creating it.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Statue of Zeus at Olympia"
         ],
         "answer_index": 0,
-        "category": "Deep Ocean Features and Organisms",
-        "explanation": "Anglerfish, Hydrothermal Vent, Mariana Trench, and Black Smoker are all found predominantly in the deep ocean's abyssal or hadal zones. A Kelp Forest is a shallow, sunlit, coastal marine ecosystem.",
+        "category": "Original Seven Wonders of the Ancient World (no longer standing)",
+        "explanation": "All tokens are from the traditional list of the Seven Wonders of the Ancient World. The Hanging Gardens, Statue of Zeus, Colossus of Rhodes, and Lighthouse of Alexandria have all been destroyed or fallen into ruin. The Great Pyramid of Giza is the only one that largely stands today.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Pyramids of Giza",
-            "Great Wall of China"
+            "Cent",
+            "Hertz",
+            "Mile",
+            "Knot",
+            "Carat"
         ],
-        "answer_index": 4,
-        "category": "The Seven Ancient Wonders of the World",
-        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all traditionally listed among the Seven Ancient Wonders of the World. The Great Wall of China, while an immense ancient structure, is not included in that specific classical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Level",
-            "Madam",
-            "Racecar",
-            "River",
-            "Refer"
-        ],
-        "answer_index": 3,
-        "category": "Palindromic Words",
-        "explanation": "All words except 'River' are palindromes, meaning they read the same forwards and backwards.",
+        "answer_index": 2,
+        "category": "Units with Distinct Homophones",
+        "explanation": "Four of the words (Knot, Carat, Cent, Hertz) are units of measurement that also have common, distinct homophones which are not units of measurement (e.g., knot/not, carat/carrot, cent/scent, hertz/hurts). 'Mile' is a unit of measurement but does not have such a common homophone.",
         "completed": false
     }
 ]
