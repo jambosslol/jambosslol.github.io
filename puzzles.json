@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Shout",
-            "Whisper",
-            "Listen",
-            "Scream",
-            "Mumble"
+            "Spring",
+            "Gear",
+            "Battery",
+            "Pendulum",
+            "Dial"
         ],
         "answer_index": 2,
-        "category": "Modes of Sound Emission",
-        "explanation": "Whisper, Shout, Scream, and Mumble are all actions that involve *producing* or *emitting* vocal sounds. 'Listen' is the act of *perceiving* or *receiving* sound, not creating it.",
+        "category": "Traditional Mechanical Clock Components",
+        "explanation": "Pendulum, Gear, Spring, and Dial are all essential mechanical or visible components of a traditional, non-electronic clock. A Battery is used to power electronic devices and is not a component of a classic mechanical timepiece.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Pyramid of Giza",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Statue of Zeus at Olympia"
+            "Charlotte Bront\u00eb",
+            "George Eliot",
+            "Jane Austen",
+            "Charles Dickens",
+            "Thomas Hardy"
+        ],
+        "answer_index": 2,
+        "category": "Prominent Victorian British Novelists",
+        "explanation": "Charles Dickens, George Eliot, Thomas Hardy, and Charlotte Bront\u00eb were all prolific and influential novelists who wrote primarily during the Victorian era. Jane Austen, however, wrote and died before Queen Victoria's reign began in 1837, placing her firmly in the Regency era.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Offbeat",
+            "Person",
+            "Onion",
+            "Canopy",
+            "Melon"
         ],
         "answer_index": 0,
-        "category": "Original Seven Wonders of the Ancient World (no longer standing)",
-        "explanation": "All tokens are from the traditional list of the Seven Wonders of the Ancient World. The Hanging Gardens, Statue of Zeus, Colossus of Rhodes, and Lighthouse of Alexandria have all been destroyed or fallen into ruin. The Great Pyramid of Giza is the only one that largely stands today.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Cent",
-            "Hertz",
-            "Mile",
-            "Knot",
-            "Carat"
-        ],
-        "answer_index": 2,
-        "category": "Units with Distinct Homophones",
-        "explanation": "Four of the words (Knot, Carat, Cent, Hertz) are units of measurement that also have common, distinct homophones which are not units of measurement (e.g., knot/not, carat/carrot, cent/scent, hertz/hurts). 'Mile' is a unit of measurement but does not have such a common homophone.",
+        "category": "Words containing the substring 'ON'",
+        "explanation": "Onion, Canopy, Melon, and Person all contain the consecutive letters 'ON'. 'Offbeat' does not.",
         "completed": false
     }
 ]
