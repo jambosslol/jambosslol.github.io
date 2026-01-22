@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Spring",
-            "Gear",
-            "Battery",
-            "Pendulum",
-            "Dial"
-        ],
-        "answer_index": 2,
-        "category": "Traditional Mechanical Clock Components",
-        "explanation": "Pendulum, Gear, Spring, and Dial are all essential mechanical or visible components of a traditional, non-electronic clock. A Battery is used to power electronic devices and is not a component of a classic mechanical timepiece.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Charlotte Bront\u00eb",
-            "George Eliot",
-            "Jane Austen",
-            "Charles Dickens",
-            "Thomas Hardy"
-        ],
-        "answer_index": 2,
-        "category": "Prominent Victorian British Novelists",
-        "explanation": "Charles Dickens, George Eliot, Thomas Hardy, and Charlotte Bront\u00eb were all prolific and influential novelists who wrote primarily during the Victorian era. Jane Austen, however, wrote and died before Queen Victoria's reign began in 1837, placing her firmly in the Regency era.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Offbeat",
-            "Person",
-            "Onion",
-            "Canopy",
-            "Melon"
+            "Keyboard",
+            "Pencil",
+            "Brush",
+            "Pen",
+            "Marker"
         ],
         "answer_index": 0,
-        "category": "Words containing the substring 'ON'",
-        "explanation": "Onion, Canopy, Melon, and Person all contain the consecutive letters 'ON'. 'Offbeat' does not.",
+        "category": "Tools for Manual Mark-Making",
+        "explanation": "Pen, Pencil, Marker, and Brush are all traditional tools used to physically apply a medium (ink, graphite, paint) to a surface to create marks or images by hand. A Keyboard is an electronic input device for typing digital text, not for manual mark-making.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Cerberus",
+            "Minotaur",
+            "Ladon",
+            "Chimera",
+            "Hydra"
+        ],
+        "answer_index": 1,
+        "category": "Multi-Headed Mythological Beasts",
+        "explanation": "All tokens except 'Minotaur' are mythological creatures famously depicted with multiple heads. The Minotaur, while a hybrid, has only one head (that of a bull).",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Content",
+            "Book",
+            "Produce",
+            "Invalid",
+            "Desert"
+        ],
+        "answer_index": 1,
+        "category": "Words with Shifting Stress and Meaning",
+        "explanation": "The words 'Content', 'Desert', 'Invalid', and 'Produce' are heteronyms; they are spelled identically but have different pronunciations (with a shift in stress) and different meanings depending on their grammatical function (e.g., noun vs. verb/adjective). 'Book' maintains the same pronunciation regardless of its use as a noun or a verb.",
         "completed": false
     }
 ]
