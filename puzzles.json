@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Keyboard",
-            "Pencil",
-            "Brush",
-            "Pen",
-            "Marker"
+            "Lamp",
+            "Flashlight",
+            "Candle",
+            "Mirror",
+            "Sun"
         ],
-        "answer_index": 0,
-        "category": "Tools for Manual Mark-Making",
-        "explanation": "Pen, Pencil, Marker, and Brush are all traditional tools used to physically apply a medium (ink, graphite, paint) to a surface to create marks or images by hand. A Keyboard is an electronic input device for typing digital text, not for manual mark-making.",
+        "answer_index": 3,
+        "category": "Sources of Emitted Light",
+        "explanation": "Lamp, Candle, Flashlight, and the Sun all generate and emit their own light. A mirror, however, reflects light rather than producing it.",
         "completed": false
     },
     {
         "tokens": [
-            "Cerberus",
-            "Minotaur",
-            "Ladon",
-            "Chimera",
-            "Hydra"
+            "Cuneiform",
+            "Quipu",
+            "Papyrus",
+            "The Compass",
+            "Hieroglyphics"
         ],
-        "answer_index": 1,
-        "category": "Multi-Headed Mythological Beasts",
-        "explanation": "All tokens except 'Minotaur' are mythological creatures famously depicted with multiple heads. The Minotaur, while a hybrid, has only one head (that of a bull).",
+        "answer_index": 3,
+        "category": "Ancient Information Recording & Communication",
+        "explanation": "Cuneiform, Hieroglyphics, Papyrus, and Quipu are all ancient systems or materials used for recording information or communication. The Compass is a navigational instrument.",
         "completed": false
     },
     {
         "tokens": [
-            "Content",
-            "Book",
-            "Produce",
-            "Invalid",
-            "Desert"
+            "Stare",
+            "Peer",
+            "Listen",
+            "Glimpse",
+            "Observe"
         ],
-        "answer_index": 1,
-        "category": "Words with Shifting Stress and Meaning",
-        "explanation": "The words 'Content', 'Desert', 'Invalid', and 'Produce' are heteronyms; they are spelled identically but have different pronunciations (with a shift in stress) and different meanings depending on their grammatical function (e.g., noun vs. verb/adjective). 'Book' maintains the same pronunciation regardless of its use as a noun or a verb.",
+        "answer_index": 2,
+        "category": "Verbs of Visual Perception",
+        "explanation": "Glimpse, Peer, Stare, and Observe are all verbs that describe different ways of seeing or looking. Listen describes the act of hearing.",
         "completed": false
     }
 ]
