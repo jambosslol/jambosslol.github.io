@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Lamp",
-            "Flashlight",
-            "Candle",
-            "Mirror",
-            "Sun"
+            "Calendar",
+            "Clock",
+            "Sundial",
+            "Thermometer",
+            "Watch"
         ],
         "answer_index": 3,
-        "category": "Sources of Emitted Light",
-        "explanation": "Lamp, Candle, Flashlight, and the Sun all generate and emit their own light. A mirror, however, reflects light rather than producing it.",
+        "category": "Devices for Measuring Time",
+        "explanation": "Clock, Watch, Calendar, and Sundial are all devices or systems used to measure, display, or track time. A Thermometer, however, measures temperature.",
         "completed": false
     },
     {
         "tokens": [
-            "Cuneiform",
-            "Quipu",
-            "Papyrus",
-            "The Compass",
-            "Hieroglyphics"
+            "Telescope",
+            "Papermaking",
+            "Compass",
+            "Printing Press",
+            "Gunpowder"
         ],
-        "answer_index": 3,
-        "category": "Ancient Information Recording & Communication",
-        "explanation": "Cuneiform, Hieroglyphics, Papyrus, and Quipu are all ancient systems or materials used for recording information or communication. The Compass is a navigational instrument.",
+        "answer_index": 0,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Printing Press, Compass, Gunpowder, and Papermaking are collectively known as the 'Four Great Inventions of Ancient China.' The Telescope was invented in the Netherlands.",
         "completed": false
     },
     {
         "tokens": [
-            "Stare",
-            "Peer",
-            "Listen",
-            "Glimpse",
-            "Observe"
+            "Transmute",
+            "Convert",
+            "Metamorphosis",
+            "Modify",
+            "Perpetuate"
         ],
-        "answer_index": 2,
-        "category": "Verbs of Visual Perception",
-        "explanation": "Glimpse, Peer, Stare, and Observe are all verbs that describe different ways of seeing or looking. Listen describes the act of hearing.",
+        "answer_index": 4,
+        "category": "Words Denoting Transformation",
+        "explanation": "Metamorphosis, Transmute, Convert, and Modify all refer to different types or degrees of change or transformation. Perpetuate, however, means to make something continue indefinitely, implying preservation or continuity rather than alteration.",
         "completed": false
     }
 ]
