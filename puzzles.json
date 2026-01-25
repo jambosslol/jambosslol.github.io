@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Calendar",
-            "Clock",
-            "Sundial",
-            "Thermometer",
-            "Watch"
-        ],
-        "answer_index": 3,
-        "category": "Devices for Measuring Time",
-        "explanation": "Clock, Watch, Calendar, and Sundial are all devices or systems used to measure, display, or track time. A Thermometer, however, measures temperature.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Telescope",
-            "Papermaking",
-            "Compass",
-            "Printing Press",
-            "Gunpowder"
+            "Microphone",
+            "Violin",
+            "Score",
+            "Baton",
+            "Conductor"
         ],
         "answer_index": 0,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "Printing Press, Compass, Gunpowder, and Papermaking are collectively known as the 'Four Great Inventions of Ancient China.' The Telescope was invented in the Netherlands.",
+        "category": "Essential Elements of a Traditional Orchestra",
+        "explanation": "Conductor, Violin, Baton, and Score are all fundamental and traditional elements integral to a classical orchestral performance. A Microphone, while it can be used for amplification or recording, is not an essential or traditional component of the performance itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Transmute",
-            "Convert",
-            "Metamorphosis",
-            "Modify",
-            "Perpetuate"
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza",
+            "Parthenon",
+            "Lighthouse of Alexandria"
         ],
-        "answer_index": 4,
-        "category": "Words Denoting Transformation",
-        "explanation": "Metamorphosis, Transmute, Convert, and Modify all refer to different types or degrees of change or transformation. Perpetuate, however, means to make something continue indefinitely, implying preservation or continuity rather than alteration.",
+        "answer_index": 3,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all commonly listed as traditional Seven Wonders of the Ancient World. The Parthenon, while an iconic ancient Greek temple, is not included in that specific list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Eye",
+            "Bee",
+            "Sea",
+            "Book",
+            "Are"
+        ],
+        "answer_index": 3,
+        "category": "Words that are homophones for letters of the alphabet",
+        "explanation": "Sea, Eye, Bee, and Are are homophones for the letters C, I, B, and R respectively. 'Book' does not share this characteristic.",
         "completed": false
     }
 ]
