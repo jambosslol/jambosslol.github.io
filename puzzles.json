@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Microphone",
-            "Violin",
-            "Score",
-            "Baton",
-            "Conductor"
+            "Padlock",
+            "Diary",
+            "Combination Safe",
+            "Door Lock",
+            "Car Ignition"
         ],
-        "answer_index": 0,
-        "category": "Essential Elements of a Traditional Orchestra",
-        "explanation": "Conductor, Violin, Baton, and Score are all fundamental and traditional elements integral to a classical orchestral performance. A Microphone, while it can be used for amplification or recording, is not an essential or traditional component of the performance itself.",
+        "answer_index": 2,
+        "category": "Items Secured by a Physical Key",
+        "explanation": "Door Lock, Car Ignition, Diary, and Padlock all typically require a physical key for their primary security or operation. A Combination Safe uses a numerical code rather than a physical key.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza",
-            "Parthenon",
-            "Lighthouse of Alexandria"
+            "Hadrian",
+            "Julius Caesar",
+            "Marcus Aurelius",
+            "Augustus",
+            "Nero"
         ],
-        "answer_index": 3,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all commonly listed as traditional Seven Wonders of the Ancient World. The Parthenon, while an iconic ancient Greek temple, is not included in that specific list.",
+        "answer_index": 1,
+        "category": "Roman Emperors",
+        "explanation": "Augustus, Nero, Marcus Aurelius, and Hadrian were all Roman Emperors. Julius Caesar was a powerful Roman general and statesman, but he was never officially an emperor; he was appointed dictator perpetuo.",
         "completed": false
     },
     {
         "tokens": [
-            "Eye",
-            "Bee",
-            "Sea",
-            "Book",
-            "Are"
+            "Proton",
+            "Nucleus",
+            "Neutron",
+            "Atom",
+            "Electron"
         ],
         "answer_index": 3,
-        "category": "Words that are homophones for letters of the alphabet",
-        "explanation": "Sea, Eye, Bee, and Are are homophones for the letters C, I, B, and R respectively. 'Book' does not share this characteristic.",
+        "category": "Components of an Atom",
+        "explanation": "Nucleus, Electron, Proton, and Neutron are all components or subatomic particles found within an atom. An atom is the complete structure, not one of its constituent parts.",
         "completed": false
     }
 ]
