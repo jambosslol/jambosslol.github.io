@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Padlock",
-            "Diary",
-            "Combination Safe",
-            "Door Lock",
-            "Car Ignition"
+            "Radish",
+            "Onion",
+            "Broccoli",
+            "Carrot",
+            "Potato"
         ],
         "answer_index": 2,
-        "category": "Items Secured by a Physical Key",
-        "explanation": "Door Lock, Car Ignition, Diary, and Padlock all typically require a physical key for their primary security or operation. A Combination Safe uses a numerical code rather than a physical key.",
+        "category": "Edible Plant Parts Primarily Grown Underground",
+        "explanation": "Carrot, Potato, Radish, and Onion are all edible parts of plants that primarily develop and grow underground. Broccoli, however, is an edible flower and stem that grows above ground.",
         "completed": false
     },
     {
         "tokens": [
-            "Hadrian",
-            "Julius Caesar",
-            "Marcus Aurelius",
-            "Augustus",
-            "Nero"
+            "Pearl Harbor",
+            "Battle of Midway",
+            "D-Day",
+            "Battle of Stalingrad",
+            "Battle of Gettysburg"
         ],
-        "answer_index": 1,
-        "category": "Roman Emperors",
-        "explanation": "Augustus, Nero, Marcus Aurelius, and Hadrian were all Roman Emperors. Julius Caesar was a powerful Roman general and statesman, but he was never officially an emperor; he was appointed dictator perpetuo.",
+        "answer_index": 4,
+        "category": "Key Events of World War II",
+        "explanation": "D-Day, the Battle of Stalingrad, Pearl Harbor, and the Battle of Midway were all pivotal events or battles during World War II. The Battle of Gettysburg was a major turning point in the American Civil War.",
         "completed": false
     },
     {
         "tokens": [
-            "Proton",
-            "Nucleus",
-            "Neutron",
-            "Atom",
-            "Electron"
+            "Honest",
+            "Gnome",
+            "Knead",
+            "Listen",
+            "Wreck"
         ],
         "answer_index": 3,
-        "category": "Components of an Atom",
-        "explanation": "Nucleus, Electron, Proton, and Neutron are all components or subatomic particles found within an atom. An atom is the complete structure, not one of its constituent parts.",
+        "category": "Silent Initial Consonants",
+        "explanation": "Knead (silent K), Gnome (silent G), Wreck (silent W), and Honest (silent H) all begin with a silent consonant. In 'Listen', all letters are pronounced.",
         "completed": false
     }
 ]
