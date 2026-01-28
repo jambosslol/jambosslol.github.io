@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Radish",
-            "Onion",
-            "Broccoli",
-            "Carrot",
-            "Potato"
+            "Curtain",
+            "Violin",
+            "Baton",
+            "Podium",
+            "Score"
         ],
-        "answer_index": 2,
-        "category": "Edible Plant Parts Primarily Grown Underground",
-        "explanation": "Carrot, Potato, Radish, and Onion are all edible parts of plants that primarily develop and grow underground. Broccoli, however, is an edible flower and stem that grows above ground.",
+        "answer_index": 0,
+        "category": "Elements of an Orchestral Performance",
+        "explanation": "Baton, Score, Podium, and Violin are all directly involved in the creation and execution of music by an orchestra. A Curtain is a part of the theater setting but not an intrinsic component of the musical performance itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Pearl Harbor",
-            "Battle of Midway",
-            "D-Day",
-            "Battle of Stalingrad",
-            "Battle of Gettysburg"
-        ],
-        "answer_index": 4,
-        "category": "Key Events of World War II",
-        "explanation": "D-Day, the Battle of Stalingrad, Pearl Harbor, and the Battle of Midway were all pivotal events or battles during World War II. The Battle of Gettysburg was a major turning point in the American Civil War.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Honest",
-            "Gnome",
-            "Knead",
-            "Listen",
-            "Wreck"
+            "Magna Carta",
+            "Bill of Rights",
+            "US Constitution",
+            "Treaty of Versailles",
+            "Declaration of Independence"
         ],
         "answer_index": 3,
-        "category": "Silent Initial Consonants",
-        "explanation": "Knead (silent K), Gnome (silent G), Wreck (silent W), and Honest (silent H) all begin with a silent consonant. In 'Listen', all letters are pronounced.",
+        "category": "Cornerstone Documents of Anglo-American Governance and Rights",
+        "explanation": "Magna Carta, the Declaration of Independence, the US Constitution, and the Bill of Rights are all pivotal documents that established fundamental legal principles, individual rights, or frameworks for governance, primarily within the Anglo-American tradition. The Treaty of Versailles was an international peace treaty signed after World War I.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Screw",
+            "Rivet",
+            "Bolt",
+            "Nail",
+            "Weld"
+        ],
+        "answer_index": 4,
+        "category": "Methods of Fastening",
+        "explanation": "Bolt, Screw, Rivet, and Nail are all discrete physical objects used as fasteners by being inserted into or through materials. Weld is a process that joins materials by fusing them together, rather than a distinct physical object.",
         "completed": false
     }
 ]
