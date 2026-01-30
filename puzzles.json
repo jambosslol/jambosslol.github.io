@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Closing",
-            "Signature",
-            "Hashtag",
-            "Salutation",
-            "Body"
-        ],
-        "answer_index": 2,
-        "category": "Components of a Traditional Letter",
-        "explanation": "Salutation, Body, Closing, and Signature are all standard parts of a traditional written letter. A Hashtag is a metadata tag used primarily on social media platforms.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Articles of Confederation",
-            "Declaration of Independence",
-            "Bill of Rights",
-            "Constitution",
-            "Emancipation Proclamation"
-        ],
-        "answer_index": 4,
-        "category": "Foundational U.S. Governing Documents (18th Century)",
-        "explanation": "The Declaration of Independence, Articles of Confederation, Constitution, and Bill of Rights are all documents from the late 18th century that established the United States as an independent nation and laid out its initial governmental structure and citizens' rights. The Emancipation Proclamation was issued during the Civil War in 1863, nearly a century later, and served a different, though critical, purpose.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Second",
-            "Ampere",
-            "Meter",
-            "Watt",
-            "Kilogram"
+            "Mile",
+            "Pound",
+            "Gallon",
+            "Ruler",
+            "Second"
         ],
         "answer_index": 3,
-        "category": "SI Base Units",
-        "explanation": "Meter, Kilogram, Second, and Ampere are all SI Base Units, representing length, mass, time, and electric current, respectively. Watt is an SI Derived Unit, used for power.",
+        "category": "Standard Units of Measurement",
+        "explanation": "Mile, Pound, Gallon, and Second are all standard units used to quantify different physical properties (distance, weight/mass, volume, and time, respectively). A Ruler is an instrument used for measuring, not a unit of measurement itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Pyramid of Giza",
+            "Acropolis of Athens",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes"
+        ],
+        "answer_index": 1,
+        "category": "Seven Ancient Wonders of the World",
+        "explanation": "The Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all recognized as four of the Seven Ancient Wonders of the World. The Acropolis of Athens, while historically significant, is not one of the designated Seven Wonders.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Transform",
+            "Convert",
+            "Stagnate",
+            "Transmogrify",
+            "Metamorphose"
+        ],
+        "answer_index": 2,
+        "category": "Verbs of Significant Change",
+        "explanation": "Metamorphose, Transmogrify, Convert, and Transform all describe processes of active and often dramatic alteration or transformation. Stagnate, however, means to cease to develop or progress, representing a lack of change.",
         "completed": false
     }
 ]
