@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Mile",
-            "Pound",
-            "Gallon",
-            "Ruler",
-            "Second"
-        ],
-        "answer_index": 3,
-        "category": "Standard Units of Measurement",
-        "explanation": "Mile, Pound, Gallon, and Second are all standard units used to quantify different physical properties (distance, weight/mass, volume, and time, respectively). A Ruler is an instrument used for measuring, not a unit of measurement itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Pyramid of Giza",
-            "Acropolis of Athens",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes"
-        ],
-        "answer_index": 1,
-        "category": "Seven Ancient Wonders of the World",
-        "explanation": "The Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all recognized as four of the Seven Ancient Wonders of the World. The Acropolis of Athens, while historically significant, is not one of the designated Seven Wonders.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Transform",
-            "Convert",
-            "Stagnate",
-            "Transmogrify",
-            "Metamorphose"
+            "Flute",
+            "Clarinet",
+            "Trumpet",
+            "Bassoon",
+            "Oboe"
         ],
         "answer_index": 2,
-        "category": "Verbs of Significant Change",
-        "explanation": "Metamorphose, Transmogrify, Convert, and Transform all describe processes of active and often dramatic alteration or transformation. Stagnate, however, means to cease to develop or progress, representing a lack of change.",
+        "category": "Musical Instrument Families",
+        "explanation": "Flute, Clarinet, Oboe, and Bassoon are all instruments belonging to the woodwind family. The Trumpet is a brass instrument.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Battle of Plataea",
+            "Battle of Thermopylae",
+            "Battle of Salamis",
+            "Battle of Cannae",
+            "Battle of Marathon"
+        ],
+        "answer_index": 3,
+        "category": "Major Battles of Ancient Wars",
+        "explanation": "The Battle of Thermopylae, Marathon, Salamis, and Plataea were all pivotal battles fought during the Greco-Persian Wars. The Battle of Cannae, however, was a key engagement in the Second Punic War between Rome and Carthage.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Habit",
+            "Record",
+            "News",
+            "Silence",
+            "Bone"
+        ],
+        "answer_index": 4,
+        "category": "Things broken idiomatically",
+        "explanation": "The first four tokens (News, Silence, Record, Habit) are all concepts or actions that are commonly 'broken' in an idiomatic, non-literal sense. A 'Bone' is typically broken in a literal, physical sense.",
         "completed": false
     }
 ]
