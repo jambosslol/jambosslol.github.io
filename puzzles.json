@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Flute",
-            "Clarinet",
-            "Trumpet",
-            "Bassoon",
-            "Oboe"
+            "Hammer",
+            "Pliers",
+            "Battery",
+            "Wrench",
+            "Screwdriver"
         ],
         "answer_index": 2,
-        "category": "Musical Instrument Families",
-        "explanation": "Flute, Clarinet, Oboe, and Bassoon are all instruments belonging to the woodwind family. The Trumpet is a brass instrument.",
+        "category": "Essential Manual Hand Tools",
+        "explanation": "Hammer, Screwdriver, Wrench, and Pliers are all fundamental manual hand tools designed for direct mechanical tasks. A Battery is an energy storage device, not a tool itself, though it may power tools.",
         "completed": false
     },
     {
         "tokens": [
-            "Battle of Plataea",
-            "Battle of Thermopylae",
-            "Battle of Salamis",
-            "Battle of Cannae",
-            "Battle of Marathon"
+            "Colossus of Rhodes",
+            "Parthenon",
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon"
         ],
-        "answer_index": 3,
-        "category": "Major Battles of Ancient Wars",
-        "explanation": "The Battle of Thermopylae, Marathon, Salamis, and Plataea were all pivotal battles fought during the Greco-Persian Wars. The Battle of Cannae, however, was a key engagement in the Second Punic War between Rome and Carthage.",
+        "answer_index": 1,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all commonly listed among the Seven Wonders of the Ancient World. The Parthenon is an ancient Greek temple, but it is not one of the canonical Seven Wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "Habit",
-            "Record",
-            "News",
-            "Silence",
-            "Bone"
+            "Rumble",
+            "Shimmer",
+            "Glimmer",
+            "Flicker",
+            "Twinkle"
         ],
-        "answer_index": 4,
-        "category": "Things broken idiomatically",
-        "explanation": "The first four tokens (News, Silence, Record, Habit) are all concepts or actions that are commonly 'broken' in an idiomatic, non-literal sense. A 'Bone' is typically broken in a literal, physical sense.",
+        "answer_index": 0,
+        "category": "Verbs of Subtle Light Phenomena",
+        "explanation": "Flicker, Glimmer, Shimmer, and Twinkle are all verbs that describe different ways light moves or appears subtly. Rumble, however, describes a type of low, continuous sound.",
         "completed": false
     }
 ]
