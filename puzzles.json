@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Hammer",
-            "Pliers",
-            "Battery",
-            "Wrench",
-            "Screwdriver"
+            "Violin",
+            "Viola",
+            "Double Bass",
+            "Trumpet",
+            "Cello"
         ],
-        "answer_index": 2,
-        "category": "Essential Manual Hand Tools",
-        "explanation": "Hammer, Screwdriver, Wrench, and Pliers are all fundamental manual hand tools designed for direct mechanical tasks. A Battery is an energy storage device, not a tool itself, though it may power tools.",
+        "answer_index": 3,
+        "category": "Bowed String Instruments",
+        "explanation": "All tokens except 'Trumpet' are instruments belonging to the bowed string family. 'Trumpet' is a brass instrument.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Parthenon",
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon"
+            "Compass",
+            "Gunpowder",
+            "Papermaking",
+            "Telescope",
+            "Printing"
         ],
-        "answer_index": 1,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all commonly listed among the Seven Wonders of the Ancient World. The Parthenon is an ancient Greek temple, but it is not one of the canonical Seven Wonders.",
+        "answer_index": 3,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Compass, Gunpowder, Papermaking, and Printing are traditionally recognized as the Four Great Inventions of Ancient China. The Telescope was invented in the Netherlands during the early 17th century.",
         "completed": false
     },
     {
         "tokens": [
-            "Rumble",
-            "Shimmer",
-            "Glimmer",
-            "Flicker",
-            "Twinkle"
+            "VENT",
+            "STOP",
+            "CORK",
+            "SEAL",
+            "PLUG"
         ],
         "answer_index": 0,
-        "category": "Verbs of Subtle Light Phenomena",
-        "explanation": "Flicker, Glimmer, Shimmer, and Twinkle are all verbs that describe different ways light moves or appears subtly. Rumble, however, describes a type of low, continuous sound.",
+        "category": "Actions to Obstruct or Close",
+        "explanation": "SEAL, PLUG, CORK, and STOP all describe actions or objects used to close, block, or obstruct an opening or flow. VENT, however, means to release or allow passage, making it the odd one out.",
         "completed": false
     }
 ]
