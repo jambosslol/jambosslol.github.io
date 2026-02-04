@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Magnet",
-            "Thermometer",
-            "Scale",
-            "Clock",
-            "Ruler"
+            "Surfboard",
+            "Ice Skates",
+            "Snowboard",
+            "Skis",
+            "Sled"
         ],
         "answer_index": 0,
-        "category": "Instruments for Physical Measurement",
-        "explanation": "Scale, ruler, thermometer, and clock are all instruments used to measure specific physical quantities (mass, length, temperature, and time, respectively). A magnet, while possessing physical properties, is not an instrument for measurement.",
+        "category": "Winter Recreation Equipment",
+        "explanation": "Snowboards, skis, sleds, and ice skates are all primarily used for recreational activities on snow or ice. A surfboard is used for surfing on water.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Wall of China",
-            "Colossus of Rhodes",
-            "Library of Alexandria",
-            "Hanging Gardens",
-            "Lighthouse of Alexandria"
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "Neil Armstrong",
+            "James Cook",
+            "Ferdinand Magellan"
         ],
-        "answer_index": 0,
-        "category": "Major Ancient Structures Primarily Lost to History",
-        "explanation": "The Library of Alexandria, Colossus of Rhodes, Hanging Gardens, and Lighthouse of Alexandria are all significant ancient structures or sites that have been largely destroyed or whose existence is debated, with few or no physical remains visible today. The Great Wall of China, while ancient, remains a largely intact and visible landmark.",
+        "answer_index": 2,
+        "category": "Pioneering Maritime Explorers",
+        "explanation": "Christopher Columbus, Ferdinand Magellan, Vasco da Gama, and James Cook were all renowned for their historical voyages of maritime exploration, significantly expanding geographical knowledge by sea. Neil Armstrong, while a pioneering explorer, is famous for space exploration, specifically being the first man on the Moon.",
         "completed": false
     },
     {
         "tokens": [
-            "Trousers",
-            "Hat",
-            "Socks",
-            "Scissors",
-            "Gloves"
+            "Deduct",
+            "Reduce",
+            "Bestow",
+            "Subtract",
+            "Diminish"
         ],
-        "answer_index": 1,
-        "category": "Items with Inherent Duality",
-        "explanation": "Socks and gloves are typically worn in pairs. Scissors consist of two complementary blades, and trousers have two legs. All these items inherently involve a duality or come in pairs for their common function. A hat, however, is a singular item.",
+        "answer_index": 2,
+        "category": "Verbs of Diminishment",
+        "explanation": "Four of the words (Subtract, Deduct, Diminish, Reduce) describe actions that lessen, decrease, or take away from something. 'Bestow' means to grant or give, which is the opposite action.",
         "completed": false
     }
 ]
