@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Surfboard",
-            "Ice Skates",
-            "Snowboard",
-            "Skis",
-            "Sled"
+            "Laundry",
+            "Handkerchief",
+            "Origami",
+            "Balloon",
+            "Map"
         ],
-        "answer_index": 0,
-        "category": "Winter Recreation Equipment",
-        "explanation": "Snowboards, skis, sleds, and ice skates are all primarily used for recreational activities on snow or ice. A surfboard is used for surfing on water.",
+        "answer_index": 3,
+        "category": "Objects Commonly Folded",
+        "explanation": "Laundry, Origami (the art of paper folding), a Map, and a Handkerchief are all items commonly associated with the act of folding for storage or artistic purpose. A Balloon is typically inflated and not characterized by being folded.",
         "completed": false
     },
     {
         "tokens": [
-            "Vasco da Gama",
-            "Christopher Columbus",
-            "Neil Armstrong",
-            "James Cook",
-            "Ferdinand Magellan"
+            "Compass",
+            "Wheel",
+            "Gunpowder",
+            "Paper",
+            "Printing Press"
         ],
-        "answer_index": 2,
-        "category": "Pioneering Maritime Explorers",
-        "explanation": "Christopher Columbus, Ferdinand Magellan, Vasco da Gama, and James Cook were all renowned for their historical voyages of maritime exploration, significantly expanding geographical knowledge by sea. Neil Armstrong, while a pioneering explorer, is famous for space exploration, specifically being the first man on the Moon.",
+        "answer_index": 1,
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Printing Press, Compass, and Paper are widely recognized as the 'Four Great Inventions' of Ancient China. The Wheel was invented much earlier in Mesopotamia.",
         "completed": false
     },
     {
         "tokens": [
-            "Deduct",
-            "Reduce",
-            "Bestow",
-            "Subtract",
-            "Diminish"
+            "Desserts",
+            "Flow",
+            "Apple",
+            "Loop",
+            "Stop"
         ],
         "answer_index": 2,
-        "category": "Verbs of Diminishment",
-        "explanation": "Four of the words (Subtract, Deduct, Diminish, Reduce) describe actions that lessen, decrease, or take away from something. 'Bestow' means to grant or give, which is the opposite action.",
+        "category": "Words That Spell Another Word When Reversed",
+        "explanation": "All words except 'Apple' spell another common English word when read in reverse: 'Desserts' becomes 'Stressed', 'Stop' becomes 'Pots', 'Loop' becomes 'Pool', and 'Flow' becomes 'Wolf'. 'Apple' reversed ('elppa') is not a common English word.",
         "completed": false
     }
 ]
