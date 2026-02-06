@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Laundry",
-            "Handkerchief",
-            "Origami",
-            "Balloon",
-            "Map"
+            "Wax",
+            "Chocolate",
+            "Ice",
+            "Butter",
+            "Wood"
         ],
-        "answer_index": 3,
-        "category": "Objects Commonly Folded",
-        "explanation": "Laundry, Origami (the art of paper folding), a Map, and a Handkerchief are all items commonly associated with the act of folding for storage or artistic purpose. A Balloon is typically inflated and not characterized by being folded.",
+        "answer_index": 4,
+        "category": "Substances That Readily Melt",
+        "explanation": "Ice, wax, butter, and chocolate are all substances commonly known for melting and changing from solid to liquid at relatively low temperatures. Wood, on the other hand, typically burns or chars rather than melts when heated.",
         "completed": false
     },
     {
         "tokens": [
-            "Compass",
-            "Wheel",
-            "Gunpowder",
-            "Paper",
-            "Printing Press"
+            "Philip Marlowe",
+            "Sherlock Holmes",
+            "Hercule Poirot",
+            "Miss Marple",
+            "Dr. Watson"
+        ],
+        "answer_index": 4,
+        "category": "Iconic Fictional Detectives",
+        "explanation": "Sherlock Holmes, Hercule Poirot, Miss Marple, and Philip Marlowe are all renowned fictional detectives from various literary series. Dr. Watson is primarily Sherlock Holmes's assistant and chronicler, not a detective himself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Rumble",
+            "Glimmer",
+            "Whisper",
+            "Shout",
+            "Murmur"
         ],
         "answer_index": 1,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Printing Press, Compass, and Paper are widely recognized as the 'Four Great Inventions' of Ancient China. The Wheel was invented much earlier in Mesopotamia.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Desserts",
-            "Flow",
-            "Apple",
-            "Loop",
-            "Stop"
-        ],
-        "answer_index": 2,
-        "category": "Words That Spell Another Word When Reversed",
-        "explanation": "All words except 'Apple' spell another common English word when read in reverse: 'Desserts' becomes 'Stressed', 'Stop' becomes 'Pots', 'Loop' becomes 'Pool', and 'Flow' becomes 'Wolf'. 'Apple' reversed ('elppa') is not a common English word.",
+        "category": "Sensory Verbs",
+        "explanation": "Whisper, Murmur, Shout, and Rumble are all verbs (or nouns) describing different types of sounds. Glimmer, however, describes a type of light or visual phenomenon.",
         "completed": false
     }
 ]
