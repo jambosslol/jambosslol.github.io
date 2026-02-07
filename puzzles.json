@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Wax",
-            "Chocolate",
-            "Ice",
-            "Butter",
-            "Wood"
-        ],
-        "answer_index": 4,
-        "category": "Substances That Readily Melt",
-        "explanation": "Ice, wax, butter, and chocolate are all substances commonly known for melting and changing from solid to liquid at relatively low temperatures. Wood, on the other hand, typically burns or chars rather than melts when heated.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Philip Marlowe",
-            "Sherlock Holmes",
-            "Hercule Poirot",
-            "Miss Marple",
-            "Dr. Watson"
-        ],
-        "answer_index": 4,
-        "category": "Iconic Fictional Detectives",
-        "explanation": "Sherlock Holmes, Hercule Poirot, Miss Marple, and Philip Marlowe are all renowned fictional detectives from various literary series. Dr. Watson is primarily Sherlock Holmes's assistant and chronicler, not a detective himself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Rumble",
-            "Glimmer",
-            "Whisper",
-            "Shout",
-            "Murmur"
+            "Coda",
+            "Prologue",
+            "Epilogue",
+            "Finale",
+            "Denouement"
         ],
         "answer_index": 1,
-        "category": "Sensory Verbs",
-        "explanation": "Whisper, Murmur, Shout, and Rumble are all verbs (or nouns) describing different types of sounds. Glimmer, however, describes a type of light or visual phenomenon.",
+        "category": "Terms for Concluding Sections",
+        "explanation": "Finale, Epilogue, Coda, and Denouement all refer to the concluding or final part of a performance, book, musical piece, or narrative. Prologue, however, refers to an introductory section.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lighthouse of Alexandria",
+            "Pyramids of Giza",
+            "Great Wall of China",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon"
+        ],
+        "answer_index": 2,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all traditionally listed among the Seven Wonders of the Ancient World. The Great Wall of China is a monumental ancient structure, but it is not part of that original list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Motor",
+            "Refer",
+            "Rotor",
+            "Level",
+            "Madam"
+        ],
+        "answer_index": 0,
+        "category": "Palindromic Words",
+        "explanation": "All tokens except 'Motor' are palindromes, meaning they read the same forwards and backwards.",
         "completed": false
     }
 ]
