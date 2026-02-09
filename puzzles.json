@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Code",
-            "Wave",
-            "Silence",
-            "Heart",
-            "Bone"
+            "Rock Salt",
+            "River Water",
+            "Black Pepper",
+            "Coffee Bean",
+            "Wheat Grain"
+        ],
+        "answer_index": 1,
+        "category": "Substances commonly processed by grinding or milling",
+        "explanation": "Coffee bean, wheat grain, black pepper, and rock salt are all substances that are typically ground or milled into smaller particles or powders for use or consumption. River water cannot be processed in this manner.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Book of the Dead",
+            "Sarcophagus",
+            "Ankh",
+            "Canopic Jar",
+            "Rosetta Stone"
         ],
         "answer_index": 4,
-        "category": "Things that can be 'broken' non-physically or figuratively",
-        "explanation": "Heart (emotionally), Code (deciphered), Wave (natural phenomenon), and Silence (interrupted) can all be 'broken' without physical destruction of a solid object. A 'Bone' is physically broken, indicating structural damage to its material form.",
+        "category": "Ancient Egyptian Funerary and Tomb Items",
+        "explanation": "A Sarcophagus, Canopic Jar, Ankh, and Book of the Dead are all intimately associated with ancient Egyptian burial rites, funerary practices, and tomb contents. The Rosetta Stone is a stone stele inscribed with a decree, famously used to decipher hieroglyphs, and was not a funerary item.",
         "completed": false
     },
     {
         "tokens": [
-            "Compass",
-            "Steam Engine",
-            "Gunpowder",
-            "Papermaking",
-            "Printing"
+            "Treble",
+            "Tempo",
+            "Tenor",
+            "Alto",
+            "Bass"
         ],
         "answer_index": 1,
-        "category": "Historical Innovations",
-        "explanation": "The first four items (Papermaking, Printing, Gunpowder, and Compass) are traditionally recognized as the Four Great Inventions of Ancient China. The Steam Engine, while also a landmark invention, originated in the Western Industrial Revolution much later.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Yard",
-            "Kilogram",
-            "Foot",
-            "Inch",
-            "Meter"
-        ],
-        "answer_index": 1,
-        "category": "Units of Length",
-        "explanation": "Meter, Inch, Foot, and Yard are all standard units of measurement for length or distance. Kilogram is a unit for measuring mass.",
+        "category": "Musical Vocal Ranges",
+        "explanation": "Treble, Bass, Alto, and Tenor are all terms for specific vocal ranges or parts in music. Tempo refers to the speed or pace of a musical piece, not a range.",
         "completed": false
     }
 ]
