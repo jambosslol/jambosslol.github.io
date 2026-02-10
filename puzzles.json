@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Rock Salt",
-            "River Water",
-            "Black Pepper",
-            "Coffee Bean",
-            "Wheat Grain"
+            "Book",
+            "Ferris Wheel",
+            "Blender",
+            "Washing Machine",
+            "Record Player"
         ],
-        "answer_index": 1,
-        "category": "Substances commonly processed by grinding or milling",
-        "explanation": "Coffee bean, wheat grain, black pepper, and rock salt are all substances that are typically ground or milled into smaller particles or powders for use or consumption. River water cannot be processed in this manner.",
+        "answer_index": 0,
+        "category": "Objects with Primary Rotational or Spinning Functions",
+        "explanation": "Record Player, Ferris Wheel, Washing Machine, and Blender all rely on a central rotating or spinning mechanism for their primary operation. A book does not share this functional characteristic.",
         "completed": false
     },
     {
         "tokens": [
-            "Book of the Dead",
-            "Sarcophagus",
-            "Ankh",
-            "Canopic Jar",
-            "Rosetta Stone"
+            "Chich\u00e9n Itz\u00e1",
+            "Hanging Gardens of Babylon",
+            "Statue of Zeus at Olympia",
+            "Temple of Artemis",
+            "Lighthouse of Alexandria"
         ],
-        "answer_index": 4,
-        "category": "Ancient Egyptian Funerary and Tomb Items",
-        "explanation": "A Sarcophagus, Canopic Jar, Ankh, and Book of the Dead are all intimately associated with ancient Egyptian burial rites, funerary practices, and tomb contents. The Rosetta Stone is a stone stele inscribed with a decree, famously used to decipher hieroglyphs, and was not a funerary item.",
+        "answer_index": 0,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The first four are universally recognized as part of the original Seven Wonders of the Ancient World. Chich\u00e9n Itz\u00e1 is one of the New7Wonders of the World, designated in 2007, and was not part of the original ancient list compiled by Hellenic travelers.",
         "completed": false
     },
     {
         "tokens": [
-            "Treble",
-            "Tempo",
-            "Tenor",
-            "Alto",
-            "Bass"
+            "SunFLOWER",
+            "MercuRIAL",
+            "MarSALA",
+            "JupitER",
+            "SaturDAY"
         ],
-        "answer_index": 1,
-        "category": "Musical Vocal Ranges",
-        "explanation": "Treble, Bass, Alto, and Tenor are all terms for specific vocal ranges or parts in music. Tempo refers to the speed or pace of a musical piece, not a range.",
+        "answer_index": 0,
+        "category": "Words Containing Planets",
+        "explanation": "The first four words each contain the name of a planet (Saturn, Mars, Jupiter, Mercury) as a substring. 'SunFLOWER' does not contain a planet name.",
         "completed": false
     }
 ]
