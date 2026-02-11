@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Book",
-            "Ferris Wheel",
-            "Blender",
-            "Washing Machine",
-            "Record Player"
+            "Bicycle",
+            "Airplane",
+            "Train",
+            "Bus",
+            "Ferry"
         ],
         "answer_index": 0,
-        "category": "Objects with Primary Rotational or Spinning Functions",
-        "explanation": "Record Player, Ferris Wheel, Washing Machine, and Blender all rely on a central rotating or spinning mechanism for their primary operation. A book does not share this functional characteristic.",
+        "category": "Forms of Mass Passenger Transit with a Dedicated Operator",
+        "explanation": "Airplane, Bus, Train, and Ferry are all forms of transportation that typically carry multiple passengers and require a dedicated, licensed operator (pilot, driver, captain). A Bicycle is a personal, self-operated mode of transport.",
         "completed": false
     },
     {
         "tokens": [
-            "Chich\u00e9n Itz\u00e1",
-            "Hanging Gardens of Babylon",
-            "Statue of Zeus at Olympia",
-            "Temple of Artemis",
-            "Lighthouse of Alexandria"
+            "Neil Armstrong",
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "James Cook",
+            "Ferdinand Magellan"
         ],
         "answer_index": 0,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The first four are universally recognized as part of the original Seven Wonders of the Ancient World. Chich\u00e9n Itz\u00e1 is one of the New7Wonders of the World, designated in 2007, and was not part of the original ancient list compiled by Hellenic travelers.",
+        "category": "Age of Discovery Maritime Explorers",
+        "explanation": "Christopher Columbus, Ferdinand Magellan, Vasco da Gama, and James Cook were all prominent maritime explorers during the European Age of Discovery. Neil Armstrong was an astronaut and the first person to walk on the Moon, making him an explorer of space rather than Earth's oceans and continents.",
         "completed": false
     },
     {
         "tokens": [
-            "SunFLOWER",
-            "MercuRIAL",
-            "MarSALA",
-            "JupitER",
-            "SaturDAY"
+            "Pint",
+            "Minute",
+            "Acre",
+            "Mile",
+            "Pound"
         ],
-        "answer_index": 0,
-        "category": "Words Containing Planets",
-        "explanation": "The first four words each contain the name of a planet (Saturn, Mars, Jupiter, Mercury) as a substring. 'SunFLOWER' does not contain a planet name.",
+        "answer_index": 1,
+        "category": "Units of Physical Dimension",
+        "explanation": "Pint, Pound, Acre, and Mile are all units used to measure physical dimensions (volume, mass, area, and length respectively). Minute is a unit of time.",
         "completed": false
     }
 ]
