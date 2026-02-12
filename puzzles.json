@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Bicycle",
-            "Airplane",
-            "Train",
-            "Bus",
-            "Ferry"
-        ],
-        "answer_index": 0,
-        "category": "Forms of Mass Passenger Transit with a Dedicated Operator",
-        "explanation": "Airplane, Bus, Train, and Ferry are all forms of transportation that typically carry multiple passengers and require a dedicated, licensed operator (pilot, driver, captain). A Bicycle is a personal, self-operated mode of transport.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Neil Armstrong",
-            "Vasco da Gama",
-            "Christopher Columbus",
-            "James Cook",
-            "Ferdinand Magellan"
-        ],
-        "answer_index": 0,
-        "category": "Age of Discovery Maritime Explorers",
-        "explanation": "Christopher Columbus, Ferdinand Magellan, Vasco da Gama, and James Cook were all prominent maritime explorers during the European Age of Discovery. Neil Armstrong was an astronaut and the first person to walk on the Moon, making him an explorer of space rather than Earth's oceans and continents.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Pint",
-            "Minute",
-            "Acre",
+            "Yard",
+            "Chain",
             "Mile",
-            "Pound"
+            "Rod",
+            "Foot"
+        ],
+        "answer_index": 2,
+        "category": "Units of Length with Dual Meanings",
+        "explanation": "Foot, Yard, Rod, and Chain are all units of length that also commonly refer to specific physical objects or places. Mile is primarily just a unit of length, without a distinct common noun meaning for a physical object or place.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "George Washington",
+            "Benjamin Franklin",
+            "Thomas Jefferson",
+            "John Adams",
+            "James Madison"
         ],
         "answer_index": 1,
-        "category": "Units of Physical Dimension",
-        "explanation": "Pint, Pound, Acre, and Mile are all units used to measure physical dimensions (volume, mass, area, and length respectively). Minute is a unit of time.",
+        "category": "Early US Presidents",
+        "explanation": "George Washington, John Adams, Thomas Jefferson, and James Madison all served as early US Presidents. Benjamin Franklin was a prominent Founding Father but never held the office of President.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "ATE",
+            "FOR",
+            "WON",
+            "TOO",
+            "BLUE"
+        ],
+        "answer_index": 4,
+        "category": "Homophones of Single-Digit Numbers",
+        "explanation": "ATE, FOR, WON, and TOO are all homophones of single-digit numbers (8, 4, 1, and 2 respectively). BLUE does not share this characteristic.",
         "completed": false
     }
 ]
