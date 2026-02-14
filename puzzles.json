@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Fable",
-            "Alibi",
-            "Suspect",
-            "Deduction",
-            "Clue"
+            "Helicopter",
+            "Hot Air Balloon",
+            "Airplane",
+            "Kite",
+            "Drone"
         ],
-        "answer_index": 0,
-        "category": "Elements of a Detective Story",
-        "explanation": "Clue, Suspect, Alibi, and Deduction are all integral components or processes found within a detective story. Fable is a type of short story, often featuring animals and a moral, and is not an internal element of a detective narrative.",
+        "answer_index": 3,
+        "category": "Manned or Self-Propelled Aerial Vehicles",
+        "explanation": "Helicopter, Airplane, Drone, and Hot Air Balloon are all vehicles that are either manned or possess their own means of propulsion and lift (engines, motors, burners) to achieve controlled flight. A kite, however, is unpowered and relies entirely on external wind for lift and a tether for control, rather than internal propulsion or a pilot onboard.",
         "completed": false
     },
     {
         "tokens": [
-            "Terracotta Army",
-            "Rosetta Stone",
-            "Dead Sea Scrolls",
-            "Library of Alexandria",
-            "Vatican Library"
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "The Roman Colosseum",
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 0,
-        "category": "Historically significant collections or artifacts primarily known for written texts",
-        "explanation": "The Library of Alexandria, Dead Sea Scrolls, Vatican Library, and Rosetta Stone are all historically significant items or places associated with the preservation, discovery, or unlocking of written texts and ancient knowledge. The Terracotta Army is a collection of sculptures and an archaeological marvel, but it is not primarily known for written texts or knowledge contained within a textual format.",
+        "answer_index": 2,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "All tokens except 'The Roman Colosseum' are considered one of the original Seven Wonders of the Ancient World. While also an ancient marvel, the Colosseum was not on that specific list.",
         "completed": false
     },
     {
         "tokens": [
-            "Murmur",
-            "Scream",
-            "Rustle",
-            "Whisper",
-            "Mumble"
+            "Chapter",
+            "Spine",
+            "Foreword",
+            "Index",
+            "Page"
         ],
         "answer_index": 1,
-        "category": "Quiet or Indistinct Sounds",
-        "explanation": "Whisper, Mumble, Murmur, and Rustle are all types of sounds that are typically quiet, low in volume, or indistinct. Scream is a loud and often high-pitched sound.",
+        "category": "Content-related components of a book",
+        "explanation": "Chapter, Page, Index, and Foreword are all textual or content-related parts found within a book. The Spine is a physical, structural component of the book's binding, not its written content.",
         "completed": false
     }
 ]
