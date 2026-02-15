@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Helicopter",
-            "Hot Air Balloon",
-            "Airplane",
-            "Kite",
-            "Drone"
-        ],
-        "answer_index": 3,
-        "category": "Manned or Self-Propelled Aerial Vehicles",
-        "explanation": "Helicopter, Airplane, Drone, and Hot Air Balloon are all vehicles that are either manned or possess their own means of propulsion and lift (engines, motors, burners) to achieve controlled flight. A kite, however, is unpowered and relies entirely on external wind for lift and a tether for control, rather than internal propulsion or a pilot onboard.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "The Roman Colosseum",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza"
+            "Goggles",
+            "Sun Hat",
+            "Trowel",
+            "Gardening Gloves",
+            "Apron"
         ],
         "answer_index": 2,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "All tokens except 'The Roman Colosseum' are considered one of the original Seven Wonders of the Ancient World. While also an ancient marvel, the Colosseum was not on that specific list.",
+        "category": "Personal Protective Gear for Gardening",
+        "explanation": "All items except the Trowel are forms of personal protective gear worn on the body for gardening. A Trowel is a handheld tool.",
         "completed": false
     },
     {
         "tokens": [
-            "Chapter",
-            "Spine",
-            "Foreword",
-            "Index",
-            "Page"
+            "John Hancock",
+            "Thomas Jefferson",
+            "John Adams",
+            "George Washington",
+            "Benjamin Franklin"
+        ],
+        "answer_index": 3,
+        "category": "Signers of the Declaration of Independence",
+        "explanation": "John Hancock, Benjamin Franklin, Thomas Jefferson, and John Adams were all signers of the Declaration of Independence. George Washington, while a pivotal Founding Father, did not sign it as he was leading the Continental Army at the time.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Muffle",
+            "Vibrate",
+            "Amplify",
+            "Resonate",
+            "Echo"
         ],
         "answer_index": 1,
-        "category": "Content-related components of a book",
-        "explanation": "Chapter, Page, Index, and Foreword are all textual or content-related parts found within a book. The Spine is a physical, structural component of the book's binding, not its written content.",
+        "category": "Sound Modification and Phenomena",
+        "explanation": "Muffle, Amplify, Resonate, and Echo all describe ways sound can be altered, prolonged, or perceived after it has been produced. Vibrate, however, describes the physical motion that *produces* sound.",
         "completed": false
     }
 ]
