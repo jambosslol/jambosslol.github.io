@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Imago",
-            "Larva",
-            "Egg",
-            "Pupa",
-            "Cocoon"
-        ],
-        "answer_index": 4,
-        "category": "Stages of Butterfly Metamorphosis",
-        "explanation": "Egg, Larva, Pupa, and Imago (adult butterfly) are the four distinct stages of a butterfly's life cycle. A cocoon is a silken casing spun by the larvae of moths for pupation, whereas butterflies form a chrysalis.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Helicopter",
-            "Parachute",
-            "Printing Press",
-            "Armored Tank",
-            "Diving Suit"
+            "Car",
+            "Boat",
+            "Bicycle",
+            "Motorcycle",
+            "Jet Plane"
         ],
         "answer_index": 2,
-        "category": "Designs by Leonardo da Vinci",
-        "explanation": "Four of these tokens (Helicopter, Parachute, Diving Suit, Armored Tank) represent visionary concepts or detailed designs sketched by Leonardo da Vinci, centuries before their practical realization. The Printing Press, however, was a revolutionary and functional invention developed by Johannes Gutenberg in the 15th century.",
+        "category": "Vehicles Requiring Petroleum-Based Fuel",
+        "explanation": "Car, Motorcycle, Jet Plane, and Boat all require petroleum-based fuels (like gasoline, diesel, or jet fuel) to operate. A Bicycle is powered solely by human energy.",
         "completed": false
     },
     {
         "tokens": [
-            "Thermometer",
-            "Rocket",
-            "Elevator",
-            "Balloon",
-            "Anchor"
+            "Aqueducts",
+            "Julian Calendar",
+            "Concrete",
+            "Roman Roads",
+            "Printing Press"
         ],
         "answer_index": 4,
-        "category": "Upward Bound",
-        "explanation": "Balloon, Rocket, and Elevator are objects primarily known for moving physically upwards. A Thermometer indicates an increase (goes up) in temperature. An Anchor's fundamental purpose is to descend.",
+        "category": "Major Innovations of Ancient Rome",
+        "explanation": "Concrete, aqueducts, Roman roads, and the Julian Calendar were all significant innovations developed and widely used by the ancient Romans. The printing press was invented by Johannes Gutenberg in 15th-century Germany, centuries after the Roman Empire.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Spectacles",
+            "Pliers",
+            "Hat",
+            "Scissors",
+            "Trousers"
+        ],
+        "answer_index": 2,
+        "category": "Items Always Plural Due to Paired Components",
+        "explanation": "Trousers, scissors, spectacles, and pliers are all objects composed of two symmetrical parts and are typically referred to using their plural form. A hat is a single item.",
         "completed": false
     }
 ]
