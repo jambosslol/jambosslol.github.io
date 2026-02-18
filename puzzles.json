@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Car",
-            "Boat",
-            "Bicycle",
-            "Motorcycle",
-            "Jet Plane"
+            "Puppet",
+            "Bow",
+            "Yarn",
+            "Guitar",
+            "Tennis Racket"
         ],
         "answer_index": 2,
-        "category": "Vehicles Requiring Petroleum-Based Fuel",
-        "explanation": "Car, Motorcycle, Jet Plane, and Boat all require petroleum-based fuels (like gasoline, diesel, or jet fuel) to operate. A Bicycle is powered solely by human energy.",
+        "category": "Objects utilizing integrated strings for primary function",
+        "explanation": "Guitar, Tennis Racket, Bow (for archery), and Puppet all rely on integrated strings as essential functional components for their operation. Yarn, while being a material made of strings, is not an object that functions by utilizing attached or integrated strings in the same way as the others.",
         "completed": false
     },
     {
         "tokens": [
-            "Aqueducts",
-            "Julian Calendar",
-            "Concrete",
-            "Roman Roads",
-            "Printing Press"
+            "Penicillin",
+            "Vulcanized Rubber",
+            "Post-it Note",
+            "Lightbulb",
+            "Microwave Oven"
         ],
-        "answer_index": 4,
-        "category": "Major Innovations of Ancient Rome",
-        "explanation": "Concrete, aqueducts, Roman roads, and the Julian Calendar were all significant innovations developed and widely used by the ancient Romans. The printing press was invented by Johannes Gutenberg in 15th-century Germany, centuries after the Roman Empire.",
+        "answer_index": 3,
+        "category": "Accidental Inventions & Discoveries",
+        "explanation": "Penicillin, Post-it Note, Microwave Oven, and Vulcanized Rubber were all significant inventions or discoveries that occurred largely by accident or through unexpected observations. The Lightbulb, while revolutionary, was the result of extensive, deliberate research and development rather than an accidental discovery.",
         "completed": false
     },
     {
         "tokens": [
-            "Spectacles",
-            "Pliers",
+            "Shoes",
+            "Socks",
             "Hat",
             "Scissors",
-            "Trousers"
+            "Gloves"
         ],
         "answer_index": 2,
-        "category": "Items Always Plural Due to Paired Components",
-        "explanation": "Trousers, scissors, spectacles, and pliers are all objects composed of two symmetrical parts and are typically referred to using their plural form. A hat is a single item.",
+        "category": "Items typically used or found in pairs",
+        "explanation": "Socks, Shoes, Gloves, and Scissors are all items that are commonly used or found as a pair or composed of two functionally paired parts. A Hat is typically a single item.",
         "completed": false
     }
 ]
