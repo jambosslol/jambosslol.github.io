@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Puppet",
-            "Bow",
-            "Yarn",
-            "Guitar",
-            "Tennis Racket"
+            "Washing Machine",
+            "Pendulum",
+            "Gyroscope",
+            "Fidget Spinner",
+            "Top"
         ],
-        "answer_index": 2,
-        "category": "Objects utilizing integrated strings for primary function",
-        "explanation": "Guitar, Tennis Racket, Bow (for archery), and Puppet all rely on integrated strings as essential functional components for their operation. Yarn, while being a material made of strings, is not an object that functions by utilizing attached or integrated strings in the same way as the others.",
+        "answer_index": 1,
+        "category": "Objects Defined by Rotational Motion",
+        "explanation": "A Top, Fidget Spinner, Gyroscope, and the drum of a Washing Machine all operate fundamentally on the principle of spinning or rotation. A Pendulum operates by oscillation, swinging back and forth, rather than rotating.",
         "completed": false
     },
     {
         "tokens": [
-            "Penicillin",
-            "Vulcanized Rubber",
-            "Post-it Note",
-            "Lightbulb",
-            "Microwave Oven"
+            "Lighthouse of Alexandria",
+            "Colosseum",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes"
         ],
-        "answer_index": 3,
-        "category": "Accidental Inventions & Discoveries",
-        "explanation": "Penicillin, Post-it Note, Microwave Oven, and Vulcanized Rubber were all significant inventions or discoveries that occurred largely by accident or through unexpected observations. The Lightbulb, while revolutionary, was the result of extensive, deliberate research and development rather than an accidental discovery.",
+        "answer_index": 1,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. The Colosseum, while an impressive ancient structure, is not included in this traditional list.",
         "completed": false
     },
     {
         "tokens": [
-            "Shoes",
-            "Socks",
-            "Hat",
-            "Scissors",
-            "Gloves"
+            "Ate",
+            "Tree",
+            "For",
+            "Won",
+            "To"
         ],
-        "answer_index": 2,
-        "category": "Items typically used or found in pairs",
-        "explanation": "Socks, Shoes, Gloves, and Scissors are all items that are commonly used or found as a pair or composed of two functionally paired parts. A Hat is typically a single item.",
+        "answer_index": 1,
+        "category": "Numerical Homophones",
+        "explanation": "Four of the words are homophones of single-digit numbers (Won=One, To=Two, For=Four, Ate=Eight). 'Tree' does not share this characteristic.",
         "completed": false
     }
 ]
