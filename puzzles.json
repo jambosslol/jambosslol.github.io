@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Washing Machine",
-            "Pendulum",
-            "Gyroscope",
-            "Fidget Spinner",
-            "Top"
+            "Score",
+            "Conductor",
+            "Stand",
+            "Baton",
+            "Microphone"
         ],
-        "answer_index": 1,
-        "category": "Objects Defined by Rotational Motion",
-        "explanation": "A Top, Fidget Spinner, Gyroscope, and the drum of a Washing Machine all operate fundamentally on the principle of spinning or rotation. A Pendulum operates by oscillation, swinging back and forth, rather than rotating.",
+        "answer_index": 4,
+        "category": "Elements of a Traditional Classical Orchestra Performance",
+        "explanation": "Conductor, Baton, Score, and Stand are all integral components or tools directly involved in the live acoustic performance and direction of a traditional classical orchestra. A Microphone is primarily used for amplification or recording, which is not an inherent or traditional part of the internal performance mechanism of such an ensemble.",
         "completed": false
     },
     {
         "tokens": [
-            "Lighthouse of Alexandria",
-            "Colosseum",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes"
+            "Parchment",
+            "Linear B",
+            "Quipu",
+            "Cuneiform",
+            "Hieroglyphs"
         ],
-        "answer_index": 1,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. The Colosseum, while an impressive ancient structure, is not included in this traditional list.",
+        "answer_index": 0,
+        "category": "Ancient Writing and Record-Keeping Systems",
+        "explanation": "Hieroglyphs, Cuneiform, Quipu, and Linear B are all distinct ancient systems for writing or record-keeping. Parchment, on the other hand, is a material used for writing, not a system itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Ate",
-            "Tree",
-            "For",
-            "Won",
-            "To"
+            "Jovial",
+            "Martial",
+            "Lunar",
+            "Saturnine",
+            "Mercurial"
         ],
-        "answer_index": 1,
-        "category": "Numerical Homophones",
-        "explanation": "Four of the words are homophones of single-digit numbers (Won=One, To=Two, For=Four, Ate=Eight). 'Tree' does not share this characteristic.",
+        "answer_index": 2,
+        "category": "Adjectives derived from celestial bodies that are planets",
+        "explanation": "Saturnine (Saturn), Martial (Mars), Jovial (Jupiter), and Mercurial (Mercury) are all adjectives derived from the names of planets. Lunar is derived from Luna (the Moon), which is not a planet.",
         "completed": false
     }
 ]
