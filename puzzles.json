@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Score",
-            "Conductor",
-            "Stand",
-            "Baton",
-            "Microphone"
+            "Thermometer",
+            "Barometer",
+            "Anemometer",
+            "Microscope",
+            "Voltmeter"
         ],
-        "answer_index": 4,
-        "category": "Elements of a Traditional Classical Orchestra Performance",
-        "explanation": "Conductor, Baton, Score, and Stand are all integral components or tools directly involved in the live acoustic performance and direction of a traditional classical orchestra. A Microphone is primarily used for amplification or recording, which is not an inherent or traditional part of the internal performance mechanism of such an ensemble.",
+        "answer_index": 3,
+        "category": "Instruments for Quantitative Measurement",
+        "explanation": "All items except the Microscope are scientific instruments primarily designed to measure a specific physical property (temperature, pressure, electrical potential, wind speed, respectively). A microscope's primary function is magnification and observation rather than direct quantitative measurement of a physical property.",
         "completed": false
     },
     {
         "tokens": [
-            "Parchment",
-            "Linear B",
-            "Quipu",
-            "Cuneiform",
-            "Hieroglyphs"
+            "Alphabet",
+            "Gunpowder",
+            "Compass",
+            "Printing",
+            "Papermaking"
         ],
         "answer_index": 0,
-        "category": "Ancient Writing and Record-Keeping Systems",
-        "explanation": "Hieroglyphs, Cuneiform, Quipu, and Linear B are all distinct ancient systems for writing or record-keeping. Parchment, on the other hand, is a material used for writing, not a system itself.",
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Compass, Papermaking, and Printing are traditionally recognized as the Four Great Inventions of Ancient China. The Alphabet originated with the Phoenicians.",
         "completed": false
     },
     {
         "tokens": [
-            "Jovial",
-            "Martial",
-            "Lunar",
-            "Saturnine",
-            "Mercurial"
+            "Wave",
+            "News",
+            "Heart",
+            "Day",
+            "Fast"
         ],
         "answer_index": 2,
-        "category": "Adjectives derived from celestial bodies that are planets",
-        "explanation": "Saturnine (Saturn), Martial (Mars), Jovial (Jupiter), and Mercurial (Mercury) are all adjectives derived from the names of planets. Lunar is derived from Luna (the Moon), which is not a planet.",
+        "category": "Phrases with 'break' indicating beginning, interruption, or revelation",
+        "explanation": "All tokens except 'Heart' form common phrases with the verb 'break' where 'break' signifies a beginning ('break of day'), an interruption ('break a fast'), or a revelation ('break news', 'break a wave'). 'Break a heart' uses 'break' to mean causing damage or emotional pain, which is distinct from the other uses.",
         "completed": false
     }
 ]
