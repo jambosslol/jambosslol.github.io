@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Thermometer",
-            "Barometer",
-            "Anemometer",
-            "Microscope",
-            "Voltmeter"
-        ],
-        "answer_index": 3,
-        "category": "Instruments for Quantitative Measurement",
-        "explanation": "All items except the Microscope are scientific instruments primarily designed to measure a specific physical property (temperature, pressure, electrical potential, wind speed, respectively). A microscope's primary function is magnification and observation rather than direct quantitative measurement of a physical property.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Alphabet",
-            "Gunpowder",
-            "Compass",
-            "Printing",
-            "Papermaking"
+            "Illustrator",
+            "Editor",
+            "Publisher",
+            "Manuscript",
+            "Proofreader"
         ],
         "answer_index": 0,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Compass, Papermaking, and Printing are traditionally recognized as the Four Great Inventions of Ancient China. The Alphabet originated with the Phoenicians.",
+        "category": "Stages and Roles in Textual Publication",
+        "explanation": "Manuscript, Editor, Publisher, and Proofreader are all primarily concerned with the written text, its creation, refinement, and distribution. An Illustrator, however, creates visual content rather than textual content, making it the odd one out in this group focused on text-based publication.",
         "completed": false
     },
     {
         "tokens": [
-            "Wave",
-            "News",
-            "Heart",
-            "Day",
-            "Fast"
+            "The Prince",
+            "Magna Carta",
+            "UN Charter",
+            "French Declaration of the Rights of Man and of the Citizen",
+            "US Declaration of Independence"
         ],
-        "answer_index": 2,
-        "category": "Phrases with 'break' indicating beginning, interruption, or revelation",
-        "explanation": "All tokens except 'Heart' form common phrases with the verb 'break' where 'break' signifies a beginning ('break of day'), an interruption ('break a fast'), or a revelation ('break news', 'break a wave'). 'Break a heart' uses 'break' to mean causing damage or emotional pain, which is distinct from the other uses.",
+        "answer_index": 0,
+        "category": "Foundational Charters and Declarations",
+        "explanation": "Magna Carta, the US Declaration of Independence, the French Declaration of the Rights of Man and of the Citizen, and the UN Charter are all historical documents that serve as foundational legal texts or declarations of rights for a state or international body. 'The Prince' is a political treatise offering advice on acquiring and maintaining power, not a foundational legal document or charter.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "GLOVES",
+            "SCARF",
+            "EARRINGS",
+            "SHOES",
+            "SOCKS"
+        ],
+        "answer_index": 1,
+        "category": "Items Commonly Worn in Pairs",
+        "explanation": "SOCKS, GLOVES, SHOES, and EARRINGS are all items typically worn in sets of two. A SCARF is generally worn as a single item.",
         "completed": false
     }
 ]
