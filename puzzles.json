@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Illustrator",
-            "Editor",
-            "Publisher",
-            "Manuscript",
-            "Proofreader"
+            "Candle",
+            "Charcoal",
+            "Diamond",
+            "Battery",
+            "Soap"
         ],
-        "answer_index": 0,
-        "category": "Stages and Roles in Textual Publication",
-        "explanation": "Manuscript, Editor, Publisher, and Proofreader are all primarily concerned with the written text, its creation, refinement, and distribution. An Illustrator, however, creates visual content rather than textual content, making it the odd one out in this group focused on text-based publication.",
+        "answer_index": 2,
+        "category": "Items designed to be consumed or depleted during their primary use",
+        "explanation": "Candle (wax), Battery (charge), Soap (material), and Charcoal (fuel) are all designed to be consumed or diminish in quantity/potency as they perform their primary function. A Diamond, however, is valued for its durability and is not consumed or depleted during its primary uses (e.g., jewelry, cutting).",
         "completed": false
     },
     {
         "tokens": [
-            "The Prince",
-            "Magna Carta",
-            "UN Charter",
-            "French Declaration of the Rights of Man and of the Citizen",
-            "US Declaration of Independence"
+            "Margaret Atwood",
+            "George Orwell",
+            "J.R.R. Tolkien",
+            "Ray Bradbury",
+            "Aldous Huxley"
         ],
-        "answer_index": 0,
-        "category": "Foundational Charters and Declarations",
-        "explanation": "Magna Carta, the US Declaration of Independence, the French Declaration of the Rights of Man and of the Citizen, and the UN Charter are all historical documents that serve as foundational legal texts or declarations of rights for a state or international body. 'The Prince' is a political treatise offering advice on acquiring and maintaining power, not a foundational legal document or charter.",
+        "answer_index": 2,
+        "category": "Pioneers of Dystopian Literature",
+        "explanation": "George Orwell, Aldous Huxley, Ray Bradbury, and Margaret Atwood are all highly regarded authors known for their seminal works in the dystopian genre. J.R.R. Tolkien, on the other hand, is celebrated as the father of modern high fantasy, not dystopian fiction.",
         "completed": false
     },
     {
         "tokens": [
-            "GLOVES",
-            "SCARF",
-            "EARRINGS",
-            "SHOES",
-            "SOCKS"
+            "Fleet",
+            "Swarm",
+            "Herd",
+            "Flock",
+            "School"
         ],
-        "answer_index": 1,
-        "category": "Items Commonly Worn in Pairs",
-        "explanation": "SOCKS, GLOVES, SHOES, and EARRINGS are all items typically worn in sets of two. A SCARF is generally worn as a single item.",
+        "answer_index": 0,
+        "category": "Collective Nouns for Animals",
+        "explanation": "Swarm (insects), Herd (mammals), Flock (birds), and School (fish) are all collective nouns primarily used to describe groups of animals. Fleet is a collective noun typically used for groups of vehicles or ships.",
         "completed": false
     }
 ]
