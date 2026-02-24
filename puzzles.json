@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Candle",
-            "Charcoal",
-            "Diamond",
-            "Battery",
-            "Soap"
+            "Speedometer",
+            "Odometer",
+            "Scale",
+            "Map",
+            "Compass"
         ],
         "answer_index": 2,
-        "category": "Items designed to be consumed or depleted during their primary use",
-        "explanation": "Candle (wax), Battery (charge), Soap (material), and Charcoal (fuel) are all designed to be consumed or diminish in quantity/potency as they perform their primary function. A Diamond, however, is valued for its durability and is not consumed or depleted during its primary uses (e.g., jewelry, cutting).",
+        "category": "Tools for Measuring or Guiding Movement",
+        "explanation": "All items except 'Scale' are devices used to measure, track, or aid in movement or navigation. A 'Scale' is used to measure weight or mass.",
         "completed": false
     },
     {
         "tokens": [
-            "Margaret Atwood",
-            "George Orwell",
-            "J.R.R. Tolkien",
-            "Ray Bradbury",
-            "Aldous Huxley"
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Taj Mahal"
         ],
-        "answer_index": 2,
-        "category": "Pioneers of Dystopian Literature",
-        "explanation": "George Orwell, Aldous Huxley, Ray Bradbury, and Margaret Atwood are all highly regarded authors known for their seminal works in the dystopian genre. J.R.R. Tolkien, on the other hand, is celebrated as the father of modern high fantasy, not dystopian fiction.",
+        "answer_index": 4,
+        "category": "The Seven Ancient Wonders of the World",
+        "explanation": "The first four items are traditionally listed among the Seven Ancient Wonders of the World. The Taj Mahal, while a magnificent structure, is a much later architectural marvel and is not considered one of the Ancient Wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "Fleet",
-            "Swarm",
-            "Herd",
-            "Flock",
-            "School"
+            "Head",
+            "Street",
+            "Heavy",
+            "Spot",
+            "Flash"
         ],
-        "answer_index": 0,
-        "category": "Collective Nouns for Animals",
-        "explanation": "Swarm (insects), Herd (mammals), Flock (birds), and School (fish) are all collective nouns primarily used to describe groups of animals. Fleet is a collective noun typically used for groups of vehicles or ships.",
+        "answer_index": 2,
+        "category": "Words that form common compounds with 'light'",
+        "explanation": "Street, Spot, Flash, and Head can all precede 'light' to form common compound words (streetlight, spotlight, flashlight, headlight). 'Heavy light' is not a common compound word or phrase with the same structural or conceptual meaning.",
         "completed": false
     }
 ]
