@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Speedometer",
-            "Odometer",
-            "Scale",
-            "Map",
-            "Compass"
+            "Propeller",
+            "Mast",
+            "Rudder",
+            "Sail",
+            "Keel"
         ],
-        "answer_index": 2,
-        "category": "Tools for Measuring or Guiding Movement",
-        "explanation": "All items except 'Scale' are devices used to measure, track, or aid in movement or navigation. A 'Scale' is used to measure weight or mass.",
+        "answer_index": 0,
+        "category": "Components of a Traditional Sailing Ship",
+        "explanation": "Mast, Sail, Rudder, and Keel are all essential components of a traditional sailing ship, enabling it to harness wind power and navigate. A Propeller is a mechanical propulsion device, typically found on motor vessels, not traditional sailing ships.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Taj Mahal"
+            "Pierre Curie",
+            "Henri Becquerel",
+            "Ernest Rutherford",
+            "Marie Curie",
+            "Isaac Newton"
         ],
         "answer_index": 4,
-        "category": "The Seven Ancient Wonders of the World",
-        "explanation": "The first four items are traditionally listed among the Seven Ancient Wonders of the World. The Taj Mahal, while a magnificent structure, is a much later architectural marvel and is not considered one of the Ancient Wonders.",
+        "category": "Pioneers in Radioactivity Research",
+        "explanation": "Marie Curie, Pierre Curie, Ernest Rutherford, and Henri Becquerel were all pivotal figures in the discovery and study of radioactivity. Isaac Newton was a monumental figure in physics and mathematics, but his groundbreaking work was not directly related to radioactivity.",
         "completed": false
     },
     {
         "tokens": [
-            "Head",
-            "Street",
-            "Heavy",
-            "Spot",
-            "Flash"
+            "Reverberate",
+            "Resonate",
+            "Audible",
+            "Echo",
+            "Tangible"
         ],
-        "answer_index": 2,
-        "category": "Words that form common compounds with 'light'",
-        "explanation": "Street, Spot, Flash, and Head can all precede 'light' to form common compound words (streetlight, spotlight, flashlight, headlight). 'Heavy light' is not a common compound word or phrase with the same structural or conceptual meaning.",
+        "answer_index": 4,
+        "category": "Words related to the sense of hearing",
+        "explanation": "Echo, Reverberate, Resonate, and Audible all describe phenomena or properties related to sound or the ability to hear. Tangible, in contrast, refers to something that can be perceived by the sense of touch.",
         "completed": false
     }
 ]
