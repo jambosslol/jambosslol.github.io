@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Spell",
-            "Vote",
-            "Plaster",
-            "Fishing Line",
-            "Shadow"
+            "Meter",
+            "Kilogram",
+            "Second",
+            "Ampere",
+            "Celsius"
         ],
-        "answer_index": 2,
-        "category": "Things that are 'cast' (verb)",
-        "explanation": "Spell, Vote, Shadow, and Fishing Line are all nouns that can be actively 'cast' (e.g., cast a spell, cast a vote, cast a shadow, cast a fishing line). Plaster is a material often used to create a 'cast' (noun), but it is not something one 'casts' in the same verbal sense as the others.",
+        "answer_index": 4,
+        "category": "SI Base Units",
+        "explanation": "Meter, Kilogram, Second, and Ampere are four of the seven fundamental SI (International System of Units) base units. Celsius is a unit of temperature, but Kelvin is the corresponding SI base unit.",
         "completed": false
     },
     {
         "tokens": [
-            "James Cook",
-            "Ferdinand Magellan",
-            "Vasco da Gama",
-            "Marco Polo",
-            "Christopher Columbus"
+            "Pyramids of Giza",
+            "Pont du Gard",
+            "Qanat",
+            "Grand Canal",
+            "Siloam Tunnel"
+        ],
+        "answer_index": 0,
+        "category": "Ancient Water Engineering",
+        "explanation": "Pont du Gard, Qanat, Grand Canal, and Siloam Tunnel are all historical engineering marvels primarily designed for water management, transportation, or supply. The Pyramids of Giza, while ancient wonders, were built as tombs and monuments, unrelated to water systems.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Void",
+            "Emptiness",
+            "Absence",
+            "Plenitude",
+            "Scarcity"
         ],
         "answer_index": 3,
-        "category": "Pioneering Maritime Explorers",
-        "explanation": "The other four individuals were famous European explorers known primarily for their significant sea voyages and discovery of new oceanic routes or continents by sea. Marco Polo, while also a famous explorer, is renowned for his extensive overland journeys along the Silk Road.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Aware",
-            "Tired",
-            "Concerned",
-            "Accused",
-            "Capable"
-        ],
-        "answer_index": 2,
-        "category": "Adjectives followed by a specific preposition",
-        "explanation": "All tokens except 'Concerned' are commonly followed by the preposition 'of' (e.g., 'accused of', 'aware of', 'capable of', 'tired of'). 'Concerned' is typically followed by 'about' or 'for'.",
+        "category": "Concepts of Deficiency",
+        "explanation": "Void, Absence, Scarcity, and Emptiness all describe a state of lacking or being without something. Plenitude signifies abundance or fullness, making it the opposite.",
         "completed": false
     }
 ]
