@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Meter",
-            "Kilogram",
-            "Second",
-            "Ampere",
-            "Celsius"
+            "Quill",
+            "Inkwell",
+            "Sealing Wax",
+            "Parchment",
+            "Typewriter"
         ],
         "answer_index": 4,
-        "category": "SI Base Units",
-        "explanation": "Meter, Kilogram, Second, and Ampere are four of the seven fundamental SI (International System of Units) base units. Celsius is a unit of temperature, but Kelvin is the corresponding SI base unit.",
+        "category": "Traditional Manual Correspondence Tools",
+        "explanation": "Inkwell, Quill, Parchment, and Sealing Wax are all essential elements for traditional, manual letter writing and correspondence, primarily before the advent of mechanical writing devices. A Typewriter is a mechanical device for writing, representing a significant technological shift.",
         "completed": false
     },
     {
         "tokens": [
-            "Pyramids of Giza",
-            "Pont du Gard",
-            "Qanat",
-            "Grand Canal",
-            "Siloam Tunnel"
+            "Printing",
+            "Gunpowder",
+            "Compass",
+            "Papermaking",
+            "Steam Engine"
         ],
-        "answer_index": 0,
-        "category": "Ancient Water Engineering",
-        "explanation": "Pont du Gard, Qanat, Grand Canal, and Siloam Tunnel are all historical engineering marvels primarily designed for water management, transportation, or supply. The Pyramids of Giza, while ancient wonders, were built as tombs and monuments, unrelated to water systems.",
+        "answer_index": 4,
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Compass, Papermaking, and Printing are traditionally recognized as the Four Great Inventions of Ancient China. The Steam Engine, however, was a pivotal invention of the Industrial Revolution, developed much later in Europe.",
         "completed": false
     },
     {
         "tokens": [
-            "Void",
-            "Emptiness",
-            "Absence",
-            "Plenitude",
-            "Scarcity"
+            "LEAD",
+            "CLOSE",
+            "BEGIN",
+            "BOW",
+            "WIND"
         ],
-        "answer_index": 3,
-        "category": "Concepts of Deficiency",
-        "explanation": "Void, Absence, Scarcity, and Emptiness all describe a state of lacking or being without something. Plenitude signifies abundance or fullness, making it the opposite.",
+        "answer_index": 2,
+        "category": "Homographs",
+        "explanation": "The words 'BOW', 'LEAD', 'WIND', and 'CLOSE' are all homographs, meaning they have identical spellings but different meanings and often different pronunciations (e.g., a bow and to bow; lead the metal and to lead; wind the air and to wind a clock; close the door and to be close by). 'BEGIN' does not share this characteristic.",
         "completed": false
     }
 ]
