@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Quill",
-            "Inkwell",
-            "Sealing Wax",
-            "Parchment",
-            "Typewriter"
+            "Dice",
+            "Timer",
+            "Cards",
+            "Pawns",
+            "Spinner"
         ],
-        "answer_index": 4,
-        "category": "Traditional Manual Correspondence Tools",
-        "explanation": "Inkwell, Quill, Parchment, and Sealing Wax are all essential elements for traditional, manual letter writing and correspondence, primarily before the advent of mechanical writing devices. A Typewriter is a mechanical device for writing, representing a significant technological shift.",
+        "answer_index": 1,
+        "category": "Core Board Game Components",
+        "explanation": "Dice, Cards, Pawns, and Spinner are all physical components typically found inside a board game box, essential for gameplay mechanics. A Timer, while often used with board games, is generally an external accessory or app, not a core component included within the game itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing",
-            "Gunpowder",
-            "Compass",
-            "Papermaking",
-            "Steam Engine"
+            "Freya",
+            "Zeus",
+            "Odin",
+            "Thor",
+            "Loki"
         ],
-        "answer_index": 4,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Compass, Papermaking, and Printing are traditionally recognized as the Four Great Inventions of Ancient China. The Steam Engine, however, was a pivotal invention of the Industrial Revolution, developed much later in Europe.",
+        "answer_index": 1,
+        "category": "Norse Mythology Figures",
+        "explanation": "Odin, Thor, Loki, and Freya are prominent deities in Norse mythology, whereas Zeus is the king of the gods in Greek mythology.",
         "completed": false
     },
     {
         "tokens": [
-            "LEAD",
-            "CLOSE",
-            "BEGIN",
-            "BOW",
-            "WIND"
+            "Boil",
+            "Evaporate",
+            "Shake",
+            "Melt",
+            "Freeze"
         ],
         "answer_index": 2,
-        "category": "Homographs",
-        "explanation": "The words 'BOW', 'LEAD', 'WIND', and 'CLOSE' are all homographs, meaning they have identical spellings but different meanings and often different pronunciations (e.g., a bow and to bow; lead the metal and to lead; wind the air and to wind a clock; close the door and to be close by). 'BEGIN' does not share this characteristic.",
+        "category": "Terms for Phase Transitions of Matter",
+        "explanation": "Melt, Boil, Freeze, and Evaporate are all terms describing a change in the state of matter (e.g., solid to liquid, liquid to gas). 'Shake' describes a physical action, not a transformation of matter's state.",
         "completed": false
     }
 ]
