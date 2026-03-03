@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Dice",
-            "Timer",
-            "Cards",
-            "Pawns",
-            "Spinner"
+            "Roasting Pan",
+            "Toaster",
+            "Muffin Tin",
+            "Springform Pan",
+            "Baking Sheet"
         ],
         "answer_index": 1,
-        "category": "Core Board Game Components",
-        "explanation": "Dice, Cards, Pawns, and Spinner are all physical components typically found inside a board game box, essential for gameplay mechanics. A Timer, while often used with board games, is generally an external accessory or app, not a core component included within the game itself.",
+        "category": "Pans Designed for Conventional Oven Use",
+        "explanation": "All items except the Toaster are specific types of pans or tins designed to hold food while baking or roasting inside a conventional oven. A toaster is a separate appliance that cooks food with radiant heat and does not go inside an oven.",
         "completed": false
     },
     {
         "tokens": [
-            "Freya",
-            "Zeus",
-            "Odin",
-            "Thor",
-            "Loki"
+            "Hanging Gardens of Babylon",
+            "Acropolis of Athens",
+            "Pyramids of Giza",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria"
         ],
         "answer_index": 1,
-        "category": "Norse Mythology Figures",
-        "explanation": "Odin, Thor, Loki, and Freya are prominent deities in Norse mythology, whereas Zeus is the king of the gods in Greek mythology.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Pyramids of Giza, Colossus of Rhodes, Hanging Gardens of Babylon, and Lighthouse of Alexandria are all traditionally listed among the Seven Wonders of the Ancient World. The Acropolis of Athens, while an iconic ancient site, is not one of the Seven Wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "Boil",
-            "Evaporate",
-            "Shake",
-            "Melt",
-            "Freeze"
+            "SECOND",
+            "METER",
+            "AMPERE",
+            "KILOGRAM",
+            "JOULE"
         ],
-        "answer_index": 2,
-        "category": "Terms for Phase Transitions of Matter",
-        "explanation": "Melt, Boil, Freeze, and Evaporate are all terms describing a change in the state of matter (e.g., solid to liquid, liquid to gas). 'Shake' describes a physical action, not a transformation of matter's state.",
+        "answer_index": 4,
+        "category": "SI Base Units",
+        "explanation": "METER, KILOGRAM, SECOND, and AMPERE are all SI Base Units, which are the fundamental units of measurement in the International System of Units. JOULE, however, is a derived SI unit for energy, meaning it is expressed as a combination of base units.",
         "completed": false
     }
 ]
