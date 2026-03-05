@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Tripod",
-            "Enlarger",
-            "Developer",
-            "Fixer",
-            "Safelight"
-        ],
-        "answer_index": 0,
-        "category": "Traditional Darkroom Essentials",
-        "explanation": "Enlarger, Developer, Fixer, and Safelight are all specific pieces of equipment or chemicals used exclusively within a traditional darkroom for processing photographic film and prints. A Tripod is used for stabilizing a camera when taking pictures, not for darkroom operations.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Great Pyramid of Giza",
-            "Lighthouse of Alexandria",
-            "Great Wall of China",
-            "Colossus of Rhodes",
-            "Statue of Zeus at Olympia"
-        ],
-        "answer_index": 2,
-        "category": "The Original Seven Ancient Wonders",
-        "explanation": "The Great Pyramid of Giza, Colossus of Rhodes, Lighthouse of Alexandria, and Statue of Zeus at Olympia are all part of the original Seven Ancient Wonders of the World. The Great Wall of China, while a significant historical structure, is not included in that specific ancient list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Racecar",
-            "Cycle",
-            "Madam",
-            "Level",
-            "Refer"
+            "Ice",
+            "Mirror",
+            "Glass",
+            "Window",
+            "Lens"
         ],
         "answer_index": 1,
-        "category": "Palindromes",
-        "explanation": "All tokens except 'Cycle' are palindromes, meaning they read the same forwards and backwards.",
+        "category": "Objects or Substances Known for Light Transmission",
+        "explanation": "Window, Lens, Glass, and Ice are all typically transparent or translucent, allowing light to pass through them. A Mirror, conversely, is designed to reflect light and is opaque, making it the odd one out.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Eiffel Tower",
+            "Colossus of Rhodes"
+        ],
+        "answer_index": 3,
+        "category": "Wonders of the Ancient World",
+        "explanation": "The first four tokens are traditionally listed as four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not one of the Ancient Wonders.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Kilogram",
+            "Stone",
+            "Meter",
+            "Ounce",
+            "Pound"
+        ],
+        "answer_index": 2,
+        "category": "Units of Measurement",
+        "explanation": "Kilogram, Pound, Stone, and Ounce are all units used to measure mass or weight. Meter is a unit used to measure length.",
         "completed": false
     }
 ]
