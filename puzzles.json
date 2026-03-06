@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ice",
-            "Mirror",
-            "Glass",
-            "Window",
-            "Lens"
-        ],
-        "answer_index": 1,
-        "category": "Objects or Substances Known for Light Transmission",
-        "explanation": "Window, Lens, Glass, and Ice are all typically transparent or translucent, allowing light to pass through them. A Mirror, conversely, is designed to reflect light and is opaque, making it the odd one out.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Eiffel Tower",
-            "Colossus of Rhodes"
-        ],
-        "answer_index": 3,
-        "category": "Wonders of the Ancient World",
-        "explanation": "The first four tokens are traditionally listed as four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not one of the Ancient Wonders.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Kilogram",
-            "Stone",
-            "Meter",
-            "Ounce",
-            "Pound"
+            "Caliper",
+            "Yardstick",
+            "Thermometer",
+            "Ruler",
+            "Odometer"
         ],
         "answer_index": 2,
-        "category": "Units of Measurement",
-        "explanation": "Kilogram, Pound, Stone, and Ounce are all units used to measure mass or weight. Meter is a unit used to measure length.",
+        "category": "Instruments for Measuring Length or Distance",
+        "explanation": "Ruler, Yardstick, Odometer, and Caliper are all tools specifically designed to measure length or distance. A Thermometer is used to measure temperature.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Universal Declaration of Human Rights",
+            "Declaration of Independence",
+            "Gettysburg Address",
+            "Magna Carta",
+            "U.S. Constitution"
+        ],
+        "answer_index": 2,
+        "category": "Foundational Legal/Human Rights Documents",
+        "explanation": "The Magna Carta, Declaration of Independence, U.S. Constitution, and Universal Declaration of Human Rights are all foundational legal or human rights documents that establish laws, principles, or a system of governance. The Gettysburg Address, while a historically significant speech, is not a foundational legal or governmental charter itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "LEAF",
+            "BOUGH",
+            "BARK",
+            "WOOD",
+            "ROOT"
+        ],
+        "answer_index": 0,
+        "category": "Homophones of Tree Parts",
+        "explanation": "All words except 'LEAF' have a common homophone (Bough/Bow, Wood/Would, Bark/Bark, Root/Route).",
         "completed": false
     }
 ]
