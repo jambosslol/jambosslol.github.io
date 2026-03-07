@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Caliper",
-            "Yardstick",
-            "Thermometer",
-            "Ruler",
-            "Odometer"
+            "Silence",
+            "Heart",
+            "Ground",
+            "Code",
+            "Glass"
         ],
-        "answer_index": 2,
-        "category": "Instruments for Measuring Length or Distance",
-        "explanation": "Ruler, Yardstick, Odometer, and Caliper are all tools specifically designed to measure length or distance. A Thermometer is used to measure temperature.",
+        "answer_index": 4,
+        "category": "Objects of 'Breaking'",
+        "explanation": "Four of the tokens (Heart, Code, Ground, Silence) can be 'broken' in an abstract or metaphorical sense (e.g., 'broken heart', 'broken code', 'breaking ground', 'breaking the silence'). 'Glass' is the odd one out because it refers to a physical object that is literally broken into pieces.",
         "completed": false
     },
     {
         "tokens": [
-            "Universal Declaration of Human Rights",
-            "Declaration of Independence",
-            "Gettysburg Address",
-            "Magna Carta",
-            "U.S. Constitution"
-        ],
-        "answer_index": 2,
-        "category": "Foundational Legal/Human Rights Documents",
-        "explanation": "The Magna Carta, Declaration of Independence, U.S. Constitution, and Universal Declaration of Human Rights are all foundational legal or human rights documents that establish laws, principles, or a system of governance. The Gettysburg Address, while a historically significant speech, is not a foundational legal or governmental charter itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "LEAF",
-            "BOUGH",
-            "BARK",
-            "WOOD",
-            "ROOT"
+            "King Arthur",
+            "Alexander the Great",
+            "Julius Caesar",
+            "Genghis Khan",
+            "Napoleon Bonaparte"
         ],
         "answer_index": 0,
-        "category": "Homophones of Tree Parts",
-        "explanation": "All words except 'LEAF' have a common homophone (Bough/Bow, Wood/Would, Bark/Bark, Root/Route).",
+        "category": "Founders or Major Expanders of Historical Empires",
+        "explanation": "All figures listed, except King Arthur, were real historical leaders who founded or significantly expanded major empires through conquest. King Arthur is a legendary figure, not a historical empire builder.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Wind",
+            "Lead",
+            "Bow",
+            "Read",
+            "Book"
+        ],
+        "answer_index": 4,
+        "category": "English Heteronyms",
+        "explanation": "The first four words ('Wind', 'Lead', 'Read', 'Bow') are heteronyms, meaning they are spelled identically but have different pronunciations and meanings (e.g., wind the clock vs. the wind blows; to lead vs. the metal lead). 'Book' does not fit this pattern, as its pronunciation remains the same whether used as a noun or a verb.",
         "completed": false
     }
 ]
