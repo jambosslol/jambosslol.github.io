@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Silence",
+            "Stratus",
+            "Nimbus",
+            "Cumulus",
+            "Cirrus",
+            "Mist"
+        ],
+        "answer_index": 4,
+        "category": "Primary Cloud Types",
+        "explanation": "Cumulus, Stratus, Cirrus, and Nimbus are all primary classifications of clouds based on their appearance and altitude. Mist is a form of atmospheric condensation that occurs at ground level, but it is not categorized as a type of cloud.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Pluto",
+            "Hades",
+            "Osiris",
+            "Hel",
+            "Charon"
+        ],
+        "answer_index": 4,
+        "category": "Mythological Rulers of the Underworld",
+        "explanation": "Hades (Greek), Osiris (Egyptian), Hel (Norse), and Pluto (Roman) are all deities who rule over the realm of the dead in their respective mythologies. Charon is the ferryman of the dead, responsible for transporting souls, but is not a ruler of the underworld.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Law",
+            "Record",
             "Heart",
-            "Ground",
-            "Code",
-            "Glass"
+            "Silence",
+            "Window"
         ],
         "answer_index": 4,
-        "category": "Objects of 'Breaking'",
-        "explanation": "Four of the tokens (Heart, Code, Ground, Silence) can be 'broken' in an abstract or metaphorical sense (e.g., 'broken heart', 'broken code', 'breaking ground', 'breaking the silence'). 'Glass' is the odd one out because it refers to a physical object that is literally broken into pieces.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "King Arthur",
-            "Alexander the Great",
-            "Julius Caesar",
-            "Genghis Khan",
-            "Napoleon Bonaparte"
-        ],
-        "answer_index": 0,
-        "category": "Founders or Major Expanders of Historical Empires",
-        "explanation": "All figures listed, except King Arthur, were real historical leaders who founded or significantly expanded major empires through conquest. King Arthur is a legendary figure, not a historical empire builder.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Wind",
-            "Lead",
-            "Bow",
-            "Read",
-            "Book"
-        ],
-        "answer_index": 4,
-        "category": "English Heteronyms",
-        "explanation": "The first four words ('Wind', 'Lead', 'Read', 'Bow') are heteronyms, meaning they are spelled identically but have different pronunciations and meanings (e.g., wind the clock vs. the wind blows; to lead vs. the metal lead). 'Book' does not fit this pattern, as its pronunciation remains the same whether used as a noun or a verb.",
+        "category": "Things that can be 'Broken'",
+        "explanation": "Silence, Heart, Law, and Record can all be 'broken' in a metaphorical or abstract sense (e.g., broken silence, broken heart, broken law, broken record). A window is typically broken in a literal, physical way.",
         "completed": false
     }
 ]
