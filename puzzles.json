@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Stratus",
-            "Nimbus",
-            "Cumulus",
-            "Cirrus",
-            "Mist"
+            "Tree",
+            "Boxing",
+            "Saturn",
+            "Bell",
+            "Onion"
         ],
         "answer_index": 4,
-        "category": "Primary Cloud Types",
-        "explanation": "Cumulus, Stratus, Cirrus, and Nimbus are all primary classifications of clouds based on their appearance and altitude. Mist is a form of atmospheric condensation that occurs at ground level, but it is not categorized as a type of cloud.",
+        "category": "Different Meanings of 'Ring'",
+        "explanation": "Saturn has planetary rings, a bell makes a 'ring' sound, a tree has growth rings, and boxing takes place in a ring. An onion's layers are visually described as rings, but it does not embody a 'ring' in the same conceptual or structural way as the others.",
         "completed": false
     },
     {
         "tokens": [
-            "Pluto",
-            "Hades",
-            "Osiris",
-            "Hel",
-            "Charon"
+            "Quill",
+            "Scroll",
+            "Codex",
+            "Papyrus",
+            "Clay Tablet"
         ],
-        "answer_index": 4,
-        "category": "Mythological Rulers of the Underworld",
-        "explanation": "Hades (Greek), Osiris (Egyptian), Hel (Norse), and Pluto (Roman) are all deities who rule over the realm of the dead in their respective mythologies. Charon is the ferryman of the dead, responsible for transporting souls, but is not a ruler of the underworld.",
+        "answer_index": 0,
+        "category": "Ancient Forms of Written Records",
+        "explanation": "Papyrus, Scroll, Clay Tablet, and Codex are all distinct forms or materials used in ancient times to create and preserve written records. A Quill, however, is a tool used for the act of writing, not a form of record itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Law",
-            "Record",
-            "Heart",
-            "Silence",
-            "Window"
+            "Knot",
+            "Karat",
+            "Pound",
+            "Carat",
+            "Hands"
         ],
-        "answer_index": 4,
-        "category": "Things that can be 'Broken'",
-        "explanation": "Silence, Heart, Law, and Record can all be 'broken' in a metaphorical or abstract sense (e.g., broken silence, broken heart, broken law, broken record). A window is typically broken in a literal, physical way.",
+        "answer_index": 2,
+        "category": "Specialized Units of Measurement",
+        "explanation": "Carat (gemstone weight), Karat (gold purity), Knot (nautical speed), and Hands (horse height) are all specialized units of measurement. Pound is a general unit of mass/weight.",
         "completed": false
     }
 ]
