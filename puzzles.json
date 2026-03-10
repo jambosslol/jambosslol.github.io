@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Tree",
-            "Boxing",
-            "Saturn",
-            "Bell",
-            "Onion"
-        ],
-        "answer_index": 4,
-        "category": "Different Meanings of 'Ring'",
-        "explanation": "Saturn has planetary rings, a bell makes a 'ring' sound, a tree has growth rings, and boxing takes place in a ring. An onion's layers are visually described as rings, but it does not embody a 'ring' in the same conceptual or structural way as the others.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Quill",
-            "Scroll",
-            "Codex",
-            "Papyrus",
-            "Clay Tablet"
+            "Attic",
+            "Mine",
+            "Cavern",
+            "Bunker",
+            "Subway"
         ],
         "answer_index": 0,
-        "category": "Ancient Forms of Written Records",
-        "explanation": "Papyrus, Scroll, Clay Tablet, and Codex are all distinct forms or materials used in ancient times to create and preserve written records. A Quill, however, is a tool used for the act of writing, not a form of record itself.",
+        "category": "Primarily Underground Structures or Spaces",
+        "explanation": "Subway, Cavern, Mine, and Bunker are all structures or spaces typically found primarily or exclusively underground. An Attic is an upper part of a building, located above ground.",
         "completed": false
     },
     {
         "tokens": [
-            "Knot",
-            "Karat",
-            "Pound",
-            "Carat",
-            "Hands"
+            "Hades",
+            "Poseidon",
+            "Oceanus",
+            "Triton",
+            "Nereus"
+        ],
+        "answer_index": 0,
+        "category": "Prominent Greek Deities of Sea and Water",
+        "explanation": "Poseidon is the Olympian god of the sea, Triton is his son and a merman, Oceanus is a Titan god of the primordial ocean, and Nereus is an elder sea god. Hades is the god of the Underworld, not primarily associated with the sea or water.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "METER",
+            "AMPERE",
+            "ACRE",
+            "KELVIN",
+            "SECOND"
         ],
         "answer_index": 2,
-        "category": "Specialized Units of Measurement",
-        "explanation": "Carat (gemstone weight), Karat (gold purity), Knot (nautical speed), and Hands (horse height) are all specialized units of measurement. Pound is a general unit of mass/weight.",
+        "category": "SI Base Units",
+        "explanation": "Meter, Second, Ampere, and Kelvin are all SI (International System of Units) base units. Acre is a unit of area, but it is not an SI base unit; it is an imperial unit.",
         "completed": false
     }
 ]
