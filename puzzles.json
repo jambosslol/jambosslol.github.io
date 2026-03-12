@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Guitar",
-            "Piano",
+            "Spotlight",
             "Microphone",
-            "Violin",
-            "Drums"
-        ],
-        "answer_index": 2,
-        "category": "Primary Sound-Producing Instruments",
-        "explanation": "Guitar, Piano, Drums, and Violin are all musical instruments that directly produce sound. A Microphone, however, is a device used to capture and amplify sound, not to create it as a primary instrument.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hades",
-            "Charon",
-            "Cerberus",
-            "Persephone",
-            "Atlas"
-        ],
-        "answer_index": 4,
-        "category": "Figures of the Greek Underworld",
-        "explanation": "Hades, Charon, Cerberus, and Persephone are all prominent figures directly associated with the Greek Underworld. Atlas is a Titan condemned to hold up the sky.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Stare",
-            "Gaze",
-            "Peer",
-            "Blink",
-            "Ogle"
+            "Props",
+            "Audience",
+            "Curtain"
         ],
         "answer_index": 3,
-        "category": "Verbs of Sustained Visual Focus",
-        "explanation": "Gaze, Stare, Peer, and Ogle are all verbs that describe different forms of sustained or intense looking. 'Blink' is an involuntary, momentary closing and opening of the eye, not a prolonged act of observation.",
+        "category": "Physical components directly used in the staging of a theatrical performance",
+        "explanation": "Spotlight, Curtain, Microphone, and Props are all tangible items or equipment that form part of the physical setup or execution on a stage for a theatrical performance. The Audience consists of the observers and is not a physical component of the stage production itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Panda",
+            "Kangaroo",
+            "Lion",
+            "Dragon",
+            "Eagle"
+        ],
+        "answer_index": 0,
+        "category": "Animals on National Flags or Official Heraldic Emblems",
+        "explanation": "Dragon (Wales), Lion (England, Sri Lanka), Eagle (USA, Mexico), and Kangaroo (Australia) are all animals that feature prominently on the national flags or official heraldic emblems of various countries. The Panda, while a national animal and cultural symbol of China, does not appear on China's national flag or its national emblem.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Poem",
+            "Journal",
+            "Scroll",
+            "Essay",
+            "Novel"
+        ],
+        "answer_index": 2,
+        "category": "Forms of Written Content",
+        "explanation": "Novel, Essay, Poem, and Journal (referring to a periodical or diary) are all distinct genres or types of written content. A Scroll, however, is a physical format or medium used to store or display written material, rather than a type of content itself.",
         "completed": false
     }
 ]
