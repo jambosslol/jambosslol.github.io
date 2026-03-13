@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Spotlight",
-            "Microphone",
-            "Props",
-            "Audience",
-            "Curtain"
-        ],
-        "answer_index": 3,
-        "category": "Physical components directly used in the staging of a theatrical performance",
-        "explanation": "Spotlight, Curtain, Microphone, and Props are all tangible items or equipment that form part of the physical setup or execution on a stage for a theatrical performance. The Audience consists of the observers and is not a physical component of the stage production itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Panda",
-            "Kangaroo",
-            "Lion",
-            "Dragon",
-            "Eagle"
-        ],
-        "answer_index": 0,
-        "category": "Animals on National Flags or Official Heraldic Emblems",
-        "explanation": "Dragon (Wales), Lion (England, Sri Lanka), Eagle (USA, Mexico), and Kangaroo (Australia) are all animals that feature prominently on the national flags or official heraldic emblems of various countries. The Panda, while a national animal and cultural symbol of China, does not appear on China's national flag or its national emblem.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Poem",
-            "Journal",
-            "Scroll",
-            "Essay",
-            "Novel"
+            "Strongman Game",
+            "Ring Toss",
+            "Orchestra Pit",
+            "Ferris Wheel",
+            "Cotton Candy"
         ],
         "answer_index": 2,
-        "category": "Forms of Written Content",
-        "explanation": "Novel, Essay, Poem, and Journal (referring to a periodical or diary) are all distinct genres or types of written content. A Scroll, however, is a physical format or medium used to store or display written material, rather than a type of content itself.",
+        "category": "Common Carnival Attractions",
+        "explanation": "Ferris Wheel, Cotton Candy, Ring Toss, and Strongman Game are all common attractions, foods, or activities found at a carnival or fair. An Orchestra Pit is a feature found in a theatre.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Aqueducts",
+            "Roman Roads",
+            "Printing Press",
+            "Acta Diurna",
+            "Concrete"
+        ],
+        "answer_index": 2,
+        "category": "Key Innovations of Ancient Rome",
+        "explanation": "Concrete, Aqueducts, Roman Roads, and the Acta Diurna (daily public records) were all significant innovations developed by the ancient Romans. The printing press was invented much later by Johannes Gutenberg in the 15th century.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Knot",
+            "Gnu",
+            "Gnat",
+            "Knight",
+            "Nest"
+        ],
+        "answer_index": 4,
+        "category": "Words with a Silent Initial Consonant",
+        "explanation": "Knot (silent 'K'), Gnat (silent 'G'), Knight (silent 'K'), and Gnu (silent 'G') all begin with a silent consonant. 'Nest' does not have a silent initial consonant.",
         "completed": false
     }
 ]
