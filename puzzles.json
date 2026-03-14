@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Strongman Game",
-            "Ring Toss",
-            "Orchestra Pit",
-            "Ferris Wheel",
-            "Cotton Candy"
-        ],
-        "answer_index": 2,
-        "category": "Common Carnival Attractions",
-        "explanation": "Ferris Wheel, Cotton Candy, Ring Toss, and Strongman Game are all common attractions, foods, or activities found at a carnival or fair. An Orchestra Pit is a feature found in a theatre.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Aqueducts",
-            "Roman Roads",
-            "Printing Press",
-            "Acta Diurna",
-            "Concrete"
-        ],
-        "answer_index": 2,
-        "category": "Key Innovations of Ancient Rome",
-        "explanation": "Concrete, Aqueducts, Roman Roads, and the Acta Diurna (daily public records) were all significant innovations developed by the ancient Romans. The printing press was invented much later by Johannes Gutenberg in the 15th century.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Knot",
-            "Gnu",
-            "Gnat",
-            "Knight",
-            "Nest"
+            "Gravity",
+            "Weak Nuclear Force",
+            "Electromagnetism",
+            "Strong Nuclear Force",
+            "Wind"
         ],
         "answer_index": 4,
-        "category": "Words with a Silent Initial Consonant",
-        "explanation": "Knot (silent 'K'), Gnat (silent 'G'), Knight (silent 'K'), and Gnu (silent 'G') all begin with a silent consonant. 'Nest' does not have a silent initial consonant.",
+        "category": "Fundamental Forces of Nature",
+        "explanation": "Gravity, Electromagnetism, Strong Nuclear Force, and Weak Nuclear Force are the four fundamental forces of nature. Wind is a natural phenomenon caused by air movement, not a fundamental force.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Colosseum",
+            "Statue of Zeus at Olympia",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Temple of Artemis at Ephesus"
+        ],
+        "answer_index": 0,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Statue of Zeus at Olympia are all traditionally listed among the Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, is not part of that canonical list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Heart",
+            "Window",
+            "Record",
+            "Law",
+            "Silence"
+        ],
+        "answer_index": 1,
+        "category": "Things Figuratively Broken",
+        "explanation": "Silence, Heart, Law, and Record are all concepts or states that can be 'broken' in an abstract or idiomatic sense. A Window is typically broken in a literal, physical sense.",
         "completed": false
     }
 ]
