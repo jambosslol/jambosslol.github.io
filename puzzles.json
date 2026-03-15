@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Gravity",
-            "Weak Nuclear Force",
-            "Electromagnetism",
-            "Strong Nuclear Force",
-            "Wind"
+            "Foreword",
+            "Galleys",
+            "Binding",
+            "Manuscript",
+            "Proof"
         ],
-        "answer_index": 4,
-        "category": "Fundamental Forces of Nature",
-        "explanation": "Gravity, Electromagnetism, Strong Nuclear Force, and Weak Nuclear Force are the four fundamental forces of nature. Wind is a natural phenomenon caused by air movement, not a fundamental force.",
+        "answer_index": 2,
+        "category": "Elements and Stages of Book Content Development",
+        "explanation": "Manuscript, Galleys, Proof, and Foreword are all stages or components involved in the creation, review, and preliminary presentation of a book's textual content. Binding refers to the physical process of assembling the printed pages into a finished book, which occurs after the content development and textual finalization.",
         "completed": false
     },
     {
         "tokens": [
-            "Colosseum",
-            "Statue of Zeus at Olympia",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Temple of Artemis at Ephesus"
+            "James Madison",
+            "Thomas Jefferson",
+            "John Adams",
+            "Benjamin Franklin",
+            "George Washington"
+        ],
+        "answer_index": 3,
+        "category": "US Founding Fathers Who Became President",
+        "explanation": "George Washington, John Adams, Thomas Jefferson, and James Madison all served as Presidents of the United States. Benjamin Franklin was a prominent Founding Father but never held the office of President.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Disperse",
+            "Contain",
+            "Encapsulate",
+            "Encase",
+            "Retain"
         ],
         "answer_index": 0,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Statue of Zeus at Olympia are all traditionally listed among the Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, is not part of that canonical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Heart",
-            "Window",
-            "Record",
-            "Law",
-            "Silence"
-        ],
-        "answer_index": 1,
-        "category": "Things Figuratively Broken",
-        "explanation": "Silence, Heart, Law, and Record are all concepts or states that can be 'broken' in an abstract or idiomatic sense. A Window is typically broken in a literal, physical sense.",
+        "category": "Verbs of Confinement or Preservation",
+        "explanation": "Contain, Encase, Encapsulate, and Retain all describe actions of keeping something within bounds, holding it, or preventing it from escaping. Disperse means to scatter or spread out, which is the opposite.",
         "completed": false
     }
 ]
