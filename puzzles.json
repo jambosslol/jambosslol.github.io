@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Foreword",
-            "Galleys",
-            "Binding",
-            "Manuscript",
-            "Proof"
+            "Pinwheel",
+            "Potter's Wheel",
+            "Bicycle",
+            "Gyroscope",
+            "Top"
         ],
         "answer_index": 2,
-        "category": "Elements and Stages of Book Content Development",
-        "explanation": "Manuscript, Galleys, Proof, and Foreword are all stages or components involved in the creation, review, and preliminary presentation of a book's textual content. Binding refers to the physical process of assembling the printed pages into a finished book, which occurs after the content development and textual finalization.",
+        "category": "Objects Whose Primary Function Involves Continuous Rotational Motion",
+        "explanation": "Gyroscope, Top, Pinwheel, and Potter's Wheel are all objects whose primary design and function center around continuous rotational motion. A Bicycle, while utilizing rotating wheels for propulsion, is primarily designed for linear translation, not for the rotational motion itself to be its main function or output.",
         "completed": false
     },
     {
         "tokens": [
-            "James Madison",
-            "Thomas Jefferson",
-            "John Adams",
-            "Benjamin Franklin",
-            "George Washington"
+            "Bill of Rights",
+            "U.S. Constitution",
+            "Magna Carta",
+            "Treaty of Versailles",
+            "Declaration of Independence"
         ],
         "answer_index": 3,
-        "category": "US Founding Fathers Who Became President",
-        "explanation": "George Washington, John Adams, Thomas Jefferson, and James Madison all served as Presidents of the United States. Benjamin Franklin was a prominent Founding Father but never held the office of President.",
+        "category": "Foundational Documents of Constitutional Law and Rights",
+        "explanation": "Magna Carta, the Declaration of Independence, the U.S. Constitution, and the Bill of Rights are all pivotal documents in the establishment and evolution of constitutional law and human rights, particularly influential in the development of democratic governance. The Treaty of Versailles, however, is an international peace treaty signed to end World War I, not a document primarily concerned with establishing internal governance or citizens' rights.",
         "completed": false
     },
     {
         "tokens": [
-            "Disperse",
-            "Contain",
-            "Encapsulate",
-            "Encase",
-            "Retain"
+            "Drought",
+            "Abundance",
+            "Nihilism",
+            "Paucity",
+            "Vacant"
         ],
-        "answer_index": 0,
-        "category": "Verbs of Confinement or Preservation",
-        "explanation": "Contain, Encase, Encapsulate, and Retain all describe actions of keeping something within bounds, holding it, or preventing it from escaping. Disperse means to scatter or spread out, which is the opposite.",
+        "answer_index": 1,
+        "category": "Words Indicating a Lack or Absence",
+        "explanation": "All tokens except \"Abundance\" describe a state of lacking or absence of something. \"Paucity\" means a small amount, \"Drought\" is a lack of water, \"Nihilism\" is a belief in the absence of meaning, and \"Vacant\" means empty or devoid. \"Abundance\" describes a state of plenty or surplus.",
         "completed": false
     }
 ]
