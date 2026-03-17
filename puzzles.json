@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pinwheel",
-            "Potter's Wheel",
-            "Bicycle",
-            "Gyroscope",
-            "Top"
+            "Supernova",
+            "Blood Moon",
+            "Diamond Ring",
+            "Umbra",
+            "Corona"
         ],
-        "answer_index": 2,
-        "category": "Objects Whose Primary Function Involves Continuous Rotational Motion",
-        "explanation": "Gyroscope, Top, Pinwheel, and Potter's Wheel are all objects whose primary design and function center around continuous rotational motion. A Bicycle, while utilizing rotating wheels for propulsion, is primarily designed for linear translation, not for the rotational motion itself to be its main function or output.",
+        "answer_index": 0,
+        "category": "Phenomena and Terms Specific to Eclipses",
+        "explanation": "Corona, Diamond Ring, Blood Moon, and Umbra are all terms or phenomena directly associated with either solar or lunar eclipses. A Supernova is the explosion of a star, an unrelated astronomical event.",
         "completed": false
     },
     {
         "tokens": [
-            "Bill of Rights",
-            "U.S. Constitution",
-            "Magna Carta",
-            "Treaty of Versailles",
-            "Declaration of Independence"
-        ],
-        "answer_index": 3,
-        "category": "Foundational Documents of Constitutional Law and Rights",
-        "explanation": "Magna Carta, the Declaration of Independence, the U.S. Constitution, and the Bill of Rights are all pivotal documents in the establishment and evolution of constitutional law and human rights, particularly influential in the development of democratic governance. The Treaty of Versailles, however, is an international peace treaty signed to end World War I, not a document primarily concerned with establishing internal governance or citizens' rights.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Drought",
-            "Abundance",
-            "Nihilism",
-            "Paucity",
-            "Vacant"
+            "Lighthouse of Alexandria",
+            "Stonehenge",
+            "Pyramids of Giza",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon"
         ],
         "answer_index": 1,
-        "category": "Words Indicating a Lack or Absence",
-        "explanation": "All tokens except \"Abundance\" describe a state of lacking or absence of something. \"Paucity\" means a small amount, \"Drought\" is a lack of water, \"Nihilism\" is a belief in the absence of meaning, and \"Vacant\" means empty or devoid. \"Abundance\" describes a state of plenty or surplus.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are traditionally listed as four of the Seven Wonders of the Ancient World. Stonehenge is an ancient and significant monument but is not included in the traditional list of the Seven Wonders.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Books",
+            "Children",
+            "Mice",
+            "Feet",
+            "Geese"
+        ],
+        "answer_index": 0,
+        "category": "Irregular Plurals",
+        "explanation": "All tokens except 'Books' are irregular plural forms of nouns (goose/geese, mouse/mice, foot/feet, child/children). 'Books' is a regular plural, formed by adding an 's'.",
         "completed": false
     }
 ]
