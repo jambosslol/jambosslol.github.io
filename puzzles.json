@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Director",
-            "Conductor",
-            "Script",
-            "Set Design",
-            "Actor"
+            "Sock",
+            "Pants",
+            "Glasses",
+            "Scissors",
+            "Tweezers"
         ],
-        "answer_index": 1,
-        "category": "Essential Elements of a Non-Musical Stage Play",
-        "explanation": "Actor, Director, Script, and Set Design are all fundamental roles or components in the production of a non-musical stage play. A Conductor is primarily associated with musical performances or orchestras.",
+        "answer_index": 0,
+        "category": "Objects Whose Names Are Grammatically Plural",
+        "explanation": "Scissors, Pants, Glasses (referring to spectacles), and Tweezers are all objects whose names are grammatically plural, even when referring to a single item. 'Sock' is a singular noun.",
         "completed": false
     },
     {
         "tokens": [
-            "Roman Roads",
-            "Arches",
-            "Concrete",
-            "Gunpowder",
-            "Aqueducts"
+            "Amber Road",
+            "Spice Routes",
+            "Silk Road",
+            "Incense Route",
+            "Appian Way"
         ],
-        "answer_index": 3,
-        "category": "Ancient Roman Engineering",
-        "explanation": "Concrete, Aqueducts, Roman Roads, and Arches are all significant engineering and architectural achievements attributed to or highly developed by the Roman Empire. Gunpowder was invented in China.",
+        "answer_index": 4,
+        "category": "Ancient Transcontinental Trade Networks",
+        "explanation": "The Silk Road, Incense Route, Amber Road, and Spice Routes were all vast, ancient international trade networks connecting distant regions and continents. The Appian Way was a vital Roman road, but primarily served as a domestic military and public highway within Italy, rather than a transcontinental trade network.",
         "completed": false
     },
     {
         "tokens": [
-            "Shrink",
-            "Wither",
-            "Amplify",
-            "Deplete",
-            "Erode"
+            "Swim",
+            "Run",
+            "Sleep",
+            "Jump",
+            "Chair"
         ],
-        "answer_index": 2,
-        "category": "Processes of Diminishment",
-        "explanation": "Erode, Wither, Deplete, and Shrink all describe a process of becoming less, smaller, or decaying. Amplify, however, means to increase or intensify.",
+        "answer_index": 4,
+        "category": "Words as Nouns and Verbs",
+        "explanation": "The words 'Run', 'Swim', 'Jump', and 'Sleep' can all function as both a noun and a verb, where the noun form directly refers to the act or state of the verb (e.g., 'a run' is the act of 'to run'). 'Chair' is primarily a noun (an object), and while it can be used as a verb ('to chair a meeting'), its meaning is semantically distinct from the object it names.",
         "completed": false
     }
 ]
