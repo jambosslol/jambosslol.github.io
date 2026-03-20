@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Sock",
-            "Pants",
-            "Glasses",
-            "Scissors",
-            "Tweezers"
+            "Damper",
+            "Hearth",
+            "Chimney Pot",
+            "Flue",
+            "Grill"
+        ],
+        "answer_index": 4,
+        "category": "Components of a Traditional Fireplace System",
+        "explanation": "Flue, Hearth, Damper, and Chimney Pot are all integral structural or functional components of a traditional fireplace and its chimney system. A grill is typically used for cooking and is not a standard part of a fireplace's permanent structure or operation.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Great Wall of China",
+            "Pyramids of Giza",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon"
         ],
         "answer_index": 0,
-        "category": "Objects Whose Names Are Grammatically Plural",
-        "explanation": "Scissors, Pants, Glasses (referring to spectacles), and Tweezers are all objects whose names are grammatically plural, even when referring to a single item. 'Sock' is a singular noun.",
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all recognized as part of the classical Seven Wonders of the Ancient World. The Great Wall of China is a significant historical structure, but it is not included in the traditional list of the Seven Wonders of the Ancient World.",
         "completed": false
     },
     {
         "tokens": [
-            "Amber Road",
-            "Spice Routes",
-            "Silk Road",
-            "Incense Route",
-            "Appian Way"
+            "Won",
+            "To",
+            "For",
+            "Ate",
+            "Hear"
         ],
         "answer_index": 4,
-        "category": "Ancient Transcontinental Trade Networks",
-        "explanation": "The Silk Road, Incense Route, Amber Road, and Spice Routes were all vast, ancient international trade networks connecting distant regions and continents. The Appian Way was a vital Roman road, but primarily served as a domestic military and public highway within Italy, rather than a transcontinental trade network.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Swim",
-            "Run",
-            "Sleep",
-            "Jump",
-            "Chair"
-        ],
-        "answer_index": 4,
-        "category": "Words as Nouns and Verbs",
-        "explanation": "The words 'Run', 'Swim', 'Jump', and 'Sleep' can all function as both a noun and a verb, where the noun form directly refers to the act or state of the verb (e.g., 'a run' is the act of 'to run'). 'Chair' is primarily a noun (an object), and while it can be used as a verb ('to chair a meeting'), its meaning is semantically distinct from the object it names.",
+        "category": "Homophones of Single-Digit Numbers",
+        "explanation": "Won, For, Ate, and To are homophones for the single-digit numbers 'one', 'four', 'eight', and 'two' respectively. 'Hear' is not a homophone for any single-digit number.",
         "completed": false
     }
 ]
