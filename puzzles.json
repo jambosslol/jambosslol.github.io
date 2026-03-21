@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Damper",
-            "Hearth",
-            "Chimney Pot",
-            "Flue",
-            "Grill"
-        ],
-        "answer_index": 4,
-        "category": "Components of a Traditional Fireplace System",
-        "explanation": "Flue, Hearth, Damper, and Chimney Pot are all integral structural or functional components of a traditional fireplace and its chimney system. A grill is typically used for cooking and is not a standard part of a fireplace's permanent structure or operation.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Great Wall of China",
-            "Pyramids of Giza",
-            "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon"
+            "Solar Eclipse",
+            "Waning Gibbous",
+            "Waxing Crescent",
+            "New Moon",
+            "Full Moon"
         ],
         "answer_index": 0,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all recognized as part of the classical Seven Wonders of the Ancient World. The Great Wall of China is a significant historical structure, but it is not included in the traditional list of the Seven Wonders of the Ancient World.",
+        "category": "Phases of the Moon",
+        "explanation": "New Moon, Waxing Crescent, Full Moon, and Waning Gibbous are all distinct phases of the Moon's appearance as it orbits Earth. A Solar Eclipse is an astronomical event caused by the Moon passing between the Sun and Earth, not a phase of the Moon itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Won",
-            "To",
-            "For",
-            "Ate",
-            "Hear"
+            "Hadrian",
+            "Nero",
+            "Julius Caesar",
+            "Caligula",
+            "Augustus"
         ],
-        "answer_index": 4,
-        "category": "Homophones of Single-Digit Numbers",
-        "explanation": "Won, For, Ate, and To are homophones for the single-digit numbers 'one', 'four', 'eight', and 'two' respectively. 'Hear' is not a homophone for any single-digit number.",
+        "answer_index": 2,
+        "category": "Roman Emperors",
+        "explanation": "Augustus, Nero, Caligula, and Hadrian were all Roman Emperors. Julius Caesar was a Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire, but he was never officially an Emperor himself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lion",
+            "Turtle",
+            "Dolphin",
+            "Urchin",
+            "Horse"
+        ],
+        "answer_index": 2,
+        "category": "Marine Animals with 'Sea-' Prefix",
+        "explanation": "Lion, Horse, Turtle, and Urchin can all be prefixed with 'Sea' to form the names of distinct marine animals (Sea Lion, Sea Horse, Sea Turtle, Sea Urchin). Dolphin is a marine animal, but its common name does not typically use the 'Sea-' prefix.",
         "completed": false
     }
 ]
