@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Solar Eclipse",
-            "Waning Gibbous",
-            "Waxing Crescent",
-            "New Moon",
-            "Full Moon"
+            "Pen",
+            "Paper",
+            "Typewriter",
+            "Printer",
+            "Ink"
+        ],
+        "answer_index": 3,
+        "category": "Tools for Original Manual/Mechanical Text Composition",
+        "explanation": "Pen, Paper, Typewriter, and Ink are all essential tools or components for the direct, manual, or mechanical composition of original text. A Printer is used for reproducing text, not for its initial creation.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Compass",
+            "Gunpowder",
+            "Telescope",
+            "Papermaking",
+            "Printing"
+        ],
+        "answer_index": 2,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Compass, Papermaking, Printing, and Gunpowder are traditionally recognized as the Four Great Inventions of Ancient China. The Telescope was invented in the Netherlands.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Red",
+            "Moon",
+            "Street",
+            "Sun",
+            "Head"
         ],
         "answer_index": 0,
-        "category": "Phases of the Moon",
-        "explanation": "New Moon, Waxing Crescent, Full Moon, and Waning Gibbous are all distinct phases of the Moon's appearance as it orbits Earth. A Solar Eclipse is an astronomical event caused by the Moon passing between the Sun and Earth, not a phase of the Moon itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hadrian",
-            "Nero",
-            "Julius Caesar",
-            "Caligula",
-            "Augustus"
-        ],
-        "answer_index": 2,
-        "category": "Roman Emperors",
-        "explanation": "Augustus, Nero, Caligula, and Hadrian were all Roman Emperors. Julius Caesar was a Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire, but he was never officially an Emperor himself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Lion",
-            "Turtle",
-            "Dolphin",
-            "Urchin",
-            "Horse"
-        ],
-        "answer_index": 2,
-        "category": "Marine Animals with 'Sea-' Prefix",
-        "explanation": "Lion, Horse, Turtle, and Urchin can all be prefixed with 'Sea' to form the names of distinct marine animals (Sea Lion, Sea Horse, Sea Turtle, Sea Urchin). Dolphin is a marine animal, but its common name does not typically use the 'Sea-' prefix.",
+        "category": "Words that commonly precede 'light'",
+        "explanation": "Sun, Moon, Street, and Head are all words that commonly form compound words or phrases when followed by 'light' (e.g., sunlight, moonlight, streetlight, headlight). 'Red' is an adjective and does not typically form such a compound or phrase in the same common context.",
         "completed": false
     }
 ]
