@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pen",
-            "Paper",
-            "Typewriter",
-            "Printer",
+            "Chalk",
+            "Wax",
+            "Graphite",
+            "Laser",
             "Ink"
         ],
         "answer_index": 3,
-        "category": "Tools for Original Manual/Mechanical Text Composition",
-        "explanation": "Pen, Paper, Typewriter, and Ink are all essential tools or components for the direct, manual, or mechanical composition of original text. A Printer is used for reproducing text, not for its initial creation.",
+        "category": "Substances or materials directly deposited to create a physical mark",
+        "explanation": "Chalk, ink, graphite, and wax are all materials that are directly deposited onto a surface to create a physical mark, drawing, or impression. A laser, however, creates marks by removing material, changing its surface, or interacting with a medium without physically depositing a substance.",
         "completed": false
     },
     {
         "tokens": [
-            "Compass",
-            "Gunpowder",
-            "Telescope",
-            "Papermaking",
-            "Printing"
+            "Zeno of Citium",
+            "Marcus Aurelius",
+            "Seneca",
+            "Socrates",
+            "Epictetus"
         ],
-        "answer_index": 2,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "Compass, Papermaking, Printing, and Gunpowder are traditionally recognized as the Four Great Inventions of Ancient China. The Telescope was invented in the Netherlands.",
+        "answer_index": 3,
+        "category": "Key Figures in Stoic Philosophy",
+        "explanation": "Zeno of Citium was the founder of Stoicism. Seneca, Epictetus, and Marcus Aurelius are among the most famous and influential Stoic philosophers. Socrates, while a foundational figure in Western philosophy, lived before the advent of Stoicism and was not a Stoic himself.",
         "completed": false
     },
     {
         "tokens": [
-            "Red",
-            "Moon",
-            "Street",
-            "Sun",
-            "Head"
+            "Won",
+            "For",
+            "Ate",
+            "Five",
+            "To"
         ],
-        "answer_index": 0,
-        "category": "Words that commonly precede 'light'",
-        "explanation": "Sun, Moon, Street, and Head are all words that commonly form compound words or phrases when followed by 'light' (e.g., sunlight, moonlight, streetlight, headlight). 'Red' is an adjective and does not typically form such a compound or phrase in the same common context.",
+        "answer_index": 3,
+        "category": "Homophones of Cardinal Numbers",
+        "explanation": "Each word, except 'Five', is a homophone of a cardinal number that is spelled differently (Won/One, To/Two, For/Four, Ate/Eight). 'Five' does not have such a common homophone.",
         "completed": false
     }
 ]
