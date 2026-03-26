@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Trumpet",
-            "Synthesizer",
+            "Piano",
+            "Drums",
+            "Conductor's Baton",
             "Guitar",
-            "Drum Kit",
-            "Piano"
-        ],
-        "answer_index": 1,
-        "category": "Acoustic Instruments",
-        "explanation": "All tokens except 'Synthesizer' are instruments that primarily produce sound through acoustic or mechanical means (vibrating strings, membranes, or air columns), without requiring electronic amplification or synthesis for their fundamental sound. A Synthesizer generates sound electronically.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Great Pyramid of Giza",
-            "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Parthenon"
-        ],
-        "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four tokens are traditionally listed among the Seven Wonders of the Ancient World. The Parthenon, while a magnificent ancient structure, is not part of that specific list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Ate",
-            "To",
-            "Six",
-            "For",
-            "Won"
+            "Violin"
         ],
         "answer_index": 2,
-        "category": "Homophones of Numbers",
-        "explanation": "Won, To, For, and Ate are homophones for the numbers 'One', 'Two', 'Four', and 'Eight', respectively. Six does not have a common homophone that is a different word.",
+        "category": "Musical Sound Producers",
+        "explanation": "Guitar, Piano, Drums, and Violin are all instruments designed to produce musical sounds. A Conductor's Baton is used to direct an orchestra or choir but does not produce sound itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Great Wall of China",
+            "Pyramids of Giza",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes"
+        ],
+        "answer_index": 0,
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "All tokens except 'Great Wall of China' are part of the original list of the Seven Wonders of the Ancient World. The Great Wall, while an impressive ancient structure, was not on that specific list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Trousers",
+            "Scissors",
+            "Pliers",
+            "Glasses",
+            "Chair"
+        ],
+        "answer_index": 4,
+        "category": "Objects typically referred to in the plural form",
+        "explanation": "Scissors, Trousers, Glasses, and Pliers are all objects whose names are typically plural, even when referring to a single item. 'Chair' is always referred to in its singular form.",
         "completed": false
     }
 ]
