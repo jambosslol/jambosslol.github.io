@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Piano",
-            "Drums",
-            "Conductor's Baton",
-            "Guitar",
-            "Violin"
-        ],
-        "answer_index": 2,
-        "category": "Musical Sound Producers",
-        "explanation": "Guitar, Piano, Drums, and Violin are all instruments designed to produce musical sounds. A Conductor's Baton is used to direct an orchestra or choir but does not produce sound itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Great Wall of China",
-            "Pyramids of Giza",
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes"
-        ],
-        "answer_index": 0,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "All tokens except 'Great Wall of China' are part of the original list of the Seven Wonders of the Ancient World. The Great Wall, while an impressive ancient structure, was not on that specific list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Trousers",
-            "Scissors",
-            "Pliers",
-            "Glasses",
-            "Chair"
+            "Salad Spinner",
+            "Washing Machine",
+            "Blender",
+            "Centrifuge",
+            "Ferris Wheel"
         ],
         "answer_index": 4,
-        "category": "Objects typically referred to in the plural form",
-        "explanation": "Scissors, Trousers, Glasses, and Pliers are all objects whose names are typically plural, even when referring to a single item. 'Chair' is always referred to in its singular form.",
+        "category": "Devices Utilizing Spinning for Processing",
+        "explanation": "All items except the Ferris Wheel use a spinning motion to process or change a material or item (washing clothes, separating substances, drying lettuce, blending ingredients). A Ferris Wheel spins for amusement and transport.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Romeo and Juliet",
+            "Hamlet",
+            "A Midsummer Night's Dream",
+            "Macbeth",
+            "Othello"
+        ],
+        "answer_index": 2,
+        "category": "Shakespearean Play Genres",
+        "explanation": "Romeo and Juliet, Macbeth, Othello, and Hamlet are all renowned tragedies by William Shakespeare. 'A Midsummer Night's Dream' is a comedy by the same author.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "WHITECAP",
+            "BLUEPRINT",
+            "BLACKBOARD",
+            "GREENHOUSE",
+            "RED"
+        ],
+        "answer_index": 4,
+        "category": "Words That Embed a Color (Without Being the Color)",
+        "explanation": "All tokens except 'RED' contain the name of a common color ('BLACK', 'BLUE', 'GREEN', 'WHITE') within them, but the word itself does not primarily refer to that color. 'RED' is simply a color itself.",
         "completed": false
     }
 ]
