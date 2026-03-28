@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Salad Spinner",
-            "Washing Machine",
-            "Blender",
-            "Centrifuge",
-            "Ferris Wheel"
+            "Shovel",
+            "Trowel",
+            "Pruners",
+            "Rake",
+            "Fertilizer"
         ],
         "answer_index": 4,
-        "category": "Devices Utilizing Spinning for Processing",
-        "explanation": "All items except the Ferris Wheel use a spinning motion to process or change a material or item (washing clothes, separating substances, drying lettuce, blending ingredients). A Ferris Wheel spins for amusement and transport.",
+        "category": "Reusable Garden Hand Tools",
+        "explanation": "Shovel, Rake, Trowel, and Pruners are all common types of reusable hand tools used for gardening. Fertilizer is a consumable product used to nourish plants, not a tool.",
         "completed": false
     },
     {
         "tokens": [
-            "Romeo and Juliet",
-            "Hamlet",
-            "A Midsummer Night's Dream",
-            "Macbeth",
-            "Othello"
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza",
+            "Statue of Zeus at Olympia",
+            "Colossus of Rhodes"
         ],
         "answer_index": 2,
-        "category": "Shakespearean Play Genres",
-        "explanation": "Romeo and Juliet, Macbeth, Othello, and Hamlet are all renowned tragedies by William Shakespeare. 'A Midsummer Night's Dream' is a comedy by the same author.",
+        "category": "The Surviving Ancient Wonder",
+        "explanation": "All tokens represent Wonders of the Ancient World. However, the Hanging Gardens of Babylon, Statue of Zeus at Olympia, Colossus of Rhodes, and Lighthouse of Alexandria have all been destroyed or lost to history. The Great Pyramid of Giza is the only one of the original Seven Wonders that remains largely intact today.",
         "completed": false
     },
     {
         "tokens": [
-            "WHITECAP",
-            "BLUEPRINT",
-            "BLACKBOARD",
-            "GREENHOUSE",
-            "RED"
+            "Spoon",
+            "Spectacles",
+            "Trousers",
+            "Pliers",
+            "Scissors"
         ],
-        "answer_index": 4,
-        "category": "Words That Embed a Color (Without Being the Color)",
-        "explanation": "All tokens except 'RED' contain the name of a common color ('BLACK', 'BLUE', 'GREEN', 'WHITE') within them, but the word itself does not primarily refer to that color. 'RED' is simply a color itself.",
+        "answer_index": 0,
+        "category": "Items Commonly Treated as Plural",
+        "explanation": "Scissors, Pliers, Trousers, and Spectacles are all items that are typically referred to in the plural form (e.g., 'a pair of scissors') due to their two-part nature or conventional usage. A spoon is commonly referred to in the singular.",
         "completed": false
     }
 ]
