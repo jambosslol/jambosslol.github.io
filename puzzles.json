@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Torch",
-            "Candle",
-            "Lamp",
+            "Will-o'-the-wisp",
+            "Glow-in-the-dark Toy",
+            "Anglerfish",
             "Firefly",
-            "Mirror"
+            "Moon"
         ],
         "answer_index": 4,
-        "category": "Sources of Light",
-        "explanation": "Candle, Lamp, Torch, and Firefly are all objects or creatures that produce their own light. A mirror, however, reflects light but does not generate it.",
+        "category": "Sources of Self-Generated or Stored Light",
+        "explanation": "Firefly, Anglerfish, Glow-in-the-dark Toy, and Will-o'-the-wisp all emit their own visible light (through bioluminescence, phosphorescence, or natural phenomena), whereas the Moon only reflects light from the Sun.",
         "completed": false
     },
     {
         "tokens": [
-            "Indus",
-            "Euphrates",
-            "Tigris",
-            "Amazon",
-            "Nile"
+            "Statue of Zeus at Olympia",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 3,
-        "category": "Cradles of Ancient Civilizations",
-        "explanation": "The Nile, Tigris, Euphrates, and Indus are all rivers that were central to the development of major ancient civilizations. The Amazon, while a significant river, is not primarily associated with the cradles of ancient civilizations in the same historical context.",
+        "answer_index": 4,
+        "category": "Destroyed Ancient Wonders",
+        "explanation": "All tokens except the Great Pyramid of Giza represent one of the Seven Wonders of the Ancient World that has been destroyed. The Great Pyramid of Giza is the only one still largely intact today.",
         "completed": false
     },
     {
         "tokens": [
-            "Rotor",
-            "Madam",
-            "Level",
-            "Banana",
-            "Racecar"
+            "Weave",
+            "Crochet",
+            "Braid",
+            "Needle",
+            "Knit"
         ],
         "answer_index": 3,
-        "category": "Palindromes",
-        "explanation": "All tokens except 'Banana' are palindromes, meaning they read the same forwards and backwards.",
+        "category": "Textile Crafting Techniques",
+        "explanation": "\"Weave\", \"Knit\", \"Crochet\", and \"Braid\" are all distinct methods or techniques used to create textiles or intertwine strands. \"Needle\" is a tool often used in some of these crafts, but it is not a crafting technique itself.",
         "completed": false
     }
 ]
