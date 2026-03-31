@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Will-o'-the-wisp",
-            "Glow-in-the-dark Toy",
-            "Anglerfish",
-            "Firefly",
-            "Moon"
+            "Battery",
+            "Hydroelectric Dam",
+            "Geothermal Plant",
+            "Solar Panel",
+            "Wind Turbine"
         ],
-        "answer_index": 4,
-        "category": "Sources of Self-Generated or Stored Light",
-        "explanation": "Firefly, Anglerfish, Glow-in-the-dark Toy, and Will-o'-the-wisp all emit their own visible light (through bioluminescence, phosphorescence, or natural phenomena), whereas the Moon only reflects light from the Sun.",
+        "answer_index": 0,
+        "category": "Renewable Energy Generators",
+        "explanation": "Solar Panel, Wind Turbine, Hydroelectric Dam, and Geothermal Plant are all technologies that generate electricity from renewable resources. A Battery stores electricity but does not generate it.",
         "completed": false
     },
     {
         "tokens": [
-            "Statue of Zeus at Olympia",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza"
+            "Martin Luther King Jr.",
+            "Nelson Mandela",
+            "Leonardo da Vinci",
+            "Marie Curie",
+            "Albert Einstein"
         ],
-        "answer_index": 4,
-        "category": "Destroyed Ancient Wonders",
-        "explanation": "All tokens except the Great Pyramid of Giza represent one of the Seven Wonders of the Ancient World that has been destroyed. The Great Pyramid of Giza is the only one still largely intact today.",
+        "answer_index": 2,
+        "category": "Nobel Prize Laureates",
+        "explanation": "Marie Curie, Albert Einstein, Nelson Mandela, and Martin Luther King Jr. are all recipients of the Nobel Prize. Leonardo da Vinci, a celebrated Renaissance polymath, lived centuries before the Nobel Prize was established.",
         "completed": false
     },
     {
         "tokens": [
-            "Weave",
-            "Crochet",
-            "Braid",
-            "Needle",
-            "Knit"
+            "IRON",
+            "GOLD",
+            "PLATINUM",
+            "SILVER",
+            "DIAMOND"
         ],
-        "answer_index": 3,
-        "category": "Textile Crafting Techniques",
-        "explanation": "\"Weave\", \"Knit\", \"Crochet\", and \"Braid\" are all distinct methods or techniques used to create textiles or intertwine strands. \"Needle\" is a tool often used in some of these crafts, but it is not a crafting technique itself.",
+        "answer_index": 4,
+        "category": "Names of Chemical Elements",
+        "explanation": "Iron, Gold, Silver, and Platinum are all names of chemical elements found on the periodic table. Diamond, while a precious substance, is an allotrope of carbon, not an element name itself.",
         "completed": false
     }
 ]
