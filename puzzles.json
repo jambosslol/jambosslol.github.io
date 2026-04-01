@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Battery",
-            "Hydroelectric Dam",
-            "Geothermal Plant",
-            "Solar Panel",
-            "Wind Turbine"
+            "Opera",
+            "Play",
+            "Ballet",
+            "Symphony",
+            "Musical"
+        ],
+        "answer_index": 1,
+        "category": "Performance Arts with Integral Orchestral Music",
+        "explanation": "Opera, Ballet, Symphony, and Musical are all performance forms where a live orchestra or significant live musical accompaniment is a fundamental and defining component. A Play, while it can include music, does not inherently require live orchestral music as a core element; it focuses primarily on spoken dialogue and dramatic action.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Paper",
+            "Gunpowder",
+            "Compass",
+            "Microscope",
+            "Printing Press"
+        ],
+        "answer_index": 3,
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "The Printing Press, Gunpowder, Compass, and Paper are traditionally known as the 'Four Great Inventions of Ancient China'. The Microscope was invented in Europe much later (late 16th/early 17th century).",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Kindly",
+            "Knot",
+            "Knowledge",
+            "Knob",
+            "Kneel"
         ],
         "answer_index": 0,
-        "category": "Renewable Energy Generators",
-        "explanation": "Solar Panel, Wind Turbine, Hydroelectric Dam, and Geothermal Plant are all technologies that generate electricity from renewable resources. A Battery stores electricity but does not generate it.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Martin Luther King Jr.",
-            "Nelson Mandela",
-            "Leonardo da Vinci",
-            "Marie Curie",
-            "Albert Einstein"
-        ],
-        "answer_index": 2,
-        "category": "Nobel Prize Laureates",
-        "explanation": "Marie Curie, Albert Einstein, Nelson Mandela, and Martin Luther King Jr. are all recipients of the Nobel Prize. Leonardo da Vinci, a celebrated Renaissance polymath, lived centuries before the Nobel Prize was established.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "IRON",
-            "GOLD",
-            "PLATINUM",
-            "SILVER",
-            "DIAMOND"
-        ],
-        "answer_index": 4,
-        "category": "Names of Chemical Elements",
-        "explanation": "Iron, Gold, Silver, and Platinum are all names of chemical elements found on the periodic table. Diamond, while a precious substance, is an allotrope of carbon, not an element name itself.",
+        "category": "Words with a Silent 'K'",
+        "explanation": "The words 'Knot', 'Kneel', 'Knob', and 'Knowledge' all begin with a silent 'K'. In 'Kindly', the 'K' is pronounced.",
         "completed": false
     }
 ]
