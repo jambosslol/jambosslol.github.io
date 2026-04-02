@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Opera",
-            "Play",
-            "Ballet",
-            "Symphony",
-            "Musical"
-        ],
-        "answer_index": 1,
-        "category": "Performance Arts with Integral Orchestral Music",
-        "explanation": "Opera, Ballet, Symphony, and Musical are all performance forms where a live orchestra or significant live musical accompaniment is a fundamental and defining component. A Play, while it can include music, does not inherently require live orchestral music as a core element; it focuses primarily on spoken dialogue and dramatic action.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Paper",
-            "Gunpowder",
-            "Compass",
-            "Microscope",
-            "Printing Press"
+            "Dice",
+            "Playing Cards",
+            "Scrabble Tiles",
+            "Game Board",
+            "Dominoes"
         ],
         "answer_index": 3,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "The Printing Press, Gunpowder, Compass, and Paper are traditionally known as the 'Four Great Inventions of Ancient China'. The Microscope was invented in Europe much later (late 16th/early 17th century).",
+        "category": "Game Components Randomized for Play",
+        "explanation": "Dice are rolled, playing cards are shuffled, dominoes are typically shuffled face down, and Scrabble tiles are drawn from a bag, all methods of randomization before or during gameplay. A game board is a static element and not randomized.",
         "completed": false
     },
     {
         "tokens": [
-            "Kindly",
-            "Knot",
-            "Knowledge",
-            "Knob",
-            "Kneel"
+            "Telescope",
+            "Microscope",
+            "Steam Engine",
+            "Mechanical Clock",
+            "Printing Press"
         ],
-        "answer_index": 0,
-        "category": "Words with a Silent 'K'",
-        "explanation": "The words 'Knot', 'Kneel', 'Knob', and 'Knowledge' all begin with a silent 'K'. In 'Kindly', the 'K' is pronounced.",
+        "answer_index": 2,
+        "category": "Renaissance Inventions",
+        "explanation": "All tokens except 'Steam Engine' represent significant inventions or technological advancements that emerged or saw major development during the European Renaissance period. The 'Steam Engine' is primarily associated with the Industrial Revolution, which occurred much later.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Setting",
+            "Character",
+            "Publisher",
+            "Theme",
+            "Plot"
+        ],
+        "answer_index": 2,
+        "category": "Core Elements of a Literary Narrative",
+        "explanation": "Plot, Character, Setting, and Theme are all fundamental, intrinsic components that define the content of a literary narrative or story. A Publisher, however, is an external entity responsible for the production and distribution of the story, not an inherent part of the story's content itself.",
         "completed": false
     }
 ]
