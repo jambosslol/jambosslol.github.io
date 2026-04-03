@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Dice",
-            "Playing Cards",
-            "Scrabble Tiles",
-            "Game Board",
-            "Dominoes"
+            "Swing",
+            "Top",
+            "Carousel",
+            "Record Player",
+            "Washing Machine"
+        ],
+        "answer_index": 0,
+        "category": "Objects That Spin or Rotate",
+        "explanation": "A Top, Carousel, Washing Machine, and Record Player all involve a primary component that spins or rotates. A Swing, however, oscillates back and forth without spinning.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Ogham",
+            "Linear B",
+            "Cuneiform",
+            "Phoenician Alphabet",
+            "Hieroglyphs"
+        ],
+        "answer_index": 0,
+        "category": "Foundational Ancient Writing Systems",
+        "explanation": "Hieroglyphs, Cuneiform, Linear B, and the Phoenician Alphabet were all primary writing systems for major ancient civilizations or directly influenced the development of many world alphabets. Ogham is an early medieval alphabet developed much later and used primarily in insular Celtic regions.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Streak",
+            "Bolt",
+            "Dash",
+            "Linger",
+            "Sprint"
         ],
         "answer_index": 3,
-        "category": "Game Components Randomized for Play",
-        "explanation": "Dice are rolled, playing cards are shuffled, dominoes are typically shuffled face down, and Scrabble tiles are drawn from a bag, all methods of randomization before or during gameplay. A game board is a static element and not randomized.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Telescope",
-            "Microscope",
-            "Steam Engine",
-            "Mechanical Clock",
-            "Printing Press"
-        ],
-        "answer_index": 2,
-        "category": "Renaissance Inventions",
-        "explanation": "All tokens except 'Steam Engine' represent significant inventions or technological advancements that emerged or saw major development during the European Renaissance period. The 'Steam Engine' is primarily associated with the Industrial Revolution, which occurred much later.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Setting",
-            "Character",
-            "Publisher",
-            "Theme",
-            "Plot"
-        ],
-        "answer_index": 2,
-        "category": "Core Elements of a Literary Narrative",
-        "explanation": "Plot, Character, Setting, and Theme are all fundamental, intrinsic components that define the content of a literary narrative or story. A Publisher, however, is an external entity responsible for the production and distribution of the story, not an inherent part of the story's content itself.",
+        "category": "Verbs of Rapid Movement",
+        "explanation": "Sprint, Dash, Bolt, and Streak all describe actions involving swift, fast-paced movement. Linger, however, means to stay in a place longer than is usual or expected, or to proceed slowly, making it the odd one out.",
         "completed": false
     }
 ]
