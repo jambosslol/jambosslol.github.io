@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Swing",
+            "Ferris Wheel",
             "Top",
-            "Carousel",
+            "Pendulum",
             "Record Player",
-            "Washing Machine"
+            "Fidget Spinner"
         ],
-        "answer_index": 0,
-        "category": "Objects That Spin or Rotate",
-        "explanation": "A Top, Carousel, Washing Machine, and Record Player all involve a primary component that spins or rotates. A Swing, however, oscillates back and forth without spinning.",
+        "answer_index": 2,
+        "category": "Objects of Continuous Rotation",
+        "explanation": "All tokens except 'Pendulum' are primarily designed to spin or rotate continuously around an axis. A pendulum, while moving, oscillates back and forth rather than undergoing continuous rotational motion.",
         "completed": false
     },
     {
         "tokens": [
-            "Ogham",
-            "Linear B",
-            "Cuneiform",
-            "Phoenician Alphabet",
-            "Hieroglyphs"
-        ],
-        "answer_index": 0,
-        "category": "Foundational Ancient Writing Systems",
-        "explanation": "Hieroglyphs, Cuneiform, Linear B, and the Phoenician Alphabet were all primary writing systems for major ancient civilizations or directly influenced the development of many world alphabets. Ogham is an early medieval alphabet developed much later and used primarily in insular Celtic regions.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Streak",
-            "Bolt",
-            "Dash",
-            "Linger",
-            "Sprint"
+            "Foot",
+            "Span",
+            "Hand",
+            "Meter",
+            "Cubit"
         ],
         "answer_index": 3,
-        "category": "Verbs of Rapid Movement",
-        "explanation": "Sprint, Dash, Bolt, and Streak all describe actions involving swift, fast-paced movement. Linger, however, means to stay in a place longer than is usual or expected, or to proceed slowly, making it the odd one out.",
+        "category": "Ancient Units of Measurement",
+        "explanation": "Foot, Hand, Cubit, and Span are all historical units of length that were traditionally based on the dimensions of the human body. The Meter is a modern, standardized unit of length defined independently of human anatomy.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Strip",
+            "Cull",
+            "Imbue",
+            "Purge",
+            "Extract"
+        ],
+        "answer_index": 2,
+        "category": "Verbs of Removal or Selection for Removal",
+        "explanation": "The verbs 'Extract,' 'Cull,' 'Purge,' and 'Strip' all describe actions of taking something out, removing, or getting rid of. 'Imbue,' however, means to instill, inspire, or saturate, which is the opposite action.",
         "completed": false
     }
 ]
