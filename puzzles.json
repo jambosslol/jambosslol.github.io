@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Librarian",
-            "Book",
-            "Due Date",
-            "Shelf",
-            "Headphones"
-        ],
-        "answer_index": 4,
-        "category": "Components or concepts central to a traditional library's operation",
-        "explanation": "Book, Librarian, Shelf, and Due Date are all fundamental components or concepts directly associated with the physical operation and system of a traditional library. Headphones are a personal item that might be *used* in a library, but they are not an inherent part of its structure, inventory, or system.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza",
-            "Great Wall of China",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes"
-        ],
-        "answer_index": 2,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all traditionally listed among the Seven Wonders of the Ancient World. The Great Wall of China, while a monumental ancient structure, is not included in the classical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Shred",
-            "Shatter",
-            "Crumble",
-            "Splinter",
-            "Fracture"
+            "Laser Pointer",
+            "Candle",
+            "Firefly",
+            "Sun",
+            "Torch"
         ],
         "answer_index": 0,
-        "category": "Forms of Unintentional Material Breakage",
-        "explanation": "Shatter, Splinter, Crumble, and Fracture all describe different ways materials or objects break or disintegrate unintentionally due to stress, impact, or inherent weakness. Shred, however, refers to the intentional act of tearing or cutting something into strips, rather than an accidental form of breakage.",
+        "category": "Traditional or Natural Light Sources",
+        "explanation": "The Sun, Candle, Firefly, and Torch are all sources of light that are either natural or rely on traditional, non-electrical means for their illumination. The Laser Pointer is a modern device that requires electricity to function.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Pantheon",
+            "Aqueduct",
+            "Roman Road",
+            "Pyramid",
+            "Colosseum"
+        ],
+        "answer_index": 3,
+        "category": "Iconic Ancient Roman Engineering and Architecture",
+        "explanation": "Aqueduct, Pantheon, Colosseum, and Roman Road are all renowned examples of engineering and architectural feats from the Ancient Roman civilization. The Pyramid, however, is most famously associated with ancient Egyptian civilization.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lux",
+            "Lumen",
+            "Nit",
+            "Candela",
+            "Watt"
+        ],
+        "answer_index": 4,
+        "category": "Units of Light Measurement",
+        "explanation": "Lumen, Candela, Lux, and Nit are all specific units used to measure various aspects of light (luminous flux, luminous intensity, illuminance, and luminance, respectively). Watt is a unit of power, which can be associated with light sources but is not a direct measure of light itself.",
         "completed": false
     }
 ]
