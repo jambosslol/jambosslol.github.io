@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Laser Pointer",
-            "Candle",
-            "Firefly",
-            "Sun",
-            "Torch"
+            "Flute",
+            "Trumpet",
+            "Conductor",
+            "Cello",
+            "Violin"
         ],
-        "answer_index": 0,
-        "category": "Traditional or Natural Light Sources",
-        "explanation": "The Sun, Candle, Firefly, and Torch are all sources of light that are either natural or rely on traditional, non-electrical means for their illumination. The Laser Pointer is a modern device that requires electricity to function.",
+        "answer_index": 2,
+        "category": "Roles or Components in a Classical Orchestra",
+        "explanation": "Violin, Flute, Trumpet, and Cello are all musical instruments that produce sound within a classical orchestra. A Conductor directs the orchestra but does not play an instrument as part of the ensemble.",
         "completed": false
     },
     {
         "tokens": [
-            "Pantheon",
-            "Aqueduct",
-            "Roman Road",
-            "Pyramid",
-            "Colosseum"
+            "Cleopatra VII",
+            "Hatshepsut",
+            "Boudica",
+            "Nefertiti",
+            "Twosret"
         ],
-        "answer_index": 3,
-        "category": "Iconic Ancient Roman Engineering and Architecture",
-        "explanation": "Aqueduct, Pantheon, Colosseum, and Roman Road are all renowned examples of engineering and architectural feats from the Ancient Roman civilization. The Pyramid, however, is most famously associated with ancient Egyptian civilization.",
+        "answer_index": 2,
+        "category": "Female Rulers of Ancient Egypt",
+        "explanation": "Nefertiti, Hatshepsut, Cleopatra VII, and Twosret were all prominent female rulers or highly influential queens in Ancient Egypt. Boudica was a queen of the British Iceni tribe who led an uprising against the Roman Empire.",
         "completed": false
     },
     {
         "tokens": [
-            "Lux",
-            "Lumen",
-            "Nit",
-            "Candela",
-            "Watt"
+            "Boil",
+            "Melt",
+            "Evaporate",
+            "Freeze",
+            "Ignite"
         ],
         "answer_index": 4,
-        "category": "Units of Light Measurement",
-        "explanation": "Lumen, Candela, Lux, and Nit are all specific units used to measure various aspects of light (luminous flux, luminous intensity, illuminance, and luminance, respectively). Watt is a unit of power, which can be associated with light sources but is not a direct measure of light itself.",
+        "category": "Physical Phase Transitions",
+        "explanation": "Melt, Evaporate, Freeze, and Boil are all terms describing physical phase transitions of matter (changes of state). Ignite describes a chemical process of combustion.",
         "completed": false
     }
 ]
