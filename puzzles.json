@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Flute",
-            "Trumpet",
+            "Violin",
+            "Oboe",
+            "Clarinet",
             "Conductor",
-            "Cello",
-            "Violin"
+            "Flute"
         ],
-        "answer_index": 2,
-        "category": "Roles or Components in a Classical Orchestra",
-        "explanation": "Violin, Flute, Trumpet, and Cello are all musical instruments that produce sound within a classical orchestra. A Conductor directs the orchestra but does not play an instrument as part of the ensemble.",
+        "answer_index": 3,
+        "category": "Woodwind and String Instruments of an Orchestra",
+        "explanation": "Violin, Flute, Clarinet, and Oboe are all instruments commonly found in an orchestra. A Conductor leads the orchestra but is not an instrument.",
         "completed": false
     },
     {
         "tokens": [
-            "Cleopatra VII",
-            "Hatshepsut",
-            "Boudica",
-            "Nefertiti",
-            "Twosret"
+            "League",
+            "Decibel",
+            "Rod",
+            "Fathom",
+            "Mite"
         ],
-        "answer_index": 2,
-        "category": "Female Rulers of Ancient Egypt",
-        "explanation": "Nefertiti, Hatshepsut, Cleopatra VII, and Twosret were all prominent female rulers or highly influential queens in Ancient Egypt. Boudica was a queen of the British Iceni tribe who led an uprising against the Roman Empire.",
+        "answer_index": 1,
+        "category": "Historical Absolute Units of Physical Measurement",
+        "explanation": "Fathom, League, Mite, and Rod are all traditional or historical units used to measure absolute physical quantities such as depth, distance, length, or weight. Decibel is a modern, logarithmic unit used to express the ratio of two values of intensity or power.",
         "completed": false
     },
     {
         "tokens": [
-            "Boil",
-            "Melt",
-            "Evaporate",
-            "Freeze",
-            "Ignite"
+            "Lira",
+            "Penny",
+            "Mark",
+            "Yen",
+            "Rupee"
         ],
-        "answer_index": 4,
-        "category": "Physical Phase Transitions",
-        "explanation": "Melt, Evaporate, Freeze, and Boil are all terms describing physical phase transitions of matter (changes of state). Ignite describes a chemical process of combustion.",
+        "answer_index": 1,
+        "category": "Primary National Currencies",
+        "explanation": "Mark, Lira, Yen, and Rupee are or were all names of primary national currencies. A Penny is a subdivision of a larger currency unit, not a standalone national currency.",
         "completed": false
     }
 ]
