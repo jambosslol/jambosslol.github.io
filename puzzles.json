@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Violin",
-            "Oboe",
-            "Clarinet",
-            "Conductor",
-            "Flute"
+            "Incandescence",
+            "Bioluminescence",
+            "Phosphorescence",
+            "Fluorescence",
+            "Chemiluminescence"
         ],
-        "answer_index": 3,
-        "category": "Woodwind and String Instruments of an Orchestra",
-        "explanation": "Violin, Flute, Clarinet, and Oboe are all instruments commonly found in an orchestra. A Conductor leads the orchestra but is not an instrument.",
+        "answer_index": 0,
+        "category": "Non-Thermal Light Production",
+        "explanation": "Phosphorescence, Fluorescence, Bioluminescence, and Chemiluminescence are all forms of light production that do not primarily rely on heat (often called 'cold light' or luminescence). Incandescence is light produced specifically by heat.",
         "completed": false
     },
     {
         "tokens": [
-            "League",
-            "Decibel",
-            "Rod",
-            "Fathom",
-            "Mite"
+            "Parthenon",
+            "Colosseum",
+            "Roman Forum",
+            "Pantheon",
+            "Trevi Fountain"
         ],
-        "answer_index": 1,
-        "category": "Historical Absolute Units of Physical Measurement",
-        "explanation": "Fathom, League, Mite, and Rod are all traditional or historical units used to measure absolute physical quantities such as depth, distance, length, or weight. Decibel is a modern, logarithmic unit used to express the ratio of two values of intensity or power.",
+        "answer_index": 0,
+        "category": "Iconic Roman Landmarks",
+        "explanation": "The Colosseum, Pantheon, Roman Forum, and Trevi Fountain are all iconic historical or cultural landmarks located in Rome, Italy. The Parthenon is an ancient temple located in Athens, Greece.",
         "completed": false
     },
     {
         "tokens": [
-            "Lira",
-            "Penny",
-            "Mark",
-            "Yen",
-            "Rupee"
+            "TRAIN",
+            "PLATE",
+            "BRUSH",
+            "CHAIR",
+            "APPLE"
         ],
-        "answer_index": 1,
-        "category": "Primary National Currencies",
-        "explanation": "Mark, Lira, Yen, and Rupee are or were all names of primary national currencies. A Penny is a subdivision of a larger currency unit, not a standalone national currency.",
+        "answer_index": 4,
+        "category": "Words that form another valid English word by removing their first letter",
+        "explanation": "TRAIN becomes RAIN, CHAIR becomes HAIR, PLATE becomes LATE, and BRUSH becomes RUSH. APPLE does not form a valid English word by removing its first letter.",
         "completed": false
     }
 ]
