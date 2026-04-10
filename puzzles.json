@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Incandescence",
-            "Bioluminescence",
-            "Phosphorescence",
-            "Fluorescence",
-            "Chemiluminescence"
+            "Spotlight",
+            "Curtain",
+            "Rehearsal",
+            "Podium",
+            "Script"
         ],
-        "answer_index": 0,
-        "category": "Non-Thermal Light Production",
-        "explanation": "Phosphorescence, Fluorescence, Bioluminescence, and Chemiluminescence are all forms of light production that do not primarily rely on heat (often called 'cold light' or luminescence). Incandescence is light produced specifically by heat.",
+        "answer_index": 3,
+        "category": "Elements of Live Theater Production",
+        "explanation": "Spotlight, Curtain, Script, and Rehearsal are all integral components or stages of a live theatrical play or stage production. A Podium is typically used for speeches, lectures, or debates, not as a primary element of a dramatic stage play.",
         "completed": false
     },
     {
         "tokens": [
-            "Parthenon",
+            "Aqueduct",
             "Colosseum",
+            "Parthenon",
             "Roman Forum",
-            "Pantheon",
-            "Trevi Fountain"
+            "Pantheon"
         ],
-        "answer_index": 0,
-        "category": "Iconic Roman Landmarks",
-        "explanation": "The Colosseum, Pantheon, Roman Forum, and Trevi Fountain are all iconic historical or cultural landmarks located in Rome, Italy. The Parthenon is an ancient temple located in Athens, Greece.",
+        "answer_index": 2,
+        "category": "Architectural Wonders of Ancient Rome",
+        "explanation": "The Colosseum, Aqueduct, Roman Forum, and Pantheon are all iconic architectural achievements of the Ancient Roman Empire. The Parthenon, however, is a renowned temple of Ancient Greece.",
         "completed": false
     },
     {
         "tokens": [
-            "TRAIN",
-            "PLATE",
-            "BRUSH",
-            "CHAIR",
-            "APPLE"
+            "Rubber band",
+            "Slinky",
+            "Balloon",
+            "Bungee cord",
+            "Diamond"
         ],
         "answer_index": 4,
-        "category": "Words that form another valid English word by removing their first letter",
-        "explanation": "TRAIN becomes RAIN, CHAIR becomes HAIR, PLATE becomes LATE, and BRUSH becomes RUSH. APPLE does not form a valid English word by removing its first letter.",
+        "category": "Objects Known for Elasticity",
+        "explanation": "Rubber bands, Slinkys, balloons (when inflated), and bungee cords are all objects primarily known for their elastic properties and ability to stretch. A diamond, being one of the hardest and most rigid materials, does not possess this characteristic.",
         "completed": false
     }
 ]
