@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pencil",
-            "Keyboard",
-            "Ink",
-            "Pen",
-            "Paper"
+            "Flour",
+            "Baking Soda",
+            "Egg",
+            "Salt",
+            "Sugar"
         ],
-        "answer_index": 1,
-        "category": "Traditional Analog Writing Essentials",
-        "explanation": "Pen, Paper, Ink, and Pencil are all physical components or materials fundamentally used for traditional, analog writing. A Keyboard is primarily used for digital text input.",
+        "answer_index": 2,
+        "category": "Common Dry Baking Ingredients",
+        "explanation": "Flour, Sugar, Baking Soda, and Salt are all essential dry, powdery, or granular ingredients commonly measured in baking. An Egg is a liquid ingredient, typically used for binding or leavening, making it the odd one out.",
         "completed": false
     },
     {
         "tokens": [
-            "US Constitution",
-            "Emancipation Proclamation",
-            "Magna Carta",
-            "Treaty of Versailles",
-            "Declaration of Independence"
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Temple of Artemis",
+            "Colossus of Rhodes",
+            "Machu Picchu"
         ],
-        "answer_index": 3,
-        "category": "Foundational Documents for National Governance and Rights",
-        "explanation": "Magna Carta, Declaration of Independence, US Constitution, and Emancipation Proclamation are all pivotal historical documents that primarily established or expanded individual rights, governance, or freedom within a specific nation (England/UK, USA). The Treaty of Versailles, however, is an international peace treaty signed between multiple nations to formally end World War I, rather than a document defining a single nation's internal governance or rights.",
+        "answer_index": 4,
+        "category": "Wonders of the World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Temple of Artemis are all traditionally listed among the Seven Wonders of the Ancient World. Machu Picchu is one of the New Seven Wonders of the World.",
         "completed": false
     },
     {
         "tokens": [
-            "AMPERE",
-            "LITER",
-            "SECOND",
-            "KILOGRAM",
-            "METER"
+            "Linear",
+            "Gyrating",
+            "Swirl",
+            "Helix",
+            "Corkscrew"
         ],
-        "answer_index": 1,
-        "category": "SI Base Units",
-        "explanation": "Meter, Kilogram, Ampere, and Second are all fundamental base units in the International System of Units (SI). Liter is a unit of volume, but it is not an SI base unit; it is a derived unit (1 Liter = 0.001 cubic meters).",
+        "answer_index": 0,
+        "category": "Forms of Rotational Movement",
+        "explanation": "Helix, Corkscrew, Gyrating, and Swirl all describe a type of rotational or spiraling motion. Linear describes movement in a straight line.",
         "completed": false
     }
 ]
