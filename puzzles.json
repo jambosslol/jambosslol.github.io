@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Flour",
-            "Baking Soda",
-            "Egg",
-            "Salt",
-            "Sugar"
+            "Candle",
+            "Torch",
+            "Firefly",
+            "Flashlight",
+            "Lantern"
         ],
-        "answer_index": 2,
-        "category": "Common Dry Baking Ingredients",
-        "explanation": "Flour, Sugar, Baking Soda, and Salt are all essential dry, powdery, or granular ingredients commonly measured in baking. An Egg is a liquid ingredient, typically used for binding or leavening, making it the odd one out.",
+        "answer_index": 3,
+        "category": "Non-Electric Light Sources",
+        "explanation": "Candle, Torch (as in a flaming stick), Lantern (traditionally oil/gas powered), and Firefly all produce light without relying on electricity. A Flashlight, by contrast, operates using batteries or an external power source (electricity).",
         "completed": false
     },
     {
         "tokens": [
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Temple of Artemis",
-            "Colossus of Rhodes",
-            "Machu Picchu"
-        ],
-        "answer_index": 4,
-        "category": "Wonders of the World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Temple of Artemis are all traditionally listed among the Seven Wonders of the Ancient World. Machu Picchu is one of the New Seven Wonders of the World.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Linear",
-            "Gyrating",
-            "Swirl",
-            "Helix",
-            "Corkscrew"
+            "Wheelbarrow",
+            "Gunpowder",
+            "Papermaking",
+            "Printing",
+            "Compass"
         ],
         "answer_index": 0,
-        "category": "Forms of Rotational Movement",
-        "explanation": "Helix, Corkscrew, Gyrating, and Swirl all describe a type of rotational or spiraling motion. Linear describes movement in a straight line.",
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Papermaking, Compass, and Printing are traditionally recognized as the 'Four Great Inventions of Ancient China'. The Wheelbarrow, while a significant Chinese invention, is not typically included in this specific historical grouping.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Sizzle",
+            "Pop",
+            "Crackle",
+            "Hiss",
+            "Rustle"
+        ],
+        "answer_index": 4,
+        "category": "Sounds of Heat and Pressure",
+        "explanation": "Crackle, Sizzle, Pop, and Hiss are all onomatopoeic sounds commonly associated with high temperatures, rapid expansion, or pressure release (e.g., fire, cooking, steam). Rustle is a sound made by friction, typically of dry leaves or fabric, and does not fit this category.",
         "completed": false
     }
 ]
