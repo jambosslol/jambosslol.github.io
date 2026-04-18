@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Accelerator",
-            "Gear Shift",
-            "Ignition Key",
-            "Brake Pedal",
-            "Steering Wheel"
+            "Firefly",
+            "Sun",
+            "Lava",
+            "Anglerfish",
+            "Mirror"
         ],
-        "answer_index": 2,
-        "category": "Active Controls for Operating a Moving Vehicle",
-        "explanation": "Steering Wheel, Accelerator, Brake Pedal, and Gear Shift are all controls actively manipulated by the driver while the vehicle is in motion. The Ignition Key is primarily used to start or stop the engine, not for controlling movement during driving.",
+        "answer_index": 4,
+        "category": "Natural Light Emitters",
+        "explanation": "Sun, Firefly, Anglerfish, and Lava all naturally produce and emit their own light. A mirror reflects light but does not generate it.",
         "completed": false
     },
     {
         "tokens": [
-            "Colosseum",
             "Lighthouse of Alexandria",
+            "Colosseum",
             "Hanging Gardens of Babylon",
-            "Temple of Artemis at Ephesus",
-            "Pyramid of Giza"
+            "Pyramids of Giza",
+            "Statue of Zeus at Olympia"
         ],
-        "answer_index": 0,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Lighthouse of Alexandria are all traditionally listed as four of the Original Seven Wonders of the Ancient World. The Colosseum, while an impressive ancient structure, is not part of this specific list.",
+        "answer_index": 1,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, and Lighthouse of Alexandria are all traditionally listed among the Seven Wonders of the Ancient World. The Colosseum, while an impressive ancient Roman amphitheater, is not included in that specific list.",
         "completed": false
     },
     {
         "tokens": [
-            "Eavesdrop",
-            "Hear",
-            "Listen",
-            "Quiet",
-            "Auditory"
+            "Loud",
+            "Bitter",
+            "Bright",
+            "Rough",
+            "Sight"
         ],
-        "answer_index": 3,
-        "category": "Concepts of Hearing",
-        "explanation": "Listen, Hear, Auditory, and Eavesdrop all directly relate to the act or sense of perceiving sound. 'Quiet' describes the absence of sound or a low level of sound, rather than the act of hearing itself.",
+        "answer_index": 4,
+        "category": "Sensory Adjectives vs. Sense Nouns",
+        "explanation": "Bitter, Rough, Loud, and Bright are all adjectives describing specific sensory qualities (taste, touch, hearing, sight respectively). 'Sight' is a noun referring to the sense itself or the faculty of seeing, not an adjective describing a quality.",
         "completed": false
     }
 ]
