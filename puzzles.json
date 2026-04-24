@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Borrower's Card",
-            "Vending Machine",
-            "Microfiche Reader",
-            "Quiet Sign",
-            "Dewey Decimal System"
+            "Sensor",
+            "Printer",
+            "Film",
+            "Memory Card",
+            "Negative"
         ],
         "answer_index": 1,
-        "category": "Elements of a Traditional Library",
-        "explanation": "The Dewey Decimal System, Microfiche Reader, Quiet Sign, and Borrower's Card are all specific features or components intrinsically linked to the operation and environment of a traditional library. A Vending Machine, while sometimes present, is a general amenity and not unique or essential to the library's core function or identity.",
+        "category": "Elements of Photographic Image Capture and Storage",
+        "explanation": "Film, Memory Card, Sensor, and Negative are all components or media used for the initial capture or direct storage of a photographic image. A Printer is an output device used to produce a physical copy *after* the image has been captured and stored.",
         "completed": false
     },
     {
         "tokens": [
-            "George Orwell",
-            "J.R.R. Tolkien",
-            "Ray Bradbury",
-            "Margaret Atwood",
-            "Aldous Huxley"
+            "Temple of Artemis at Ephesus",
+            "Great Wall of China",
+            "Hanging Gardens of Babylon",
+            "Pyramid of Giza",
+            "Colossus of Rhodes"
         ],
         "answer_index": 1,
-        "category": "Authors of Influential Dystopian Novels",
-        "explanation": "George Orwell, Aldous Huxley, Ray Bradbury, and Margaret Atwood are all renowned authors famous for their seminal works in the dystopian fiction genre. J.R.R. Tolkien is celebrated for his foundational works in high fantasy, notably 'The Lord of the Rings', which is not considered dystopian.",
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "Four of the tokens are traditionally listed as part of the original Seven Wonders of the Ancient World. The Great Wall of China, while a magnificent historical structure, is not included in this specific ancient list.",
         "completed": false
     },
     {
         "tokens": [
-            "Candle",
-            "Lamp",
-            "Torch",
-            "Sun",
-            "Moon"
+            "Rely",
+            "Depend",
+            "Consider",
+            "Insist",
+            "Focus"
         ],
-        "answer_index": 4,
-        "category": "Objects That Generate Their Own Light",
-        "explanation": "Sun, Lamp, Candle, and Torch are all objects that generate or emit their own light. The Moon reflects light from the Sun but does not generate its own.",
+        "answer_index": 2,
+        "category": "Verbs Commonly Followed by 'On'",
+        "explanation": "All tokens except 'Consider' are verbs that are very commonly followed by the preposition 'on' (e.g., 'rely on', 'depend on', 'insist on', 'focus on'). 'Consider' is a transitive verb that typically takes a direct object without 'on'.",
         "completed": false
     }
 ]
