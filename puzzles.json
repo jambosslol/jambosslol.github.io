@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Whipped Egg Whites",
-            "Yeast",
-            "Baking Soda",
-            "Baking Powder",
-            "Gelatin"
+            "Film Reel",
+            "Red Tape",
+            "Yoga Mat",
+            "Carpet",
+            "Scroll"
         ],
-        "answer_index": 4,
-        "category": "Methods of Leavening in Baking",
-        "explanation": "Baking Soda, Baking Powder, Yeast, and Whipped Egg Whites are all common agents or methods used to leaven (make rise) baked goods through chemical, biological, or mechanical processes. Gelatin is a gelling agent used for thickening and setting, not for leavening.",
+        "answer_index": 1,
+        "category": "Items typically unrolled or unwound for use",
+        "explanation": "Carpet, Scroll, Yoga Mat, and Film Reel are all physical objects that are commonly unrolled or unwound for their intended function. 'Red Tape' is an idiom for excessive bureaucracy and is not physically unrolled in its common, conceptual meaning.",
         "completed": false
     },
     {
         "tokens": [
-            "Isaac Newton",
-            "Alexander Graham Bell",
-            "Thomas Edison",
-            "Wright Brothers",
-            "Johannes Gutenberg"
+            "Hanging Gardens of Babylon",
+            "Colosseum",
+            "Statue of Zeus at Olympia",
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria"
         ],
-        "answer_index": 0,
-        "category": "Inventors of Mass-Impact Technologies",
-        "explanation": "The first four individuals are widely credited with inventing technologies (powered flight, printing press, telephone, practical electric light/phonograph) that fundamentally transformed global communication, industry, or daily life. Isaac Newton was a foundational scientist, mathematician, and philosopher, but not an inventor of a widely adopted technological device in the same vein.",
+        "answer_index": 1,
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Statue of Zeus at Olympia are all among the original Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, is not part of that traditional list.",
         "completed": false
     },
     {
         "tokens": [
-            "Decade",
-            "Gross",
-            "Pair",
-            "Dozen",
-            "Score"
+            "Sum",
+            "Too",
+            "Ate",
+            "Won",
+            "For"
         ],
         "answer_index": 0,
-        "category": "Units of Quantity",
-        "explanation": "Four of the words (Dozen, Pair, Score, Gross) represent specific numerical quantities for counting discrete items. Decade represents a specific quantity of time.",
+        "category": "Homophones of Single-Digit Numbers",
+        "explanation": "Ate (eight), For (four), Too (two), and Won (one) are all homophones of single-digit numbers. Sum is not a homophone for any single-digit number.",
         "completed": false
     }
 ]
