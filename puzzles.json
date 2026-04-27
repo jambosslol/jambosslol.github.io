@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Film Reel",
-            "Red Tape",
-            "Yoga Mat",
-            "Carpet",
-            "Scroll"
+            "Foot",
+            "Volley",
+            "Soccer",
+            "Base",
+            "Basket"
         ],
-        "answer_index": 1,
-        "category": "Items typically unrolled or unwound for use",
-        "explanation": "Carpet, Scroll, Yoga Mat, and Film Reel are all physical objects that are commonly unrolled or unwound for their intended function. 'Red Tape' is an idiom for excessive bureaucracy and is not physically unrolled in its common, conceptual meaning.",
+        "answer_index": 2,
+        "category": "Words Combining with 'Ball' for Sports",
+        "explanation": "Foot, Base, Basket, and Volley are all words that combine with 'ball' to form the name of a popular sport (Football, Baseball, Basketball, Volleyball). 'Soccer' is itself the name of a sport, not a component word combined with 'ball'.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Colosseum",
-            "Statue of Zeus at Olympia",
-            "Great Pyramid of Giza",
-            "Lighthouse of Alexandria"
-        ],
-        "answer_index": 1,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Statue of Zeus at Olympia are all among the original Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, is not part of that traditional list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Sum",
-            "Too",
-            "Ate",
-            "Won",
-            "For"
+            "Zeus",
+            "Hades",
+            "Hel",
+            "Pluto",
+            "Osiris"
         ],
         "answer_index": 0,
-        "category": "Homophones of Single-Digit Numbers",
-        "explanation": "Ate (eight), For (four), Too (two), and Won (one) are all homophones of single-digit numbers. Sum is not a homophone for any single-digit number.",
+        "category": "Gods of the Underworld",
+        "explanation": "Hades (Greek), Osiris (Egyptian), Hel (Norse), and Pluto (Roman) are all prominent deities associated with the underworld or the realm of the dead in their respective mythologies. Zeus (Greek) is the king of the Olympian gods and god of the sky and thunder, not the underworld.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Wonder",
+            "Permit",
+            "Grate",
+            "Ante",
+            "Forecast"
+        ],
+        "answer_index": 1,
+        "category": "Words containing the sound of a number",
+        "explanation": "Four of the words contain the sound of a number when spoken: 'Wonder' (one), 'Grate' (eight), 'Ante' (ten), and 'Forecast' (four). 'Permit' does not contain the sound of a number.",
         "completed": false
     }
 ]
