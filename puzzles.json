@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Foot",
-            "Volley",
-            "Soccer",
-            "Base",
-            "Basket"
+            "Joule",
+            "Ampere",
+            "Hertz",
+            "Liter",
+            "Watt"
         ],
-        "answer_index": 2,
-        "category": "Words Combining with 'Ball' for Sports",
-        "explanation": "Foot, Base, Basket, and Volley are all words that combine with 'ball' to form the name of a popular sport (Football, Baseball, Basketball, Volleyball). 'Soccer' is itself the name of a sport, not a component word combined with 'ball'.",
+        "answer_index": 3,
+        "category": "SI Units Named After Scientists",
+        "explanation": "Hertz, Joule, Ampere, and Watt are all SI units named after prominent scientists (Heinrich Hertz, James Prescott Joule, Andr\u00e9-Marie Amp\u00e8re, James Watt, respectively). Liter is an SI derived unit for volume, but its name is not derived from a scientist.",
         "completed": false
     },
     {
         "tokens": [
-            "Zeus",
-            "Hades",
-            "Hel",
-            "Pluto",
-            "Osiris"
-        ],
-        "answer_index": 0,
-        "category": "Gods of the Underworld",
-        "explanation": "Hades (Greek), Osiris (Egyptian), Hel (Norse), and Pluto (Roman) are all prominent deities associated with the underworld or the realm of the dead in their respective mythologies. Zeus (Greek) is the king of the Olympian gods and god of the sky and thunder, not the underworld.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Wonder",
-            "Permit",
-            "Grate",
-            "Ante",
-            "Forecast"
+            "Sadist",
+            "Utopia",
+            "Luddite",
+            "Chauvinist",
+            "Masochist"
         ],
         "answer_index": 1,
-        "category": "Words containing the sound of a number",
-        "explanation": "Four of the words contain the sound of a number when spoken: 'Wonder' (one), 'Grate' (eight), 'Ante' (ten), and 'Forecast' (four). 'Permit' does not contain the sound of a number.",
+        "category": "Eponyms of Character & Ideology",
+        "explanation": "Chauvinist, Luddite, Masochist, and Sadist are all adjectives/nouns derived directly from the proper names of historical or legendary figures, describing a specific character trait or ideology associated with them. 'Utopia,' while a word coined by Sir Thomas More, is a compound word derived from Greek roots (meaning 'no place' or 'good place') to describe an ideal society, rather than being a direct eponym for a person's characteristic.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Rupture",
+            "Fracture",
+            "Shatter",
+            "Mend",
+            "Splinter"
+        ],
+        "answer_index": 3,
+        "category": "Verbs of Disintegration vs. Restoration",
+        "explanation": "Fracture, Shatter, Rupture, and Splinter all describe different ways something can break or come apart. Mend, on the other hand, means to repair or fix something that is broken.",
         "completed": false
     }
 ]
