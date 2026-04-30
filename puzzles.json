@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Joule",
-            "Ampere",
-            "Hertz",
-            "Liter",
-            "Watt"
+            "Green Screen",
+            "Clapperboard",
+            "Director's Chair",
+            "Ticket Stub",
+            "Boom Mic"
         ],
         "answer_index": 3,
-        "category": "SI Units Named After Scientists",
-        "explanation": "Hertz, Joule, Ampere, and Watt are all SI units named after prominent scientists (Heinrich Hertz, James Prescott Joule, Andr\u00e9-Marie Amp\u00e8re, James Watt, respectively). Liter is an SI derived unit for volume, but its name is not derived from a scientist.",
+        "category": "Elements of Film Production",
+        "explanation": "Clapperboard, Director's Chair, Green Screen, and Boom Mic are all items or tools directly used in the active production or filming of a movie. A Ticket Stub, however, is received by an audience member after a film has been completed and released for viewing.",
         "completed": false
     },
     {
         "tokens": [
-            "Sadist",
-            "Utopia",
-            "Luddite",
-            "Chauvinist",
-            "Masochist"
+            "Declaration of Human Rights",
+            "Rosetta Stone",
+            "US Constitution",
+            "Magna Carta",
+            "Bill of Rights"
         ],
         "answer_index": 1,
-        "category": "Eponyms of Character & Ideology",
-        "explanation": "Chauvinist, Luddite, Masochist, and Sadist are all adjectives/nouns derived directly from the proper names of historical or legendary figures, describing a specific character trait or ideology associated with them. 'Utopia,' while a word coined by Sir Thomas More, is a compound word derived from Greek roots (meaning 'no place' or 'good place') to describe an ideal society, rather than being a direct eponym for a person's characteristic.",
+        "category": "Foundational Documents of Law and Rights",
+        "explanation": "Magna Carta, the US Constitution, the Declaration of Human Rights, and the Bill of Rights are all pivotal historical documents that establish laws, rights, or principles for governance and human liberties. The Rosetta Stone is an ancient Egyptian stele crucial for deciphering hieroglyphs, but it is not a foundational legal or rights document.",
         "completed": false
     },
     {
         "tokens": [
-            "Rupture",
-            "Fracture",
-            "Shatter",
-            "Mend",
-            "Splinter"
+            "Return",
+            "Author",
+            "Borrow",
+            "Annotate",
+            "Read"
         ],
-        "answer_index": 3,
-        "category": "Verbs of Disintegration vs. Restoration",
-        "explanation": "Fracture, Shatter, Rupture, and Splinter all describe different ways something can break or come apart. Mend, on the other hand, means to repair or fix something that is broken.",
+        "answer_index": 1,
+        "category": "Verbs Related to Interacting with Books",
+        "explanation": "The first four tokens are verbs describing actions one can perform with an already existing book. \"Author\" is the person who creates a book, not an action performed with it.",
         "completed": false
     }
 ]
