@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Green Screen",
-            "Clapperboard",
-            "Director's Chair",
-            "Ticket Stub",
-            "Boom Mic"
+            "Tablet",
+            "Typewriter",
+            "Scroll",
+            "Papyrus",
+            "Parchment"
         ],
-        "answer_index": 3,
-        "category": "Elements of Film Production",
-        "explanation": "Clapperboard, Director's Chair, Green Screen, and Boom Mic are all items or tools directly used in the active production or filming of a movie. A Ticket Stub, however, is received by an audience member after a film has been completed and released for viewing.",
+        "answer_index": 1,
+        "category": "Historical Writing Surfaces",
+        "explanation": "Scroll, Parchment, Papyrus, and Tablet (like a clay tablet) were all ancient materials or surfaces used for writing or inscribing information. A Typewriter is a machine used to create written text, not the medium upon which it is written.",
         "completed": false
     },
     {
         "tokens": [
-            "Declaration of Human Rights",
-            "Rosetta Stone",
-            "US Constitution",
-            "Magna Carta",
-            "Bill of Rights"
+            "Statue of Zeus at Olympia",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes"
         ],
-        "answer_index": 1,
-        "category": "Foundational Documents of Law and Rights",
-        "explanation": "Magna Carta, the US Constitution, the Declaration of Human Rights, and the Bill of Rights are all pivotal historical documents that establish laws, rights, or principles for governance and human liberties. The Rosetta Stone is an ancient Egyptian stele crucial for deciphering hieroglyphs, but it is not a foundational legal or rights document.",
+        "answer_index": 2,
+        "category": "Ancient Wonders That No Longer Exist",
+        "explanation": "All tokens except the Great Pyramid of Giza are among the Seven Wonders of the Ancient World that have been destroyed over time. The Great Pyramid of Giza is the only one of the original seven wonders that is still largely intact and standing today.",
         "completed": false
     },
     {
         "tokens": [
-            "Return",
-            "Author",
-            "Borrow",
-            "Annotate",
-            "Read"
+            "About",
+            "Always",
+            "Above",
+            "Across",
+            "After"
         ],
         "answer_index": 1,
-        "category": "Verbs Related to Interacting with Books",
-        "explanation": "The first four tokens are verbs describing actions one can perform with an already existing book. \"Author\" is the person who creates a book, not an action performed with it.",
+        "category": "Words that can function as prepositions",
+        "explanation": "About, Above, Across, and After can all function as prepositions. 'Always' is an adverb, indicating frequency, and does not serve as a preposition.",
         "completed": false
     }
 ]
