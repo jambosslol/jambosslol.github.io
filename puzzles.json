@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Gears",
-            "Dial",
-            "Escapement",
-            "Springs",
-            "Pendulum"
+            "Glow Stick",
+            "Mirror",
+            "Sun",
+            "Aurora Borealis",
+            "Firefly"
         ],
         "answer_index": 1,
-        "category": "Core Mechanical Components of a Clock",
-        "explanation": "Gears, Springs, Pendulum, and Escapement are all essential internal mechanical components that enable a traditional clock to function and keep time. The Dial is an external display component, not part of the internal timekeeping mechanism itself.",
+        "category": "Sources of Luminous Light",
+        "explanation": "The Sun, Firefly, Glow Stick, and Aurora Borealis all produce their own light through various processes (nuclear fusion, bioluminescence, chemiluminescence, atmospheric excitation). A mirror reflects existing light but does not generate it.",
         "completed": false
     },
     {
         "tokens": [
-            "Incas",
-            "Babylonians",
-            "Sumerians",
-            "Assyrians",
-            "Ancient Egyptians"
+            "Gunpowder",
+            "Papermaking",
+            "Internet",
+            "Printing Press",
+            "Compass"
+        ],
+        "answer_index": 2,
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Printing Press, Gunpowder, Compass, and Papermaking are traditionally recognized as the Four Great Inventions of Ancient China, which significantly impacted global civilization. The Internet is a modern invention and does not belong to this specific historical and cultural set.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Cub",
+            "Swarm",
+            "Flock",
+            "Herd",
+            "Pack"
         ],
         "answer_index": 0,
-        "category": "Major Civilizations of the Ancient Near East",
-        "explanation": "The Ancient Egyptians, Sumerians, Babylonians, and Assyrians were all prominent civilizations that flourished in the Ancient Near East. The Incas, however, were a pre-Columbian civilization from South America.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Second",
-            "Ampere",
-            "Meter",
-            "Kilogram",
-            "Liter"
-        ],
-        "answer_index": 4,
-        "category": "SI Base Units",
-        "explanation": "Second, Meter, Kilogram, and Ampere are four of the seven fundamental base units in the International System of Units (SI). Liter is a derived unit of volume (equivalent to a cubic decimeter), not a base unit.",
+        "category": "Collective Nouns for Animals",
+        "explanation": "Flock, Herd, Swarm, and Pack are all collective nouns used to describe groups of animals. 'Cub' refers to a single, young animal, not a collection or group.",
         "completed": false
     }
 ]
