@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Glow Stick",
-            "Mirror",
-            "Sun",
-            "Aurora Borealis",
-            "Firefly"
+            "Quill",
+            "Typewriter",
+            "Pencil",
+            "Inkwell",
+            "Stylus"
         ],
-        "answer_index": 1,
-        "category": "Sources of Luminous Light",
-        "explanation": "The Sun, Firefly, Glow Stick, and Aurora Borealis all produce their own light through various processes (nuclear fusion, bioluminescence, chemiluminescence, atmospheric excitation). A mirror reflects existing light but does not generate it.",
+        "answer_index": 4,
+        "category": "Traditional Physical Writing Implements and their Accessories",
+        "explanation": "Quill, Inkwell, Typewriter, and Pencil are all used for creating or facilitating the creation of marks and text on a physical, tangible surface such as paper. A Stylus is primarily used for interacting with or drawing on a digital screen.",
         "completed": false
     },
     {
         "tokens": [
-            "Gunpowder",
-            "Papermaking",
-            "Internet",
-            "Printing Press",
-            "Compass"
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Temple of Artemis at Ephesus",
+            "Great Pyramid of Giza",
+            "Library of Alexandria"
+        ],
+        "answer_index": 4,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Temple of Artemis at Ephesus are all recognized as four of the Seven Wonders of the Ancient World. The Library of Alexandria, while a monumental and historically significant ancient structure, is not included on that definitive list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Appendix",
+            "Chapter",
+            "Bookmark",
+            "Foreword",
+            "Index"
         ],
         "answer_index": 2,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Printing Press, Gunpowder, Compass, and Papermaking are traditionally recognized as the Four Great Inventions of Ancient China, which significantly impacted global civilization. The Internet is a modern invention and does not belong to this specific historical and cultural set.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Cub",
-            "Swarm",
-            "Flock",
-            "Herd",
-            "Pack"
-        ],
-        "answer_index": 0,
-        "category": "Collective Nouns for Animals",
-        "explanation": "Flock, Herd, Swarm, and Pack are all collective nouns used to describe groups of animals. 'Cub' refers to a single, young animal, not a collection or group.",
+        "category": "Internal Sections of a Book",
+        "explanation": "Chapter, Foreword, Appendix, and Index are all distinct sections or components that are physically part of a book's content or structure. A Bookmark is an external item used to mark a place in a book, not an intrinsic part of the book itself.",
         "completed": false
     }
 ]
