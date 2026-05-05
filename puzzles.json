@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
+            "Keyboard",
+            "Ink",
             "Quill",
             "Typewriter",
-            "Pencil",
-            "Inkwell",
-            "Stylus"
+            "Pen"
         ],
-        "answer_index": 4,
-        "category": "Traditional Physical Writing Implements and their Accessories",
-        "explanation": "Quill, Inkwell, Typewriter, and Pencil are all used for creating or facilitating the creation of marks and text on a physical, tangible surface such as paper. A Stylus is primarily used for interacting with or drawing on a digital screen.",
+        "answer_index": 1,
+        "category": "Tools for Text Generation",
+        "explanation": "Pen, Keyboard, Quill, and Typewriter are all distinct instruments designed for the direct creation or transcription of written text. Ink is a consumable substance required by some of these tools, but it is not a tool for text generation itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Temple of Artemis at Ephesus",
-            "Great Pyramid of Giza",
-            "Library of Alexandria"
-        ],
-        "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Temple of Artemis at Ephesus are all recognized as four of the Seven Wonders of the Ancient World. The Library of Alexandria, while a monumental and historically significant ancient structure, is not included on that definitive list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Appendix",
-            "Chapter",
-            "Bookmark",
-            "Foreword",
-            "Index"
+            "Hieroglyphs",
+            "Cuneiform",
+            "Latin Script",
+            "Linear B",
+            "Maya Glyphs"
         ],
         "answer_index": 2,
-        "category": "Internal Sections of a Book",
-        "explanation": "Chapter, Foreword, Appendix, and Index are all distinct sections or components that are physically part of a book's content or structure. A Bookmark is an external item used to mark a place in a book, not an intrinsic part of the book itself.",
+        "category": "Predominantly Logographic or Syllabic Ancient Scripts",
+        "explanation": "Hieroglyphs, Cuneiform, Maya Glyphs, and Linear B are all ancient writing systems that are predominantly logographic, pictographic, or syllabic in nature. Latin Script, however, is a purely alphabetic system that forms the basis of many modern languages.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Elevate",
+            "Flourish",
+            "Soar",
+            "Ascend",
+            "Rise"
+        ],
+        "answer_index": 1,
+        "category": "Verbs of Literal Upward Motion",
+        "explanation": "Ascend, Elevate, Soar, and Rise are all verbs that specifically denote literal physical movement in an upward direction. Flourish means to grow or develop successfully, which does not inherently involve physical upward motion.",
         "completed": false
     }
 ]
