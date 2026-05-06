@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Keyboard",
-            "Ink",
-            "Quill",
-            "Typewriter",
-            "Pen"
+            "Wind Turbine",
+            "Solar Panel",
+            "Hydroelectric Dam",
+            "Geothermal Plant",
+            "Nuclear Reactor"
         ],
-        "answer_index": 1,
-        "category": "Tools for Text Generation",
-        "explanation": "Pen, Keyboard, Quill, and Typewriter are all distinct instruments designed for the direct creation or transcription of written text. Ink is a consumable substance required by some of these tools, but it is not a tool for text generation itself.",
+        "answer_index": 4,
+        "category": "Major Renewable Energy Sources",
+        "explanation": "Solar Panel, Wind Turbine, Hydroelectric Dam, and Geothermal Plant are all prominent methods of generating electricity from renewable resources. A Nuclear Reactor, while a power generator, uses non-renewable uranium fuel.",
         "completed": false
     },
     {
         "tokens": [
-            "Hieroglyphs",
-            "Cuneiform",
-            "Latin Script",
-            "Linear B",
-            "Maya Glyphs"
+            "Gettysburg",
+            "Saratoga",
+            "Bunker Hill",
+            "Lexington and Concord",
+            "Yorktown"
         ],
-        "answer_index": 2,
-        "category": "Predominantly Logographic or Syllabic Ancient Scripts",
-        "explanation": "Hieroglyphs, Cuneiform, Maya Glyphs, and Linear B are all ancient writing systems that are predominantly logographic, pictographic, or syllabic in nature. Latin Script, however, is a purely alphabetic system that forms the basis of many modern languages.",
+        "answer_index": 0,
+        "category": "Major Battles of the American Revolutionary War",
+        "explanation": "Lexington and Concord, Saratoga, Yorktown, and Bunker Hill were all significant battles fought during the American Revolutionary War. Gettysburg, however, was a pivotal battle in the American Civil War.",
         "completed": false
     },
     {
         "tokens": [
-            "Elevate",
-            "Flourish",
-            "Soar",
-            "Ascend",
-            "Rise"
+            "Listen",
+            "Scrutinize",
+            "Observe",
+            "Peer",
+            "Glimpse"
         ],
-        "answer_index": 1,
-        "category": "Verbs of Literal Upward Motion",
-        "explanation": "Ascend, Elevate, Soar, and Rise are all verbs that specifically denote literal physical movement in an upward direction. Flourish means to grow or develop successfully, which does not inherently involve physical upward motion.",
+        "answer_index": 0,
+        "category": "Verbs of Visual Perception",
+        "explanation": "All tokens except 'Listen' are verbs that describe different ways of seeing or looking. 'Listen' describes an action of hearing.",
         "completed": false
     }
 ]
