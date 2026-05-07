@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Wind Turbine",
-            "Solar Panel",
-            "Hydroelectric Dam",
-            "Geothermal Plant",
-            "Nuclear Reactor"
+            "Escapement",
+            "Pendulum",
+            "Mainspring",
+            "Gear Train",
+            "Battery"
         ],
         "answer_index": 4,
-        "category": "Major Renewable Energy Sources",
-        "explanation": "Solar Panel, Wind Turbine, Hydroelectric Dam, and Geothermal Plant are all prominent methods of generating electricity from renewable resources. A Nuclear Reactor, while a power generator, uses non-renewable uranium fuel.",
+        "category": "Components of a Mechanical Clock",
+        "explanation": "Pendulum, Gear Train, Mainspring, and Escapement are all integral components found within a traditional mechanical clock mechanism. A Battery, however, is used to power electronic or quartz clocks, not mechanical ones.",
         "completed": false
     },
     {
         "tokens": [
-            "Gettysburg",
-            "Saratoga",
-            "Bunker Hill",
-            "Lexington and Concord",
-            "Yorktown"
+            "Otto von Bismarck",
+            "Deng Xiaoping",
+            "Oliver Cromwell",
+            "Julius Caesar",
+            "Queen Victoria"
         ],
-        "answer_index": 0,
-        "category": "Major Battles of the American Revolutionary War",
-        "explanation": "Lexington and Concord, Saratoga, Yorktown, and Bunker Hill were all significant battles fought during the American Revolutionary War. Gettysburg, however, was a pivotal battle in the American Civil War.",
+        "answer_index": 4,
+        "category": "Leaders Who Held De Facto Supreme Power",
+        "explanation": "Julius Caesar (Dictator), Oliver Cromwell (Lord Protector), Deng Xiaoping (Paramount Leader), and Otto von Bismarck (Chancellor) all held supreme executive power in their respective states without formally being a crowned monarch or an elected head of state (like a President or Emperor). Queen Victoria, however, was a reigning, crowned monarch.",
         "completed": false
     },
     {
         "tokens": [
-            "Listen",
-            "Scrutinize",
-            "Observe",
-            "Peer",
-            "Glimpse"
+            "Rotator",
+            "Madam",
+            "Banana",
+            "Level",
+            "Racecar"
         ],
-        "answer_index": 0,
-        "category": "Verbs of Visual Perception",
-        "explanation": "All tokens except 'Listen' are verbs that describe different ways of seeing or looking. 'Listen' describes an action of hearing.",
+        "answer_index": 2,
+        "category": "Palindromes",
+        "explanation": "All tokens except 'Banana' are palindromes, meaning they read the same forwards and backwards.",
         "completed": false
     }
 ]
