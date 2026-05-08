@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Escapement",
-            "Pendulum",
-            "Mainspring",
-            "Gear Train",
-            "Battery"
+            "Refrigerator",
+            "Oven",
+            "Microwave",
+            "Frying Pan",
+            "Blender"
         ],
-        "answer_index": 4,
-        "category": "Components of a Mechanical Clock",
-        "explanation": "Pendulum, Gear Train, Mainspring, and Escapement are all integral components found within a traditional mechanical clock mechanism. A Battery, however, is used to power electronic or quartz clocks, not mechanical ones.",
+        "answer_index": 0,
+        "category": "Food Preparation Appliances",
+        "explanation": "Oven, Frying Pan, Blender, and Microwave are all used for actively preparing, cooking, or mixing food. The Refrigerator is primarily used for storing and preserving food.",
         "completed": false
     },
     {
         "tokens": [
-            "Otto von Bismarck",
-            "Deng Xiaoping",
-            "Oliver Cromwell",
-            "Julius Caesar",
-            "Queen Victoria"
-        ],
-        "answer_index": 4,
-        "category": "Leaders Who Held De Facto Supreme Power",
-        "explanation": "Julius Caesar (Dictator), Oliver Cromwell (Lord Protector), Deng Xiaoping (Paramount Leader), and Otto von Bismarck (Chancellor) all held supreme executive power in their respective states without formally being a crowned monarch or an elected head of state (like a President or Emperor). Queen Victoria, however, was a reigning, crowned monarch.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Rotator",
-            "Madam",
-            "Banana",
-            "Level",
-            "Racecar"
+            "Temple of Artemis at Ephesus",
+            "Statue of Zeus at Olympia",
+            "Colosseum",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon"
         ],
         "answer_index": 2,
-        "category": "Palindromes",
-        "explanation": "All tokens except 'Banana' are palindromes, meaning they read the same forwards and backwards.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are traditional listings among the Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient structure, is not included in that specific list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Flow",
+            "Stressed",
+            "Live",
+            "Chair",
+            "Draw"
+        ],
+        "answer_index": 3,
+        "category": "Words that form other words in reverse",
+        "explanation": "All tokens except 'Chair' form another valid English word when spelled backward (Flow -> Wolf, Live -> Evil, Draw -> Ward, Stressed -> Desserts). 'Chair' spelled backward ('Riahc') is not a recognized English word.",
         "completed": false
     }
 ]
