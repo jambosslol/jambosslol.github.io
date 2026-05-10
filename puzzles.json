@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Jack",
-            "Queen",
-            "Joker",
-            "Ace",
-            "King"
+            "Clapperboard",
+            "Dolly",
+            "Green Screen",
+            "Popcorn",
+            "Director's Chair"
+        ],
+        "answer_index": 3,
+        "category": "Elements of Film Production",
+        "explanation": "Clapperboard, Green Screen, Director's Chair, and Dolly are all items directly used or found on a film set during the production of a movie. Popcorn is typically consumed while *watching* a movie, not making one.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Compass",
+            "Papermaking",
+            "Wheel",
+            "Gunpowder",
+            "Printing Press"
         ],
         "answer_index": 2,
-        "category": "Standard 52-Card Deck Components",
-        "explanation": "King, Queen, Jack, and Ace are all integral cards within a standard 52-card French-suited deck. The Joker is an additional card often included with a deck, but it is not part of the standard 52-card count.",
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "The Compass, Gunpowder, Printing Press, and Papermaking are traditionally recognized as the Four Great Inventions of Ancient China. The Wheel, while a pivotal invention, originated much earlier and outside of China, thus not belonging to this specific historical and cultural grouping.",
         "completed": false
     },
     {
         "tokens": [
-            "Meter",
-            "Yard",
-            "Hand",
-            "Span",
-            "Foot"
+            "Insistent",
+            "Reliant",
+            "Dependent",
+            "Afraid",
+            "Based"
         ],
-        "answer_index": 0,
-        "category": "Units of Length Derived from Human Body Parts",
-        "explanation": "Foot, Yard, Span, and Hand are all traditional units of length historically derived from the dimensions of the human body. The Meter, however, is a unit of length defined scientifically, originally as one ten-millionth of the distance from the North Pole to the Equator.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Rely",
-            "Believe",
-            "Insist",
-            "Focus",
-            "Depend"
-        ],
-        "answer_index": 1,
-        "category": "Verbs typically followed by 'on'",
-        "explanation": "Depend, Rely, Insist, and Focus are all verbs commonly followed by the preposition 'on' (e.g., 'depend on', 'rely on', 'insist on', 'focus on'). Believe is typically followed by 'in' (e.g., 'believe in').",
+        "answer_index": 3,
+        "category": "Common Prepositional Companions",
+        "explanation": "Dependent, Insistent, Based, and Reliant are all commonly followed by the preposition \"on.\" \"Afraid\" is typically followed by \"of.\"",
         "completed": false
     }
 ]
