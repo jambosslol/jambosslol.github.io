@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Clapperboard",
-            "Dolly",
-            "Green Screen",
-            "Popcorn",
-            "Director's Chair"
-        ],
-        "answer_index": 3,
-        "category": "Elements of Film Production",
-        "explanation": "Clapperboard, Green Screen, Director's Chair, and Dolly are all items directly used or found on a film set during the production of a movie. Popcorn is typically consumed while *watching* a movie, not making one.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Compass",
-            "Papermaking",
-            "Wheel",
-            "Gunpowder",
-            "Printing Press"
+            "Whistle",
+            "Bell",
+            "Microphone",
+            "Siren",
+            "Trumpet"
         ],
         "answer_index": 2,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "The Compass, Gunpowder, Printing Press, and Papermaking are traditionally recognized as the Four Great Inventions of Ancient China. The Wheel, while a pivotal invention, originated much earlier and outside of China, thus not belonging to this specific historical and cultural grouping.",
+        "category": "Devices Producing Specific Audible Signals",
+        "explanation": "All items except the microphone are primarily used to produce a distinct audible signal or call. A microphone captures and amplifies sound but does not produce its own inherent signal.",
         "completed": false
     },
     {
         "tokens": [
-            "Insistent",
-            "Reliant",
-            "Dependent",
-            "Afraid",
-            "Based"
+            "Hades",
+            "Zeus",
+            "Charon",
+            "River Styx",
+            "Cerberus"
         ],
-        "answer_index": 3,
-        "category": "Common Prepositional Companions",
-        "explanation": "Dependent, Insistent, Based, and Reliant are all commonly followed by the preposition \"on.\" \"Afraid\" is typically followed by \"of.\"",
+        "answer_index": 1,
+        "category": "Greek Mythology: Figures and Elements of the Underworld",
+        "explanation": "Charon, Cerberus, Hades, and the River Styx are all directly associated with the Greek Underworld. Zeus is the king of the Olympian gods, residing on Mount Olympus.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Why",
+            "Bee",
+            "See",
+            "Eye",
+            "Toe"
+        ],
+        "answer_index": 4,
+        "category": "Words that are homophones of English alphabet letters",
+        "explanation": "Bee, See, Eye, and Why are all words that sound exactly like letters of the English alphabet (B, C, I, Y respectively). Toe does not sound like any letter.",
         "completed": false
     }
 ]
