@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Whistle",
-            "Bell",
-            "Microphone",
-            "Siren",
-            "Trumpet"
+            "Speed Limit",
+            "Finish Line",
+            "Checkmate",
+            "Red Light",
+            "Full Stop"
         ],
-        "answer_index": 2,
-        "category": "Devices Producing Specific Audible Signals",
-        "explanation": "All items except the microphone are primarily used to produce a distinct audible signal or call. A microphone captures and amplifies sound but does not produce its own inherent signal.",
+        "answer_index": 0,
+        "category": "Indicators of an Absolute End",
+        "explanation": "Red Light, Full Stop, Checkmate, and Finish Line all signify a complete halt, cessation, or conclusion in their respective contexts. Speed Limit indicates a maximum allowable value, not an end or stop.",
         "completed": false
     },
     {
         "tokens": [
-            "Hades",
-            "Zeus",
-            "Charon",
-            "River Styx",
-            "Cerberus"
-        ],
-        "answer_index": 1,
-        "category": "Greek Mythology: Figures and Elements of the Underworld",
-        "explanation": "Charon, Cerberus, Hades, and the River Styx are all directly associated with the Greek Underworld. Zeus is the king of the Olympian gods, residing on Mount Olympus.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Why",
-            "Bee",
-            "See",
-            "Eye",
-            "Toe"
+            "Bonsai",
+            "Ikebana",
+            "Kabuki",
+            "Origami",
+            "Kimchi"
         ],
         "answer_index": 4,
-        "category": "Words that are homophones of English alphabet letters",
-        "explanation": "Bee, See, Eye, and Why are all words that sound exactly like letters of the English alphabet (B, C, I, Y respectively). Toe does not sound like any letter.",
+        "category": "Traditional Japanese Arts and Practices",
+        "explanation": "Origami, Ikebana, Bonsai, and Kabuki are all distinct traditional Japanese arts or practices. Kimchi is a traditional fermented side dish originating from Korea.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Accumulate",
+            "Deplete",
+            "Eradicate",
+            "Drain",
+            "Evacuate"
+        ],
+        "answer_index": 0,
+        "category": "Verbs of Diminishment",
+        "explanation": "All tokens except 'Accumulate' describe an action of removing, emptying, or reducing something. 'Accumulate' describes the act of gathering or increasing.",
         "completed": false
     }
 ]
