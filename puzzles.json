@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Speed Limit",
-            "Finish Line",
-            "Checkmate",
-            "Red Light",
-            "Full Stop"
+            "Kilogram",
+            "Megabyte",
+            "Gigabyte",
+            "Terabyte",
+            "Petabyte"
         ],
         "answer_index": 0,
-        "category": "Indicators of an Absolute End",
-        "explanation": "Red Light, Full Stop, Checkmate, and Finish Line all signify a complete halt, cessation, or conclusion in their respective contexts. Speed Limit indicates a maximum allowable value, not an end or stop.",
+        "category": "Standard Units of Digital Data Storage",
+        "explanation": "Megabyte, Gigabyte, Terabyte, and Petabyte are all standard units used to measure digital data storage capacity. Kilogram is a unit of mass.",
         "completed": false
     },
     {
         "tokens": [
-            "Bonsai",
-            "Ikebana",
-            "Kabuki",
-            "Origami",
-            "Kimchi"
+            "Compass",
+            "Gunpowder",
+            "Papermaking",
+            "Printing",
+            "Steam Engine"
         ],
         "answer_index": 4,
-        "category": "Traditional Japanese Arts and Practices",
-        "explanation": "Origami, Ikebana, Bonsai, and Kabuki are all distinct traditional Japanese arts or practices. Kimchi is a traditional fermented side dish originating from Korea.",
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Compass, Papermaking, and Printing are famously recognized as the Four Great Inventions of Ancient China. The Steam Engine, while a pivotal invention, originated in Europe during the Industrial Revolution.",
         "completed": false
     },
     {
         "tokens": [
-            "Accumulate",
-            "Deplete",
-            "Eradicate",
-            "Drain",
-            "Evacuate"
+            "Whisper",
+            "Shout",
+            "Yell",
+            "Scream",
+            "Bellow"
         ],
         "answer_index": 0,
-        "category": "Verbs of Diminishment",
-        "explanation": "All tokens except 'Accumulate' describe an action of removing, emptying, or reducing something. 'Accumulate' describes the act of gathering or increasing.",
+        "category": "Forms of Vocalization by Volume",
+        "explanation": "All tokens except 'Whisper' describe forms of loud vocal expression. 'Whisper' describes a very soft, hushed vocalization.",
         "completed": false
     }
 ]
