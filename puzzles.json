@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Kilogram",
-            "Megabyte",
-            "Gigabyte",
-            "Terabyte",
-            "Petabyte"
+            "Backstage",
+            "Score",
+            "Auditorium",
+            "Footlights",
+            "Curtain"
         ],
-        "answer_index": 0,
-        "category": "Standard Units of Digital Data Storage",
-        "explanation": "Megabyte, Gigabyte, Terabyte, and Petabyte are all standard units used to measure digital data storage capacity. Kilogram is a unit of mass.",
+        "answer_index": 1,
+        "category": "Components of a Theater",
+        "explanation": "Curtain, Footlights, Backstage, and Auditorium are all physical components or areas within a theater structure. A Score is a musical composition, not a structural element of the venue.",
         "completed": false
     },
     {
         "tokens": [
-            "Compass",
-            "Gunpowder",
-            "Papermaking",
-            "Printing",
-            "Steam Engine"
+            "Ares",
+            "Selene",
+            "Apollo",
+            "Sol",
+            "Luna"
         ],
-        "answer_index": 4,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Compass, Papermaking, and Printing are famously recognized as the Four Great Inventions of Ancient China. The Steam Engine, while a pivotal invention, originated in Europe during the Industrial Revolution.",
+        "answer_index": 0,
+        "category": "Deities or personifications primarily associated with the Sun or Moon in classical mythology",
+        "explanation": "Apollo and Sol are Greek and Roman deities/personifications of the Sun, respectively. Selene and Luna are Greek and Roman deities/personifications of the Moon, respectively. Ares is the Greek god of war, associated with the planet Mars, but not primarily with the Sun or Moon itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Whisper",
-            "Shout",
-            "Yell",
-            "Scream",
-            "Bellow"
+            "Two",
+            "Won",
+            "Sun",
+            "Fore",
+            "Eight"
         ],
         "answer_index": 0,
-        "category": "Forms of Vocalization by Volume",
-        "explanation": "All tokens except 'Whisper' describe forms of loud vocal expression. 'Whisper' describes a very soft, hushed vocalization.",
+        "category": "Homophones of Numbers",
+        "explanation": "Sun (one), Won (one), Fore (four), and Eight (eight) are all words that are homophones for numbers. Two is itself a number, not a homophone for another number.",
         "completed": false
     }
 ]
