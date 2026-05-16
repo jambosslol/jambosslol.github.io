@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Backstage",
-            "Score",
-            "Auditorium",
-            "Footlights",
-            "Curtain"
+            "Inch",
+            "Yard",
+            "Meter",
+            "Foot",
+            "Mile"
         ],
-        "answer_index": 1,
-        "category": "Components of a Theater",
-        "explanation": "Curtain, Footlights, Backstage, and Auditorium are all physical components or areas within a theater structure. A Score is a musical composition, not a structural element of the venue.",
+        "answer_index": 2,
+        "category": "Historically Derived Non-Metric Length Units",
+        "explanation": "Foot, Yard, Inch, and Mile are all units of length historically derived from human-based measurements or ancient conventions, and are not part of the metric system. Meter is the base unit of length in the metric (SI) system.",
         "completed": false
     },
     {
         "tokens": [
-            "Ares",
-            "Selene",
-            "Apollo",
-            "Sol",
-            "Luna"
+            "Gunpowder",
+            "Printing",
+            "Compass",
+            "Aqueduct",
+            "Papermaking"
         ],
-        "answer_index": 0,
-        "category": "Deities or personifications primarily associated with the Sun or Moon in classical mythology",
-        "explanation": "Apollo and Sol are Greek and Roman deities/personifications of the Sun, respectively. Selene and Luna are Greek and Roman deities/personifications of the Moon, respectively. Ares is the Greek god of war, associated with the planet Mars, but not primarily with the Sun or Moon itself.",
+        "answer_index": 3,
+        "category": "Major Ancient Chinese Inventions",
+        "explanation": "Gunpowder, the compass, papermaking, and printing (specifically woodblock printing) are widely recognized as the Four Great Inventions of ancient China. An aqueduct is a significant engineering achievement of the Roman Empire, not China.",
         "completed": false
     },
     {
         "tokens": [
-            "Two",
-            "Won",
-            "Sun",
-            "Fore",
-            "Eight"
+            "Gaggle",
+            "Pride",
+            "School",
+            "Constellation",
+            "Parliament"
         ],
-        "answer_index": 0,
-        "category": "Homophones of Numbers",
-        "explanation": "Sun (one), Won (one), Fore (four), and Eight (eight) are all words that are homophones for numbers. Two is itself a number, not a homophone for another number.",
+        "answer_index": 3,
+        "category": "Collective Nouns for Animals",
+        "explanation": "Pride (lions), School (fish), Gaggle (geese), and Parliament (owls) are all specific collective nouns for groups of animals. Constellation refers to a group of stars.",
         "completed": false
     }
 ]
