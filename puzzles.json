@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Inch",
-            "Yard",
-            "Meter",
-            "Foot",
-            "Mile"
+            "Microscope",
+            "Book",
+            "Librarian",
+            "Shelf",
+            "Quiet Sign"
         ],
-        "answer_index": 2,
-        "category": "Historically Derived Non-Metric Length Units",
-        "explanation": "Foot, Yard, Inch, and Mile are all units of length historically derived from human-based measurements or ancient conventions, and are not part of the metric system. Meter is the base unit of length in the metric (SI) system.",
+        "answer_index": 0,
+        "category": "Elements of a Public Library",
+        "explanation": "Book, Librarian, Shelf, and Quiet Sign are all common components or characteristics of a public library. A Microscope is an instrument typically found in a laboratory or educational setting, not a general public library.",
         "completed": false
     },
     {
         "tokens": [
-            "Gunpowder",
-            "Printing",
-            "Compass",
-            "Aqueduct",
-            "Papermaking"
+            "Great Wall of China",
+            "Great Pyramid of Giza",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon"
         ],
-        "answer_index": 3,
-        "category": "Major Ancient Chinese Inventions",
-        "explanation": "Gunpowder, the compass, papermaking, and printing (specifically woodblock printing) are widely recognized as the Four Great Inventions of ancient China. An aqueduct is a significant engineering achievement of the Roman Empire, not China.",
+        "answer_index": 0,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the original Seven Wonders of the Ancient World. The Great Wall of China, while a monumental ancient structure, is not included in this specific historical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Gaggle",
-            "Pride",
-            "School",
-            "Constellation",
-            "Parliament"
+            "Expedition",
+            "Journey",
+            "Odyssey",
+            "Pilgrimage",
+            "Wanderlust"
         ],
-        "answer_index": 3,
-        "category": "Collective Nouns for Animals",
-        "explanation": "Pride (lions), School (fish), Gaggle (geese), and Parliament (owls) are all specific collective nouns for groups of animals. Constellation refers to a group of stars.",
+        "answer_index": 4,
+        "category": "Forms of Travel vs. Desire",
+        "explanation": "Journey, Expedition, Pilgrimage, and Odyssey are all specific types or forms of travel. Wanderlust, however, is the strong desire to travel, not a journey itself.",
         "completed": false
     }
 ]
