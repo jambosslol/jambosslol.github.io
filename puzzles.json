@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
+            "Ruler",
+            "Compass",
             "Microscope",
-            "Book",
-            "Librarian",
-            "Shelf",
-            "Quiet Sign"
+            "Set Square",
+            "Protractor"
         ],
-        "answer_index": 0,
-        "category": "Elements of a Public Library",
-        "explanation": "Book, Librarian, Shelf, and Quiet Sign are all common components or characteristics of a public library. A Microscope is an instrument typically found in a laboratory or educational setting, not a general public library.",
+        "answer_index": 2,
+        "category": "Tools for Geometric Drafting",
+        "explanation": "Ruler, Compass, Protractor, and Set Square are all traditional tools used for geometric drawing and precise measurement of lengths and angles on a flat surface. A Microscope is primarily used for magnifying small objects for observation, not for drafting.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Wall of China",
-            "Great Pyramid of Giza",
-            "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon"
+            "Samurai",
+            "Ninja",
+            "Kimono",
+            "Sumo Wrestler",
+            "Geisha"
         ],
-        "answer_index": 0,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the original Seven Wonders of the Ancient World. The Great Wall of China, while a monumental ancient structure, is not included in this specific historical list.",
+        "answer_index": 1,
+        "category": "Publicly Celebrated Traditional Japanese Cultural Elements",
+        "explanation": "Samurai, Geisha, Sumo Wrestlers, and Kimonos are all publicly celebrated and highly visible traditional Japanese cultural roles, figures, or attire. Ninja, while historically significant, were primarily covert agents and assassins, not publicly celebrated figures in the same way.",
         "completed": false
     },
     {
         "tokens": [
-            "Expedition",
-            "Journey",
-            "Odyssey",
-            "Pilgrimage",
-            "Wanderlust"
+            "To",
+            "Know",
+            "For",
+            "Won",
+            "Eight"
         ],
         "answer_index": 4,
-        "category": "Forms of Travel vs. Desire",
-        "explanation": "Journey, Expedition, Pilgrimage, and Odyssey are all specific types or forms of travel. Wanderlust, however, is the strong desire to travel, not a journey itself.",
+        "category": "Homophones of Numbers",
+        "explanation": "The first four tokens ('Know', 'To', 'Won', 'For') are homophones for numbers ('No', 'Two', 'One', 'Four' respectively). 'Eight' is the numeral itself, not a homophone for a different number.",
         "completed": false
     }
 ]
