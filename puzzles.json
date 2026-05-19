@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ruler",
-            "Compass",
-            "Microscope",
-            "Set Square",
-            "Protractor"
+            "Rain",
+            "Hail",
+            "Dew",
+            "Sleet",
+            "Snow"
         ],
         "answer_index": 2,
-        "category": "Tools for Geometric Drafting",
-        "explanation": "Ruler, Compass, Protractor, and Set Square are all traditional tools used for geometric drawing and precise measurement of lengths and angles on a flat surface. A Microscope is primarily used for magnifying small objects for observation, not for drafting.",
+        "category": "Forms of precipitation that fall from the sky",
+        "explanation": "Rain, Sleet, Hail, and Snow are all forms of precipitation that originate in clouds and fall from the sky. Dew is formed by condensation on surfaces and does not fall from the sky.",
         "completed": false
     },
     {
         "tokens": [
-            "Samurai",
-            "Ninja",
-            "Kimono",
-            "Sumo Wrestler",
-            "Geisha"
+            "Printing",
+            "Papermaking",
+            "Compass",
+            "Aqueduct",
+            "Gunpowder"
         ],
-        "answer_index": 1,
-        "category": "Publicly Celebrated Traditional Japanese Cultural Elements",
-        "explanation": "Samurai, Geisha, Sumo Wrestlers, and Kimonos are all publicly celebrated and highly visible traditional Japanese cultural roles, figures, or attire. Ninja, while historically significant, were primarily covert agents and assassins, not publicly celebrated figures in the same way.",
+        "answer_index": 3,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, papermaking, the compass, and printing (specifically woodblock printing) are traditionally recognized as the 'Four Great Inventions' of Ancient China. An aqueduct is an ancient engineering feat primarily associated with Roman civilization, not one of these specific Chinese innovations.",
         "completed": false
     },
     {
         "tokens": [
-            "To",
-            "Know",
-            "For",
-            "Won",
-            "Eight"
+            "Bitter",
+            "Salty",
+            "Sweet",
+            "Spicy",
+            "Sour"
         ],
-        "answer_index": 4,
-        "category": "Homophones of Numbers",
-        "explanation": "The first four tokens ('Know', 'To', 'Won', 'For') are homophones for numbers ('No', 'Two', 'One', 'Four' respectively). 'Eight' is the numeral itself, not a homophone for a different number.",
+        "answer_index": 3,
+        "category": "Primary Taste Sensations",
+        "explanation": "Sweet, Bitter, Sour, and Salty are the four historically recognized basic tastes detected by taste buds. Spicy describes a sensation of heat or pain, rather than a primary taste.",
         "completed": false
     }
 ]
