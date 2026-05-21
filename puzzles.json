@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Popcorn",
-            "Baking Soda",
-            "Souffl\u00e9",
-            "Yeast",
-            "Salt"
+            "Novel",
+            "Textbook",
+            "Scroll",
+            "Biography",
+            "Billboard"
         ],
         "answer_index": 4,
-        "category": "Ingredients or Dishes Known for Significant Expansion During Cooking",
-        "explanation": "Yeast, Baking Soda, Popcorn, and Souffl\u00e9 are all known for dramatically rising or expanding when cooked or prepared. Salt is a common cooking ingredient but does not cause expansion.",
+        "category": "Mediums for Extensive Written Content",
+        "explanation": "Novel, Biography, Textbook, and Scroll are all formats or types of works primarily used to contain and convey substantial amounts of written text intended for extensive reading. A Billboard, however, is designed for short, impactful visual advertising.",
         "completed": false
     },
     {
         "tokens": [
-            "Saratoga",
-            "Antietam",
-            "Shiloh",
-            "Gettysburg",
-            "Vicksburg"
+            "Poseidon",
+            "Hades",
+            "Hera",
+            "Loki",
+            "Zeus"
         ],
-        "answer_index": 0,
-        "category": "Major Battles of the American Civil War",
-        "explanation": "Gettysburg, Vicksburg, Antietam, and Shiloh were all pivotal battles fought during the American Civil War. The Battle of Saratoga, however, was a decisive battle in the American Revolutionary War.",
+        "answer_index": 3,
+        "category": "Olympian Deities",
+        "explanation": "Zeus, Poseidon, Hades, and Hera are all prominent figures in Greek mythology, specifically the twelve Olympian gods and goddesses. Loki is a major deity in Norse mythology, making him the odd one out.",
         "completed": false
     },
     {
         "tokens": [
-            "ROAST",
-            "FRY",
-            "GRILL",
-            "BAKE",
-            "POUR"
+            "PAIR",
+            "SOLITAIRE",
+            "DOZEN",
+            "GROSS",
+            "QUARTER"
         ],
-        "answer_index": 4,
-        "category": "Culinary Heat Application Methods",
-        "explanation": "BAKE, FRY, ROAST, and GRILL are all distinct culinary methods that involve applying heat to food for transformation. POUR describes an action of dispensing a liquid and is not a method of cooking food itself.",
+        "answer_index": 1,
+        "category": "Words Denoting Specific Quantities or Fractions",
+        "explanation": "QUARTER (1/4), PAIR (2), DOZEN (12), and GROSS (144) are all words that denote specific numerical quantities or fractions. SOLITAIRE refers to a game played by one person, not a unit of measurement or count of items.",
         "completed": false
     }
 ]
