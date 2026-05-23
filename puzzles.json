@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Barrel",
-            "Lead",
-            "Ink",
-            "Clip",
-            "Eraser"
+            "Flour",
+            "Milk",
+            "Salt",
+            "Egg",
+            "Butter"
         ],
         "answer_index": 2,
-        "category": "Components of a Standard Pencil",
-        "explanation": "Lead, Eraser, Barrel, and Clip are all integral components of a typical mechanical or wooden pencil. Ink is found in pens, not pencils.",
+        "category": "Transformative Baking Ingredients",
+        "explanation": "Egg, Butter, Flour, and Milk are all core ingredients that undergo significant physical or chemical transformations (such as coagulation, melting, gluten formation, or thickening) when heat is applied during cooking or baking, fundamentally altering their state and contributing to the structure of a dish. Salt, while essential for flavor, primarily dissolves and does not undergo a similar structural transformation.",
         "completed": false
     },
     {
         "tokens": [
-            "Christopher Columbus",
-            "Leif Erikson",
-            "Marco Polo",
-            "Vasco da Gama",
-            "Ferdinand Magellan"
+            "Hanging Gardens of Babylon",
+            "Pyramid of Giza",
+            "Colossus of Rhodes",
+            "Machu Picchu",
+            "Lighthouse of Alexandria"
         ],
-        "answer_index": 2,
-        "category": "Pioneering Transoceanic Navigators",
-        "explanation": "Ferdinand Magellan, Christopher Columbus, Vasco da Gama, and Leif Erikson are all renowned for their pioneering sea voyages across oceans to new lands. Marco Polo is celebrated for his extensive overland journey along the Silk Road.",
+        "answer_index": 3,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are widely recognized as four of the Seven Wonders of the Ancient World. Machu Picchu is a historical site of great significance, but it is not one of the original Seven Wonders of the Ancient World.",
         "completed": false
     },
     {
         "tokens": [
-            "Initiate",
-            "Conclude",
-            "Commence",
-            "Originate",
-            "Inaugurate"
+            "Sway",
+            "Spin",
+            "Whirl",
+            "Revolve",
+            "Rotate"
         ],
-        "answer_index": 1,
-        "category": "Verbs signifying a beginning",
-        "explanation": "The words 'Commence', 'Initiate', 'Originate', and 'Inaugurate' are all verbs that mean to start or begin something. 'Conclude' means to end or finish.",
+        "answer_index": 0,
+        "category": "Verbs of Circular or Axial Motion",
+        "explanation": "Revolve, Rotate, Spin, and Whirl all describe actions involving a continuous circular or axial movement. Sway, however, describes a back-and-forth, oscillating motion, rather than a continuous rotation.",
         "completed": false
     }
 ]
