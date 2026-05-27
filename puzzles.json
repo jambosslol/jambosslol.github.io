@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Spine",
-            "Page",
-            "Chapter",
-            "Cover",
-            "Bookmark"
+            "Pen",
+            "Mouse",
+            "Keyboard",
+            "Pencil",
+            "Typewriter"
         ],
-        "answer_index": 4,
-        "category": "Intrinsic Elements of a Physical Book",
-        "explanation": "Cover, Spine, Page, and Chapter are all integral, structural, or organizational components that make up a physical book. A Bookmark is an external accessory used with a book, but not an inherent part of its structure.",
+        "answer_index": 1,
+        "category": "Tools for Direct Text or Mark Creation",
+        "explanation": "Keyboard, Pen, Typewriter, and Pencil are all primary tools used for directly creating text or marks. A Mouse is primarily a navigation and input device for graphical user interfaces, not for direct creation of text or marks.",
         "completed": false
     },
     {
         "tokens": [
-            "Papyrus",
-            "Vellum",
-            "Cuneiform",
-            "Quipu",
-            "Hieroglyphs"
+            "Printing Press",
+            "Compass",
+            "Steam Engine",
+            "Papermaking",
+            "Gunpowder"
         ],
-        "answer_index": 3,
-        "category": "Components of Traditional Written Language Systems",
-        "explanation": "Papyrus, Cuneiform, Hieroglyphs, and Vellum are all either materials used for traditional writing (Papyrus, Vellum) or systems of written language (Cuneiform, Hieroglyphs). The Quipu, however, is an ancient Inca method of record-keeping using knotted cords, which did not represent phonetic language or provide a surface for inscribing symbols in the conventional sense.",
+        "answer_index": 2,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "\"Printing Press,\" \"Compass,\" \"Gunpowder,\" and \"Papermaking\" are historically known as the Four Great Inventions of Ancient China. The \"Steam Engine\" was a foundational invention of the Western Industrial Revolution and is not part of this specific ancient Chinese grouping.",
         "completed": false
     },
     {
         "tokens": [
-            "Spoke",
-            "Tire",
-            "Hub",
-            "Rim",
-            "Pedal"
+            "Head",
+            "Spot",
+            "Bright",
+            "Street",
+            "Moon"
         ],
-        "answer_index": 4,
-        "category": "Bicycle Wheel Components",
-        "explanation": "Spoke, Hub, Rim, and Tire are all distinct components that collectively form a bicycle wheel. A Pedal is part of the bicycle's drivetrain, not the wheel itself.",
+        "answer_index": 2,
+        "category": "Compound Nouns with 'Light'",
+        "explanation": "Street, Moon, Spot, and Head can each precede 'light' to form common compound nouns (streetlight, moonlight, spotlight, headlight). Bright is an adjective that describes light, but does not form a compound noun in the same structural way.",
         "completed": false
     }
 ]
