@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pen",
-            "Mouse",
-            "Keyboard",
-            "Pencil",
-            "Typewriter"
+            "Ladle",
+            "Corkscrew",
+            "Tongs",
+            "Whisk",
+            "Spatula"
         ],
         "answer_index": 1,
-        "category": "Tools for Direct Text or Mark Creation",
-        "explanation": "Keyboard, Pen, Typewriter, and Pencil are all primary tools used for directly creating text or marks. A Mouse is primarily a navigation and input device for graphical user interfaces, not for direct creation of text or marks.",
+        "category": "Utensils for Handling Food During Preparation and Serving",
+        "explanation": "Spatula, whisk, ladle, and tongs are all used to directly manipulate, stir, or serve food during cooking or at the table. A corkscrew is used for opening bottles, not for handling food itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing Press",
-            "Compass",
-            "Steam Engine",
-            "Papermaking",
-            "Gunpowder"
+            "Statue of Zeus at Olympia",
+            "Taj Mahal",
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon"
         ],
-        "answer_index": 2,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "\"Printing Press,\" \"Compass,\" \"Gunpowder,\" and \"Papermaking\" are historically known as the Four Great Inventions of Ancient China. The \"Steam Engine\" was a foundational invention of the Western Industrial Revolution and is not part of this specific ancient Chinese grouping.",
+        "answer_index": 1,
+        "category": "The Original Seven Wonders of the Ancient World",
+        "explanation": "Four of the listed tokens are universally recognized as part of the original Seven Wonders of the Ancient World. The Taj Mahal, while a magnificent historical structure, is not one of these ancient wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "Head",
-            "Spot",
-            "Bright",
-            "Street",
-            "Moon"
+            "THOUGHT",
+            "DREAM",
+            "CLOUD",
+            "WIND",
+            "GHOST"
         ],
         "answer_index": 2,
-        "category": "Compound Nouns with 'Light'",
-        "explanation": "Street, Moon, Spot, and Head can each precede 'light' to form common compound nouns (streetlight, moonlight, spotlight, headlight). Bright is an adjective that describes light, but does not form a compound noun in the same structural way.",
+        "category": "Primarily Invisible or Intangible Entities",
+        "explanation": "Thought, Dream, Ghost, and Wind are all entities or phenomena that are either entirely intangible, invisible, or whose primary characteristic is their lack of direct visibility. Cloud, however, is a very visible physical formation in the sky.",
         "completed": false
     }
 ]
