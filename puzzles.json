@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ladle",
-            "Corkscrew",
-            "Tongs",
-            "Whisk",
-            "Spatula"
-        ],
-        "answer_index": 1,
-        "category": "Utensils for Handling Food During Preparation and Serving",
-        "explanation": "Spatula, whisk, ladle, and tongs are all used to directly manipulate, stir, or serve food during cooking or at the table. A corkscrew is used for opening bottles, not for handling food itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Statue of Zeus at Olympia",
-            "Taj Mahal",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon"
-        ],
-        "answer_index": 1,
-        "category": "The Original Seven Wonders of the Ancient World",
-        "explanation": "Four of the listed tokens are universally recognized as part of the original Seven Wonders of the Ancient World. The Taj Mahal, while a magnificent historical structure, is not one of these ancient wonders.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "THOUGHT",
-            "DREAM",
-            "CLOUD",
-            "WIND",
-            "GHOST"
+            "Rhizome",
+            "Bulb",
+            "Flower",
+            "Spore",
+            "Seed"
         ],
         "answer_index": 2,
-        "category": "Primarily Invisible or Intangible Entities",
-        "explanation": "Thought, Dream, Ghost, and Wind are all entities or phenomena that are either entirely intangible, invisible, or whose primary characteristic is their lack of direct visibility. Cloud, however, is a very visible physical formation in the sky.",
+        "category": "Biological Plant Propagules",
+        "explanation": "All items except 'Flower' are methods or structures that can be directly used to propagate and grow a new, complete plant. A 'Flower' is a reproductive organ that *produces* seeds, but it is not itself planted as a propagule.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Temple of Artemis",
+            "Mausoleum at Halicarnassus",
+            "Great Pyramid of Giza",
+            "Statue of Zeus",
+            "Lighthouse of Alexandria"
+        ],
+        "answer_index": 2,
+        "category": "Destroyed Ancient Wonders",
+        "explanation": "All tokens except 'Great Pyramid of Giza' are considered one of the Seven Ancient Wonders of the World that has been destroyed. The Great Pyramid of Giza is the only one of the original Seven Ancient Wonders that largely remains intact today.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Kilogram",
+            "Litre",
+            "Ampere",
+            "Meter",
+            "Second"
+        ],
+        "answer_index": 1,
+        "category": "SI Base Units",
+        "explanation": "Meter, Kilogram, Second, and Ampere are all fundamental SI (International System of Units) base units. Litre, while a common unit of volume, is a derived unit and not an SI base unit.",
         "completed": false
     }
 ]
