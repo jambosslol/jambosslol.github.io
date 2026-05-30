@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Rhizome",
-            "Bulb",
-            "Flower",
-            "Spore",
-            "Seed"
+            "Spot",
+            "Scratch",
+            "Strike",
+            "Stain",
+            "Smudge"
         ],
         "answer_index": 2,
-        "category": "Biological Plant Propagules",
-        "explanation": "All items except 'Flower' are methods or structures that can be directly used to propagate and grow a new, complete plant. A 'Flower' is a reproductive organ that *produces* seeds, but it is not itself planted as a propagule.",
+        "category": "Types of Marks or Blemishes",
+        "explanation": "Scratch, smudge, stain, and spot are all terms that refer to distinct types of marks or blemishes found on a surface. 'Strike,' however, refers to an action of hitting or a forceful impact, rather than a type of mark itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Temple of Artemis",
-            "Mausoleum at Halicarnassus",
-            "Great Pyramid of Giza",
-            "Statue of Zeus",
-            "Lighthouse of Alexandria"
+            "Gunpowder",
+            "Printing Press",
+            "Steam Engine",
+            "Compass",
+            "Papermaking"
         ],
         "answer_index": 2,
-        "category": "Destroyed Ancient Wonders",
-        "explanation": "All tokens except 'Great Pyramid of Giza' are considered one of the Seven Ancient Wonders of the World that has been destroyed. The Great Pyramid of Giza is the only one of the original Seven Ancient Wonders that largely remains intact today.",
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Printing Press, Compass, Gunpowder, and Papermaking are traditionally known as the Four Great Inventions of Ancient China. The Steam Engine was a key invention of the Industrial Revolution in Europe.",
         "completed": false
     },
     {
         "tokens": [
-            "Kilogram",
-            "Litre",
-            "Ampere",
-            "Meter",
-            "Second"
+            "Evaporate",
+            "Boil",
+            "Melt",
+            "Solid",
+            "Freeze"
         ],
-        "answer_index": 1,
-        "category": "SI Base Units",
-        "explanation": "Meter, Kilogram, Second, and Ampere are all fundamental SI (International System of Units) base units. Litre, while a common unit of volume, is a derived unit and not an SI base unit.",
+        "answer_index": 3,
+        "category": "Verbs of Phase Change",
+        "explanation": "Melt, Freeze, Boil, and Evaporate are all verbs describing a process of changing a substance's physical state. \"Solid\" is a physical state itself, not a verb describing a change.",
         "completed": false
     }
 ]
