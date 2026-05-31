@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Spot",
-            "Scratch",
-            "Strike",
-            "Stain",
-            "Smudge"
+            "Calendar",
+            "Sundial",
+            "Clock",
+            "Watch",
+            "Thermometer"
         ],
-        "answer_index": 2,
-        "category": "Types of Marks or Blemishes",
-        "explanation": "Scratch, smudge, stain, and spot are all terms that refer to distinct types of marks or blemishes found on a surface. 'Strike,' however, refers to an action of hitting or a forceful impact, rather than a type of mark itself.",
+        "answer_index": 4,
+        "category": "Tools for Measuring or Organizing Time",
+        "explanation": "Clock, Watch, Sundial, and Calendar are all used to measure or organize time. A Thermometer is used to measure temperature.",
         "completed": false
     },
     {
         "tokens": [
-            "Gunpowder",
-            "Printing Press",
-            "Steam Engine",
-            "Compass",
-            "Papermaking"
+            "Eiffel Tower",
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon"
         ],
-        "answer_index": 2,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Printing Press, Compass, Gunpowder, and Papermaking are traditionally known as the Four Great Inventions of Ancient China. The Steam Engine was a key invention of the Industrial Revolution in Europe.",
+        "answer_index": 0,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all recognized as part of the original Seven Wonders of the Ancient World. The Eiffel Tower is a modern architectural marvel and not on that ancient list.",
         "completed": false
     },
     {
         "tokens": [
-            "Evaporate",
-            "Boil",
-            "Melt",
-            "Solid",
-            "Freeze"
+            "Chair",
+            "Glass",
+            "Smile",
+            "Wheat",
+            "Table"
         ],
-        "answer_index": 3,
-        "category": "Verbs of Phase Change",
-        "explanation": "Melt, Freeze, Boil, and Evaporate are all verbs describing a process of changing a substance's physical state. \"Solid\" is a physical state itself, not a verb describing a change.",
+        "answer_index": 4,
+        "category": "Words that form a common word when their first letter is removed",
+        "explanation": "Removing the first letter from 'Chair' creates 'Hair', from 'Wheat' creates 'Heat', from 'Glass' creates 'Lass', and from 'Smile' creates 'Mile'. 'Table' does not form a common English word when its first letter is removed.",
         "completed": false
     }
 ]
