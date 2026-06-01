@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Calendar",
-            "Sundial",
-            "Clock",
-            "Watch",
-            "Thermometer"
+            "Eraser",
+            "Inkjet",
+            "Paper",
+            "Pencil",
+            "Notebook"
         ],
-        "answer_index": 4,
-        "category": "Tools for Measuring or Organizing Time",
-        "explanation": "Clock, Watch, Sundial, and Calendar are all used to measure or organize time. A Thermometer is used to measure temperature.",
+        "answer_index": 1,
+        "category": "Items for Manual Text and Image Creation",
+        "explanation": "Pencil, Paper, Eraser, and Notebook are all physical items primarily used by hand for manual writing or drawing. 'Inkjet' (referring to an inkjet printer) is a device used for printing digital content, not for direct manual creation.",
         "completed": false
     },
     {
         "tokens": [
-            "Eiffel Tower",
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Colossus of Rhodes",
-            "Hanging Gardens of Babylon"
+            "Dr. Watson",
+            "Irene Adler",
+            "Moriarty",
+            "Hercule Poirot",
+            "Sherlock Holmes"
         ],
-        "answer_index": 0,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all recognized as part of the original Seven Wonders of the Ancient World. The Eiffel Tower is a modern architectural marvel and not on that ancient list.",
+        "answer_index": 3,
+        "category": "Characters from Arthur Conan Doyle's Sherlock Holmes Canon",
+        "explanation": "Sherlock Holmes, Dr. Watson, Professor Moriarty, and Irene Adler are all iconic characters central to Arthur Conan Doyle's Sherlock Holmes series. Hercule Poirot, while also a famous fictional detective, was created by Agatha Christie.",
         "completed": false
     },
     {
         "tokens": [
-            "Chair",
-            "Glass",
-            "Smile",
-            "Wheat",
-            "Table"
+            "HUM",
+            "WHISPER",
+            "SIGH",
+            "SCREECH",
+            "MURMUR"
         ],
-        "answer_index": 4,
-        "category": "Words that form a common word when their first letter is removed",
-        "explanation": "Removing the first letter from 'Chair' creates 'Hair', from 'Wheat' creates 'Heat', from 'Glass' creates 'Lass', and from 'Smile' creates 'Mile'. 'Table' does not form a common English word when its first letter is removed.",
+        "answer_index": 3,
+        "category": "Sounds of Quiet Human Vocalization or Breath",
+        "explanation": "Whisper, murmur, sigh, and hum are all relatively quiet or soft sounds produced by the human voice or breath. Screech, in contrast, is a loud, harsh sound.",
         "completed": false
     }
 ]
