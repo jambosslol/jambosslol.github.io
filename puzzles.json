@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Eraser",
-            "Inkjet",
-            "Paper",
-            "Pencil",
-            "Notebook"
+            "Pawns",
+            "Cards",
+            "Dice",
+            "Board",
+            "Screen"
         ],
-        "answer_index": 1,
-        "category": "Items for Manual Text and Image Creation",
-        "explanation": "Pencil, Paper, Eraser, and Notebook are all physical items primarily used by hand for manual writing or drawing. 'Inkjet' (referring to an inkjet printer) is a device used for printing digital content, not for direct manual creation.",
+        "answer_index": 4,
+        "category": "Traditional Board Game Components",
+        "explanation": "Dice, Board, Cards, and Pawns are all common physical components found in traditional, analog board games. A 'Screen' is not typically a component of a physical board game, being more associated with digital gaming or display technology.",
         "completed": false
     },
     {
         "tokens": [
-            "Dr. Watson",
-            "Irene Adler",
-            "Moriarty",
-            "Hercule Poirot",
-            "Sherlock Holmes"
+            "Colossus of Rhodes",
+            "Statue of Zeus at Olympia",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Temple of Artemis at Ephesus"
         ],
-        "answer_index": 3,
-        "category": "Characters from Arthur Conan Doyle's Sherlock Holmes Canon",
-        "explanation": "Sherlock Holmes, Dr. Watson, Professor Moriarty, and Irene Adler are all iconic characters central to Arthur Conan Doyle's Sherlock Holmes series. Hercule Poirot, while also a famous fictional detective, was created by Agatha Christie.",
+        "answer_index": 2,
+        "category": "Fate of the Ancient Wonders",
+        "explanation": "All tokens are from the Seven Wonders of the Ancient World. However, the Great Pyramid of Giza is the only one that remains largely intact and standing today; the other four have been destroyed over time.",
         "completed": false
     },
     {
         "tokens": [
-            "HUM",
-            "WHISPER",
-            "SIGH",
-            "SCREECH",
-            "MURMUR"
+            "Chair",
+            "Smile",
+            "Storm",
+            "Clean",
+            "Plate"
         ],
-        "answer_index": 3,
-        "category": "Sounds of Quiet Human Vocalization or Breath",
-        "explanation": "Whisper, murmur, sigh, and hum are all relatively quiet or soft sounds produced by the human voice or breath. Screech, in contrast, is a loud, harsh sound.",
+        "answer_index": 2,
+        "category": "Wordplay: First Letter Removal",
+        "explanation": "All words except 'Storm' form a new, common English word when their first letter is removed (Smile -> mile, Chair -> hair, Plate -> late, Clean -> lean). 'Storm' becomes 'torm', which is not a recognized English word.",
         "completed": false
     }
 ]
