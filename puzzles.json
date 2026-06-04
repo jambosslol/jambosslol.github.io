@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pawns",
-            "Cards",
-            "Dice",
-            "Board",
-            "Screen"
+            "Publisher",
+            "Editor",
+            "Proofreader",
+            "Manuscript",
+            "Illustrator"
         ],
         "answer_index": 4,
-        "category": "Traditional Board Game Components",
-        "explanation": "Dice, Board, Cards, and Pawns are all common physical components found in traditional, analog board games. A 'Screen' is not typically a component of a physical board game, being more associated with digital gaming or display technology.",
+        "category": "Roles or Stages in Textual Book Production",
+        "explanation": "Manuscript, Editor, Publisher, and Proofreader are all directly involved in the creation, refinement, and dissemination of the written content of a book. An Illustrator's primary role is to create visual content, distinct from the textual process.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Statue of Zeus at Olympia",
-            "Great Pyramid of Giza",
             "Hanging Gardens of Babylon",
-            "Temple of Artemis at Ephesus"
+            "Colossus of Rhodes",
+            "Great Wall of China",
+            "Statue of Zeus at Olympia",
+            "Pyramid of Giza"
         ],
         "answer_index": 2,
-        "category": "Fate of the Ancient Wonders",
-        "explanation": "All tokens are from the Seven Wonders of the Ancient World. However, the Great Pyramid of Giza is the only one that remains largely intact and standing today; the other four have been destroyed over time.",
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Great Wall of China is the only item not traditionally listed among the Seven Wonders of the Ancient World. The other four are all considered to be among the original seven.",
         "completed": false
     },
     {
         "tokens": [
-            "Chair",
-            "Smile",
-            "Storm",
-            "Clean",
-            "Plate"
+            "Imagination",
+            "Operation",
+            "Creation",
+            "Destination",
+            "Construction"
         ],
-        "answer_index": 2,
-        "category": "Wordplay: First Letter Removal",
-        "explanation": "All words except 'Storm' form a new, common English word when their first letter is removed (Smile -> mile, Chair -> hair, Plate -> late, Clean -> lean). 'Storm' becomes 'torm', which is not a recognized English word.",
+        "answer_index": 3,
+        "category": "Nouns denoting active processes or acts",
+        "explanation": "Creation, Operation, Construction, and Imagination all refer to active processes or acts of doing or thinking. Destination refers to the end point or goal, not the process itself.",
         "completed": false
     }
 ]
