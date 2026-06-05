@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Publisher",
-            "Editor",
-            "Proofreader",
-            "Manuscript",
-            "Illustrator"
-        ],
-        "answer_index": 4,
-        "category": "Roles or Stages in Textual Book Production",
-        "explanation": "Manuscript, Editor, Publisher, and Proofreader are all directly involved in the creation, refinement, and dissemination of the written content of a book. An Illustrator's primary role is to create visual content, distinct from the textual process.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Great Wall of China",
-            "Statue of Zeus at Olympia",
-            "Pyramid of Giza"
+            "Gauge",
+            "Scale",
+            "Ounce",
+            "Meter",
+            "Pace"
         ],
         "answer_index": 2,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Great Wall of China is the only item not traditionally listed among the Seven Wonders of the Ancient World. The other four are all considered to be among the original seven.",
+        "category": "Words that are both a unit of measurement/instrument and a verb",
+        "explanation": "All tokens except 'Ounce' can function as both a noun (referring to a unit of measurement or an instrument for measurement) and a verb. 'Gauge' (to measure), 'Scale' (to weigh, to climb), 'Meter' (to measure out), and 'Pace' (to walk/measure steps) fit this pattern. 'Ounce' is solely a noun denoting a unit of weight.",
         "completed": false
     },
     {
         "tokens": [
-            "Imagination",
-            "Operation",
-            "Creation",
-            "Destination",
-            "Construction"
+            "Aqueduct",
+            "Roads",
+            "Hypocaust",
+            "Parthenon",
+            "Colosseum"
         ],
         "answer_index": 3,
-        "category": "Nouns denoting active processes or acts",
-        "explanation": "Creation, Operation, Construction, and Imagination all refer to active processes or acts of doing or thinking. Destination refers to the end point or goal, not the process itself.",
+        "category": "Roman Engineering & Architecture",
+        "explanation": "Aqueducts, the Colosseum, Roman roads, and the hypocaust system are all significant engineering or architectural achievements pioneered or extensively developed by Ancient Rome. The Parthenon is an iconic temple from Ancient Greece.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Slough",
+            "Bough",
+            "Drought",
+            "Plough",
+            "Rough"
+        ],
+        "answer_index": 4,
+        "category": "Words where 'ough' is pronounced like 'ow'",
+        "explanation": "Bough, Drought, Plough, and Slough all contain the 'ough' grapheme pronounced as /a\u028a/ (like 'ow' in 'cow'). Rough contains 'ough' pronounced as /\u028cf/ (like 'uff' in 'stuff').",
         "completed": false
     }
 ]
