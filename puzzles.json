@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Gauge",
-            "Scale",
-            "Ounce",
-            "Meter",
-            "Pace"
-        ],
-        "answer_index": 2,
-        "category": "Words that are both a unit of measurement/instrument and a verb",
-        "explanation": "All tokens except 'Ounce' can function as both a noun (referring to a unit of measurement or an instrument for measurement) and a verb. 'Gauge' (to measure), 'Scale' (to weigh, to climb), 'Meter' (to measure out), and 'Pace' (to walk/measure steps) fit this pattern. 'Ounce' is solely a noun denoting a unit of weight.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Aqueduct",
-            "Roads",
-            "Hypocaust",
-            "Parthenon",
-            "Colosseum"
-        ],
-        "answer_index": 3,
-        "category": "Roman Engineering & Architecture",
-        "explanation": "Aqueducts, the Colosseum, Roman roads, and the hypocaust system are all significant engineering or architectural achievements pioneered or extensively developed by Ancient Rome. The Parthenon is an iconic temple from Ancient Greece.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Slough",
-            "Bough",
-            "Drought",
-            "Plough",
-            "Rough"
+            "Hail",
+            "Rain",
+            "Snow",
+            "Sleet",
+            "Rainbow"
         ],
         "answer_index": 4,
-        "category": "Words where 'ough' is pronounced like 'ow'",
-        "explanation": "Bough, Drought, Plough, and Slough all contain the 'ough' grapheme pronounced as /a\u028a/ (like 'ow' in 'cow'). Rough contains 'ough' pronounced as /\u028cf/ (like 'uff' in 'stuff').",
+        "category": "Forms of Atmospheric Precipitation",
+        "explanation": "Rain, Snow, Hail, and Sleet are all forms of precipitation that fall from the atmosphere. A Rainbow, however, is an optical phenomenon caused by the reflection, refraction, and dispersion of light in water droplets, not a type of precipitation itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Papermaking",
+            "Gunpowder",
+            "Compass",
+            "Steam Engine",
+            "Printing Press"
+        ],
+        "answer_index": 3,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "The Printing Press, Compass, Gunpowder, and Papermaking are traditionally known as the Four Great Inventions of Ancient China. The Steam Engine was a pivotal invention of the Industrial Revolution, developed much later in Europe.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Mumble",
+            "Roar",
+            "Whisper",
+            "Shriek",
+            "Silent"
+        ],
+        "answer_index": 4,
+        "category": "Verbs of Vocal Sound Production",
+        "explanation": "Whisper, Roar, Mumble, and Shriek are all verbs describing distinct ways a sound is produced vocally. 'Silent' describes the state of making no sound whatsoever, not the act of producing one.",
         "completed": false
     }
 ]
