@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Hail",
-            "Rain",
-            "Snow",
-            "Sleet",
-            "Rainbow"
+            "Hertz",
+            "Ampere",
+            "Meter",
+            "Volt",
+            "Watt"
         ],
-        "answer_index": 4,
-        "category": "Forms of Atmospheric Precipitation",
-        "explanation": "Rain, Snow, Hail, and Sleet are all forms of precipitation that fall from the atmosphere. A Rainbow, however, is an optical phenomenon caused by the reflection, refraction, and dispersion of light in water droplets, not a type of precipitation itself.",
+        "answer_index": 2,
+        "category": "SI Units Named After Scientists",
+        "explanation": "Hertz, Watt, Ampere, and Volt are all SI (International System of Units) derived units whose names honor specific scientists. Meter, while an SI base unit, derives its name from the Greek word 'metron' and is not named after a person.",
         "completed": false
     },
     {
         "tokens": [
-            "Papermaking",
-            "Gunpowder",
-            "Compass",
-            "Steam Engine",
-            "Printing Press"
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Great Wall of China",
+            "Pyramids of Giza",
+            "Hanging Gardens of Babylon"
         ],
-        "answer_index": 3,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "The Printing Press, Compass, Gunpowder, and Papermaking are traditionally known as the Four Great Inventions of Ancient China. The Steam Engine was a pivotal invention of the Industrial Revolution, developed much later in Europe.",
+        "answer_index": 2,
+        "category": "Seven Ancient Wonders (Traditional List)",
+        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally considered part of the Seven Ancient Wonders of the World. The Great Wall of China is a magnificent ancient wonder, but it is not included in the original classical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Mumble",
-            "Roar",
-            "Whisper",
-            "Shriek",
-            "Silent"
+            "To",
+            "Ate",
+            "For",
+            "Won",
+            "Hear"
         ],
         "answer_index": 4,
-        "category": "Verbs of Vocal Sound Production",
-        "explanation": "Whisper, Roar, Mumble, and Shriek are all verbs describing distinct ways a sound is produced vocally. 'Silent' describes the state of making no sound whatsoever, not the act of producing one.",
+        "category": "Homophones of Single-Digit Numbers",
+        "explanation": "All tokens except 'Hear' are homophones for a single-digit number (Ate sounds like 8, For sounds like 4, Won sounds like 1, To sounds like 2). 'Hear' is a homophone for 'here', but neither represents a number.",
         "completed": false
     }
 ]
