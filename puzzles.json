@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Hertz",
-            "Ampere",
-            "Meter",
-            "Volt",
-            "Watt"
-        ],
-        "answer_index": 2,
-        "category": "SI Units Named After Scientists",
-        "explanation": "Hertz, Watt, Ampere, and Volt are all SI (International System of Units) derived units whose names honor specific scientists. Meter, while an SI base unit, derives its name from the Greek word 'metron' and is not named after a person.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Great Wall of China",
-            "Pyramids of Giza",
-            "Hanging Gardens of Babylon"
-        ],
-        "answer_index": 2,
-        "category": "Seven Ancient Wonders (Traditional List)",
-        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally considered part of the Seven Ancient Wonders of the World. The Great Wall of China is a magnificent ancient wonder, but it is not included in the original classical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "To",
-            "Ate",
-            "For",
-            "Won",
-            "Hear"
+            "News",
+            "Silence",
+            "Habit",
+            "Record",
+            "Glass"
         ],
         "answer_index": 4,
-        "category": "Homophones of Single-Digit Numbers",
-        "explanation": "All tokens except 'Hear' are homophones for a single-digit number (Ate sounds like 8, For sounds like 4, Won sounds like 1, To sounds like 2). 'Hear' is a homophone for 'here', but neither represents a number.",
+        "category": "Figurative 'Breaks'",
+        "explanation": "Silence, Record, Habit, and News are all things that can be 'broken' in a figurative sense (e.g., break the silence, break a record, break a habit, break the news). Glass is typically broken in a literal, physical sense.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "The Mona Lisa",
+            "Rosetta Stone",
+            "Code of Hammurabi",
+            "Dead Sea Scrolls",
+            "Magna Carta"
+        ],
+        "answer_index": 0,
+        "category": "Historical Artifacts Valued for Textual/Legal Content",
+        "explanation": "The Rosetta Stone, Dead Sea Scrolls, Magna Carta, and Code of Hammurabi are all highly significant historical artifacts primarily valued for the textual information they contain, often legal, religious, or linguistic in nature. The Mona Lisa is a Renaissance painting, valued primarily for its artistic merit and portraiture.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Write",
+            "Scene",
+            "Flour",
+            "Blew",
+            "Steel"
+        ],
+        "answer_index": 2,
+        "category": "Words whose homophone is primarily a different part of speech",
+        "explanation": "The words 'Steel' (noun), 'Write' (verb), 'Blew' (verb), and 'Scene' (noun) all have a common homophone that is primarily a different part of speech (Steal is a verb, Right is an adjective/noun/adverb, Blue is an adjective/noun, Seen is a verb participle). 'Flour' (noun), however, has 'Flower' as its homophone, which is also primarily a noun.",
         "completed": false
     }
 ]
