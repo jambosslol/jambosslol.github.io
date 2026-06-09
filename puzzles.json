@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "News",
-            "Silence",
-            "Habit",
-            "Record",
-            "Glass"
-        ],
-        "answer_index": 4,
-        "category": "Figurative 'Breaks'",
-        "explanation": "Silence, Record, Habit, and News are all things that can be 'broken' in a figurative sense (e.g., break the silence, break a record, break a habit, break the news). Glass is typically broken in a literal, physical sense.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "The Mona Lisa",
-            "Rosetta Stone",
-            "Code of Hammurabi",
-            "Dead Sea Scrolls",
-            "Magna Carta"
-        ],
-        "answer_index": 0,
-        "category": "Historical Artifacts Valued for Textual/Legal Content",
-        "explanation": "The Rosetta Stone, Dead Sea Scrolls, Magna Carta, and Code of Hammurabi are all highly significant historical artifacts primarily valued for the textual information they contain, often legal, religious, or linguistic in nature. The Mona Lisa is a Renaissance painting, valued primarily for its artistic merit and portraiture.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Write",
-            "Scene",
-            "Flour",
-            "Blew",
-            "Steel"
+            "Apollo",
+            "Tide",
+            "Star",
+            "Crater",
+            "Eclipse"
         ],
         "answer_index": 2,
-        "category": "Words whose homophone is primarily a different part of speech",
-        "explanation": "The words 'Steel' (noun), 'Write' (verb), 'Blew' (verb), and 'Scene' (noun) all have a common homophone that is primarily a different part of speech (Steal is a verb, Right is an adjective/noun/adverb, Blue is an adjective/noun, Seen is a verb participle). 'Flour' (noun), however, has 'Flower' as its homophone, which is also primarily a noun.",
+        "category": "Phenomena and features related to Earth's Moon",
+        "explanation": "Eclipse (lunar), Tide, Crater, and Apollo (missions) are all directly associated with or influenced by Earth's Moon. A star is a distinct celestial body that generates its own light, separate from lunar phenomena or features.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Great Wall of China",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon",
+            "Pyramids of Giza",
+            "Colossus of Rhodes"
+        ],
+        "answer_index": 0,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "All items except the Great Wall of China are traditionally listed as one of the Seven Wonders of the Ancient World. The Great Wall is a famous wonder but is not on that specific ancient list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "SQUEAL",
+            "MURMUR",
+            "GLIMMER",
+            "CRACKLE",
+            "RUMBLE"
+        ],
+        "answer_index": 2,
+        "category": "Verbs Describing Specific Sounds",
+        "explanation": "All words except 'GLIMMER' are verbs that describe distinct types of sounds. 'GLIMMER' describes a faint, wavering light.",
         "completed": false
     }
 ]
