@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Apollo",
-            "Tide",
-            "Star",
-            "Crater",
-            "Eclipse"
+            "Orchestra Pit",
+            "Green Room",
+            "Proscenium",
+            "Fly System",
+            "Turret"
         ],
-        "answer_index": 2,
-        "category": "Phenomena and features related to Earth's Moon",
-        "explanation": "Eclipse (lunar), Tide, Crater, and Apollo (missions) are all directly associated with or influenced by Earth's Moon. A star is a distinct celestial body that generates its own light, separate from lunar phenomena or features.",
+        "answer_index": 4,
+        "category": "Elements of a Traditional Theater",
+        "explanation": "Proscenium, Orchestra Pit, Fly System, and Green Room are all distinct parts or areas found within a traditional theater or performance venue. A Turret is a small tower, typically found on a castle or other large building, unrelated to a theater.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Wall of China",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Pyramids of Giza",
-            "Colossus of Rhodes"
+            "Hades",
+            "Thor",
+            "Zeus",
+            "Poseidon",
+            "Hera"
         ],
-        "answer_index": 0,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "All items except the Great Wall of China are traditionally listed as one of the Seven Wonders of the Ancient World. The Great Wall is a famous wonder but is not on that specific ancient list.",
+        "answer_index": 1,
+        "category": "Olympian Deities of Ancient Greece",
+        "explanation": "Zeus, Hera, Poseidon, and Hades are all major gods and goddesses from the pantheon of Ancient Greek mythology, primarily associated with Mount Olympus. Thor is a prominent god from Norse mythology.",
         "completed": false
     },
     {
         "tokens": [
-            "SQUEAL",
-            "MURMUR",
-            "GLIMMER",
-            "CRACKLE",
-            "RUMBLE"
+            "Record",
+            "Present",
+            "Water",
+            "Rebel",
+            "Conduct"
         ],
         "answer_index": 2,
-        "category": "Verbs Describing Specific Sounds",
-        "explanation": "All words except 'GLIMMER' are verbs that describe distinct types of sounds. 'GLIMMER' describes a faint, wavering light.",
+        "category": "Heteronyms with Stress Shift",
+        "explanation": "The words 'Record', 'Present', 'Conduct', and 'Rebel' are all heteronyms that change their stress pattern and pronunciation when used as a noun versus a verb (e.g., RE-cord vs. re-CORD). 'Water' can also be both a noun and a verb, but its pronunciation and stress remain the same in both forms.",
         "completed": false
     }
 ]
