@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Orchestra Pit",
-            "Green Room",
-            "Proscenium",
-            "Fly System",
-            "Turret"
+            "Billboard",
+            "Television",
+            "Laptop",
+            "Radio",
+            "Smartphone"
         ],
-        "answer_index": 4,
-        "category": "Elements of a Traditional Theater",
-        "explanation": "Proscenium, Orchestra Pit, Fly System, and Green Room are all distinct parts or areas found within a traditional theater or performance venue. A Turret is a small tower, typically found on a castle or other large building, unrelated to a theater.",
+        "answer_index": 3,
+        "category": "Visual Information Displays",
+        "explanation": "Smartphone, Television, Laptop, and Billboard all primarily convey information or content through visual means, typically involving a screen or large display. A Radio primarily conveys information through auditory means.",
         "completed": false
     },
     {
         "tokens": [
-            "Hades",
-            "Thor",
-            "Zeus",
-            "Poseidon",
-            "Hera"
+            "Edmund Hillary",
+            "Christopher Columbus",
+            "Ferdinand Magellan",
+            "Chuck Yeager",
+            "Neil Armstrong"
         ],
         "answer_index": 1,
-        "category": "Olympian Deities of Ancient Greece",
-        "explanation": "Zeus, Hera, Poseidon, and Hades are all major gods and goddesses from the pantheon of Ancient Greek mythology, primarily associated with Mount Olympus. Thor is a prominent god from Norse mythology.",
+        "category": "Firsts in Pioneering Human Feats",
+        "explanation": "Neil Armstrong, Edmund Hillary, Chuck Yeager, and Ferdinand Magellan are all widely credited as the first individuals (or leading an expedition that was the first) to achieve specific, groundbreaking human feats of exploration or physical accomplishment (Moon landing, Everest ascent, breaking the sound barrier, circumnavigating the Earth). Christopher Columbus, while significant for connecting the Old and New Worlds, was not the first to discover the Americas, as Vikings and indigenous peoples preceded him.",
         "completed": false
     },
     {
         "tokens": [
-            "Record",
-            "Present",
-            "Water",
-            "Rebel",
-            "Conduct"
+            "FOR",
+            "ATE",
+            "SIX",
+            "TOO",
+            "WON"
         ],
         "answer_index": 2,
-        "category": "Heteronyms with Stress Shift",
-        "explanation": "The words 'Record', 'Present', 'Conduct', and 'Rebel' are all heteronyms that change their stress pattern and pronunciation when used as a noun versus a verb (e.g., RE-cord vs. re-CORD). 'Water' can also be both a noun and a verb, but its pronunciation and stress remain the same in both forms.",
+        "category": "Homophones of Single-Digit Numbers",
+        "explanation": "WON, TOO, FOR, and ATE are common words that are homophones for the single-digit numbers 'one', 'two', 'four', and 'eight' respectively. 'SIX' is a single-digit number itself, but it does not have a widely recognized homophone that is a distinct word (i.e., not the number itself).",
         "completed": false
     }
 ]
