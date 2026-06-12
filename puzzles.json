@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Billboard",
-            "Television",
-            "Laptop",
-            "Radio",
-            "Smartphone"
-        ],
-        "answer_index": 3,
-        "category": "Visual Information Displays",
-        "explanation": "Smartphone, Television, Laptop, and Billboard all primarily convey information or content through visual means, typically involving a screen or large display. A Radio primarily conveys information through auditory means.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Edmund Hillary",
-            "Christopher Columbus",
-            "Ferdinand Magellan",
-            "Chuck Yeager",
-            "Neil Armstrong"
-        ],
-        "answer_index": 1,
-        "category": "Firsts in Pioneering Human Feats",
-        "explanation": "Neil Armstrong, Edmund Hillary, Chuck Yeager, and Ferdinand Magellan are all widely credited as the first individuals (or leading an expedition that was the first) to achieve specific, groundbreaking human feats of exploration or physical accomplishment (Moon landing, Everest ascent, breaking the sound barrier, circumnavigating the Earth). Christopher Columbus, while significant for connecting the Old and New Worlds, was not the first to discover the Americas, as Vikings and indigenous peoples preceded him.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "FOR",
-            "ATE",
-            "SIX",
-            "TOO",
-            "WON"
+            "Keyboard",
+            "Pen",
+            "Microphone",
+            "Pencil",
+            "Typewriter"
         ],
         "answer_index": 2,
-        "category": "Homophones of Single-Digit Numbers",
-        "explanation": "WON, TOO, FOR, and ATE are common words that are homophones for the single-digit numbers 'one', 'two', 'four', and 'eight' respectively. 'SIX' is a single-digit number itself, but it does not have a widely recognized homophone that is a distinct word (i.e., not the number itself).",
+        "category": "Direct Manual Text Creation/Input Tools",
+        "explanation": "Keyboard, Pen, Typewriter, and Pencil are all tools primarily used for direct, manual creation or input of written text. A Microphone is used for audio input, which can be transcribed into text but is not a direct manual text creation device itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Zero",
+            "Compass",
+            "Printing",
+            "Gunpowder",
+            "Papermaking"
+        ],
+        "answer_index": 0,
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, the Compass, Papermaking, and Printing are traditionally known as the Four Great Inventions of Ancient China. The concept of Zero, while a crucial mathematical concept, originated in ancient India, not China.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "For",
+            "Ate",
+            "To",
+            "Sea",
+            "Won"
+        ],
+        "answer_index": 3,
+        "category": "Homophones of Numbers",
+        "explanation": "The words 'Ate', 'For', 'Won', and 'To' are homophones for the numbers 'Eight', 'Four', 'One', and 'Two', respectively. 'Sea' is a homophone for 'See', which is not a number.",
         "completed": false
     }
 ]
