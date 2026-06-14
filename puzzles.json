@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Granulated Sugar",
-            "Baking Soda",
-            "Yeast",
-            "Whipped Egg Whites",
-            "Baking Powder"
+            "Ice",
+            "Snow",
+            "Refrigerator",
+            "Hail",
+            "Frost"
         ],
-        "answer_index": 0,
-        "category": "Primary Leavening Agents in Baking",
-        "explanation": "Baking Soda, Yeast, Baking Powder, and Whipped Egg Whites are all primary leavening agents used to make baked goods rise by creating gas. Granulated Sugar adds sweetness and texture but does not directly act as a leavening agent.",
+        "answer_index": 2,
+        "category": "Naturally Occurring Forms of Frozen Water",
+        "explanation": "Ice, Snow, Frost, and Hail are all natural meteorological phenomena involving frozen water. A Refrigerator is an artificial appliance designed to cool or freeze items.",
         "completed": false
     },
     {
         "tokens": [
-            "Richard Arkwright",
-            "James Watt",
-            "George Stephenson",
-            "Eli Whitney",
-            "Johannes Gutenberg"
+            "Papermaking",
+            "Compass",
+            "Steam Engine",
+            "Printing Press",
+            "Gunpowder"
         ],
-        "answer_index": 4,
-        "category": "Pioneering Inventors of the Industrial Revolution",
-        "explanation": "James Watt, Eli Whitney, Richard Arkwright, and George Stephenson were all instrumental inventors and engineers whose innovations were central to the British Industrial Revolution (primarily 18th-19th centuries), focusing on steam power, textile machinery, and railways. Johannes Gutenberg, while a revolutionary inventor, developed the printing press in the 15th century, predating the Industrial Revolution by several centuries.",
+        "answer_index": 2,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Printing Press, Compass, and Papermaking are traditionally known as the Four Great Inventions of Ancient China. The Steam Engine, however, was a pivotal invention of the Industrial Revolution, developed much later in 18th-century Great Britain.",
         "completed": false
     },
     {
         "tokens": [
-            "Tare",
-            "Earth",
-            "Rate",
-            "Heart",
-            "Hate"
+            "Chuckle",
+            "Cackle",
+            "Guffaw",
+            "Whisper",
+            "Giggle"
         ],
-        "answer_index": 4,
-        "category": "Anagrams of a specific word",
-        "explanation": "\"Earth\", \"Heart\", \"Rate\", and \"Tare\" are all anagrams of the word \"Hart\" (an adult male deer). \"Hate\" is not.",
+        "answer_index": 3,
+        "category": "Forms of Vocal Expression (Laughter)",
+        "explanation": "Giggle, Chuckle, Cackle, and Guffaw are all specific terms describing different types or styles of human laughter. Whisper, while a vocal expression, is not a form of laughter.",
         "completed": false
     }
 ]
