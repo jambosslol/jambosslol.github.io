@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ice",
-            "Snow",
-            "Refrigerator",
-            "Hail",
-            "Frost"
-        ],
-        "answer_index": 2,
-        "category": "Naturally Occurring Forms of Frozen Water",
-        "explanation": "Ice, Snow, Frost, and Hail are all natural meteorological phenomena involving frozen water. A Refrigerator is an artificial appliance designed to cool or freeze items.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Papermaking",
-            "Compass",
-            "Steam Engine",
-            "Printing Press",
-            "Gunpowder"
-        ],
-        "answer_index": 2,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Printing Press, Compass, and Papermaking are traditionally known as the Four Great Inventions of Ancient China. The Steam Engine, however, was a pivotal invention of the Industrial Revolution, developed much later in 18th-century Great Britain.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Chuckle",
-            "Cackle",
-            "Guffaw",
-            "Whisper",
-            "Giggle"
+            "Director",
+            "Costume",
+            "Set",
+            "Audience",
+            "Script"
         ],
         "answer_index": 3,
-        "category": "Forms of Vocal Expression (Laughter)",
-        "explanation": "Giggle, Chuckle, Cackle, and Guffaw are all specific terms describing different types or styles of human laughter. Whisper, while a vocal expression, is not a form of laughter.",
+        "category": "Core Elements of Stage Production",
+        "explanation": "Script, Director, Set, and Costume are all essential components for the *creation and presentation* of a stage play. The Audience observes the play but is not a direct component of its production.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Anubis",
+            "Sphinx",
+            "Medusa",
+            "Cerberus",
+            "Minotaur"
+        ],
+        "answer_index": 0,
+        "category": "Figures from Greek Mythology",
+        "explanation": "Medusa, Minotaur, Sphinx, and Cerberus are all mythical creatures or figures deeply rooted in ancient Greek mythology. Anubis, however, is a prominent god from ancient Egyptian mythology.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "GAZE",
+            "LISTEN",
+            "STARE",
+            "PEER",
+            "GLANCE"
+        ],
+        "answer_index": 1,
+        "category": "Verbs of Visual Perception",
+        "explanation": "GAZE, PEER, GLANCE, and STARE are all verbs that describe specific ways of looking or seeing. LISTEN, however, is a verb related to the sense of hearing.",
         "completed": false
     }
 ]
