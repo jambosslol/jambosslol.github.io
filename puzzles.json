@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Director",
-            "Costume",
-            "Set",
-            "Audience",
-            "Script"
+            "Lightbulb",
+            "Lantern",
+            "Candle",
+            "Flashlight",
+            "Shadow"
+        ],
+        "answer_index": 4,
+        "category": "Objects That Produce Light",
+        "explanation": "Candle, Lantern, Flashlight, and Lightbulb are all devices or objects designed to generate or emit light. Shadow is the absence of light, formed when an object blocks light.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Colossus of Rhodes",
+            "Hanging Gardens",
+            "Stonehenge",
+            "Lighthouse of Alexandria",
+            "Pyramids of Giza"
+        ],
+        "answer_index": 2,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Pyramids of Giza, Hanging Gardens, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. Stonehenge, while an ancient monument, is not included in that specific classical list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "To",
+            "Ate",
+            "Won",
+            "Sew",
+            "For"
         ],
         "answer_index": 3,
-        "category": "Core Elements of Stage Production",
-        "explanation": "Script, Director, Set, and Costume are all essential components for the *creation and presentation* of a stage play. The Audience observes the play but is not a direct component of its production.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Anubis",
-            "Sphinx",
-            "Medusa",
-            "Cerberus",
-            "Minotaur"
-        ],
-        "answer_index": 0,
-        "category": "Figures from Greek Mythology",
-        "explanation": "Medusa, Minotaur, Sphinx, and Cerberus are all mythical creatures or figures deeply rooted in ancient Greek mythology. Anubis, however, is a prominent god from ancient Egyptian mythology.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "GAZE",
-            "LISTEN",
-            "STARE",
-            "PEER",
-            "GLANCE"
-        ],
-        "answer_index": 1,
-        "category": "Verbs of Visual Perception",
-        "explanation": "GAZE, PEER, GLANCE, and STARE are all verbs that describe specific ways of looking or seeing. LISTEN, however, is a verb related to the sense of hearing.",
+        "category": "Homophones of Numbers",
+        "explanation": "All words except 'Sew' are homophones for single-digit numbers: 'Won' (One), 'To' (Two), 'For' (Four), and 'Ate' (Eight). 'Sew' does not correspond to a number.",
         "completed": false
     }
 ]
