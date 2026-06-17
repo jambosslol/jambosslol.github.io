@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Lightbulb",
-            "Lantern",
-            "Candle",
-            "Flashlight",
-            "Shadow"
+            "Chocolate",
+            "Stone",
+            "Ice",
+            "Wax",
+            "Butter"
+        ],
+        "answer_index": 1,
+        "category": "Substances that commonly melt at low temperatures",
+        "explanation": "Ice, wax, butter, and chocolate are all substances that readily melt at relatively low temperatures, often at room temperature or with minimal heat. Stone, while it can melt at extremely high temperatures, does not commonly melt in everyday scenarios like the others.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Confucius",
+            "Aristotle",
+            "Pythagoras",
+            "Plato",
+            "Socrates"
+        ],
+        "answer_index": 0,
+        "category": "Influential Ancient Greek Thinkers",
+        "explanation": "Socrates, Plato, Aristotle, and Pythagoras were all highly influential philosophers and mathematicians from Ancient Greece. Confucius was an influential philosopher from Ancient China.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Greenhouse",
+            "Blackberry",
+            "Redundant",
+            "Whitewash",
+            "Purple"
         ],
         "answer_index": 4,
-        "category": "Objects That Produce Light",
-        "explanation": "Candle, Lantern, Flashlight, and Lightbulb are all devices or objects designed to generate or emit light. Shadow is the absence of light, formed when an object blocks light.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Colossus of Rhodes",
-            "Hanging Gardens",
-            "Stonehenge",
-            "Lighthouse of Alexandria",
-            "Pyramids of Giza"
-        ],
-        "answer_index": 2,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Pyramids of Giza, Hanging Gardens, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. Stonehenge, while an ancient monument, is not included in that specific classical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "To",
-            "Ate",
-            "Won",
-            "Sew",
-            "For"
-        ],
-        "answer_index": 3,
-        "category": "Homophones of Numbers",
-        "explanation": "All words except 'Sew' are homophones for single-digit numbers: 'Won' (One), 'To' (Two), 'For' (Four), and 'Ate' (Eight). 'Sew' does not correspond to a number.",
+        "category": "Words Containing Color Names",
+        "explanation": "The other four words contain the name of a common color within them (Blackberry -> black, Greenhouse -> green, Redundant -> red, Whitewash -> white). 'Purple' is a color itself but does not contain another color's name.",
         "completed": false
     }
 ]
