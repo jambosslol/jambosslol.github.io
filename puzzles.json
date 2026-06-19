@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Chocolate",
-            "Stone",
-            "Ice",
-            "Wax",
-            "Butter"
-        ],
-        "answer_index": 1,
-        "category": "Substances that commonly melt at low temperatures",
-        "explanation": "Ice, wax, butter, and chocolate are all substances that readily melt at relatively low temperatures, often at room temperature or with minimal heat. Stone, while it can melt at extremely high temperatures, does not commonly melt in everyday scenarios like the others.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Confucius",
-            "Aristotle",
-            "Pythagoras",
-            "Plato",
-            "Socrates"
-        ],
-        "answer_index": 0,
-        "category": "Influential Ancient Greek Thinkers",
-        "explanation": "Socrates, Plato, Aristotle, and Pythagoras were all highly influential philosophers and mathematicians from Ancient Greece. Confucius was an influential philosopher from Ancient China.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Greenhouse",
-            "Blackberry",
-            "Redundant",
-            "Whitewash",
-            "Purple"
+            "Thermometer",
+            "Stopwatch",
+            "Scale",
+            "Ruler",
+            "Compass"
         ],
         "answer_index": 4,
-        "category": "Words Containing Color Names",
-        "explanation": "The other four words contain the name of a common color within them (Blackberry -> black, Greenhouse -> green, Redundant -> red, Whitewash -> white). 'Purple' is a color itself but does not contain another color's name.",
+        "category": "Instruments for Quantitative Physical Measurement",
+        "explanation": "Ruler measures length, Scale measures mass, Thermometer measures temperature, and Stopwatch measures time. A Compass, however, indicates direction and does not quantitatively measure a physical property in the same manner as the others.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Stonehenge",
+            "Pyramids of Giza",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon"
+        ],
+        "answer_index": 0,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are specific entries on the traditional list of the Seven Wonders of the Ancient World. Stonehenge, while an ancient and impressive monument, is not typically included in that classical list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Clue",
+            "Disclosure",
+            "Secret",
+            "Enigma",
+            "Mystery"
+        ],
+        "answer_index": 1,
+        "category": "Concepts of Concealment",
+        "explanation": "Secret, Mystery, Enigma, and Clue all refer to something that is hidden, unknown, or requires discovery. Disclosure, however, refers to the act of revealing or making something known.",
         "completed": false
     }
 ]
