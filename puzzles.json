@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Battery",
-            "Mainspring",
-            "Escapement",
-            "Gear",
-            "Pendulum"
+            "Moon",
+            "Firefly",
+            "Candle",
+            "Sun",
+            "Star"
         ],
         "answer_index": 0,
-        "category": "Essential Internal Components of a Mechanical Clock",
-        "explanation": "Gear, Pendulum, Mainspring, and Escapement are all crucial internal mechanical components that enable a traditional analog clock to function. A battery is an external power source used in quartz or digital clocks, not an internal mechanism of a purely mechanical timepiece.",
+        "category": "Sources of Light",
+        "explanation": "The Sun, stars, candles, and fireflies all produce their own light. The Moon, however, reflects light from the Sun and does not generate its own.",
         "completed": false
     },
     {
         "tokens": [
-            "Steam Engine",
             "Gunpowder",
-            "Compass",
-            "Printing Press",
-            "Papermaking"
+            "Porcelain",
+            "Papermaking",
+            "Printing",
+            "Compass"
         ],
-        "answer_index": 0,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Printing Press, Compass, Gunpowder, and Papermaking are collectively known as the 'Four Great Inventions' of ancient China, which significantly influenced world history. The Steam Engine was a pivotal invention of the Industrial Revolution, originating in the Western world.",
+        "answer_index": 1,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "The Compass, Gunpowder, Papermaking, and Printing are traditionally known as the 'Four Great Inventions' of Ancient China. Porcelain, while a significant Chinese invention, is not typically included in this specific historical grouping.",
         "completed": false
     },
     {
         "tokens": [
-            "NEPTUNE",
-            "MARShes",
-            "SATURNine",
-            "VENUSian",
-            "MERCURYial"
+            "Catch a train",
+            "Catch a cold",
+            "Catch a break",
+            "Catch a glimpse",
+            "Catch a fire"
         ],
         "answer_index": 0,
-        "category": "Words Containing Planet Names",
-        "explanation": "The first four words each contain the name of a distinct planet (Mercury, Venus, Saturn, Mars) as a substring. 'NEPTUNE' is itself a planet, not a word containing another planet's name.",
+        "category": "Idiomatic vs. Literal Use of 'Catch'",
+        "explanation": "Four of the phrases use the verb 'catch' in an idiomatic or non-literal sense (meaning to get an opportunity, contract an illness, ignite interest, or briefly see something). 'Catch a train' uses 'catch' in its literal sense of successfully boarding a mode of transport.",
         "completed": false
     }
 ]
