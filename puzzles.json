@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Moon",
-            "Firefly",
-            "Candle",
-            "Sun",
-            "Star"
+            "ISO",
+            "Shutter Speed",
+            "Aperture",
+            "Focal Length",
+            "Tripod"
         ],
-        "answer_index": 0,
-        "category": "Sources of Light",
-        "explanation": "The Sun, stars, candles, and fireflies all produce their own light. The Moon, however, reflects light from the Sun and does not generate its own.",
+        "answer_index": 4,
+        "category": "Core Image Capture Controls",
+        "explanation": "Aperture, Shutter Speed, ISO, and Focal Length are fundamental settings or characteristics that directly control how a camera captures an image. A Tripod is an accessory used for stabilization, not a direct image capture control.",
         "completed": false
     },
     {
         "tokens": [
-            "Gunpowder",
-            "Porcelain",
-            "Papermaking",
-            "Printing",
-            "Compass"
+            "Benjamin Franklin",
+            "Thomas Jefferson",
+            "John Adams",
+            "George Washington",
+            "Abraham Lincoln"
         ],
-        "answer_index": 1,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "The Compass, Gunpowder, Papermaking, and Printing are traditionally known as the 'Four Great Inventions' of Ancient China. Porcelain, while a significant Chinese invention, is not typically included in this specific historical grouping.",
+        "answer_index": 4,
+        "category": "Signatories of the Declaration of Independence",
+        "explanation": "George Washington, John Adams, Thomas Jefferson, and Benjamin Franklin were all signatories of the United States Declaration of Independence. Abraham Lincoln was not alive during its signing.",
         "completed": false
     },
     {
         "tokens": [
-            "Catch a train",
-            "Catch a cold",
-            "Catch a break",
-            "Catch a glimpse",
-            "Catch a fire"
+            "PEARL",
+            "BEARD",
+            "HEART",
+            "EARLY",
+            "CHAIR"
         ],
-        "answer_index": 0,
-        "category": "Idiomatic vs. Literal Use of 'Catch'",
-        "explanation": "Four of the phrases use the verb 'catch' in an idiomatic or non-literal sense (meaning to get an opportunity, contract an illness, ignite interest, or briefly see something). 'Catch a train' uses 'catch' in its literal sense of successfully boarding a mode of transport.",
+        "answer_index": 4,
+        "category": "Words Containing 'EAR'",
+        "explanation": "All tokens except 'CHAIR' contain the consecutive letters 'EAR' within them. HEART (hEARt), PEARL (pEARl), BEARD (bEARd), and EARLY (EARly) all share this feature, while CHAIR does not.",
         "completed": false
     }
 ]
