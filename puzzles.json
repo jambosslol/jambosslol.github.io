@@ -2,40 +2,40 @@
     {
         "tokens": [
             "Pen",
-            "Notebook",
-            "Keyboard",
-            "Paper",
-            "Eraser"
-        ],
-        "answer_index": 4,
-        "category": "Primary tools for generating written content",
-        "explanation": "Pen, Paper, Keyboard, and Notebook are all primarily used for the creation or recording of original written content. An Eraser, however, is used for correcting or removing written content, not for its initial generation.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Temple of Artemis at Ephesus",
-            "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon"
+            "Pencil",
+            "Typewriter",
+            "Display Screen",
+            "Printing Press"
         ],
         "answer_index": 3,
-        "category": "Wonders of the Ancient World (No Longer Standing)",
-        "explanation": "All tokens are among the Seven Wonders of the Ancient World. However, the Hanging Gardens of Babylon, Colossus of Rhodes, Temple of Artemis at Ephesus, and Lighthouse of Alexandria have all been destroyed, while the Great Pyramid of Giza is the only one of the original seven still substantially intact.",
+        "category": "Devices for Physically Creating Written Marks on a Surface",
+        "explanation": "Pen, Pencil, Typewriter, and Printing Press are all tools or machines designed to physically transfer ink or graphite to create written or printed text and images on a tangible surface. A Display Screen, however, shows text digitally and does not physically create marks on a surface.",
         "completed": false
     },
     {
         "tokens": [
-            "Yard",
-            "Kilometer",
-            "Pound",
-            "Meter",
-            "Mile"
+            "Temple of Artemis",
+            "Hanging Gardens",
+            "Colossus of Rhodes",
+            "Statue of Zeus",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 2,
-        "category": "Units of Length",
-        "explanation": "Mile, Kilometer, Meter, and Yard are all standard units used to measure length or distance, whereas Pound is a unit of weight.",
+        "answer_index": 4,
+        "category": "Ancient Wonders Still Standing",
+        "explanation": "All items listed are among the Seven Wonders of the Ancient World. However, the Hanging Gardens, Colossus of Rhodes, Temple of Artemis, and Statue of Zeus have all been destroyed or lost to history. The Great Pyramid of Giza is the only one of the original seven wonders that still largely stands today.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Shattered",
+            "Immaculate",
+            "Ruined",
+            "Fractured",
+            "Destroyed"
+        ],
+        "answer_index": 1,
+        "category": "States of Damage or Imperfection",
+        "explanation": "Shattered, Ruined, Fractured, and Destroyed all describe conditions where something is significantly damaged or broken. Immaculate means perfectly clean, neat, or tidy, and free from any flaws or damage, making it the opposite of the others.",
         "completed": false
     }
 ]
