@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pen",
-            "Pencil",
-            "Typewriter",
-            "Display Screen",
-            "Printing Press"
+            "Roast",
+            "Saut\u00e9",
+            "Chop",
+            "Boil",
+            "Bake"
         ],
-        "answer_index": 3,
-        "category": "Devices for Physically Creating Written Marks on a Surface",
-        "explanation": "Pen, Pencil, Typewriter, and Printing Press are all tools or machines designed to physically transfer ink or graphite to create written or printed text and images on a tangible surface. A Display Screen, however, shows text digitally and does not physically create marks on a surface.",
+        "answer_index": 2,
+        "category": "Food Preparation and Cooking Techniques",
+        "explanation": "Saut\u00e9, Boil, Roast, and Bake are all methods of cooking food by applying heat. 'Chop' is a method of preparing food by cutting it into pieces, typically done before cooking.",
         "completed": false
     },
     {
         "tokens": [
-            "Temple of Artemis",
-            "Hanging Gardens",
             "Colossus of Rhodes",
-            "Statue of Zeus",
-            "Great Pyramid of Giza"
-        ],
-        "answer_index": 4,
-        "category": "Ancient Wonders Still Standing",
-        "explanation": "All items listed are among the Seven Wonders of the Ancient World. However, the Hanging Gardens, Colossus of Rhodes, Temple of Artemis, and Statue of Zeus have all been destroyed or lost to history. The Great Pyramid of Giza is the only one of the original seven wonders that still largely stands today.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Shattered",
-            "Immaculate",
-            "Ruined",
-            "Fractured",
-            "Destroyed"
+            "Great Pyramid of Giza",
+            "Mausoleum at Halicarnassus",
+            "Lighthouse of Alexandria",
+            "Temple of Artemis at Ephesus"
         ],
         "answer_index": 1,
-        "category": "States of Damage or Imperfection",
-        "explanation": "Shattered, Ruined, Fractured, and Destroyed all describe conditions where something is significantly damaged or broken. Immaculate means perfectly clean, neat, or tidy, and free from any flaws or damage, making it the opposite of the others.",
+        "category": "Destroyed Wonders of the Ancient World",
+        "explanation": "All are among the traditional Seven Wonders of the Ancient World. The Temple of Artemis, Mausoleum, Colossus, and Lighthouse were all destroyed and no longer stand, while the Great Pyramid of Giza is the only one still largely intact today.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Glare",
+            "Glisten",
+            "Gloom",
+            "Gleam",
+            "Glimmer"
+        ],
+        "answer_index": 2,
+        "category": "Words Describing Forms of Light or Shine",
+        "explanation": "Glare, Glimmer, Glisten, and Gleam all describe specific qualities or types of visible light or the act of shining. Gloom, in contrast, refers to a state of partial or total darkness, or a dim and unlit condition.",
         "completed": false
     }
 ]
