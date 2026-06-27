@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Roast",
-            "Saut\u00e9",
-            "Chop",
-            "Boil",
-            "Bake"
+            "Calendar",
+            "Hourglass",
+            "Metronome",
+            "Sundial",
+            "Compass"
         ],
-        "answer_index": 2,
-        "category": "Food Preparation and Cooking Techniques",
-        "explanation": "Saut\u00e9, Boil, Roast, and Bake are all methods of cooking food by applying heat. 'Chop' is a method of preparing food by cutting it into pieces, typically done before cooking.",
+        "answer_index": 4,
+        "category": "Devices for Measuring or Marking Time",
+        "explanation": "Sundials, hourglasses, calendars, and metronomes are all instruments or systems used to measure, mark, or organize time. A compass is used for navigation and determining direction, not directly for time.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
+            "Temple of Artemis at Ephesus",
             "Great Pyramid of Giza",
-            "Mausoleum at Halicarnassus",
-            "Lighthouse of Alexandria",
-            "Temple of Artemis at Ephesus"
+            "Colossus of Rhodes",
+            "Statue of Zeus at Olympia"
         ],
-        "answer_index": 1,
-        "category": "Destroyed Wonders of the Ancient World",
-        "explanation": "All are among the traditional Seven Wonders of the Ancient World. The Temple of Artemis, Mausoleum, Colossus, and Lighthouse were all destroyed and no longer stand, while the Great Pyramid of Giza is the only one still largely intact today.",
+        "answer_index": 2,
+        "category": "Ancient Wonders That No Longer Stand",
+        "explanation": "All tokens are from the Seven Wonders of the Ancient World. The Hanging Gardens, Statue of Zeus, Temple of Artemis, and Colossus of Rhodes have all been destroyed or lost to history. The Great Pyramid of Giza is the only one of the original Seven Wonders that still largely stands today.",
         "completed": false
     },
     {
         "tokens": [
-            "Glare",
-            "Glisten",
-            "Gloom",
-            "Gleam",
-            "Glimmer"
+            "Madam",
+            "Rotor",
+            "Level",
+            "Banana",
+            "Racecar"
         ],
-        "answer_index": 2,
-        "category": "Words Describing Forms of Light or Shine",
-        "explanation": "Glare, Glimmer, Glisten, and Gleam all describe specific qualities or types of visible light or the act of shining. Gloom, in contrast, refers to a state of partial or total darkness, or a dim and unlit condition.",
+        "answer_index": 3,
+        "category": "Palindromes",
+        "explanation": "All words except 'Banana' are palindromes, meaning they read the same forwards and backward.",
         "completed": false
     }
 ]
