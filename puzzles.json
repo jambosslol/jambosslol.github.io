@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Clarinet",
-            "Oboe",
-            "Trumpet",
-            "Flute",
-            "Bassoon"
+            "Chess",
+            "Clue",
+            "Poker",
+            "Monopoly",
+            "Risk"
         ],
         "answer_index": 2,
-        "category": "Musical Instrument Families",
-        "explanation": "Flute, Clarinet, Oboe, and Bassoon are all instruments belonging to the woodwind family. The Trumpet is a brass instrument.",
+        "category": "Classic Board Games",
+        "explanation": "Monopoly, Chess, Clue, and Risk are all well-known classic board games. Poker, while a classic game, is a card game rather than a board game.",
         "completed": false
     },
     {
         "tokens": [
             "Colossus of Rhodes",
-            "Great Pyramid of Giza",
+            "Great Wall of China",
             "Lighthouse of Alexandria",
-            "Statue of Zeus at Olympia",
-            "Taj Mahal"
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Lighthouse of Alexandria, Colossus of Rhodes, and Statue of Zeus at Olympia are all recognized as four of the original Seven Wonders of the Ancient World. The Taj Mahal, while a famous architectural wonder, is not included in the ancient list.",
+        "answer_index": 1,
+        "category": "Classical Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are four of the seven traditional Wonders of the Ancient World. The Great Wall of China, while an ancient marvel, is not included in this classical list, often being cited as one of the New7Wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "Rapid",
-            "Brief",
-            "Quick",
-            "Hasty",
-            "Swift"
+            "Surplus",
+            "Void",
+            "Absence",
+            "Chasm",
+            "Null"
         ],
-        "answer_index": 1,
-        "category": "Adjectives of Speed vs. Duration",
-        "explanation": "Rapid, Swift, Quick, and Hasty are all adjectives used to describe something happening or moving at a high speed. Brief describes a short duration of time, not the speed at which something occurs.",
+        "answer_index": 0,
+        "category": "Concepts of Absence or Emptiness",
+        "explanation": "Void, Chasm, Null, and Absence all denote a lack, emptiness, or non-existence. Surplus, however, signifies an excess or an amount remaining after needs are met.",
         "completed": false
     }
 ]
