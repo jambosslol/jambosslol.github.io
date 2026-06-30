@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Chess",
-            "Clue",
-            "Poker",
-            "Monopoly",
-            "Risk"
+            "Wheel",
+            "Marble",
+            "Dice",
+            "Coin",
+            "Ball"
         ],
         "answer_index": 2,
-        "category": "Classic Board Games",
-        "explanation": "Monopoly, Chess, Clue, and Risk are all well-known classic board games. Poker, while a classic game, is a card game rather than a board game.",
+        "category": "Objects Characterized by Their Primary Geometric Shape",
+        "explanation": "Wheel, Ball, Coin, and Marble are all typically round or spherical in shape. A Dice, however, is cubic.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Great Wall of China",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza"
-        ],
-        "answer_index": 1,
-        "category": "Classical Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are four of the seven traditional Wonders of the Ancient World. The Great Wall of China, while an ancient marvel, is not included in this classical list, often being cited as one of the New7Wonders.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Surplus",
-            "Void",
-            "Absence",
-            "Chasm",
-            "Null"
+            "Artemis",
+            "Calliope",
+            "Thalia",
+            "Clio",
+            "Terpsichore"
         ],
         "answer_index": 0,
-        "category": "Concepts of Absence or Emptiness",
-        "explanation": "Void, Chasm, Null, and Absence all denote a lack, emptiness, or non-existence. Surplus, however, signifies an excess or an amount remaining after needs are met.",
+        "category": "Greek Muses",
+        "explanation": "Clio, Terpsichore, Calliope, and Thalia are all Greek Muses, deities who inspire various arts and sciences. Artemis is an Olympian goddess of the hunt, wilderness, and wild animals, not a Muse.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Radiance",
+            "Luminescence",
+            "Resonance",
+            "Illumination",
+            "Glimmer"
+        ],
+        "answer_index": 2,
+        "category": "Words Related to Light",
+        "explanation": "Illumination, Radiance, Glimmer, and Luminescence are all terms directly associated with light or its properties. Resonance describes the quality of a sound being deep, full, and reverberating, or a vibration, not light.",
         "completed": false
     }
 ]
