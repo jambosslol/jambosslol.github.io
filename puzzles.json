@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Wheel",
-            "Marble",
-            "Dice",
-            "Coin",
-            "Ball"
+            "Studio Monitors",
+            "DAW",
+            "Audio Interface",
+            "Microphone",
+            "Metronome"
         ],
-        "answer_index": 2,
-        "category": "Objects Characterized by Their Primary Geometric Shape",
-        "explanation": "Wheel, Ball, Coin, and Marble are all typically round or spherical in shape. A Dice, however, is cubic.",
+        "answer_index": 4,
+        "category": "Core Components of an Audio Recording/Mixing Signal Chain",
+        "explanation": "Microphone, Audio Interface, DAW (Digital Audio Workstation), and Studio Monitors are all essential components that process or playback the actual audio signal in a typical music production setup. A Metronome is a timing device used to aid performance or composition, but it does not directly handle the audio signal itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Artemis",
-            "Calliope",
-            "Thalia",
-            "Clio",
-            "Terpsichore"
+            "Tabla",
+            "Veena",
+            "Sitar",
+            "Didgeridoo",
+            "Harmonium"
+        ],
+        "answer_index": 3,
+        "category": "Traditional Indian Musical Instruments",
+        "explanation": "Sitar, Tabla, Veena, and Harmonium are all instruments deeply integrated into the traditional music of India. The Didgeridoo is a traditional wind instrument originating from Indigenous Australian cultures.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Paint",
+            "Chisel",
+            "Plane",
+            "Drill",
+            "Saw"
         ],
         "answer_index": 0,
-        "category": "Greek Muses",
-        "explanation": "Clio, Terpsichore, Calliope, and Thalia are all Greek Muses, deities who inspire various arts and sciences. Artemis is an Olympian goddess of the hunt, wilderness, and wild animals, not a Muse.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Radiance",
-            "Luminescence",
-            "Resonance",
-            "Illumination",
-            "Glimmer"
-        ],
-        "answer_index": 2,
-        "category": "Words Related to Light",
-        "explanation": "Illumination, Radiance, Glimmer, and Luminescence are all terms directly associated with light or its properties. Resonance describes the quality of a sound being deep, full, and reverberating, or a vibration, not light.",
+        "category": "Tools That Are Also Verbs",
+        "explanation": "Drill, Saw, Plane, and Chisel can all function as both a noun (referring to a specific type of tool) and a verb (describing an action performed with that tool). Paint is a verb and a noun, but the noun refers to a substance, not a tool itself.",
         "completed": false
     }
 ]
