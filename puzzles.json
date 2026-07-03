@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Dice",
-            "Dominoes",
-            "Playing Cards",
-            "Chess Knight",
-            "Roulette Wheel"
-        ],
-        "answer_index": 3,
-        "category": "Gaming Elements Displaying Inherent Numerical Value",
-        "explanation": "Dice, Playing Cards, Dominoes, and a Roulette Wheel all inherently display or are primarily known for having numerical values as a core part of their function in games. A Chess Knight, while a game piece, does not inherently display a numerical value; its value is strategic, not numerical on its face.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Thomas Jefferson",
-            "George Washington",
-            "John Hancock",
-            "John Adams",
-            "Benjamin Franklin"
-        ],
-        "answer_index": 1,
-        "category": "Signers of the Declaration of Independence",
-        "explanation": "John Hancock, Benjamin Franklin, Thomas Jefferson, and John Adams all signed the Declaration of Independence. George Washington, while a prominent Founding Father, was commanding the Continental Army and did not sign the Declaration.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Soft",
-            "Sweet",
-            "Salty",
-            "Bitter",
-            "Sour"
+            "Touchscreen",
+            "Inkwell",
+            "Quill",
+            "Sealing Wax",
+            "Blotting Paper"
         ],
         "answer_index": 0,
-        "category": "Primary Tastes",
-        "explanation": "Sweet, Salty, Bitter, and Sour are all recognized primary tastes detected by the tongue. Soft describes a tactile sensation or texture, not a taste.",
+        "category": "Analog Writing and Sealing Implements",
+        "explanation": "Inkwell, Quill, Blotting Paper, and Sealing Wax are all historical tools used for writing and sealing documents by hand. A Touchscreen is a modern digital input device.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Neil Armstrong",
+            "Laika",
+            "Venera 7",
+            "Sputnik 1",
+            "Yuri Gagarin"
+        ],
+        "answer_index": 2,
+        "category": "Pioneering 'Firsts' of Earth/Lunar Space Exploration",
+        "explanation": "Sputnik 1 (first artificial satellite), Yuri Gagarin (first human in space), Laika (first animal in orbit), and Neil Armstrong (first human on the Moon) are all pioneering 'firsts' associated with early space exploration focused on Earth orbit or lunar missions. Venera 7, while also a significant 'first', was the first spacecraft to soft-land on and transmit data from the surface of *another planet* (Venus), making it an interplanetary rather than Earth/lunar milestone.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Earth",
+            "Jupiter",
+            "Star",
+            "Mars",
+            "Venus"
+        ],
+        "answer_index": 2,
+        "category": "Celestial Bodies that are also Names of Planets",
+        "explanation": "Earth, Mars, Jupiter, and Venus are all names of planets in our solar system. 'Star' is a celestial body, but it is not classified as a planet.",
         "completed": false
     }
 ]
