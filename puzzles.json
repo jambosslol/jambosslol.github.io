@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Touchscreen",
-            "Inkwell",
-            "Quill",
-            "Sealing Wax",
-            "Blotting Paper"
+            "Ball",
+            "Bat",
+            "Racket",
+            "Bases",
+            "Glove"
+        ],
+        "answer_index": 2,
+        "category": "Essential Baseball Equipment",
+        "explanation": "Bat, Ball, Glove, and Bases are all fundamental pieces of equipment used specifically in the game of baseball. A Racket is used in sports like tennis or badminton, not baseball.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
+            "Temple of Artemis",
+            "Great Pyramid of Giza"
+        ],
+        "answer_index": 4,
+        "category": "Status of the Seven Wonders of the Ancient World",
+        "explanation": "Four of these (Lighthouse of Alexandria, Hanging Gardens of Babylon, Colossus of Rhodes, Temple of Artemis) were among the Seven Wonders of the Ancient World that have been destroyed or are no longer largely intact. The Great Pyramid of Giza is the only one of the original Seven Wonders that largely remains standing today.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Intuition",
+            "Smell",
+            "Touch",
+            "Sight",
+            "Taste"
         ],
         "answer_index": 0,
-        "category": "Analog Writing and Sealing Implements",
-        "explanation": "Inkwell, Quill, Blotting Paper, and Sealing Wax are all historical tools used for writing and sealing documents by hand. A Touchscreen is a modern digital input device.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Neil Armstrong",
-            "Laika",
-            "Venera 7",
-            "Sputnik 1",
-            "Yuri Gagarin"
-        ],
-        "answer_index": 2,
-        "category": "Pioneering 'Firsts' of Earth/Lunar Space Exploration",
-        "explanation": "Sputnik 1 (first artificial satellite), Yuri Gagarin (first human in space), Laika (first animal in orbit), and Neil Armstrong (first human on the Moon) are all pioneering 'firsts' associated with early space exploration focused on Earth orbit or lunar missions. Venera 7, while also a significant 'first', was the first spacecraft to soft-land on and transmit data from the surface of *another planet* (Venus), making it an interplanetary rather than Earth/lunar milestone.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Earth",
-            "Jupiter",
-            "Star",
-            "Mars",
-            "Venus"
-        ],
-        "answer_index": 2,
-        "category": "Celestial Bodies that are also Names of Planets",
-        "explanation": "Earth, Mars, Jupiter, and Venus are all names of planets in our solar system. 'Star' is a celestial body, but it is not classified as a planet.",
+        "category": "The Five Traditional Physical Senses",
+        "explanation": "Sight, Smell, Taste, and Touch are four of the five traditional physical senses. Intuition is considered a 'sixth sense' or a feeling, not a direct physical sense.",
         "completed": false
     }
 ]
