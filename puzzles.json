@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ball",
-            "Bat",
-            "Racket",
-            "Bases",
-            "Glove"
-        ],
-        "answer_index": 2,
-        "category": "Essential Baseball Equipment",
-        "explanation": "Bat, Ball, Glove, and Bases are all fundamental pieces of equipment used specifically in the game of baseball. A Racket is used in sports like tennis or badminton, not baseball.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Hanging Gardens of Babylon",
-            "Temple of Artemis",
-            "Great Pyramid of Giza"
+            "Ohm",
+            "Watt",
+            "Ampere",
+            "Volt",
+            "Joule"
         ],
         "answer_index": 4,
-        "category": "Status of the Seven Wonders of the Ancient World",
-        "explanation": "Four of these (Lighthouse of Alexandria, Hanging Gardens of Babylon, Colossus of Rhodes, Temple of Artemis) were among the Seven Wonders of the Ancient World that have been destroyed or are no longer largely intact. The Great Pyramid of Giza is the only one of the original Seven Wonders that largely remains standing today.",
+        "category": "SI Units of Electrical Quantities",
+        "explanation": "Watt, Ohm, Volt, and Ampere are all SI units specifically used to measure electrical quantities (power, resistance, voltage, current respectively). Joule is the SI unit for energy, a broader physical quantity not exclusively electrical.",
         "completed": false
     },
     {
         "tokens": [
-            "Intuition",
-            "Smell",
-            "Touch",
-            "Sight",
-            "Taste"
+            "Plato",
+            "Socrates",
+            "Caesar",
+            "Epicurus",
+            "Aristotle"
         ],
-        "answer_index": 0,
-        "category": "The Five Traditional Physical Senses",
-        "explanation": "Sight, Smell, Taste, and Touch are four of the five traditional physical senses. Intuition is considered a 'sixth sense' or a feeling, not a direct physical sense.",
+        "answer_index": 2,
+        "category": "Ancient Greek Philosophers",
+        "explanation": "Plato, Aristotle, Socrates, and Epicurus were influential ancient Greek philosophers. Caesar, while a significant historical figure, was a Roman general and statesman, not primarily a philosopher.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Scene",
+            "Cell",
+            "Chair",
+            "Cereal",
+            "Sense"
+        ],
+        "answer_index": 2,
+        "category": "Words with Common Homophones",
+        "explanation": "Cereal (serial), Cell (sell), Sense (scents), and Scene (seen) each have a common homophone. Chair does not have a commonly recognized homophone.",
         "completed": false
     }
 ]
