@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ohm",
-            "Watt",
-            "Ampere",
-            "Volt",
-            "Joule"
+            "Television",
+            "Bed",
+            "Coffee Maker",
+            "Mini-fridge",
+            "Swimming Pool"
         ],
         "answer_index": 4,
-        "category": "SI Units of Electrical Quantities",
-        "explanation": "Watt, Ohm, Volt, and Ampere are all SI units specifically used to measure electrical quantities (power, resistance, voltage, current respectively). Joule is the SI unit for energy, a broader physical quantity not exclusively electrical.",
+        "category": "Standard Amenities Found Inside a Hotel Room",
+        "explanation": "Bed, Television, Mini-fridge, and Coffee Maker are all common items typically found within the private confines of a standard hotel room. A Swimming Pool is a hotel amenity, but it is located in a communal area or outside the building, not inside an individual room.",
         "completed": false
     },
     {
         "tokens": [
-            "Plato",
-            "Socrates",
-            "Caesar",
-            "Epicurus",
-            "Aristotle"
+            "Gunpowder",
+            "Papermaking",
+            "Printing Press",
+            "Steam Engine",
+            "Compass"
         ],
-        "answer_index": 2,
-        "category": "Ancient Greek Philosophers",
-        "explanation": "Plato, Aristotle, Socrates, and Epicurus were influential ancient Greek philosophers. Caesar, while a significant historical figure, was a Roman general and statesman, not primarily a philosopher.",
+        "answer_index": 3,
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Compass, Papermaking, and the Printing Press are traditionally recognized as the 'Four Great Inventions of Ancient China'. The Steam Engine, conversely, was a pivotal invention of the European Industrial Revolution.",
         "completed": false
     },
     {
         "tokens": [
-            "Scene",
-            "Cell",
-            "Chair",
-            "Cereal",
-            "Sense"
+            "STOP",
+            "LIVE",
+            "REWARD",
+            "LOOP",
+            "HOUSE"
         ],
-        "answer_index": 2,
-        "category": "Words with Common Homophones",
-        "explanation": "Cereal (serial), Cell (sell), Sense (scents), and Scene (seen) each have a common homophone. Chair does not have a commonly recognized homophone.",
+        "answer_index": 4,
+        "category": "Reversible Words",
+        "explanation": "All tokens except 'HOUSE' spell a different, common English word when read backward. REWARD (DRAWER), LIVE (EVIL), LOOP (POOL), STOP (POTS). HOUSE (ESUOH) does not form a common English word when reversed.",
         "completed": false
     }
 ]
