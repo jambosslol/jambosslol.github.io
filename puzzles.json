@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Television",
-            "Bed",
-            "Coffee Maker",
-            "Mini-fridge",
-            "Swimming Pool"
+            "Pyramid",
+            "Column",
+            "Dome",
+            "Pediment",
+            "Arch"
         ],
-        "answer_index": 4,
-        "category": "Standard Amenities Found Inside a Hotel Room",
-        "explanation": "Bed, Television, Mini-fridge, and Coffee Maker are all common items typically found within the private confines of a standard hotel room. A Swimming Pool is a hotel amenity, but it is located in a communal area or outside the building, not inside an individual room.",
+        "answer_index": 0,
+        "category": "Classical Architectural Elements",
+        "explanation": "Arch, Column, Dome, and Pediment are distinct architectural elements commonly used as components within larger classical and neoclassical building designs. A Pyramid, however, is a complete, distinct type of structure itself, rather than an element typically integrated into other building forms.",
         "completed": false
     },
     {
         "tokens": [
-            "Gunpowder",
+            "Compass",
+            "Aqueduct",
             "Papermaking",
-            "Printing Press",
-            "Steam Engine",
-            "Compass"
+            "Gunpowder",
+            "Printing"
         ],
-        "answer_index": 3,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Compass, Papermaking, and the Printing Press are traditionally recognized as the 'Four Great Inventions of Ancient China'. The Steam Engine, conversely, was a pivotal invention of the European Industrial Revolution.",
+        "answer_index": 1,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Papermaking, Printing, Compass, and Gunpowder are collectively known as the Four Great Inventions of Ancient China. An aqueduct is a Roman engineering marvel, not one of the four great Chinese inventions.",
         "completed": false
     },
     {
         "tokens": [
-            "STOP",
-            "LIVE",
-            "REWARD",
-            "LOOP",
-            "HOUSE"
+            "Hand",
+            "Foot",
+            "Face",
+            "Head",
+            "Leg"
         ],
         "answer_index": 4,
-        "category": "Reversible Words",
-        "explanation": "All tokens except 'HOUSE' spell a different, common English word when read backward. REWARD (DRAWER), LIVE (EVIL), LOOP (POOL), STOP (POTS). HOUSE (ESUOH) does not form a common English word when reversed.",
+        "category": "Body Parts That Are Also Common Verbs",
+        "explanation": "'Hand', 'Foot', 'Face', and 'Head' are all body parts that also function as common verbs (e.g., 'to hand over', 'to foot the bill', 'to face a challenge', 'to head a team'). 'Leg' is a body part but is not commonly used as a direct verb in the same manner as the others.",
         "completed": false
     }
 ]
