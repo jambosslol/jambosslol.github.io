@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Tornado",
-            "Blizzard",
-            "Cyclone",
-            "Hurricane",
-            "Typhoon"
+            "Telescope",
+            "Satellite",
+            "Rover",
+            "Lunar Module",
+            "Planetarium"
         ],
-        "answer_index": 1,
-        "category": "Rotating Atmospheric Storm Systems",
-        "explanation": "Hurricane, Tornado, Cyclone, and Typhoon are all terms for powerful rotating atmospheric storm systems, varying mainly by geographical location or scale. A Blizzard, however, is a severe snowstorm characterized by heavy snow and strong winds, but does not inherently involve a rotating atmospheric structure.",
+        "answer_index": 4,
+        "category": "Tools and Vehicles for Direct Space Engagement",
+        "explanation": "Rover, Lunar Module, Telescope, and Satellite are all instruments or vehicles designed for direct interaction with or observation of space. A Planetarium is a facility for simulating and educating about space, not for direct engagement with it.",
         "completed": false
     },
     {
         "tokens": [
-            "Democracy",
-            "Algebra",
-            "Philosophy",
-            "Geometry",
-            "Theater"
+            "Papermaking",
+            "Steam Engine",
+            "Gunpowder",
+            "Compass",
+            "Printing Press"
         ],
         "answer_index": 1,
-        "category": "Foundational Contributions of Ancient Greece",
-        "explanation": "Democracy, Philosophy, Geometry, and Theater are all widely recognized as foundational intellectual and cultural contributions that originated in Ancient Greece. Algebra, while a crucial branch of mathematics, primarily developed from ancient Babylonian and medieval Islamic traditions, not Ancient Greece.",
+        "category": "Ancient Chinese Innovations",
+        "explanation": "Printing Press, Compass, Gunpowder, and Papermaking are traditionally recognized as the Four Great Inventions of Ancient China. The Steam Engine was a pivotal invention of the Industrial Revolution in the West, much later than the others.",
         "completed": false
     },
     {
         "tokens": [
-            "Murder",
-            "Gaggle",
-            "Pride",
-            "Flock",
-            "School"
+            "Stealthy",
+            "Clandestine",
+            "Covert",
+            "Transparent",
+            "Invisible"
         ],
-        "answer_index": 2,
-        "category": "Collective Nouns for Avian or Aquatic Species",
-        "explanation": "Murder (crows), Gaggle (geese), School (fish), and Flock (birds) are all collective nouns primarily associated with avian or aquatic species. Pride is a collective noun for lions, which are land mammals.",
+        "answer_index": 3,
+        "category": "States of Concealment",
+        "explanation": "Invisible, Covert, Stealthy, and Clandestine all describe something that is hidden, secret, or not easily seen. Transparent describes something that can be seen through, directly opposite to the idea of concealment.",
         "completed": false
     }
 ]
