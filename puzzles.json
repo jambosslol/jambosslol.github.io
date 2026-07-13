@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Chronometer",
-            "Metronome",
-            "Hourglass",
-            "Thermostat",
-            "Sundial"
+            "Ball",
+            "Cards",
+            "Dice",
+            "Pawns",
+            "Board"
         ],
-        "answer_index": 3,
-        "category": "Devices for Measuring or Regulating Time/Rhythm",
-        "explanation": "Hourglass, Sundial, Metronome, and Chronometer are all instruments or devices primarily used for measuring, indicating, or regulating time or rhythm. A Thermostat, however, is used to measure and regulate temperature, making it the odd one out.",
+        "answer_index": 0,
+        "category": "Essential Board Game Elements",
+        "explanation": "Dice, Cards, Pawns, and the Board itself are fundamental components found in a wide variety of traditional board games. A Ball is typically associated with sports or other physical games, not board games.",
         "completed": false
     },
     {
         "tokens": [
-            "Cubit",
-            "Span",
-            "Meter",
-            "Hand",
-            "Foot"
+            "Thor",
+            "Freya",
+            "Loki",
+            "Odin",
+            "Zeus"
+        ],
+        "answer_index": 4,
+        "category": "Principal Deities of Norse Mythology",
+        "explanation": "Odin, Thor, Loki, and Freya are all prominent gods and goddesses in Norse mythology. Zeus is the king of the gods in Greek mythology, making him the odd one out.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "HOME",
+            "PROMISE",
+            "ARM",
+            "HEART",
+            "RECORD"
         ],
         "answer_index": 2,
-        "category": "Units of Measurement from Human Anatomy",
-        "explanation": "Foot, Hand, Span, and Cubit are all historical units of length based on parts of the human body. The Meter, however, was originally defined as one ten-millionth of the distance from the North Pole to the Equator along a meridian, making its origin distinct from the others.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Herd",
-            "Assembly",
-            "Pack",
-            "Flock",
-            "Swarm"
-        ],
-        "answer_index": 1,
-        "category": "Specific Collective Nouns for Animals",
-        "explanation": "Flock (birds), Herd (cattle), Swarm (insects), and Pack (wolves/dogs) are all specific collective nouns used to describe groups of particular animals. 'Assembly' is a general term for a gathering or collection, not a specific collective noun for animals.",
+        "category": "Metaphorically 'Broken' Concepts",
+        "explanation": "RECORD (broken record), HEART (broken heart), PROMISE (broken promise), and HOME (broken home) are all commonly described as 'broken' in an idiomatic or metaphorical sense. An ARM, however, is typically 'broken' in a literal, physical sense.",
         "completed": false
     }
 ]
