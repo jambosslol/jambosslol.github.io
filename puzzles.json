@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Gallon",
-            "Decibel",
-            "Acre",
-            "Pound",
-            "Foot"
+            "Essay",
+            "Newspaper",
+            "Novel",
+            "Play",
+            "Poem"
         ],
         "answer_index": 1,
-        "category": "Imperial and US Customary Units",
-        "explanation": "Foot, Acre, Pound, and Gallon are all units of measurement primarily associated with the Imperial or US Customary systems. Decibel is a logarithmic unit used to express a ratio, most commonly for sound intensity, and is not part of those traditional systems.",
+        "category": "Distinct Literary Forms",
+        "explanation": "Novel, Poem, Essay, and Play are all established forms or genres of literary art, each with specific structural and stylistic conventions. A Newspaper, while a written publication, is a medium primarily for disseminating current information and news, not a literary form in itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Isaac Newton",
-            "Martin Luther",
-            "Galileo Galilei",
-            "Socrates",
-            "Joan of Arc"
+            "Quipu",
+            "Hieroglyphs",
+            "Cuneiform",
+            "Rosetta Stone",
+            "Papyrus"
         ],
         "answer_index": 0,
-        "category": "Historical Figures Who Faced Pressure to Recant Core Beliefs",
-        "explanation": "Galileo, Luther, Joan of Arc, and Socrates are all historically renowned for facing trials or immense pressure to recant their deeply held beliefs, teachings, or divine inspirations, often leading to severe consequences (like imprisonment, excommunication, or execution). Isaac Newton, while a pivotal scientific figure, is not known for facing such a public trial or demand to recant his fundamental work or faith under duress.",
+        "category": "Elements of Ancient Written Communication",
+        "explanation": "Papyrus is a writing material. Cuneiform and Hieroglyphs are ancient writing systems. The Rosetta Stone is an artifact crucial to deciphering hieroglyphs, directly related to ancient written communication. Quipu, however, is a system of knot-based record-keeping used by the Inca, which did not involve written characters or symbols on a surface in the conventional sense.",
         "completed": false
     },
     {
         "tokens": [
-            "Mile",
-            "Gallon",
-            "Acre",
-            "Pound",
-            "Hour"
+            "Hear",
+            "Taste",
+            "See",
+            "Smell",
+            "Touchdown"
         ],
         "answer_index": 4,
-        "category": "Units of Measurement Predominantly from Imperial/US Customary Systems",
-        "explanation": "Mile (length), Pound (mass), Gallon (volume), and Acre (area) are all fundamental units of measurement predominantly associated with the Imperial or US Customary systems. Hour, while a unit of time measurement, is universally used across all measurement systems and does not have the same system-specific association.",
+        "category": "Verbs of Sensory Perception",
+        "explanation": "See, Hear, Smell, and Taste are all verbs representing four of the five traditional human senses. 'Touchdown' is a term used in American football.",
         "completed": false
     }
 ]
