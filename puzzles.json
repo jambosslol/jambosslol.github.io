@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Essay",
-            "Newspaper",
-            "Novel",
-            "Play",
-            "Poem"
+            "Joker",
+            "King",
+            "Ace",
+            "Rook",
+            "Queen"
         ],
-        "answer_index": 1,
-        "category": "Distinct Literary Forms",
-        "explanation": "Novel, Poem, Essay, and Play are all established forms or genres of literary art, each with specific structural and stylistic conventions. A Newspaper, while a written publication, is a medium primarily for disseminating current information and news, not a literary form in itself.",
+        "answer_index": 3,
+        "category": "Components of a Card Deck",
+        "explanation": "Ace, King, Queen, and Joker are all types of cards found in a standard playing card deck. A Rook is a piece used in the game of chess.",
         "completed": false
     },
     {
         "tokens": [
-            "Quipu",
-            "Hieroglyphs",
-            "Cuneiform",
-            "Rosetta Stone",
-            "Papyrus"
+            "Thomas Edison",
+            "Isaac Newton",
+            "Archimedes",
+            "Georg Ohm",
+            "Gregor Mendel"
         ],
         "answer_index": 0,
-        "category": "Elements of Ancient Written Communication",
-        "explanation": "Papyrus is a writing material. Cuneiform and Hieroglyphs are ancient writing systems. The Rosetta Stone is an artifact crucial to deciphering hieroglyphs, directly related to ancient written communication. Quipu, however, is a system of knot-based record-keeping used by the Inca, which did not involve written characters or symbols on a surface in the conventional sense.",
+        "category": "Founders of Scientific Laws",
+        "explanation": "Isaac Newton, Archimedes, Gregor Mendel, and Georg Ohm are all celebrated for discovering or formulating fundamental scientific laws or principles. Thomas Edison, while a brilliant inventor, is primarily known for his practical inventions and applications, not for establishing foundational scientific laws.",
         "completed": false
     },
     {
         "tokens": [
-            "Hear",
-            "Taste",
-            "See",
-            "Smell",
-            "Touchdown"
+            "Banana",
+            "Rotator",
+            "Level",
+            "Racecar",
+            "Madam"
         ],
-        "answer_index": 4,
-        "category": "Verbs of Sensory Perception",
-        "explanation": "See, Hear, Smell, and Taste are all verbs representing four of the five traditional human senses. 'Touchdown' is a term used in American football.",
+        "answer_index": 0,
+        "category": "Palindromes",
+        "explanation": "All words except 'Banana' are palindromes, meaning they read the same forwards and backward.",
         "completed": false
     }
 ]
