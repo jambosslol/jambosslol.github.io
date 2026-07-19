@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Novel",
-            "Act",
-            "Props",
-            "Scene",
-            "Dialogue"
+            "Mandoline",
+            "Peeler",
+            "Knife",
+            "Grater",
+            "Spatula"
         ],
-        "answer_index": 0,
-        "category": "Elements of a Stage Play",
-        "explanation": "Act, Scene, Dialogue, and Props are all fundamental components or terms directly associated with the structure and execution of a stage play. Novel is a distinct literary form and not an element of a play.",
+        "answer_index": 4,
+        "category": "Kitchen tools for cutting and shaping food",
+        "explanation": "Knife, Mandoline, Grater, and Peeler are all kitchen tools designed for various forms of cutting, slicing, shredding, or removing layers from food. A Spatula is primarily used for mixing, flipping, or spreading, not for cutting.",
         "completed": false
     },
     {
         "tokens": [
-            "Hand",
-            "Cubit",
-            "Meter",
-            "Span",
-            "Fathom"
+            "Medusa",
+            "Minotaur",
+            "Pegasus",
+            "Hydra",
+            "Cerberus"
         ],
         "answer_index": 2,
-        "category": "Traditional Body-Part Based Units of Length",
-        "explanation": "Cubit, Span, Fathom, and Hand are all historical or traditional units of length derived from specific human body dimensions (forearm, spread hand, outstretched arms, and hand width, respectively). The Meter is a modern, standardized unit of length defined independently of human anatomy.",
+        "category": "Classical Greek Mythological Challenges",
+        "explanation": "Hydra, Minotaur, Cerberus, and Medusa are all formidable monsters or challenges from Greek mythology, often overcome by heroes like Heracles, Theseus, and Perseus. Pegasus, however, is a noble winged horse, a companion and steed for heroes like Bellerophon, rather than an antagonist or challenge.",
         "completed": false
     },
     {
         "tokens": [
-            "Solid",
-            "Melt",
-            "Liquid",
-            "Gas",
-            "Plasma"
+            "Pair",
+            "Dozen",
+            "Gross",
+            "Bundle",
+            "Score"
         ],
-        "answer_index": 1,
-        "category": "States of Matter vs. Process",
-        "explanation": "Solid, Liquid, Gas, and Plasma are the four fundamental states (or phases) of matter. 'Melt' is a process, specifically the transition from a solid to a liquid, rather than a state of matter itself.",
+        "answer_index": 3,
+        "category": "Precise Numerical Quantities",
+        "explanation": "Dozen (12), Pair (2), Score (20), and Gross (144) all represent specific, established numerical values. 'Bundle' refers to an indefinite or approximate grouping of items.",
         "completed": false
     }
 ]
