@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Mandoline",
-            "Peeler",
-            "Knife",
-            "Grater",
-            "Spatula"
+            "Play",
+            "Magazine",
+            "Novel",
+            "Poem",
+            "Essay"
         ],
-        "answer_index": 4,
-        "category": "Kitchen tools for cutting and shaping food",
-        "explanation": "Knife, Mandoline, Grater, and Peeler are all kitchen tools designed for various forms of cutting, slicing, shredding, or removing layers from food. A Spatula is primarily used for mixing, flipping, or spreading, not for cutting.",
+        "answer_index": 1,
+        "category": "Literary Forms",
+        "explanation": "Novel, Poem, Essay, and Play are distinct literary forms or genres of creative writing. A Magazine is a periodical publication format that can contain various types of content, rather than a literary form itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Medusa",
-            "Minotaur",
-            "Pegasus",
-            "Hydra",
-            "Cerberus"
+            "Printing Press",
+            "Wheel",
+            "Gunpowder",
+            "Papermaking",
+            "Compass"
         ],
-        "answer_index": 2,
-        "category": "Classical Greek Mythological Challenges",
-        "explanation": "Hydra, Minotaur, Cerberus, and Medusa are all formidable monsters or challenges from Greek mythology, often overcome by heroes like Heracles, Theseus, and Perseus. Pegasus, however, is a noble winged horse, a companion and steed for heroes like Bellerophon, rather than an antagonist or challenge.",
+        "answer_index": 1,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "The Printing Press, Compass, Gunpowder, and Papermaking are traditionally known as the Four Great Inventions of Ancient China. The Wheel, while an ancient and significant invention, is not one of these four.",
         "completed": false
     },
     {
         "tokens": [
-            "Pair",
             "Dozen",
+            "Handful",
+            "Couple",
             "Gross",
-            "Bundle",
             "Score"
         ],
-        "answer_index": 3,
-        "category": "Precise Numerical Quantities",
-        "explanation": "Dozen (12), Pair (2), Score (20), and Gross (144) all represent specific, established numerical values. 'Bundle' refers to an indefinite or approximate grouping of items.",
+        "answer_index": 1,
+        "category": "Specific Numerical Quantities",
+        "explanation": "A 'couple' denotes two, a 'dozen' denotes twelve, a 'score' denotes twenty, and a 'gross' denotes one hundred and forty-four. A 'handful' is an imprecise amount, not a specific numerical quantity.",
         "completed": false
     }
 ]
