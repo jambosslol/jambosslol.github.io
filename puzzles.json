@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Play",
-            "Magazine",
-            "Novel",
-            "Poem",
-            "Essay"
+            "Rolling Pin",
+            "Measuring Cup",
+            "Whisk",
+            "Oven",
+            "Spatula"
         ],
-        "answer_index": 1,
-        "category": "Literary Forms",
-        "explanation": "Novel, Poem, Essay, and Play are distinct literary forms or genres of creative writing. A Magazine is a periodical publication format that can contain various types of content, rather than a literary form itself.",
+        "answer_index": 3,
+        "category": "Common Handheld Baking Utensils",
+        "explanation": "Spatula, Whisk, Measuring Cup, and Rolling Pin are all handheld utensils commonly used in baking. An Oven is a large appliance used for baking, not a handheld tool.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing Press",
-            "Wheel",
-            "Gunpowder",
-            "Papermaking",
-            "Compass"
+            "Chimera",
+            "Minotaur",
+            "Lernaean Hydra",
+            "Griffin",
+            "Cerberus"
         ],
         "answer_index": 1,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "The Printing Press, Compass, Gunpowder, and Papermaking are traditionally known as the Four Great Inventions of Ancient China. The Wheel, while an ancient and significant invention, is not one of these four.",
+        "category": "Multi-Form Mythological Creatures",
+        "explanation": "Cerberus, Lernaean Hydra, Chimera, and Griffin are all mythical creatures depicted as composites of multiple distinct animal forms or possessing multiple animal heads. The Minotaur, while a hybrid, has a singular bull's head on a human body, and does not fit the pattern of multiple animal forms or multiple animal heads.",
         "completed": false
     },
     {
         "tokens": [
-            "Dozen",
-            "Handful",
-            "Couple",
-            "Gross",
-            "Score"
+            "Martian",
+            "Meridian",
+            "Jovial",
+            "Saturnine",
+            "Venusian"
         ],
         "answer_index": 1,
-        "category": "Specific Numerical Quantities",
-        "explanation": "A 'couple' denotes two, a 'dozen' denotes twelve, a 'score' denotes twenty, and a 'gross' denotes one hundred and forty-four. A 'handful' is an imprecise amount, not a specific numerical quantity.",
+        "category": "Adjectives Derived from Solar System Planets (or their Roman Deity Counterparts)",
+        "explanation": "\"Jovial\" (Jupiter), \"Martian\" (Mars), \"Saturnine\" (Saturn), and \"Venusian\" (Venus) are adjectives directly derived from the names of planets in our solar system (or their Roman deity equivalents). \"Meridian\" refers to a great circle of longitude and is not derived from a planet's name.",
         "completed": false
     }
 ]
