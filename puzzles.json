@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Rolling Pin",
-            "Measuring Cup",
-            "Whisk",
-            "Oven",
-            "Spatula"
+            "Kilogram",
+            "Second",
+            "Ampere",
+            "Meter",
+            "Liter"
+        ],
+        "answer_index": 4,
+        "category": "SI Base Units",
+        "explanation": "Meter, Kilogram, Second, and Ampere are four of the seven fundamental SI base units of measurement. Liter is a derived unit of volume.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Enlightenment",
+            "Meiji Restoration",
+            "Industrial Revolution",
+            "Reformation",
+            "Renaissance"
+        ],
+        "answer_index": 1,
+        "category": "Major European Historical Eras",
+        "explanation": "All tokens except 'Meiji Restoration' represent significant historical eras or movements that primarily originated and greatly influenced Europe. The Meiji Restoration was a period of political and social change specifically in Japan.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Rotator",
+            "Madam",
+            "Level",
+            "Mirror",
+            "Racecar"
         ],
         "answer_index": 3,
-        "category": "Common Handheld Baking Utensils",
-        "explanation": "Spatula, Whisk, Measuring Cup, and Rolling Pin are all handheld utensils commonly used in baking. An Oven is a large appliance used for baking, not a handheld tool.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Chimera",
-            "Minotaur",
-            "Lernaean Hydra",
-            "Griffin",
-            "Cerberus"
-        ],
-        "answer_index": 1,
-        "category": "Multi-Form Mythological Creatures",
-        "explanation": "Cerberus, Lernaean Hydra, Chimera, and Griffin are all mythical creatures depicted as composites of multiple distinct animal forms or possessing multiple animal heads. The Minotaur, while a hybrid, has a singular bull's head on a human body, and does not fit the pattern of multiple animal forms or multiple animal heads.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Martian",
-            "Meridian",
-            "Jovial",
-            "Saturnine",
-            "Venusian"
-        ],
-        "answer_index": 1,
-        "category": "Adjectives Derived from Solar System Planets (or their Roman Deity Counterparts)",
-        "explanation": "\"Jovial\" (Jupiter), \"Martian\" (Mars), \"Saturnine\" (Saturn), and \"Venusian\" (Venus) are adjectives directly derived from the names of planets in our solar system (or their Roman deity equivalents). \"Meridian\" refers to a great circle of longitude and is not derived from a planet's name.",
+        "category": "Palindromes",
+        "explanation": "Level, Madam, Racecar, and Rotator are all palindromes, meaning they read the same forwards and backwards. Mirror is not a palindrome.",
         "completed": false
     }
 ]
