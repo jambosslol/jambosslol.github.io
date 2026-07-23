@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Kilogram",
-            "Second",
-            "Ampere",
-            "Meter",
-            "Liter"
+            "Freeze",
+            "Boil",
+            "Chop",
+            "Bake",
+            "Melt"
         ],
-        "answer_index": 4,
-        "category": "SI Base Units",
-        "explanation": "Meter, Kilogram, Second, and Ampere are four of the seven fundamental SI base units of measurement. Liter is a derived unit of volume.",
+        "answer_index": 2,
+        "category": "Food Preparation Processes",
+        "explanation": "Bake, Melt, Freeze, and Boil are all methods of food transformation primarily involving a change in temperature (heating or cooling) that alters the food's state or composition. Chop is a mechanical method of preparation that involves cutting, not primarily temperature alteration.",
         "completed": false
     },
     {
         "tokens": [
-            "Enlightenment",
-            "Meiji Restoration",
-            "Industrial Revolution",
-            "Reformation",
-            "Renaissance"
+            "Gulliver",
+            "Golem",
+            "Galatea",
+            "Pinocchio",
+            "Frankenstein"
         ],
-        "answer_index": 1,
-        "category": "Major European Historical Eras",
-        "explanation": "All tokens except 'Meiji Restoration' represent significant historical eras or movements that primarily originated and greatly influenced Europe. The Meiji Restoration was a period of political and social change specifically in Japan.",
+        "answer_index": 0,
+        "category": "Fictional or Mythological Creations Granted Life",
+        "explanation": "Frankenstein (referring to the monster), Galatea, Pinocchio, and Golem are all figures from fiction or mythology that were created from inanimate matter and subsequently granted life. Gulliver is a human explorer.",
         "completed": false
     },
     {
         "tokens": [
-            "Rotator",
-            "Madam",
-            "Level",
-            "Mirror",
-            "Racecar"
+            "Seven",
+            "Five",
+            "Nine",
+            "Three",
+            "Two"
         ],
-        "answer_index": 3,
-        "category": "Palindromes",
-        "explanation": "Level, Madam, Racecar, and Rotator are all palindromes, meaning they read the same forwards and backwards. Mirror is not a palindrome.",
+        "answer_index": 2,
+        "category": "Prime Numbers",
+        "explanation": "Two, Three, Five, and Seven are prime numbers, meaning they are only divisible by 1 and themselves. Nine is a composite number, as it is divisible by 1, 3, and 9.",
         "completed": false
     }
 ]
