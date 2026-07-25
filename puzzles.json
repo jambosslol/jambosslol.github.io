@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Window",
-            "Door",
-            "Lock",
-            "Key",
-            "Hinge"
+            "Fidget Spinner",
+            "Planet",
+            "Carousel",
+            "Record Player",
+            "Potter's Wheel"
         ],
-        "answer_index": 0,
-        "category": "Components of a Door System",
-        "explanation": "Key, Lock, Hinge, and Door are all essential components that directly form or interact with a functional door system. A Window is a separate architectural opening, distinct from the door's core function and components.",
+        "answer_index": 1,
+        "category": "Man-made objects whose primary function or characteristic involves rotation",
+        "explanation": "All tokens except 'Planet' are man-made objects designed for or characterized by their rotational movement as a primary function. 'Planet' is a natural celestial body.",
         "completed": false
     },
     {
         "tokens": [
-            "Frankenstein",
-            "Wuthering Heights",
-            "Dracula",
-            "The Castle of Otranto",
-            "Pride and Prejudice"
-        ],
-        "answer_index": 4,
-        "category": "Pioneering Gothic Novels",
-        "explanation": "Frankenstein, Dracula, Wuthering Heights, and The Castle of Otranto are all seminal works of Gothic literature, known for their dark themes, supernatural elements, and atmospheric settings. Pride and Prejudice is a classic romance novel by Jane Austen and does not fall into the Gothic genre.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Too",
-            "Eight",
-            "Sail",
-            "Won",
-            "For"
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Marco Polo",
+            "James Cook",
+            "Ferdinand Magellan"
         ],
         "answer_index": 2,
-        "category": "Homophones for Single-Digit Numbers",
-        "explanation": "Won (one), Too (two), For (four), and Eight (eight) are all homophones for single-digit numbers. Sail does not have a single-digit number homophone.",
+        "category": "Pioneering Maritime Explorers",
+        "explanation": "Christopher Columbus, Ferdinand Magellan, Vasco da Gama, and James Cook are all famous for their extensive sea voyages that opened new maritime routes across oceans. Marco Polo is primarily known for his groundbreaking land-based expeditions along the Silk Road.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "BEE",
+            "TOO",
+            "FOR",
+            "EIGHT",
+            "SUN"
+        ],
+        "answer_index": 0,
+        "category": "Homophones of Numbers",
+        "explanation": "SUN (one), TOO (two), FOR (four), and EIGHT (eight) are all homophones of English numbers. BEE is a homophone of the letter 'B', not a number.",
         "completed": false
     }
 ]
