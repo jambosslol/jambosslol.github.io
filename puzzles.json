@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "USB Drive",
-            "Printer",
-            "Hard Drive",
-            "Solid State Drive",
-            "Cloud Storage"
+            "Folder",
+            "Paperclip",
+            "Email",
+            "Post-it Note",
+            "Stapler"
         ],
-        "answer_index": 1,
-        "category": "Methods of Digital Data Storage",
-        "explanation": "Hard Drive, USB Drive, Solid State Drive, and Cloud Storage are all common methods for storing digital data. A Printer is a peripheral device used to produce physical copies of digital documents, not to store them digitally.",
+        "answer_index": 2,
+        "category": "Physical Office Essentials",
+        "explanation": "Stapler, Paperclip, Folder, and Post-it Note are all tangible items found on a traditional office desk. Email, however, is a digital communication method and not a physical object.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Pyramids of Giza",
-            "Lighthouse of Alexandria",
-            "Great Wall of China",
-            "Hanging Gardens of Babylon"
+            "Hades",
+            "Osiris",
+            "Hel",
+            "Zeus",
+            "Yama"
         ],
         "answer_index": 3,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four items are traditionally listed among the Seven Wonders of the Ancient World. The Great Wall of China is a magnificent ancient structure, but it is not one of the original seven wonders.",
+        "category": "Deities of the Underworld",
+        "explanation": "Hades (Greek), Osiris (Egyptian), Hel (Norse), and Yama (Hindu/Buddhist) are all prominent deities associated with the underworld or the realm of the dead in their respective mythologies. Zeus, however, is the supreme ruler of the Olympian gods and god of the sky and thunder in Greek mythology, not the underworld.",
         "completed": false
     },
     {
         "tokens": [
-            "Time",
-            "Color",
-            "Length",
-            "Mass",
-            "Electric Current"
+            "Find",
+            "Point",
+            "Figure",
+            "Work",
+            "Go"
         ],
-        "answer_index": 1,
-        "category": "SI Base Units",
-        "explanation": "Mass, Length, Time, and Electric Current are four of the seven fundamental SI (International System of Units) base units. Color is a perceptual property, not a base unit of measurement.",
+        "answer_index": 4,
+        "category": "Verbs Forming Phrasal Verbs of Discovery or Resolution",
+        "explanation": "The words 'Figure,' 'Point,' 'Work,' and 'Find' all form phrasal verbs with 'out' ('figure out,' 'point out,' 'work out,' 'find out') that commonly mean to discover, solve, identify, or comprehend something. 'Go out' means to leave or to cease burning/functioning, which is unrelated to discovery or resolution.",
         "completed": false
     }
 ]
