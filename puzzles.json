@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Thermometer",
-            "Scale",
-            "Ruler",
-            "Compass",
-            "Microscope"
-        ],
-        "answer_index": 4,
-        "category": "Primary Measurement Instruments",
-        "explanation": "Ruler measures length, thermometer measures temperature, scale measures weight, and compass measures direction. A microscope's primary function is magnification for observation, not direct measurement.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Lira",
-            "Drachma",
-            "Yen",
-            "Franc",
-            "Peseta"
+            "Watering Can",
+            "Drip Emitter",
+            "Bird Bath",
+            "Sprinkler",
+            "Hose"
         ],
         "answer_index": 2,
-        "category": "Currencies Replaced by the Euro",
-        "explanation": "Franc (France), Lira (Italy), Drachma (Greece), and Peseta (Spain) were all national currencies of European countries that were replaced by the Euro. The Yen is the current currency of Japan and was not replaced by the Euro.",
+        "category": "Tools for Controlled Plant Irrigation",
+        "explanation": "Hose, Sprinkler, Watering Can, and Drip Emitter are all devices specifically designed to deliver water to plants for irrigation. A Bird Bath holds water, but its primary purpose is to provide water for birds to drink and bathe, not for watering plants.",
         "completed": false
     },
     {
         "tokens": [
-            "TOAST",
-            "DRY",
-            "BLEND",
-            "WASH",
-            "WRITE"
+            "Medusa's Head",
+            "Apple of Discord",
+            "Holy Grail",
+            "Golden Fleece",
+            "Trojan Horse"
         ],
-        "answer_index": 4,
-        "category": "Verbs that form appliance names with '-er'",
-        "explanation": "All tokens except 'WRITE' can form the name of a common household appliance or machine by adding the suffix '-er' (Toaster, Blender, Washer, Dryer). 'WRITE' forms 'Writer,' which refers to a person, not an appliance.",
+        "answer_index": 2,
+        "category": "Legendary Artifacts of Greek Mythology",
+        "explanation": "The Golden Fleece, Apple of Discord, Medusa's Head, and Trojan Horse are all iconic legendary artifacts or concepts originating from Greek mythology. The Holy Grail, however, is a legendary artifact associated with Arthurian legend and Christian mythology.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Bat",
+            "Fly",
+            "Goat",
+            "Crane",
+            "Duck"
+        ],
+        "answer_index": 2,
+        "category": "Homonym Animals & Verbs",
+        "explanation": "Bat, Duck, Crane, and Fly are all words that can refer to both an animal and a common, distinct verb (e.g., 'to bat' a ball, 'to duck' down, 'to crane' one's neck, 'to fly' in the air). 'Goat' is primarily an animal and does not have a widely recognized, common verb form of similar standing.",
         "completed": false
     }
 ]
