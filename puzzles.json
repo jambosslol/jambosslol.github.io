@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Watering Can",
-            "Drip Emitter",
-            "Bird Bath",
-            "Sprinkler",
-            "Hose"
+            "Map",
+            "X-ray",
+            "Sheet Music",
+            "Book",
+            "Record Player"
         ],
-        "answer_index": 2,
-        "category": "Tools for Controlled Plant Irrigation",
-        "explanation": "Hose, Sprinkler, Watering Can, and Drip Emitter are all devices specifically designed to deliver water to plants for irrigation. A Bird Bath holds water, but its primary purpose is to provide water for birds to drink and bathe, not for watering plants.",
+        "answer_index": 4,
+        "category": "Items Primarily Interpreted Visually for Information",
+        "explanation": "Book, Map, Sheet Music, and X-ray are all forms of media or images that are primarily 'read' or visually interpreted to gain specific information. A Record Player is a device that *plays* audio information, rather than being a visual medium to be interpreted.",
         "completed": false
     },
     {
         "tokens": [
-            "Medusa's Head",
-            "Apple of Discord",
-            "Holy Grail",
-            "Golden Fleece",
-            "Trojan Horse"
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Statue of Zeus at Olympia",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 2,
-        "category": "Legendary Artifacts of Greek Mythology",
-        "explanation": "The Golden Fleece, Apple of Discord, Medusa's Head, and Trojan Horse are all iconic legendary artifacts or concepts originating from Greek mythology. The Holy Grail, however, is a legendary artifact associated with Arthurian legend and Christian mythology.",
+        "answer_index": 4,
+        "category": "Surviving Ancient Wonders",
+        "explanation": "Four of these were among the Seven Ancient Wonders of the World that no longer exist, having been destroyed over time. The Great Pyramid of Giza is the only one of the original Seven Wonders that largely remains intact today.",
         "completed": false
     },
     {
         "tokens": [
-            "Bat",
-            "Fly",
-            "Goat",
-            "Crane",
-            "Duck"
+            "Sagacious",
+            "Perceptive",
+            "Luminous",
+            "Brilliant",
+            "Astute"
         ],
         "answer_index": 2,
-        "category": "Homonym Animals & Verbs",
-        "explanation": "Bat, Duck, Crane, and Fly are all words that can refer to both an animal and a common, distinct verb (e.g., 'to bat' a ball, 'to duck' down, 'to crane' one's neck, 'to fly' in the air). 'Goat' is primarily an animal and does not have a widely recognized, common verb form of similar standing.",
+        "category": "Adjectives Describing Mental Acuity",
+        "explanation": "Brilliant, Astute, Perceptive, and Sagacious are all adjectives used to describe someone with high intelligence or sharp mental ability. Luminous describes something that emits or reflects light.",
         "completed": false
     }
 ]
