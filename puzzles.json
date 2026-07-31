@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Map",
-            "X-ray",
-            "Sheet Music",
-            "Book",
-            "Record Player"
+            "Speaker",
+            "Guitar",
+            "Amplifier",
+            "Headphones",
+            "Microphone"
         ],
-        "answer_index": 4,
-        "category": "Items Primarily Interpreted Visually for Information",
-        "explanation": "Book, Map, Sheet Music, and X-ray are all forms of media or images that are primarily 'read' or visually interpreted to gain specific information. A Record Player is a device that *plays* audio information, rather than being a visual medium to be interpreted.",
+        "answer_index": 1,
+        "category": "Electronic Audio Hardware",
+        "explanation": "Microphone, Speaker, Amplifier, and Headphones are all electronic devices used for the capture, amplification, or output of sound signals. A Guitar is a musical instrument that produces sound, not an electronic component for sound processing or playback.",
         "completed": false
     },
     {
         "tokens": [
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Statue of Zeus at Olympia",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza"
+            "Bill of Rights",
+            "US Constitution",
+            "Articles of Confederation",
+            "Declaration of Independence",
+            "Magna Carta"
         ],
         "answer_index": 4,
-        "category": "Surviving Ancient Wonders",
-        "explanation": "Four of these were among the Seven Ancient Wonders of the World that no longer exist, having been destroyed over time. The Great Pyramid of Giza is the only one of the original Seven Wonders that largely remains intact today.",
+        "category": "Founding Documents of the United States",
+        "explanation": "The Declaration of Independence, US Constitution, Articles of Confederation, and Bill of Rights are all foundational documents in the history and governance of the United States. The Magna Carta, while historically significant and influential, is an English charter and not a direct founding document of the United States.",
         "completed": false
     },
     {
         "tokens": [
-            "Sagacious",
-            "Perceptive",
-            "Luminous",
-            "Brilliant",
-            "Astute"
+            "Crumble",
+            "Shatter",
+            "Fracture",
+            "Tear",
+            "Splinter"
         ],
-        "answer_index": 2,
-        "category": "Adjectives Describing Mental Acuity",
-        "explanation": "Brilliant, Astute, Perceptive, and Sagacious are all adjectives used to describe someone with high intelligence or sharp mental ability. Luminous describes something that emits or reflects light.",
+        "answer_index": 3,
+        "category": "Verbs Describing the Breaking of Rigid Materials",
+        "explanation": "Shatter, Crumble, Fracture, and Splinter all describe specific ways in which solid or rigid objects break apart. 'Tear' typically refers to the ripping apart of flexible materials like paper or fabric.",
         "completed": false
     }
 ]
