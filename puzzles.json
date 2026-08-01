@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Speaker",
-            "Guitar",
-            "Amplifier",
-            "Headphones",
-            "Microphone"
+            "Apple",
+            "Banana",
+            "Potato",
+            "Onion",
+            "Orange"
         ],
-        "answer_index": 1,
-        "category": "Electronic Audio Hardware",
-        "explanation": "Microphone, Speaker, Amplifier, and Headphones are all electronic devices used for the capture, amplification, or output of sound signals. A Guitar is a musical instrument that produces sound, not an electronic component for sound processing or playback.",
+        "answer_index": 0,
+        "category": "Items typically peeled before use or consumption",
+        "explanation": "Banana, Orange, Potato, and Onion are almost universally peeled before eating or cooking. An Apple, while it can be peeled, is very commonly consumed with its skin on.",
         "completed": false
     },
     {
         "tokens": [
-            "Bill of Rights",
-            "US Constitution",
-            "Articles of Confederation",
-            "Declaration of Independence",
-            "Magna Carta"
+            "Benjamin Franklin",
+            "John Adams",
+            "Thomas Jefferson",
+            "John Hancock",
+            "George Washington"
         ],
         "answer_index": 4,
-        "category": "Founding Documents of the United States",
-        "explanation": "The Declaration of Independence, US Constitution, Articles of Confederation, and Bill of Rights are all foundational documents in the history and governance of the United States. The Magna Carta, while historically significant and influential, is an English charter and not a direct founding document of the United States.",
+        "category": "Signers of the U.S. Declaration of Independence",
+        "explanation": "John Adams, Benjamin Franklin, Thomas Jefferson, and John Hancock were all signatories of the United States Declaration of Independence. George Washington, while a pivotal Founding Father and Commander-in-Chief of the Continental Army, was not present at the Second Continental Congress to sign the Declaration, as he was leading the troops in New York.",
         "completed": false
     },
     {
         "tokens": [
-            "Crumble",
-            "Shatter",
-            "Fracture",
-            "Tear",
-            "Splinter"
+            "Record",
+            "Dawn",
+            "Wave",
+            "Silence",
+            "Plate"
         ],
-        "answer_index": 3,
-        "category": "Verbs Describing the Breaking of Rigid Materials",
-        "explanation": "Shatter, Crumble, Fracture, and Splinter all describe specific ways in which solid or rigid objects break apart. 'Tear' typically refers to the ripping apart of flexible materials like paper or fabric.",
+        "answer_index": 4,
+        "category": "Figurative 'Breaks'",
+        "explanation": "Wave (a wave breaks), Dawn (day breaks), Record (break a record), and Silence (break the silence) are all concepts or phenomena that can be 'broken' in a figurative or idiomatic sense. A Plate, however, is typically 'broken' in a literal, physical sense.",
         "completed": false
     }
 ]
