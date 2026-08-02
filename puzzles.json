@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Apple",
-            "Banana",
-            "Potato",
-            "Onion",
-            "Orange"
+            "Empire State Building",
+            "Burj Khalifa",
+            "Eiffel Tower",
+            "Colosseum",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 0,
-        "category": "Items typically peeled before use or consumption",
-        "explanation": "Banana, Orange, Potato, and Onion are almost universally peeled before eating or cooking. An Apple, while it can be peeled, is very commonly consumed with its skin on.",
+        "answer_index": 3,
+        "category": "Structures that were once the world's tallest man-made structures",
+        "explanation": "The Eiffel Tower, Burj Khalifa, Empire State Building, and Great Pyramid of Giza all held the record for being the tallest man-made structure in the world at some point in history. The Colosseum, while an iconic ancient landmark, was never the tallest in the world.",
         "completed": false
     },
     {
         "tokens": [
-            "Benjamin Franklin",
-            "John Adams",
-            "Thomas Jefferson",
-            "John Hancock",
-            "George Washington"
+            "Gunpowder",
+            "Movable Type",
+            "Compass",
+            "Paper",
+            "Steam Engine"
         ],
         "answer_index": 4,
-        "category": "Signers of the U.S. Declaration of Independence",
-        "explanation": "John Adams, Benjamin Franklin, Thomas Jefferson, and John Hancock were all signatories of the United States Declaration of Independence. George Washington, while a pivotal Founding Father and Commander-in-Chief of the Continental Army, was not present at the Second Continental Congress to sign the Declaration, as he was leading the troops in New York.",
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Compass, Gunpowder, Paper, and Movable Type are traditionally recognized as the Four Great Inventions of Ancient China. The Steam Engine was developed in 18th-century Great Britain.",
         "completed": false
     },
     {
         "tokens": [
-            "Record",
-            "Dawn",
-            "Wave",
-            "Silence",
-            "Plate"
+            "Tear",
+            "Lead",
+            "Bow",
+            "Wind",
+            "Read"
         ],
         "answer_index": 4,
-        "category": "Figurative 'Breaks'",
-        "explanation": "Wave (a wave breaks), Dawn (day breaks), Record (break a record), and Silence (break the silence) are all concepts or phenomena that can be 'broken' in a figurative or idiomatic sense. A Plate, however, is typically 'broken' in a literal, physical sense.",
+        "category": "Homographs with Distinct Meanings and Pronunciations",
+        "explanation": "Four of the words (Bow, Lead, Wind, Tear) are homographs that have at least two completely distinct meanings, each with a different pronunciation. 'Read,' while having different pronunciations for its present and past tense forms, refers to the same fundamental action of deciphering text, making its meaning difference one of tense rather than distinct concept.",
         "completed": false
     }
 ]
