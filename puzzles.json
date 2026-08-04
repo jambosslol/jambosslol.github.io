@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Camera",
-            "Microphone",
-            "Satellite Dish",
-            "Teleprompter",
-            "Headphones"
-        ],
-        "answer_index": 4,
-        "category": "Equipment integral to generating and transmitting a live broadcast",
-        "explanation": "The Microphone captures audio, the Camera captures video, the Teleprompter displays the script, and the Satellite Dish transmits the signal \u2013 all directly contribute to the content seen and heard by the audience in a live broadcast. Headphones are primarily for the individual reporter or crew to monitor audio or receive instructions, not directly for generating or delivering the broadcast content to the viewers.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Lighthouse of Alexandria",
-            "Pyramids of Giza",
-            "Colosseum",
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes"
+            "Shout",
+            "Whisper",
+            "Giggle",
+            "Mumble",
+            "Type"
         ],
         "answer_index": 2,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "Four of the items (Pyramids of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, Colossus of Rhodes) are traditionally listed as part of the original Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, is not on that list.",
+        "category": "Modes of Linguistic Communication",
+        "explanation": "Whisper, Shout, Mumble, and Type are all methods used to convey specific words or linguistic content. Giggle is a non-linguistic sound expressing amusement.",
         "completed": false
     },
     {
         "tokens": [
-            "Barometer",
-            "Odometer",
-            "Chronometer",
-            "Kaleidoscope",
-            "Thermometer"
+            "Great Pyramid of Giza",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Great Wall of China"
         ],
-        "answer_index": 3,
-        "category": "Instruments of Measurement",
-        "explanation": "Thermometer measures temperature, Barometer measures atmospheric pressure, Odometer measures distance, and Chronometer measures time. A Kaleidoscope is an optical instrument that creates patterns, not a device for measuring a specific quantity.",
+        "answer_index": 4,
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all commonly listed among the traditional Seven Wonders of the Ancient World. The Great Wall of China, while a magnificent ancient structure, is not included in that historical list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "THUMB",
+            "PLUMB",
+            "LAMB",
+            "CRUMB",
+            "COMB"
+        ],
+        "answer_index": 4,
+        "category": "Words with a silent final 'B'",
+        "explanation": "In PLUMB, THUMB, LAMB, and CRUMB, the final 'B' is silent. In COMB, the 'B' is pronounced.",
         "completed": false
     }
 ]
