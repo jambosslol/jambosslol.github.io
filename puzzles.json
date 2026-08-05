@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Shout",
-            "Whisper",
-            "Giggle",
-            "Mumble",
-            "Type"
+            "Allegro",
+            "Fortissimo",
+            "Sonnet",
+            "Andante",
+            "Crescendo"
         ],
         "answer_index": 2,
-        "category": "Modes of Linguistic Communication",
-        "explanation": "Whisper, Shout, Mumble, and Type are all methods used to convey specific words or linguistic content. Giggle is a non-linguistic sound expressing amusement.",
+        "category": "Musical Terminology",
+        "explanation": "Crescendo, Andante, Allegro, and Fortissimo are all terms used in musical notation to describe dynamics or tempo. A Sonnet is a type of poem.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Pyramid of Giza",
-            "Colossus of Rhodes",
+            "Colosseum",
+            "Statue of Zeus at Olympia",
             "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Great Wall of China"
+            "Temple of Artemis at Ephesus",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 4,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all commonly listed among the traditional Seven Wonders of the Ancient World. The Great Wall of China, while a magnificent ancient structure, is not included in that historical list.",
+        "answer_index": 0,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Statue of Zeus at Olympia are all traditionally listed among the Seven Wonders of the Ancient World. The Colosseum, while an impressive ancient Roman structure, is not part of this specific historical list.",
         "completed": false
     },
     {
         "tokens": [
-            "THUMB",
-            "PLUMB",
-            "LAMB",
-            "CRUMB",
-            "COMB"
+            "SILENCE",
+            "PROMISE",
+            "BONE",
+            "GLASS",
+            "CLOTH"
         ],
         "answer_index": 4,
-        "category": "Words with a silent final 'B'",
-        "explanation": "In PLUMB, THUMB, LAMB, and CRUMB, the final 'B' is silent. In COMB, the 'B' is pronounced.",
+        "category": "Things That Can Be Broken",
+        "explanation": "Glass can shatter, a bone can fracture, a promise can be dishonored, and silence can be interrupted. All are commonly described as being 'broken.' Cloth, however, is typically torn, ripped, or worn, but not usually 'broken' in common parlance.",
         "completed": false
     }
 ]
