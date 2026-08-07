@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "EST",
-            "GMT",
-            "UTC",
-            "PST",
-            "Latitude"
+            "Actor",
+            "Director",
+            "Microphone",
+            "Set",
+            "Script"
         ],
-        "answer_index": 4,
-        "category": "Global Time Standards",
-        "explanation": "GMT (Greenwich Mean Time), UTC (Coordinated Universal Time), PST (Pacific Standard Time), and EST (Eastern Standard Time) are all widely recognized global time standards or time zone abbreviations. Latitude is a geographical coordinate, unrelated to measuring time zones.",
+        "answer_index": 2,
+        "category": "Essential Elements of a Traditional Stage Play",
+        "explanation": "Actor, Script, Set, and Director are fundamental components required for a traditional stage play to exist and be performed. A Microphone is a tool for amplification, often used in modern theatre, but it is not an inherently essential element for the play's existence or performance in its most traditional form.",
         "completed": false
     },
     {
         "tokens": [
-            "Temple of Artemis",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Machu Picchu",
-            "Colossus of Rhodes"
+            "Printing Press",
+            "The Wheel",
+            "Compass",
+            "Papermaking",
+            "Gunpowder"
+        ],
+        "answer_index": 1,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "The Printing Press, Compass, Gunpowder, and Papermaking are traditionally known as the 'Four Great Inventions of Ancient China'. The Wheel, while a profound invention, originated much earlier in Mesopotamia and is not one of these four specific Chinese inventions.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Unpack",
+            "Uncover",
+            "Unfurl",
+            "Understand",
+            "Untie"
         ],
         "answer_index": 3,
-        "category": "Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis, and Colossus of Rhodes are all among the traditional Seven Wonders of the Ancient World. Machu Picchu is one of the New7Wonders of the World.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "SCREW",
-            "NAIL",
-            "BOLT",
-            "PIN",
-            "HAT"
-        ],
-        "answer_index": 4,
-        "category": "Objects with a 'head' component",
-        "explanation": "Nail, Pin, Bolt, and Screw are all objects that inherently possess a distinct 'head' as a structural or functional component. A Hat is worn on the head, but it does not inherently possess a 'head' component as part of its own structure.",
+        "category": "Words where 'un-' means to reverse an action",
+        "explanation": "The words 'Untie', 'Unpack', 'Uncover', and 'Unfurl' all use the prefix 'un-' to signify the reversal or undoing of an action. 'Understand' does not use 'un-' in this capacity; its meaning is not related to undoing or reversing anything.",
         "completed": false
     }
 ]
