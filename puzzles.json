@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Actor",
-            "Director",
-            "Microphone",
-            "Set",
-            "Script"
+            "Drum",
+            "Maracas",
+            "Piano",
+            "Xylophone",
+            "Cymbals"
         ],
         "answer_index": 2,
-        "category": "Essential Elements of a Traditional Stage Play",
-        "explanation": "Actor, Script, Set, and Director are fundamental components required for a traditional stage play to exist and be performed. A Microphone is a tool for amplification, often used in modern theatre, but it is not an inherently essential element for the play's existence or performance in its most traditional form.",
+        "category": "Percussion Instruments",
+        "explanation": "Drum, Cymbals, Xylophone, and Maracas are all instruments where sound is produced by striking a membrane or solid body, or by shaking. The Piano, while involving striking, is primarily classified as a string instrument.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing Press",
-            "The Wheel",
-            "Compass",
-            "Papermaking",
-            "Gunpowder"
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza",
+            "Great Wall of China"
         ],
-        "answer_index": 1,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "The Printing Press, Compass, Gunpowder, and Papermaking are traditionally known as the 'Four Great Inventions of Ancient China'. The Wheel, while a profound invention, originated much earlier in Mesopotamia and is not one of these four specific Chinese inventions.",
+        "answer_index": 4,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "Four of these are traditionally listed among the Seven Wonders of the Ancient World. The Great Wall of China, while a monumental wonder, is not part of that classical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Unpack",
-            "Uncover",
-            "Unfurl",
-            "Understand",
-            "Untie"
+            "Under",
+            "Over",
+            "Always",
+            "Before",
+            "Through"
         ],
-        "answer_index": 3,
-        "category": "Words where 'un-' means to reverse an action",
-        "explanation": "The words 'Untie', 'Unpack', 'Uncover', and 'Unfurl' all use the prefix 'un-' to signify the reversal or undoing of an action. 'Understand' does not use 'un-' in this capacity; its meaning is not related to undoing or reversing anything.",
+        "answer_index": 2,
+        "category": "Prepositions vs. Adverbs",
+        "explanation": "The words 'Over', 'Under', 'Through', and 'Before' can all function as prepositions, indicating position or time. 'Always' is an adverb, indicating frequency, and cannot be used as a preposition.",
         "completed": false
     }
 ]
