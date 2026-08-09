@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Drum",
-            "Maracas",
-            "Piano",
-            "Xylophone",
-            "Cymbals"
+            "Tomato",
+            "Carrot",
+            "Radish",
+            "Onion",
+            "Potato"
         ],
-        "answer_index": 2,
-        "category": "Percussion Instruments",
-        "explanation": "Drum, Cymbals, Xylophone, and Maracas are all instruments where sound is produced by striking a membrane or solid body, or by shaking. The Piano, while involving striking, is primarily classified as a string instrument.",
+        "answer_index": 0,
+        "category": "Edible Plants Primarily Harvested Underground",
+        "explanation": "Potato, Carrot, Onion, and Radish are all edible plants whose primary consumed part develops and is harvested from underground. Tomato, conversely, is a fruit that grows above ground.",
         "completed": false
     },
     {
         "tokens": [
+            "Great Wall of China",
             "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza",
-            "Great Wall of China"
+            "Colosseum",
+            "Machu Picchu",
+            "Parthenon"
         ],
-        "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "Four of these are traditionally listed among the Seven Wonders of the Ancient World. The Great Wall of China, while a monumental wonder, is not part of that classical list.",
+        "answer_index": 1,
+        "category": "Enduring Ancient Architectural Wonders",
+        "explanation": "Four of these are ancient architectural marvels that, despite their age, remain substantially intact and recognizable today. The Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World, was almost entirely destroyed by earthquakes, with very little of the original structure surviving.",
         "completed": false
     },
     {
         "tokens": [
-            "Under",
-            "Over",
-            "Always",
-            "Before",
-            "Through"
+            "Ampere",
+            "Joule",
+            "Ohm",
+            "Volt",
+            "Watt"
         ],
-        "answer_index": 2,
-        "category": "Prepositions vs. Adverbs",
-        "explanation": "The words 'Over', 'Under', 'Through', and 'Before' can all function as prepositions, indicating position or time. 'Always' is an adverb, indicating frequency, and cannot be used as a preposition.",
+        "answer_index": 1,
+        "category": "Units of Instantaneous Electrical Properties or Rate",
+        "explanation": "Volt, Ampere, Ohm, and Watt are fundamental SI units used to describe instantaneous electrical properties (voltage, current, resistance) or the rate of energy transfer (power) in an electrical circuit. Joule, however, is a unit of total energy, representing work done or energy consumed over a period, rather than an instantaneous measure.",
         "completed": false
     }
 ]
