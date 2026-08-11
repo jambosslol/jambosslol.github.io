@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Hammer",
-            "Letter",
-            "Beer",
-            "Bed",
-            "Nail"
+            "Lighthouse",
+            "Spotlight",
+            "Flashlight",
+            "Candle",
+            "Microphone"
         ],
-        "answer_index": 1,
-        "category": "Objects with a physical 'head'",
-        "explanation": "Bed (headboard), Beer (foam head), Hammer (striking head), and Nail (top part) all refer to a physical component or feature called a 'head'. A 'Letterhead' refers to the pre-printed design at the top of stationery, not a literal physical 'head' on the letter itself.",
+        "answer_index": 4,
+        "category": "Objects That Produce Light",
+        "explanation": "Candle, Flashlight, Lighthouse, and Spotlight are all objects primarily designed to produce or emit light. A Microphone is used for capturing sound.",
         "completed": false
     },
     {
         "tokens": [
-            "Hamlet",
-            "Macbeth",
-            "A Midsummer Night's Dream",
-            "King Lear",
-            "Othello"
+            "Caligula",
+            "Augustus",
+            "Julius Caesar",
+            "Trajan",
+            "Nero"
         ],
         "answer_index": 2,
-        "category": "Shakespearean Plays by Genre",
-        "explanation": "Hamlet, Othello, King Lear, and Macbeth are all considered among William Shakespeare's greatest tragedies. 'A Midsummer Night's Dream' is one of his most famous comedies.",
+        "category": "Roman Emperors",
+        "explanation": "Augustus, Nero, Caligula, and Trajan were all officially Roman Emperors, ruling after the end of the Republic. Julius Caesar was a powerful dictator of the Roman Republic whose assassination led to the rise of the Empire, but he never held the title of Emperor himself.",
         "completed": false
     },
     {
         "tokens": [
-            "Kilometer",
-            "Foot",
-            "Yard",
-            "Acre",
-            "Mile"
+            "Glimmer",
+            "Shadow",
+            "Shimmer",
+            "Sparkle",
+            "Gleam"
         ],
-        "answer_index": 3,
-        "category": "Units of Measurement",
-        "explanation": "Mile, Kilometer, Yard, and Foot are all standard units for measuring linear length or distance. Acre is a unit specifically used for measuring area.",
+        "answer_index": 1,
+        "category": "Descriptions of Light Phenomena",
+        "explanation": "All words except 'Shadow' describe various forms of faint, reflected, or direct light. 'Shadow' describes an area where light is blocked or absent.",
         "completed": false
     }
 ]
