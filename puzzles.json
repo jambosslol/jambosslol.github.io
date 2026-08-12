@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Lighthouse",
-            "Spotlight",
-            "Flashlight",
-            "Candle",
-            "Microphone"
+            "Tripod",
+            "Safelight",
+            "Fixer",
+            "Developer",
+            "Enlarger"
         ],
-        "answer_index": 4,
-        "category": "Objects That Produce Light",
-        "explanation": "Candle, Flashlight, Lighthouse, and Spotlight are all objects primarily designed to produce or emit light. A Microphone is used for capturing sound.",
+        "answer_index": 0,
+        "category": "Traditional Darkroom Essentials",
+        "explanation": "Enlarger, Developer, Fixer, and Safelight are all specific tools or chemicals used in a traditional darkroom for processing photographic prints. A Tripod is used for taking photographs, not for the darkroom developing process itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Caligula",
-            "Augustus",
-            "Julius Caesar",
-            "Trajan",
-            "Nero"
+            "Lighthouse of Alexandria",
+            "Pyramid of Giza",
+            "Great Wall of China",
+            "Colossus of Rhodes",
+            "Hanging Gardens of Babylon"
         ],
         "answer_index": 2,
-        "category": "Roman Emperors",
-        "explanation": "Augustus, Nero, Caligula, and Trajan were all officially Roman Emperors, ruling after the end of the Republic. Julius Caesar was a powerful dictator of the Roman Republic whose assassination led to the rise of the Empire, but he never held the title of Emperor himself.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally counted among the Seven Wonders of the Ancient World. The Great Wall of China, while an impressive ancient structure, is not part of that specific list.",
         "completed": false
     },
     {
         "tokens": [
-            "Glimmer",
-            "Shadow",
-            "Shimmer",
-            "Sparkle",
-            "Gleam"
+            "Theme",
+            "Character",
+            "Setting",
+            "Plot",
+            "Author"
         ],
-        "answer_index": 1,
-        "category": "Descriptions of Light Phenomena",
-        "explanation": "All words except 'Shadow' describe various forms of faint, reflected, or direct light. 'Shadow' describes an area where light is blocked or absent.",
+        "answer_index": 4,
+        "category": "Elements of Narrative",
+        "explanation": "Plot, Character, Setting, and Theme are all fundamental internal components that constitute a story or narrative. The Author, however, is the creator of the narrative, not an element within the story itself.",
         "completed": false
     }
 ]
