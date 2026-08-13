@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Tripod",
-            "Safelight",
-            "Fixer",
-            "Developer",
-            "Enlarger"
+            "Button",
+            "Dough",
+            "Sushi",
+            "Dice",
+            "Carpet"
         ],
         "answer_index": 0,
-        "category": "Traditional Darkroom Essentials",
-        "explanation": "Enlarger, Developer, Fixer, and Safelight are all specific tools or chemicals used in a traditional darkroom for processing photographic prints. A Tripod is used for taking photographs, not for the darkroom developing process itself.",
+        "category": "Items or substances commonly subjected to a 'rolling' action",
+        "explanation": "Dice are rolled in games, dough is rolled with a pin, carpets are rolled for storage or transport, and sushi is rolled during preparation. A button is typically pressed, sewn, or unbuttoned, not rolled.",
         "completed": false
     },
     {
         "tokens": [
-            "Lighthouse of Alexandria",
-            "Pyramid of Giza",
-            "Great Wall of China",
-            "Colossus of Rhodes",
-            "Hanging Gardens of Babylon"
+            "Act of Abjuration",
+            "Magna Carta",
+            "Declaration of Independence",
+            "Indian Independence Act",
+            "Proclamation of the Irish Republic"
         ],
-        "answer_index": 2,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally counted among the Seven Wonders of the Ancient World. The Great Wall of China, while an impressive ancient structure, is not part of that specific list.",
+        "answer_index": 1,
+        "category": "Documents of National Independence",
+        "explanation": "The first four documents are historical declarations or acts that formally established or paved the way for the independence of a nation from a foreign power or monarch. The Magna Carta, while a foundational document for constitutional law and rights, was an internal English agreement limiting the power of the king, not a declaration of independence from an external entity.",
         "completed": false
     },
     {
         "tokens": [
-            "Theme",
-            "Character",
-            "Setting",
-            "Plot",
-            "Author"
+            "WIND",
+            "CHAIR",
+            "LEAD",
+            "BASS",
+            "READ"
         ],
-        "answer_index": 4,
-        "category": "Elements of Narrative",
-        "explanation": "Plot, Character, Setting, and Theme are all fundamental internal components that constitute a story or narrative. The Author, however, is the creator of the narrative, not an element within the story itself.",
+        "answer_index": 1,
+        "category": "Heteronyms",
+        "explanation": "BASS (fish/instrument), READ (present/past), LEAD (metal/to guide), and WIND (air/to coil) are all heteronyms, words spelled the same but pronounced differently with different meanings. CHAIR does not share this property.",
         "completed": false
     }
 ]
