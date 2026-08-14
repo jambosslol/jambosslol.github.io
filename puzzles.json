@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Button",
-            "Dough",
-            "Sushi",
-            "Dice",
-            "Carpet"
+            "Thermometer",
+            "Kaleidoscope",
+            "Barometer",
+            "Anemometer",
+            "Hygrometer"
         ],
-        "answer_index": 0,
-        "category": "Items or substances commonly subjected to a 'rolling' action",
-        "explanation": "Dice are rolled in games, dough is rolled with a pin, carpets are rolled for storage or transport, and sushi is rolled during preparation. A button is typically pressed, sewn, or unbuttoned, not rolled.",
+        "answer_index": 1,
+        "category": "Instruments for Measuring Atmospheric Conditions",
+        "explanation": "Barometer, Thermometer, Anemometer, and Hygrometer are all instruments specifically designed to measure various atmospheric conditions (pressure, temperature, wind speed, and humidity, respectively). A Kaleidoscope is an optical instrument used to create symmetrical patterns, and is not used for environmental measurement.",
         "completed": false
     },
     {
         "tokens": [
-            "Act of Abjuration",
-            "Magna Carta",
-            "Declaration of Independence",
-            "Indian Independence Act",
-            "Proclamation of the Irish Republic"
+            "Sphinx",
+            "Hieroglyphics",
+            "Colosseum",
+            "Mummification",
+            "Pyramids"
         ],
-        "answer_index": 1,
-        "category": "Documents of National Independence",
-        "explanation": "The first four documents are historical declarations or acts that formally established or paved the way for the independence of a nation from a foreign power or monarch. The Magna Carta, while a foundational document for constitutional law and rights, was an internal English agreement limiting the power of the king, not a declaration of independence from an external entity.",
+        "answer_index": 2,
+        "category": "Ancient Egyptian Contributions",
+        "explanation": "All items except the Colosseum are iconic structures, practices, or forms of writing associated with Ancient Egyptian civilization. The Colosseum is a famous amphitheater from Ancient Rome.",
         "completed": false
     },
     {
         "tokens": [
-            "WIND",
-            "CHAIR",
-            "LEAD",
-            "BASS",
-            "READ"
+            "Whirr",
+            "Hum",
+            "Drone",
+            "Scream",
+            "Buzz"
         ],
-        "answer_index": 1,
-        "category": "Heteronyms",
-        "explanation": "BASS (fish/instrument), READ (present/past), LEAD (metal/to guide), and WIND (air/to coil) are all heteronyms, words spelled the same but pronounced differently with different meanings. CHAIR does not share this property.",
+        "answer_index": 3,
+        "category": "Continuous Vibrational Sounds",
+        "explanation": "Hum, Buzz, Whirr, and Drone all describe continuous, often low-frequency, vibrational sounds (whether mechanical or vocal). Scream, however, is a sudden, high-pitched vocal sound, typically an expression of strong emotion, and is not characterized by a continuous, low vibration.",
         "completed": false
     }
 ]
