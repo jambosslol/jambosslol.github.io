@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Thermometer",
-            "Kaleidoscope",
-            "Barometer",
-            "Anemometer",
-            "Hygrometer"
+            "Water",
+            "Butter",
+            "Milk",
+            "Vanilla Extract",
+            "Vegetable Oil"
         ],
         "answer_index": 1,
-        "category": "Instruments for Measuring Atmospheric Conditions",
-        "explanation": "Barometer, Thermometer, Anemometer, and Hygrometer are all instruments specifically designed to measure various atmospheric conditions (pressure, temperature, wind speed, and humidity, respectively). A Kaleidoscope is an optical instrument used to create symmetrical patterns, and is not used for environmental measurement.",
+        "category": "Common Liquid Ingredients",
+        "explanation": "All items except Butter are typically liquid at room temperature and are common ingredients in cooking or baking. Butter is solid at room temperature.",
         "completed": false
     },
     {
         "tokens": [
-            "Sphinx",
-            "Hieroglyphics",
             "Colosseum",
-            "Mummification",
-            "Pyramids"
+            "Pantheon",
+            "Parthenon",
+            "Acropolis",
+            "Pyramids of Giza"
         ],
-        "answer_index": 2,
-        "category": "Ancient Egyptian Contributions",
-        "explanation": "All items except the Colosseum are iconic structures, practices, or forms of writing associated with Ancient Egyptian civilization. The Colosseum is a famous amphitheater from Ancient Rome.",
+        "answer_index": 4,
+        "category": "Architectural Wonders of Greco-Roman Antiquity",
+        "explanation": "The Colosseum, Pantheon, Parthenon, and Acropolis are all iconic architectural sites from ancient Greek and Roman civilizations. The Pyramids of Giza are iconic structures from ancient Egyptian civilization.",
         "completed": false
     },
     {
         "tokens": [
-            "Whirr",
-            "Hum",
-            "Drone",
-            "Scream",
-            "Buzz"
+            "Heart",
+            "Glass",
+            "Promise",
+            "Ice",
+            "Record"
         ],
-        "answer_index": 3,
-        "category": "Continuous Vibrational Sounds",
-        "explanation": "Hum, Buzz, Whirr, and Drone all describe continuous, often low-frequency, vibrational sounds (whether mechanical or vocal). Scream, however, is a sudden, high-pitched vocal sound, typically an expression of strong emotion, and is not characterized by a continuous, low vibration.",
+        "answer_index": 1,
+        "category": "Figurative Idioms with 'Break'",
+        "explanation": "All tokens except 'Glass' are commonly used in figurative idioms with the word 'break' (e.g., 'break a heart', 'break a record', 'break the ice', 'break a promise'). While glass can be literally broken, it does not commonly form a figurative idiom with 'break' in the same sense as the others.",
         "completed": false
     }
 ]
