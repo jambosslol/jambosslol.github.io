@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Water",
-            "Butter",
-            "Milk",
-            "Vanilla Extract",
-            "Vegetable Oil"
+            "Match",
+            "Candle",
+            "Ember",
+            "Radiator",
+            "Inferno"
         ],
-        "answer_index": 1,
-        "category": "Common Liquid Ingredients",
-        "explanation": "All items except Butter are typically liquid at room temperature and are common ingredients in cooking or baking. Butter is solid at room temperature.",
+        "answer_index": 3,
+        "category": "Objects or States Related to Fire and Combustion",
+        "explanation": "Candle, Match, Inferno, and Ember are all directly associated with fire or the process of combustion. A Radiator is a device that emits heat, but it does not produce fire or involve combustion itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Colosseum",
-            "Pantheon",
             "Parthenon",
-            "Acropolis",
-            "Pyramids of Giza"
+            "Pyramids of Giza",
+            "Great Wall of China",
+            "Colosseum",
+            "Eiffel Tower"
         ],
         "answer_index": 4,
-        "category": "Architectural Wonders of Greco-Roman Antiquity",
-        "explanation": "The Colosseum, Pantheon, Parthenon, and Acropolis are all iconic architectural sites from ancient Greek and Roman civilizations. The Pyramids of Giza are iconic structures from ancient Egyptian civilization.",
+        "category": "Iconic Structures of Ancient Civilizations",
+        "explanation": "The Pyramids of Giza, Colosseum, Great Wall of China, and Parthenon are all iconic architectural achievements from ancient civilizations. The Eiffel Tower is a modern structure built in the late 19th century.",
         "completed": false
     },
     {
         "tokens": [
-            "Heart",
-            "Glass",
-            "Promise",
-            "Ice",
-            "Record"
+            "Stone",
+            "Google",
+            "Apple",
+            "Amazon",
+            "Oracle"
         ],
-        "answer_index": 1,
-        "category": "Figurative Idioms with 'Break'",
-        "explanation": "All tokens except 'Glass' are commonly used in figurative idioms with the word 'break' (e.g., 'break a heart', 'break a record', 'break the ice', 'break a promise'). While glass can be literally broken, it does not commonly form a figurative idiom with 'break' in the same sense as the others.",
+        "answer_index": 0,
+        "category": "Globally Recognized Technology Company Names",
+        "explanation": "Apple, Amazon, Oracle, and Google are all names of globally recognized technology companies. 'Stone' is a common noun and does not represent a major tech company.",
         "completed": false
     }
 ]
