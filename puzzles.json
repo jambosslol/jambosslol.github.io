@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Sharp",
-            "Quarter Note",
-            "Whole Note",
-            "Half Note",
-            "Eighth Note"
+            "Television",
+            "Washing Machine",
+            "Oven",
+            "Refrigerator",
+            "Smartphone"
         ],
-        "answer_index": 0,
-        "category": "Musical Notation Elements",
-        "explanation": "Whole Note, Half Note, Quarter Note, and Eighth Note are all types of musical notes that represent specific durations of sound. Sharp is an accidental that modifies the pitch of a note.",
+        "answer_index": 4,
+        "category": "Fixed Home Appliances/Electronics Requiring Mains Power",
+        "explanation": "Refrigerator, Oven, Washing Machine, and Television are all typically large, fixed home appliances or entertainment systems that require a continuous connection to mains electricity for operation. A Smartphone is primarily a portable, battery-powered device, even though it recharges from an outlet.",
         "completed": false
     },
     {
         "tokens": [
-            "Mars",
-            "Minerva",
-            "Zeus",
-            "Jupiter",
-            "Venus"
+            "Mozart",
+            "Bach",
+            "Handel",
+            "Vivaldi",
+            "Monteverdi"
         ],
-        "answer_index": 2,
-        "category": "Major Roman Deities",
-        "explanation": "Jupiter, Mars, Venus, and Minerva are prominent gods and goddesses in Roman mythology. Zeus is the king of the gods in Greek mythology.",
+        "answer_index": 0,
+        "category": "Baroque Composers",
+        "explanation": "Johann Sebastian Bach, George Frideric Handel, Antonio Vivaldi, and Claudio Monteverdi were all highly influential composers of the Baroque period. Wolfgang Amadeus Mozart, while also a monumental figure in music history, was a leading composer of the Classical period, which succeeded the Baroque era.",
         "completed": false
     },
     {
         "tokens": [
-            "PLanet",
-            "CAmera",
-            "FEather",
-            "TItle",
-            "COlor"
+            "Hiss",
+            "Chirp",
+            "Roar",
+            "Gallop",
+            "Buzz"
         ],
-        "answer_index": 0,
-        "category": "Words Starting with Chemical Element Symbols",
-        "explanation": "The first two letters of 'CAmera', 'TItle', 'COlor', and 'FEather' are the chemical symbols for Calcium (Ca), Titanium (Ti), Cobalt (Co), and Iron (Fe), respectively. 'PLanet' does not begin with a recognized two-letter chemical element symbol (Platinum is Pt, not Pl).",
+        "answer_index": 3,
+        "category": "Animal Sounds",
+        "explanation": "All tokens except 'Gallop' are common sounds made by animals. 'Gallop' describes a type of movement or gait for an animal, not a sound.",
         "completed": false
     }
 ]
