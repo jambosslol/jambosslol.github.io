@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Television",
-            "Washing Machine",
-            "Oven",
-            "Refrigerator",
-            "Smartphone"
-        ],
-        "answer_index": 4,
-        "category": "Fixed Home Appliances/Electronics Requiring Mains Power",
-        "explanation": "Refrigerator, Oven, Washing Machine, and Television are all typically large, fixed home appliances or entertainment systems that require a continuous connection to mains electricity for operation. A Smartphone is primarily a portable, battery-powered device, even though it recharges from an outlet.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Mozart",
-            "Bach",
-            "Handel",
-            "Vivaldi",
-            "Monteverdi"
-        ],
-        "answer_index": 0,
-        "category": "Baroque Composers",
-        "explanation": "Johann Sebastian Bach, George Frideric Handel, Antonio Vivaldi, and Claudio Monteverdi were all highly influential composers of the Baroque period. Wolfgang Amadeus Mozart, while also a monumental figure in music history, was a leading composer of the Classical period, which succeeded the Baroque era.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hiss",
-            "Chirp",
-            "Roar",
-            "Gallop",
-            "Buzz"
+            "Hoe",
+            "Shears",
+            "Trowel",
+            "Wheelbarrow",
+            "Rake"
         ],
         "answer_index": 3,
-        "category": "Animal Sounds",
-        "explanation": "All tokens except 'Gallop' are common sounds made by animals. 'Gallop' describes a type of movement or gait for an animal, not a sound.",
+        "category": "Handheld Gardening Implements",
+        "explanation": "Trowel, shears, rake, and hoe are all specific handheld tools used for direct gardening tasks like digging, pruning, or cultivating. A wheelbarrow is a transport device used for moving materials, not a direct implement for a specific gardening action.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Jean-Jacques Rousseau",
+            "Niccol\u00f2 Machiavelli",
+            "Voltaire",
+            "Adam Smith",
+            "John Locke"
+        ],
+        "answer_index": 1,
+        "category": "Enlightenment Era Thinkers",
+        "explanation": "John Locke, Voltaire, Jean-Jacques Rousseau, and Adam Smith were all influential figures and primary contributors to the Enlightenment era's philosophical and economic thought. Niccol\u00f2 Machiavelli, while a profound political philosopher, lived during the Renaissance period, well before the Enlightenment.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "MILLION",
+            "KINDLE",
+            "CENTURY",
+            "LEMON",
+            "VOLUME"
+        ],
+        "answer_index": 1,
+        "category": "Words Starting with Roman Numerals",
+        "explanation": "All words except 'KINDLE' begin with a letter that is also a Roman numeral (C=100, V=5, M=1000, L=50). The letter 'K' is not a Roman numeral.",
         "completed": false
     }
 ]
