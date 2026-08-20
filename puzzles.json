@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Hoe",
-            "Shears",
-            "Trowel",
-            "Wheelbarrow",
-            "Rake"
+            "Aurora",
+            "Lightning",
+            "Mirage",
+            "Rainbow",
+            "Halo"
         ],
-        "answer_index": 3,
-        "category": "Handheld Gardening Implements",
-        "explanation": "Trowel, shears, rake, and hoe are all specific handheld tools used for direct gardening tasks like digging, pruning, or cultivating. A wheelbarrow is a transport device used for moving materials, not a direct implement for a specific gardening action.",
+        "answer_index": 1,
+        "category": "Atmospheric Optical Phenomena",
+        "explanation": "Aurora, Rainbow, Halo, and Mirage are all naturally occurring optical phenomena in the atmosphere, involving the interaction of light with air, water, or ice particles. Lightning is an electrical discharge and not primarily an optical phenomenon, though it produces light.",
         "completed": false
     },
     {
         "tokens": [
-            "Jean-Jacques Rousseau",
-            "Niccol\u00f2 Machiavelli",
-            "Voltaire",
-            "Adam Smith",
-            "John Locke"
+            "Cerberus",
+            "Chimera",
+            "Lernaean Hydra",
+            "Orthrus",
+            "Minotaur"
         ],
-        "answer_index": 1,
-        "category": "Enlightenment Era Thinkers",
-        "explanation": "John Locke, Voltaire, Jean-Jacques Rousseau, and Adam Smith were all influential figures and primary contributors to the Enlightenment era's philosophical and economic thought. Niccol\u00f2 Machiavelli, while a profound political philosopher, lived during the Renaissance period, well before the Enlightenment.",
+        "answer_index": 4,
+        "category": "Mythological Multi-Headed Creatures",
+        "explanation": "Cerberus, the Lernaean Hydra, Chimera, and Orthrus are all creatures from Greek mythology famously depicted with multiple heads. The Minotaur, while a hybrid, possesses only one bull's head.",
         "completed": false
     },
     {
         "tokens": [
-            "MILLION",
-            "KINDLE",
-            "CENTURY",
-            "LEMON",
-            "VOLUME"
+            "Tear",
+            "Chop",
+            "Slice",
+            "Mince",
+            "Dice"
         ],
-        "answer_index": 1,
-        "category": "Words Starting with Roman Numerals",
-        "explanation": "All words except 'KINDLE' begin with a letter that is also a Roman numeral (C=100, V=5, M=1000, L=50). The letter 'K' is not a Roman numeral.",
+        "answer_index": 0,
+        "category": "Methods of Division by Blade",
+        "explanation": "Slice, Dice, Chop, and Mince all describe methods of dividing or preparing items, typically food, using a blade or sharp instrument. 'Tear' describes pulling apart by hand, without the use of a blade.",
         "completed": false
     }
 ]
