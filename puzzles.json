@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Aurora",
-            "Lightning",
-            "Mirage",
-            "Rainbow",
-            "Halo"
-        ],
-        "answer_index": 1,
-        "category": "Atmospheric Optical Phenomena",
-        "explanation": "Aurora, Rainbow, Halo, and Mirage are all naturally occurring optical phenomena in the atmosphere, involving the interaction of light with air, water, or ice particles. Lightning is an electrical discharge and not primarily an optical phenomenon, though it produces light.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Cerberus",
-            "Chimera",
-            "Lernaean Hydra",
-            "Orthrus",
-            "Minotaur"
+            "Clock",
+            "Hourglass",
+            "Calendar",
+            "Sundial",
+            "Thermometer"
         ],
         "answer_index": 4,
-        "category": "Mythological Multi-Headed Creatures",
-        "explanation": "Cerberus, the Lernaean Hydra, Chimera, and Orthrus are all creatures from Greek mythology famously depicted with multiple heads. The Minotaur, while a hybrid, possesses only one bull's head.",
+        "category": "Time-Tracking Instruments",
+        "explanation": "Sundial, Hourglass, Clock, and Calendar are all instruments or systems used to measure or track the passage of time. A Thermometer is used to measure temperature.",
         "completed": false
     },
     {
         "tokens": [
-            "Tear",
-            "Chop",
-            "Slice",
-            "Mince",
-            "Dice"
+            "Compass",
+            "Steam Engine",
+            "Papermaking",
+            "Printing",
+            "Gunpowder"
         ],
-        "answer_index": 0,
-        "category": "Methods of Division by Blade",
-        "explanation": "Slice, Dice, Chop, and Mince all describe methods of dividing or preparing items, typically food, using a blade or sharp instrument. 'Tear' describes pulling apart by hand, without the use of a blade.",
+        "answer_index": 1,
+        "category": "Ancient Chinese Inventions",
+        "explanation": "Compass, Gunpowder, Papermaking, and Printing are widely recognized as the Four Great Inventions of Ancient China. The Steam Engine was a pivotal invention of the Industrial Revolution, originating in the West much later.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Desserts",
+            "Bat",
+            "Live",
+            "Loop",
+            "Table"
+        ],
+        "answer_index": 4,
+        "category": "Words with Common Reversals",
+        "explanation": "Four of the words form another common English word when spelled backwards: Desserts (Stressed), Live (Evil), Bat (Tab), Loop (Pool). 'Table' spelled backwards ('Elbat') does not form a common English word.",
         "completed": false
     }
 ]
