@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Clock",
-            "Hourglass",
-            "Calendar",
-            "Sundial",
-            "Thermometer"
+            "Chemiluminescence",
+            "Anglerfish",
+            "Phosphorescence",
+            "Firefly",
+            "Incandescence"
         ],
         "answer_index": 4,
-        "category": "Time-Tracking Instruments",
-        "explanation": "Sundial, Hourglass, Clock, and Calendar are all instruments or systems used to measure or track the passage of time. A Thermometer is used to measure temperature.",
+        "category": "Non-Thermal Light Sources",
+        "explanation": "Firefly, Anglerfish, Chemiluminescence, and Phosphorescence are all forms of 'cold light,' where light is produced without significant heat. Incandescence, however, refers to light produced by heating a material to a high temperature.",
         "completed": false
     },
     {
         "tokens": [
-            "Compass",
-            "Steam Engine",
-            "Papermaking",
-            "Printing",
-            "Gunpowder"
+            "Prime",
+            "Orbit",
+            "Tropic",
+            "Equator",
+            "Meridian"
         ],
         "answer_index": 1,
-        "category": "Ancient Chinese Inventions",
-        "explanation": "Compass, Gunpowder, Papermaking, and Printing are widely recognized as the Four Great Inventions of Ancient China. The Steam Engine was a pivotal invention of the Industrial Revolution, originating in the West much later.",
+        "category": "Named Geographical Reference Lines on Earth",
+        "explanation": "Equator, Meridian, Tropic (as in Tropic of Cancer or Capricorn), and Prime (as in Prime Meridian) are all named lines of latitude or longitude used to define locations and regions on Earth's surface. An Orbit, however, is the curved path of a celestial object or spacecraft around another body in space, not a fixed geographical line on Earth.",
         "completed": false
     },
     {
         "tokens": [
-            "Desserts",
-            "Bat",
-            "Live",
-            "Loop",
-            "Table"
+            "Elastic",
+            "Knob",
+            "Curtain",
+            "Bowstring",
+            "Drawer"
         ],
-        "answer_index": 4,
-        "category": "Words with Common Reversals",
-        "explanation": "Four of the words form another common English word when spelled backwards: Desserts (Stressed), Live (Evil), Bat (Tab), Loop (Pool). 'Table' spelled backwards ('Elbat') does not form a common English word.",
+        "answer_index": 1,
+        "category": "Objects primarily operated by 'pulling'",
+        "explanation": "Drawer, Elastic, Bowstring, and Curtain are all objects that are primarily interacted with or activated by a 'pulling' action (opened, stretched, drawn, moved). A Knob, conversely, is primarily interacted with by 'turning' or 'pushing'.",
         "completed": false
     }
 ]
