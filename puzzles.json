@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Chemiluminescence",
-            "Anglerfish",
-            "Phosphorescence",
-            "Firefly",
-            "Incandescence"
+            "Nimbus",
+            "Cirrus",
+            "Cumulus",
+            "Stratus",
+            "Typhoon"
         ],
         "answer_index": 4,
-        "category": "Non-Thermal Light Sources",
-        "explanation": "Firefly, Anglerfish, Chemiluminescence, and Phosphorescence are all forms of 'cold light,' where light is produced without significant heat. Incandescence, however, refers to light produced by heating a material to a high temperature.",
+        "category": "Cloud Classification Terminology",
+        "explanation": "Cumulus, Stratus, Cirrus, and Nimbus are all root words or prefixes/suffixes used in the classification and naming of cloud types. A Typhoon is a type of severe tropical storm, not a cloud formation.",
         "completed": false
     },
     {
         "tokens": [
-            "Prime",
-            "Orbit",
-            "Tropic",
-            "Equator",
-            "Meridian"
+            "Caligula",
+            "Domitian",
+            "Nero",
+            "Pius",
+            "Commodus"
         ],
-        "answer_index": 1,
-        "category": "Named Geographical Reference Lines on Earth",
-        "explanation": "Equator, Meridian, Tropic (as in Tropic of Cancer or Capricorn), and Prime (as in Prime Meridian) are all named lines of latitude or longitude used to define locations and regions on Earth's surface. An Orbit, however, is the curved path of a celestial object or spacecraft around another body in space, not a fixed geographical line on Earth.",
+        "answer_index": 3,
+        "category": "Roman Emperors who were assassinated or committed suicide",
+        "explanation": "Nero, Caligula, Commodus, and Domitian were all Roman Emperors who met violent ends (assassination or forced suicide) often due to conspiracies or being declared public enemies. Antoninus Pius, however, died peacefully of natural causes.",
         "completed": false
     },
     {
         "tokens": [
-            "Elastic",
-            "Knob",
-            "Curtain",
-            "Bowstring",
-            "Drawer"
+            "Ocean",
+            "Heat",
+            "Sound",
+            "Light",
+            "Radio"
         ],
         "answer_index": 1,
-        "category": "Objects primarily operated by 'pulling'",
-        "explanation": "Drawer, Elastic, Bowstring, and Curtain are all objects that are primarily interacted with or activated by a 'pulling' action (opened, stretched, drawn, moved). A Knob, conversely, is primarily interacted with by 'turning' or 'pushing'.",
+        "category": "Fundamental Types of Waves",
+        "explanation": "Sound, Light, Radio, and Ocean (referring to ocean waves) are all fundamental types of waves (mechanical, electromagnetic, and water waves, respectively). Heat is a form of energy and a meteorological phenomenon (heatwave), but not a fundamental type of wave itself in the same classification.",
         "completed": false
     }
 ]
