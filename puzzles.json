@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Nimbus",
-            "Cirrus",
-            "Cumulus",
-            "Stratus",
-            "Typhoon"
+            "Spades",
+            "King",
+            "Joker",
+            "Ace",
+            "Clubs"
         ],
-        "answer_index": 4,
-        "category": "Cloud Classification Terminology",
-        "explanation": "Cumulus, Stratus, Cirrus, and Nimbus are all root words or prefixes/suffixes used in the classification and naming of cloud types. A Typhoon is a type of severe tropical storm, not a cloud formation.",
+        "answer_index": 2,
+        "category": "Standard Playing Card Deck Elements",
+        "explanation": "King, Spades, Ace, and Clubs are all fundamental ranks or suits that constitute a standard 52-card playing deck. The Joker is an optional card, often removed for many traditional games, or used as a 'wild card' rather than a fixed rank or suit.",
         "completed": false
     },
     {
         "tokens": [
-            "Caligula",
-            "Domitian",
-            "Nero",
-            "Pius",
-            "Commodus"
-        ],
-        "answer_index": 3,
-        "category": "Roman Emperors who were assassinated or committed suicide",
-        "explanation": "Nero, Caligula, Commodus, and Domitian were all Roman Emperors who met violent ends (assassination or forced suicide) often due to conspiracies or being declared public enemies. Antoninus Pius, however, died peacefully of natural causes.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Ocean",
-            "Heat",
-            "Sound",
-            "Light",
-            "Radio"
+            "Statue of Zeus at Olympia",
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Temple of Artemis at Ephesus"
         ],
         "answer_index": 1,
-        "category": "Fundamental Types of Waves",
-        "explanation": "Sound, Light, Radio, and Ocean (referring to ocean waves) are all fundamental types of waves (mechanical, electromagnetic, and water waves, respectively). Heat is a form of energy and a meteorological phenomenon (heatwave), but not a fundamental type of wave itself in the same classification.",
+        "category": "Ancient Wonders' Fates",
+        "explanation": "All tokens are recognized as one of the Seven Wonders of the Ancient World. However, the Hanging Gardens, Statue of Zeus, Temple of Artemis, and Colossus of Rhodes have all been destroyed and no longer stand. The Great Pyramid of Giza is the only one of the original seven wonders that remains largely intact today.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Spell",
+            "Record",
+            "News",
+            "Ice",
+            "Wind"
+        ],
+        "answer_index": 4,
+        "category": "Idiomatic uses of 'break' for abstract concepts",
+        "explanation": "Four of the tokens (Ice, Record, News, Spell) form idiomatic phrases with the verb 'break' that signify initiating something, achieving a new state, revealing information, or ending an abstract condition. 'Wind' forms the idiom 'break wind', which refers to a physical bodily function, distinguishing it from the others.",
         "completed": false
     }
 ]
