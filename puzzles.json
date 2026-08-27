@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pencil",
-            "Typewriter",
-            "Keyboard",
-            "Microphone",
-            "Pen"
-        ],
-        "answer_index": 3,
-        "category": "Direct Text Creation Tools",
-        "explanation": "Pen, Keyboard, Typewriter, and Pencil are all instruments primarily used to directly produce or input written text. A Microphone captures sound, which may be transcribed into text, but it does not directly create written output itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Colossus of Rhodes",
-            "Library of Alexandria",
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon"
-        ],
-        "answer_index": 1,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. The Library of Alexandria, though historically significant, is not included in this canonical list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "NEPTUNE",
-            "MERCANTILE",
-            "MARVELOUS",
-            "SATURNINE",
-            "VENERATE"
+            "Kilometer",
+            "Furlong",
+            "Rod",
+            "Cubit",
+            "League"
         ],
         "answer_index": 0,
-        "category": "Words embedding a planet's name",
-        "explanation": "Each token, except 'Neptune', is a word that contains the name of one of the eight planets in our solar system (excluding Earth for ambiguity). 'Neptune' is the name of a planet itself, rather than a word containing one.",
+        "category": "Historical or Non-Metric Units of Length",
+        "explanation": "Rod, Furlong, League, and Cubit are all non-metric units of length, many with historical origins or specific uses outside of the modern SI system. Kilometer is a standard unit in the metric (SI) system.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Great Pyramid of Giza",
+            "Statue of Zeus at Olympia",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Machu Picchu"
+        ],
+        "answer_index": 4,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are universally recognized as four of the original Seven Wonders of the Ancient World. Machu Picchu is a significant historical site and a 'New7Wonder of the World,' but it was not part of the traditional ancient list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Wane",
+            "Dwindle",
+            "Fade",
+            "Erode",
+            "Flourish"
+        ],
+        "answer_index": 4,
+        "category": "Verbs of Gradual Diminishment or Disappearance",
+        "explanation": "Wane, dwindle, erode, and fade all describe a process of gradual reduction, decrease, or disappearance. Flourish means to grow or thrive.",
         "completed": false
     }
 ]
