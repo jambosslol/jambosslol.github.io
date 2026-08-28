@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Kilometer",
-            "Furlong",
-            "Rod",
-            "Cubit",
-            "League"
+            "Jack",
+            "King",
+            "Ace",
+            "Queen",
+            "Dice"
         ],
-        "answer_index": 0,
-        "category": "Historical or Non-Metric Units of Length",
-        "explanation": "Rod, Furlong, League, and Cubit are all non-metric units of length, many with historical origins or specific uses outside of the modern SI system. Kilometer is a standard unit in the metric (SI) system.",
+        "answer_index": 4,
+        "category": "Elements of a Standard Playing Card Deck",
+        "explanation": "Ace, King, Queen, and Jack are all specific ranks found within a standard deck of playing cards. Dice are a separate game component used for various games, but not part of a playing card deck.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Pyramid of Giza",
-            "Statue of Zeus at Olympia",
             "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Machu Picchu"
+            "Colosseum",
+            "Statue of Zeus at Olympia",
+            "Great Pyramid of Giza",
+            "Mausoleum at Halicarnassus"
         ],
-        "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four tokens are universally recognized as four of the original Seven Wonders of the Ancient World. Machu Picchu is a significant historical site and a 'New7Wonder of the World,' but it was not part of the traditional ancient list.",
+        "answer_index": 1,
+        "category": "The Seven Ancient Wonders of the World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, and Mausoleum at Halicarnassus are all recognized as four of the traditional Seven Ancient Wonders of the World. The Colosseum, while an iconic ancient Roman structure, is not included on that specific historical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Wane",
-            "Dwindle",
-            "Fade",
-            "Erode",
-            "Flourish"
+            "Glimmer",
+            "Shimmer",
+            "Illuminate",
+            "Obfuscate",
+            "Radiate"
         ],
-        "answer_index": 4,
-        "category": "Verbs of Gradual Diminishment or Disappearance",
-        "explanation": "Wane, dwindle, erode, and fade all describe a process of gradual reduction, decrease, or disappearance. Flourish means to grow or thrive.",
+        "answer_index": 3,
+        "category": "Verbs of Light and Clarity",
+        "explanation": "Illuminate, Glimmer, Radiate, and Shimmer all describe actions related to producing, emitting, or reflecting light, or making something clear and visible. Obfuscate means to make something unclear, obscure, or confusing.",
         "completed": false
     }
 ]
