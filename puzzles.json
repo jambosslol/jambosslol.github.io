@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Noose",
-            "Bowline",
-            "Clove Hitch",
-            "Figure Eight",
-            "Reef Knot"
-        ],
-        "answer_index": 0,
-        "category": "Practical Utility Knots",
-        "explanation": "Bowline, Clove Hitch, Reef Knot, and Figure Eight are all widely recognized knots used for various practical purposes like sailing, climbing, or securing objects. While a Noose is technically a type of knot, its primary association and function are distinct, typically with hanging or trapping, separating it from the general utility of the others.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Kirin",
-            "Narwhal",
-            "Chimera",
-            "Rhinoceros",
-            "Unicorn"
+            "Scale",
+            "Ruler",
+            "Microscope",
+            "Thermometer",
+            "Protractor"
         ],
         "answer_index": 2,
-        "category": "Creatures Associated with a Single Prominent Horn",
-        "explanation": "Unicorn, Kirin, Narwhal (due to its tusk), and Rhinoceros are all creatures, legendary or real, famously associated with having a single prominent horn or horn-like protrusion. The Chimera is a mythical beast composed of parts from different animals, typically a lion, goat, and serpent, and is not defined by a single horn.",
+        "category": "Direct Measurement Tools",
+        "explanation": "Ruler, Thermometer, Scale, and Protractor are all instruments designed for direct quantitative measurement of specific physical properties. A Microscope is primarily an optical instrument used for magnifying small objects, not for direct measurement.",
         "completed": false
     },
     {
         "tokens": [
-            "For",
-            "Won",
-            "To",
-            "Night",
-            "Eight"
+            "Printing Press",
+            "Concrete",
+            "Aqueduct",
+            "Codex",
+            "Julian Calendar"
         ],
-        "answer_index": 3,
-        "category": "Homophones for Numbers",
-        "explanation": "All tokens except 'Night' are homophones for common numbers: 'Won' (One), 'To' (Two), 'For' (Four), and 'Eight' (Ate). 'Night' does not have a number homophone.",
+        "answer_index": 0,
+        "category": "Major Innovations of Ancient Rome",
+        "explanation": "Aqueduct, Concrete, Julian Calendar, and Codex were all significant inventions or innovations developed during the Roman Empire. The Printing Press, however, was invented much later by Johannes Gutenberg in the 15th century.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lunar",
+            "Saturation",
+            "Terrestrial",
+            "Jovial",
+            "Martial"
+        ],
+        "answer_index": 0,
+        "category": "Words Containing Planet Names (or their roots)",
+        "explanation": "The words 'Saturation', 'Martial', 'Jovial', and 'Terrestrial' each contain the name or a common root of a planet (Saturn, Mars, Jove/Jupiter, and Terra/Earth, respectively). 'Lunar' contains 'Luna' (Moon), which is a natural satellite, not a planet.",
         "completed": false
     }
 ]
