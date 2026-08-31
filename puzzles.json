@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Scale",
-            "Ruler",
-            "Microscope",
-            "Thermometer",
-            "Protractor"
+            "Baking Powder",
+            "Yeast",
+            "Flour",
+            "Egg Whites",
+            "Baking Soda"
         ],
         "answer_index": 2,
-        "category": "Direct Measurement Tools",
-        "explanation": "Ruler, Thermometer, Scale, and Protractor are all instruments designed for direct quantitative measurement of specific physical properties. A Microscope is primarily an optical instrument used for magnifying small objects, not for direct measurement.",
+        "category": "Agents for Rising in Baking",
+        "explanation": "Yeast, Baking Soda, Baking Powder, and whipped Egg Whites are all ingredients or components primarily used to introduce gas and cause baked goods to rise (leavening). Flour provides structure but is not a leavening agent itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing Press",
-            "Concrete",
-            "Aqueduct",
-            "Codex",
-            "Julian Calendar"
+            "Eiffel Tower",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza"
         ],
         "answer_index": 0,
-        "category": "Major Innovations of Ancient Rome",
-        "explanation": "Aqueduct, Concrete, Julian Calendar, and Codex were all significant inventions or innovations developed during the Roman Empire. The Printing Press, however, was invented much later by Johannes Gutenberg in the 15th century.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all recognized as four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not part of this ancient list.",
         "completed": false
     },
     {
         "tokens": [
-            "Lunar",
-            "Saturation",
-            "Terrestrial",
-            "Jovial",
-            "Martial"
+            "Elephant",
+            "Decade",
+            "Victor",
+            "Century",
+            "Lunar"
         ],
         "answer_index": 0,
-        "category": "Words Containing Planet Names (or their roots)",
-        "explanation": "The words 'Saturation', 'Martial', 'Jovial', and 'Terrestrial' each contain the name or a common root of a planet (Saturn, Mars, Jove/Jupiter, and Terra/Earth, respectively). 'Lunar' contains 'Luna' (Moon), which is a natural satellite, not a planet.",
+        "category": "Words Starting with Roman Numerals",
+        "explanation": "Victor (V), Lunar (L), Century (C), and Decade (D) all begin with letters that are also Roman numerals (V=5, L=50, C=100, D=500). 'Elephant' does not start with a Roman numeral.",
         "completed": false
     }
 ]
