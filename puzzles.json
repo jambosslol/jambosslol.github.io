@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Baking Powder",
-            "Yeast",
-            "Flour",
-            "Egg Whites",
-            "Baking Soda"
+            "Lens",
+            "Film",
+            "Aperture",
+            "Shutter",
+            "Tripod"
+        ],
+        "answer_index": 4,
+        "category": "Core Components for Traditional Photographic Exposure",
+        "explanation": "Lens, Aperture, Film, and Shutter are all direct, essential components of a traditional camera that work together to capture and record an image by controlling light exposure. A Tripod is an accessory used for stability and support, but is not directly involved in the light-recording mechanism itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "James Cook",
+            "Ferdinand Magellan",
+            "Vasco da Gama",
+            "Francis Drake",
+            "Christopher Columbus"
         ],
         "answer_index": 2,
-        "category": "Agents for Rising in Baking",
-        "explanation": "Yeast, Baking Soda, Baking Powder, and whipped Egg Whites are all ingredients or components primarily used to introduce gas and cause baked goods to rise (leavening). Flour provides structure but is not a leavening agent itself.",
+        "category": "Pioneers of Western-Oriented Global Exploration",
+        "explanation": "Ferdinand Magellan, Christopher Columbus, James Cook, and Francis Drake are renowned for their pioneering voyages across the Atlantic and Pacific, primarily heading westward or circumnavigating by setting off west. Vasco da Gama, however, is celebrated for establishing the sea route to India by sailing eastward around Africa.",
         "completed": false
     },
     {
         "tokens": [
-            "Eiffel Tower",
-            "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza"
+            "Foot",
+            "Digit",
+            "Inch",
+            "Hand",
+            "Palm"
         ],
-        "answer_index": 0,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all recognized as four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not part of this ancient list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Elephant",
-            "Decade",
-            "Victor",
-            "Century",
-            "Lunar"
-        ],
-        "answer_index": 0,
-        "category": "Words Starting with Roman Numerals",
-        "explanation": "Victor (V), Lunar (L), Century (C), and Decade (D) all begin with letters that are also Roman numerals (V=5, L=50, C=100, D=500). 'Elephant' does not start with a Roman numeral.",
+        "answer_index": 2,
+        "category": "Units of Measurement that are also Body Parts",
+        "explanation": "Foot, Hand, Palm, and Digit are all units of measurement that also name specific parts of the human body. Inch is a unit of measurement, but it does not refer to a body part.",
         "completed": false
     }
 ]
