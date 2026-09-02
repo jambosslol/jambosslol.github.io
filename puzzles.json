@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Lens",
-            "Film",
-            "Aperture",
-            "Shutter",
-            "Tripod"
+            "Thermometer",
+            "Hourglass",
+            "Sundial",
+            "Stopwatch",
+            "Metronome"
         ],
-        "answer_index": 4,
-        "category": "Core Components for Traditional Photographic Exposure",
-        "explanation": "Lens, Aperture, Film, and Shutter are all direct, essential components of a traditional camera that work together to capture and record an image by controlling light exposure. A Tripod is an accessory used for stability and support, but is not directly involved in the light-recording mechanism itself.",
+        "answer_index": 0,
+        "category": "Instruments for Measuring Time or Tempo",
+        "explanation": "Sundial, Hourglass, Metronome, and Stopwatch are all devices used to measure or indicate time or tempo. A Thermometer is used to measure temperature.",
         "completed": false
     },
     {
         "tokens": [
-            "James Cook",
-            "Ferdinand Magellan",
-            "Vasco da Gama",
-            "Francis Drake",
-            "Christopher Columbus"
+            "Persephone",
+            "Hades",
+            "Charon",
+            "Zeus",
+            "Cerberus"
         ],
-        "answer_index": 2,
-        "category": "Pioneers of Western-Oriented Global Exploration",
-        "explanation": "Ferdinand Magellan, Christopher Columbus, James Cook, and Francis Drake are renowned for their pioneering voyages across the Atlantic and Pacific, primarily heading westward or circumnavigating by setting off west. Vasco da Gama, however, is celebrated for establishing the sea route to India by sailing eastward around Africa.",
+        "answer_index": 3,
+        "category": "Figures of the Greek Underworld",
+        "explanation": "Charon, Cerberus, Hades, and Persephone are all prominently associated with the Greek Underworld. Zeus, on the other hand, is the king of the Olympian gods, residing on Mount Olympus.",
         "completed": false
     },
     {
         "tokens": [
-            "Foot",
-            "Digit",
-            "Inch",
-            "Hand",
-            "Palm"
+            "WONDER",
+            "ATONE",
+            "SIXTEEN",
+            "FORTY",
+            "FREQUENT"
         ],
         "answer_index": 2,
-        "category": "Units of Measurement that are also Body Parts",
-        "explanation": "Foot, Hand, Palm, and Digit are all units of measurement that also name specific parts of the human body. Inch is a unit of measurement, but it does not refer to a body part.",
+        "category": "Words with Embedded Number Words",
+        "explanation": "ATONE contains 'one', FORTY contains 'four', WONDER contains 'one', and FREQUENT contains 'four'. SIXTEEN is a number itself, not a word that contains a spelled-out number word.",
         "completed": false
     }
 ]
