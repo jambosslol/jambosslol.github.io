@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Thermometer",
-            "Hourglass",
-            "Sundial",
-            "Stopwatch",
-            "Metronome"
+            "Kelvin",
+            "Acre",
+            "Kilogram",
+            "Kilometer",
+            "Liter"
         ],
-        "answer_index": 0,
-        "category": "Instruments for Measuring Time or Tempo",
-        "explanation": "Sundial, Hourglass, Metronome, and Stopwatch are all devices used to measure or indicate time or tempo. A Thermometer is used to measure temperature.",
+        "answer_index": 1,
+        "category": "Metric System Units",
+        "explanation": "Kilometer, Liter, Kilogram, and Kelvin are all units from the metric system (or closely associated with SI). Acre is a unit of area from the imperial system.",
         "completed": false
     },
     {
         "tokens": [
-            "Persephone",
-            "Hades",
-            "Charon",
-            "Zeus",
-            "Cerberus"
+            "Lighthouse of Alexandria",
+            "Great Wall of China",
+            "Hanging Gardens of Babylon",
+            "Temple of Artemis at Ephesus",
+            "Pyramids of Giza"
         ],
-        "answer_index": 3,
-        "category": "Figures of the Greek Underworld",
-        "explanation": "Charon, Cerberus, Hades, and Persephone are all prominently associated with the Greek Underworld. Zeus, on the other hand, is the king of the Olympian gods, residing on Mount Olympus.",
+        "answer_index": 1,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "All tokens except 'Great Wall of China' are traditionally considered part of the Seven Wonders of the Ancient World. The Great Wall is not on this traditional list; it is often considered one of the New7Wonders of the World.",
         "completed": false
     },
     {
         "tokens": [
-            "WONDER",
-            "ATONE",
-            "SIXTEEN",
-            "FORTY",
-            "FREQUENT"
+            "Eye",
+            "Ate",
+            "See",
+            "Know",
+            "Sew"
         ],
-        "answer_index": 2,
-        "category": "Words with Embedded Number Words",
-        "explanation": "ATONE contains 'one', FORTY contains 'four', WONDER contains 'one', and FREQUENT contains 'four'. SIXTEEN is a number itself, not a word that contains a spelled-out number word.",
+        "answer_index": 4,
+        "category": "Homophones of Numbers",
+        "explanation": "Ate (eight), See (C), Eye (I - Roman numeral for one), and Know (no/zero) are homophones for numbers. Sew is not a homophone for any number.",
         "completed": false
     }
 ]
