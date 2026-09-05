@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Wheel",
-            "Merry-Go-Round",
-            "Top",
-            "Kite",
-            "Record Player"
+            "Pier",
+            "Deck",
+            "Abutment",
+            "Girder",
+            "Mast"
         ],
-        "answer_index": 3,
-        "category": "Objects Designed for Rotational Movement",
-        "explanation": "Top, Wheel, Record Player, and Merry-Go-Round all have rotational or spinning movement as a primary function or integral part of their operation. A Kite's primary function is flight and stability in the air, not rotation.",
+        "answer_index": 4,
+        "category": "Structural Elements of a Bridge",
+        "explanation": "Abutment, Pier, Deck, and Girder are all essential structural components used in the construction and support of a bridge. A Mast is a tall upright structure typically found on a ship or sailing vessel, not a bridge.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Colosseum",
-            "Lighthouse of Alexandria",
             "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza"
+            "Pyramids of Giza",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Great Wall of China"
+        ],
+        "answer_index": 4,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "All tokens except 'Great Wall of China' are traditionally considered part of the original 'Seven Wonders of the Ancient World'. The Great Wall is a historical wonder but was not on that specific ancient list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "START",
+            "HEART",
+            "CHAIR",
+            "GLOVE",
+            "BLAME"
         ],
         "answer_index": 1,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four tokens are traditionally recognized as four of the Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient structure, is not part of that specific list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "SPIRIT",
-            "HEART",
-            "MIRROR",
-            "PROMISE",
-            "SILENCE"
-        ],
-        "answer_index": 2,
-        "category": "Intangible Things That Can Be 'Broken'",
-        "explanation": "All items except 'MIRROR' refer to intangible concepts or states that can be 'broken' or shattered ('broken promise', 'broken silence', 'broken heart', 'broken spirit'). 'MIRROR' is a physical object that can be broken.",
+        "category": "First Letter Transformation",
+        "explanation": "All words, except 'HEART', transform into another common English word by simply removing their first letter (CHAIR -> HAIR, GLOVE -> LOVE, BLAME -> LAME, START -> TART). 'HEART' does not form a common word ('EART') when its first letter is removed.",
         "completed": false
     }
 ]
