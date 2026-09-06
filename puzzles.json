@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pier",
-            "Deck",
-            "Abutment",
-            "Girder",
-            "Mast"
+            "Ice",
+            "Heart",
+            "Dawn",
+            "Silence",
+            "Wave"
         ],
-        "answer_index": 4,
-        "category": "Structural Elements of a Bridge",
-        "explanation": "Abutment, Pier, Deck, and Girder are all essential structural components used in the construction and support of a bridge. A Mast is a tall upright structure typically found on a ship or sailing vessel, not a bridge.",
+        "answer_index": 3,
+        "category": "Nouns that 'break' themselves",
+        "explanation": "A 'wave breaks', a 'heart breaks', 'dawn breaks', and 'ice breaks' are all common phrases where the noun itself undergoes the action of breaking. 'Silence', however, is 'broken by' something else, rather than breaking on its own.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Pyramids of Giza",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Great Wall of China"
-        ],
-        "answer_index": 4,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "All tokens except 'Great Wall of China' are traditionally considered part of the original 'Seven Wonders of the Ancient World'. The Great Wall is a historical wonder but was not on that specific ancient list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "START",
-            "HEART",
-            "CHAIR",
-            "GLOVE",
-            "BLAME"
+            "Olympic Stadium",
+            "Parthenon",
+            "Sydney Opera House",
+            "Globe Theatre",
+            "Colosseum"
         ],
         "answer_index": 1,
-        "category": "First Letter Transformation",
-        "explanation": "All words, except 'HEART', transform into another common English word by simply removing their first letter (CHAIR -> HAIR, GLOVE -> LOVE, BLAME -> LAME, START -> TART). 'HEART' does not form a common word ('EART') when its first letter is removed.",
+        "category": "Architectural Function",
+        "explanation": "The Colosseum, Globe Theatre, Sydney Opera House, and Olympic Stadium are all iconic structures primarily designed as venues for public performances, spectacles, or sporting events. The Parthenon, however, was built as a temple dedicated to the goddess Athena, serving a religious and ceremonial purpose rather than a performance or event venue.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Chime",
+            "Gong",
+            "Hum",
+            "Bell",
+            "Siren"
+        ],
+        "answer_index": 2,
+        "category": "Devices that create an audible signal or alert",
+        "explanation": "Chime, Bell, Gong, and Siren are all physical devices designed to produce a distinct audible signal or alert. 'Hum' is a type of continuous, low-pitched sound itself, not a device.",
         "completed": false
     }
 ]
