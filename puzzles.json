@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ice",
-            "Heart",
-            "Dawn",
-            "Silence",
-            "Wave"
+            "Water",
+            "Seed",
+            "Sunlight",
+            "Potassium",
+            "Soil"
         ],
         "answer_index": 3,
-        "category": "Nouns that 'break' themselves",
-        "explanation": "A 'wave breaks', a 'heart breaks', 'dawn breaks', and 'ice breaks' are all common phrases where the noun itself undergoes the action of breaking. 'Silence', however, is 'broken by' something else, rather than breaking on its own.",
+        "category": "Direct Essentials for Plant Germination and Initial Growth",
+        "explanation": "Seed, Soil, Sunlight, and Water are the fundamental direct requirements for a plant to germinate and begin growing. Potassium is a specific macronutrient, important for plant health, but not a primary, direct physical element or energy source like the others; it's typically acquired from the soil or fertilizers.",
         "completed": false
     },
     {
         "tokens": [
-            "Olympic Stadium",
-            "Parthenon",
-            "Sydney Opera House",
-            "Globe Theatre",
-            "Colosseum"
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Raphael",
+            "Donatello",
+            "Vincent van Gogh"
         ],
-        "answer_index": 1,
-        "category": "Architectural Function",
-        "explanation": "The Colosseum, Globe Theatre, Sydney Opera House, and Olympic Stadium are all iconic structures primarily designed as venues for public performances, spectacles, or sporting events. The Parthenon, however, was built as a temple dedicated to the goddess Athena, serving a religious and ceremonial purpose rather than a performance or event venue.",
+        "answer_index": 4,
+        "category": "Influential Renaissance Artists",
+        "explanation": "Leonardo da Vinci, Michelangelo, Raphael, and Donatello were all highly influential artists of the Italian Renaissance. Vincent van Gogh was a prominent artist of the Post-Impressionist movement in the late 19th century, centuries later.",
         "completed": false
     },
     {
         "tokens": [
-            "Chime",
-            "Gong",
-            "Hum",
-            "Bell",
-            "Siren"
+            "ODD",
+            "PRIME",
+            "EVEN",
+            "ROUND",
+            "COMPLEX"
         ],
-        "answer_index": 2,
-        "category": "Devices that create an audible signal or alert",
-        "explanation": "Chime, Bell, Gong, and Siren are all physical devices designed to produce a distinct audible signal or alert. 'Hum' is a type of continuous, low-pitched sound itself, not a device.",
+        "answer_index": 3,
+        "category": "Mathematical Number Types",
+        "explanation": "Prime, Even, Odd, and Complex are all formal mathematical classifications of numbers. 'Round' is an informal descriptive term for numbers, typically meaning a whole number ending in zero or a multiple of a power of ten, but it is not a formal mathematical category.",
         "completed": false
     }
 ]
