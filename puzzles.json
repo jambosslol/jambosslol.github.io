@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Baking Soda",
-            "Cream of Tartar",
-            "Baking Powder",
-            "Vanilla Extract",
-            "Yeast"
+            "Drum",
+            "Chimes",
+            "Whistle",
+            "Microphone",
+            "Bell"
         ],
         "answer_index": 3,
-        "category": "Baking Chemistry and Leavening Agents",
-        "explanation": "Yeast, Baking Soda, Baking Powder, and Cream of Tartar are all functional ingredients used in baking to create leavening, modify texture, or stabilize mixtures. Vanilla Extract is primarily used for flavoring, not for its chemical effect on structure or rise.",
+        "category": "Objects That Produce Sound Themselves",
+        "explanation": "Bell, Whistle, Drum, and Chimes are all objects that inherently produce sound through their own physical mechanism (striking, blowing, or vibrating). A Microphone, conversely, captures or amplifies sound but does not generate it itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Papermaking",
-            "Compass",
-            "Telescope",
-            "Gunpowder",
-            "Printing Press"
+            "John Hancock",
+            "John Adams",
+            "Benjamin Franklin",
+            "George Washington",
+            "Thomas Jefferson"
         ],
-        "answer_index": 2,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "Compass, Gunpowder, Papermaking, and Printing Press are traditionally recognized as the 'Four Great Inventions' originating from ancient China. The Telescope was invented much later in the Netherlands.",
+        "answer_index": 3,
+        "category": "Signatories of the US Declaration of Independence",
+        "explanation": "All tokens except George Washington are prominent figures who signed the US Declaration of Independence. George Washington was Commander-in-Chief of the Continental Army at the time and did not sign the document.",
         "completed": false
     },
     {
         "tokens": [
-            "Silence",
-            "Glass",
-            "Ice",
-            "Heart",
-            "Record"
+            "Relate",
+            "Listen",
+            "Respond",
+            "Believe",
+            "Refer"
         ],
-        "answer_index": 1,
-        "category": "Idiomatic Uses of 'Break'",
-        "explanation": "The words 'Heart', 'Record', 'Silence', and 'Ice' are all commonly used in idiomatic phrases with the verb 'break' (e.g., 'break a heart', 'break a record', 'break the silence', 'break the ice'), implying a metaphorical or abstract action. 'Glass', however, is typically 'broken' in a literal, physical sense.",
+        "answer_index": 3,
+        "category": "Verbs Commonly Paired with 'To'",
+        "explanation": "'Listen', 'Respond', 'Relate', and 'Refer' are all verbs typically followed by the preposition 'to' (e.g., listen to music, respond to a question, relate to someone, refer to a source). 'Believe' is most commonly followed by 'in' (e.g., believe in magic) or no preposition when followed by a clause.",
         "completed": false
     }
 ]
