@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Drum",
-            "Chimes",
-            "Whistle",
-            "Microphone",
-            "Bell"
+            "Queen",
+            "Pawn",
+            "Bishop",
+            "Rook",
+            "Knight"
         ],
-        "answer_index": 3,
-        "category": "Objects That Produce Sound Themselves",
-        "explanation": "Bell, Whistle, Drum, and Chimes are all objects that inherently produce sound through their own physical mechanism (striking, blowing, or vibrating). A Microphone, conversely, captures or amplifies sound but does not generate it itself.",
+        "answer_index": 1,
+        "category": "Chess Pieces with Multi-Square Movement",
+        "explanation": "Bishop, Knight, Rook, and Queen are all chess pieces that can move more than one square in a single turn. A Pawn typically moves only one square forward (or two on its initial move) and is thus the odd one out.",
         "completed": false
     },
     {
         "tokens": [
-            "John Hancock",
-            "John Adams",
-            "Benjamin Franklin",
-            "George Washington",
-            "Thomas Jefferson"
+            "Hanging Gardens of Babylon",
+            "Pyramids of Giza",
+            "Colosseum",
+            "Temple of Artemis at Ephesus",
+            "Statue of Zeus at Olympia"
         ],
-        "answer_index": 3,
-        "category": "Signatories of the US Declaration of Independence",
-        "explanation": "All tokens except George Washington are prominent figures who signed the US Declaration of Independence. George Washington was Commander-in-Chief of the Continental Army at the time and did not sign the document.",
+        "answer_index": 2,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Colosseum is a renowned Roman amphitheater and a famous ancient landmark, but it is not one of the traditionally recognized Seven Wonders of the Ancient World. The other four tokens are all conventionally listed as original Seven Wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "Relate",
-            "Listen",
-            "Respond",
-            "Believe",
-            "Refer"
+            "Blacksmith",
+            "Greenery",
+            "Scarred",
+            "Whitewash",
+            "Yellow"
         ],
-        "answer_index": 3,
-        "category": "Verbs Commonly Paired with 'To'",
-        "explanation": "'Listen', 'Respond', 'Relate', and 'Refer' are all verbs typically followed by the preposition 'to' (e.g., listen to music, respond to a question, relate to someone, refer to a source). 'Believe' is most commonly followed by 'in' (e.g., believe in magic) or no preposition when followed by a clause.",
+        "answer_index": 4,
+        "category": "Words containing a color name",
+        "explanation": "Scarred contains 'red', Whitewash contains 'white', Blacksmith contains 'black', and Greenery contains 'green'. Yellow is itself a color, rather than a word that contains a color's name.",
         "completed": false
     }
 ]
