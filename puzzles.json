@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Book",
-            "Ribbon",
-            "Toilet Paper",
-            "Yarn",
-            "Map"
+            "Glow Stick",
+            "Firefly",
+            "Lighthouse",
+            "Mirror",
+            "Aurora Borealis"
         ],
-        "answer_index": 0,
-        "category": "Items Unrolled or Unwound",
-        "explanation": "Toilet Paper, Yarn, Ribbon, and Map are all commonly stored in a rolled or wound form and are unrolled or unwound for their intended use. A Book consists of bound pages that are turned, not unrolled.",
+        "answer_index": 3,
+        "category": "Sources of Self-Generated or Emitted Light",
+        "explanation": "Fireflies, lighthouses, aurora borealis, and glow sticks all either biologically generate light, project light, or are natural phenomena that emit light. A mirror, however, reflects light but does not produce or emit it.",
         "completed": false
     },
     {
         "tokens": [
-            "Hand",
-            "Cubit",
-            "Kilogram",
-            "League",
-            "Fathom"
+            "Colossus of Rhodes",
+            "Acropolis of Athens",
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon"
         ],
-        "answer_index": 2,
-        "category": "Historical Units of Length",
-        "explanation": "Fathom, League, Cubit, and Hand are all traditional or historical units primarily used to measure length, depth, or distance. Kilogram is a modern SI unit for mass.",
+        "answer_index": 1,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes were all part of the original list of the Seven Wonders of the Ancient World. The Acropolis of Athens, while a significant ancient site, was not included in that classical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Ocean",
-            "Promise",
-            "Heart",
-            "Bone",
-            "Code"
+            "Noon",
+            "Dawn",
+            "Midnight",
+            "Moment",
+            "Dusk"
         ],
-        "answer_index": 0,
-        "category": "Things That Can Be 'Broken'",
-        "explanation": "A 'Promise', 'Bone', 'Code', and 'Heart' can all be colloquially or literally described as 'broken'. An 'Ocean' cannot be described as 'broken' in the same sense.",
+        "answer_index": 3,
+        "category": "Specific Cardinal Points of a Day",
+        "explanation": "Dawn, Noon, Dusk, and Midnight are all specific, named cardinal points or segments within a 24-hour day cycle. 'Moment' refers to an unspecified, brief period of time.",
         "completed": false
     }
 ]
