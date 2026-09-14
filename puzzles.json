@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Glow Stick",
-            "Firefly",
-            "Lighthouse",
-            "Mirror",
-            "Aurora Borealis"
+            "Steering Wheel",
+            "Accelerator Pedal",
+            "Gear Shift",
+            "Brake Pedal",
+            "Windshield Wipers"
         ],
-        "answer_index": 3,
-        "category": "Sources of Self-Generated or Emitted Light",
-        "explanation": "Fireflies, lighthouses, aurora borealis, and glow sticks all either biologically generate light, project light, or are natural phenomena that emit light. A mirror, however, reflects light but does not produce or emit it.",
+        "answer_index": 4,
+        "category": "Essential Manual Driving Controls",
+        "explanation": "Steering Wheel, Gear Shift, Accelerator Pedal, and Brake Pedal are all direct, manual controls critical for operating the movement and direction of a vehicle. Windshield Wipers are a secondary control for visibility, not directly related to propulsion or steering.",
         "completed": false
     },
     {
         "tokens": [
-            "Colossus of Rhodes",
-            "Acropolis of Athens",
-            "Great Pyramid of Giza",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon"
+            "Minotaur",
+            "Medusa",
+            "Hydra",
+            "Sphinx",
+            "Centaur"
         ],
-        "answer_index": 1,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes were all part of the original list of the Seven Wonders of the Ancient World. The Acropolis of Athens, while a significant ancient site, was not included in that classical list.",
+        "answer_index": 4,
+        "category": "Unique Monstrous Foes in Greek Mythology",
+        "explanation": "Medusa, the Minotaur, the Lernaean Hydra, and the Sphinx are all unique, singular monstrous entities from Greek mythology, each famously depicted as a specific challenge for a hero. Centaurs, however, are a race of creatures, often appearing in groups, rather than a single, unique monster.",
         "completed": false
     },
     {
         "tokens": [
-            "Noon",
-            "Dawn",
-            "Midnight",
-            "Moment",
-            "Dusk"
+            "SUN",
+            "FOR",
+            "EIGHT",
+            "ATE",
+            "TOO"
         ],
-        "answer_index": 3,
-        "category": "Specific Cardinal Points of a Day",
-        "explanation": "Dawn, Noon, Dusk, and Midnight are all specific, named cardinal points or segments within a 24-hour day cycle. 'Moment' refers to an unspecified, brief period of time.",
+        "answer_index": 2,
+        "category": "Non-Numeric Homophones of Numbers",
+        "explanation": "'SUN' (one), 'TOO' (two), 'FOR' (four), and 'ATE' (eight) are all words that are homophones of numbers but are not the number words themselves. 'EIGHT' is the actual number word.",
         "completed": false
     }
 ]
