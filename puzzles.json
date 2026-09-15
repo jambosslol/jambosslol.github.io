@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Steering Wheel",
-            "Accelerator Pedal",
-            "Gear Shift",
-            "Brake Pedal",
-            "Windshield Wipers"
+            "Candle",
+            "Shadow",
+            "Torch",
+            "Sun",
+            "Lamp"
         ],
-        "answer_index": 4,
-        "category": "Essential Manual Driving Controls",
-        "explanation": "Steering Wheel, Gear Shift, Accelerator Pedal, and Brake Pedal are all direct, manual controls critical for operating the movement and direction of a vehicle. Windshield Wipers are a secondary control for visibility, not directly related to propulsion or steering.",
+        "answer_index": 1,
+        "category": "Sources of Illumination",
+        "explanation": "Lamp, Torch, Candle, and Sun are all sources that produce or emit light. Shadow is an area where light is blocked, rather than a source of light itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Minotaur",
-            "Medusa",
-            "Hydra",
-            "Sphinx",
-            "Centaur"
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Statue of Zeus at Olympia",
+            "Eiffel Tower"
         ],
         "answer_index": 4,
-        "category": "Unique Monstrous Foes in Greek Mythology",
-        "explanation": "Medusa, the Minotaur, the Lernaean Hydra, and the Sphinx are all unique, singular monstrous entities from Greek mythology, each famously depicted as a specific challenge for a hero. Centaurs, however, are a race of creatures, often appearing in groups, rather than a single, unique monster.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, and Colossus of Rhodes are all traditional items on the list of the Seven Wonders of the Ancient World. The Eiffel Tower, while an impressive structure, is a modern marvel built in the late 19th century and is not one of the ancient wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "SUN",
-            "FOR",
-            "EIGHT",
-            "ATE",
-            "TOO"
+            "Are",
+            "Eye",
+            "Bee",
+            "See",
+            "Tea"
         ],
-        "answer_index": 2,
-        "category": "Non-Numeric Homophones of Numbers",
-        "explanation": "'SUN' (one), 'TOO' (two), 'FOR' (four), and 'ATE' (eight) are all words that are homophones of numbers but are not the number words themselves. 'EIGHT' is the actual number word.",
+        "answer_index": 4,
+        "category": "Homophones for Letters",
+        "explanation": "The words 'See', 'Eye', 'Are', and 'Bee' are homophones for the letters 'C', 'I', 'R', and 'B' respectively. 'Tea' is not a homophone for any single letter of the English alphabet.",
         "completed": false
     }
 ]
