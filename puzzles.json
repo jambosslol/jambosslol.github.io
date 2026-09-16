@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Candle",
-            "Shadow",
-            "Torch",
-            "Sun",
-            "Lamp"
+            "Chapter",
+            "Cover",
+            "Spine",
+            "Bookmark",
+            "Page"
+        ],
+        "answer_index": 0,
+        "category": "Physical Components or Objects Related to a Printed Book",
+        "explanation": "Page, Cover, and Spine are all physical components of a book. A Bookmark is a physical object used with a book. Chapter refers to a division of the book's content, not a physical part or object.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Julius Caesar",
+            "Augustus",
+            "Trajan",
+            "Nero",
+            "Hadrian"
+        ],
+        "answer_index": 0,
+        "category": "Roman Emperors",
+        "explanation": "Augustus, Nero, Trajan, and Hadrian were all Roman Emperors. Julius Caesar was a Roman general and statesman who held the title of dictator, but he was never an emperor.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Silent",
+            "Dense",
+            "Void",
+            "Empty",
+            "Barren"
         ],
         "answer_index": 1,
-        "category": "Sources of Illumination",
-        "explanation": "Lamp, Torch, Candle, and Sun are all sources that produce or emit light. Shadow is an area where light is blocked, rather than a source of light itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Great Pyramid of Giza",
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Statue of Zeus at Olympia",
-            "Eiffel Tower"
-        ],
-        "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, and Colossus of Rhodes are all traditional items on the list of the Seven Wonders of the Ancient World. The Eiffel Tower, while an impressive structure, is a modern marvel built in the late 19th century and is not one of the ancient wonders.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Are",
-            "Eye",
-            "Bee",
-            "See",
-            "Tea"
-        ],
-        "answer_index": 4,
-        "category": "Homophones for Letters",
-        "explanation": "The words 'See', 'Eye', 'Are', and 'Bee' are homophones for the letters 'C', 'I', 'R', and 'B' respectively. 'Tea' is not a homophone for any single letter of the English alphabet.",
+        "category": "Adjectives of Absence",
+        "explanation": "Silent, Empty, Barren, and Void all describe a state of absence or lack (lack of sound, contents, life/fertility, or anything, respectively). Dense describes a state of presence or abundance (closely packed together).",
         "completed": false
     }
 ]
