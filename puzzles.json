@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Chapter",
-            "Cover",
-            "Spine",
-            "Bookmark",
-            "Page"
+            "Index",
+            "Foreword",
+            "Synopsis",
+            "Glossary",
+            "Bibliography"
         ],
-        "answer_index": 0,
-        "category": "Physical Components or Objects Related to a Printed Book",
-        "explanation": "Page, Cover, and Spine are all physical components of a book. A Bookmark is a physical object used with a book. Chapter refers to a division of the book's content, not a physical part or object.",
+        "answer_index": 2,
+        "category": "Internal Sections of a Published Book",
+        "explanation": "Foreword, Index, Bibliography, and Glossary are all standard sections typically found *within* a published book. A synopsis is a brief summary *about* the book, usually used externally for pitching or marketing, not as an internal section.",
         "completed": false
     },
     {
         "tokens": [
-            "Julius Caesar",
-            "Augustus",
-            "Trajan",
-            "Nero",
-            "Hadrian"
+            "Statue of Zeus at Olympia",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza",
+            "Colosseum"
         ],
-        "answer_index": 0,
-        "category": "Roman Emperors",
-        "explanation": "Augustus, Nero, Trajan, and Hadrian were all Roman Emperors. Julius Caesar was a Roman general and statesman who held the title of dictator, but he was never an emperor.",
+        "answer_index": 4,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, is not part of that classic list.",
         "completed": false
     },
     {
         "tokens": [
-            "Silent",
-            "Dense",
-            "Void",
-            "Empty",
-            "Barren"
+            "INDIANapolis",
+            "CALIFORNIcate",
+            "CONNECTicut",
+            "MARYLANDscape",
+            "DELAWAREness"
         ],
-        "answer_index": 1,
-        "category": "Adjectives of Absence",
-        "explanation": "Silent, Empty, Barren, and Void all describe a state of absence or lack (lack of sound, contents, life/fertility, or anything, respectively). Dense describes a state of presence or abundance (closely packed together).",
+        "answer_index": 2,
+        "category": "Words containing a US state name as a substring",
+        "explanation": "All tokens except 'CONNECTicut' are words that contain the full name of a US state as a contiguous substring. 'CONNECTicut' itself is a US state name, rather than a word containing one.",
         "completed": false
     }
 ]
