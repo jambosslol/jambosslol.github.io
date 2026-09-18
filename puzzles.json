@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Index",
-            "Foreword",
-            "Synopsis",
-            "Glossary",
-            "Bibliography"
+            "Spotlight",
+            "Audience",
+            "Scoreboard",
+            "Curtain",
+            "Rehearsal"
         ],
         "answer_index": 2,
-        "category": "Internal Sections of a Published Book",
-        "explanation": "Foreword, Index, Bibliography, and Glossary are all standard sections typically found *within* a published book. A synopsis is a brief summary *about* the book, usually used externally for pitching or marketing, not as an internal section.",
+        "category": "Elements of a Theatrical Stage Performance",
+        "explanation": "Spotlight, Curtain, Rehearsal, and Audience are all integral elements or stages of a live theatrical stage performance. A Scoreboard is typically associated with sports.",
         "completed": false
     },
     {
         "tokens": [
-            "Statue of Zeus at Olympia",
             "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza",
-            "Colosseum"
+            "Statue of Zeus at Olympia",
+            "Temple of Artemis at Ephesus",
+            "Colosseum",
+            "Great Pyramid of Giza"
+        ],
+        "answer_index": 3,
+        "category": "The Seven Ancient Wonders",
+        "explanation": "All items except the Colosseum are traditionally recognized as one of the Seven Ancient Wonders of the World. The Colosseum is a significant ancient Roman landmark but is not included in that specific list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "EARTH",
+            "AIR",
+            "WATER",
+            "FIRE",
+            "METAL"
         ],
         "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. The Colosseum, while a magnificent ancient structure, is not part of that classic list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "INDIANapolis",
-            "CALIFORNIcate",
-            "CONNECTicut",
-            "MARYLANDscape",
-            "DELAWAREness"
-        ],
-        "answer_index": 2,
-        "category": "Words containing a US state name as a substring",
-        "explanation": "All tokens except 'CONNECTicut' are words that contain the full name of a US state as a contiguous substring. 'CONNECTicut' itself is a US state name, rather than a word containing one.",
+        "category": "Classical Elements",
+        "explanation": "Earth, Air, Fire, and Water are the four classical elements recognized in ancient Greek philosophy. Metal, while an element, is not part of this specific traditional set.",
         "completed": false
     }
 ]
