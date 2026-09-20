@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Oak",
-            "Carrot",
-            "Wheat",
-            "Tulip",
-            "Mushroom"
+            "ISO",
+            "Aperture",
+            "Shutter Speed",
+            "White Balance",
+            "Resolution"
         ],
         "answer_index": 4,
-        "category": "Biological Kingdoms",
-        "explanation": "Tulip (flower), Oak (tree), Carrot (vegetable), and Wheat (grain) are all members of the Plant Kingdom (Plantae). Mushroom is a member of the Fungi Kingdom.",
+        "category": "Camera Exposure & Color Control Settings",
+        "explanation": "Aperture, Shutter Speed, ISO, and White Balance are all fundamental camera settings directly adjusted by the photographer to control the exposure and color balance of an image *during* the shooting process. Resolution, however, refers to the image's detail or sensor pixel count, which is a fixed property of the camera or a characteristic of the final image, not a dynamic shooting setting for exposure or color.",
         "completed": false
     },
     {
         "tokens": [
-            "Link",
-            "Fathom",
-            "Hertz",
-            "Rod",
-            "Hand"
+            "Caligula",
+            "Trajan",
+            "Claudius",
+            "Tiberius",
+            "Augustus"
         ],
-        "answer_index": 2,
-        "category": "Historical Units of Length",
-        "explanation": "Fathom, Hand, Rod, and Link are all historical or traditional units used to measure length or distance. Hertz is a modern SI unit of frequency.",
+        "answer_index": 1,
+        "category": "Julio-Claudian Emperors",
+        "explanation": "Augustus, Tiberius, Caligula, and Claudius were the first four emperors of the Roman Empire, all belonging to the Julio-Claudian dynasty. Trajan was a later emperor from the Nerva-Antonine dynasty.",
         "completed": false
     },
     {
         "tokens": [
-            "PURPLE",
-            "ORANGEade",
-            "GREENhouse",
-            "BLACKboard",
-            "BLUEprint"
+            "Heart",
+            "Glass",
+            "Dawn",
+            "Record",
+            "Wave"
         ],
-        "answer_index": 0,
-        "category": "Words Containing Color Names",
-        "explanation": "All tokens except 'PURPLE' are compound words or phrases that contain the name of a color as a distinct substring, but the word itself is not that color. 'PURPLE' is simply the name of a color.",
+        "answer_index": 1,
+        "category": "Figurative or Natural 'Breaks'",
+        "explanation": "Wave (a wave breaks on the shore), Dawn (day breaks), Heart (heartbreak), and Record (to break a record) all use the word 'break' in a figurative, idiomatic, or natural phenomenon context. Glass is the only item that physically breaks in the literal sense.",
         "completed": false
     }
 ]
