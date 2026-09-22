@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Rake",
-            "Shovel",
-            "Hose",
-            "Trowel",
-            "Pruners"
+            "World Series Trophy",
+            "Larry O'Brien Trophy",
+            "Olympic Gold Medal",
+            "Stanley Cup",
+            "Vince Lombardi Trophy"
         ],
         "answer_index": 2,
-        "category": "Gardening Hand Tools",
-        "explanation": "Shovel, Trowel, Rake, and Pruners are all handheld tools used for digging, cultivating, or shaping plants and soil. A Hose is primarily used for watering.",
+        "category": "Major North American Professional Sports Championship Trophies",
+        "explanation": "The Stanley Cup, Vince Lombardi Trophy, Larry O'Brien Trophy, and World Series Trophy are all major championship trophies awarded to teams in professional North American sports leagues (NHL, NFL, NBA, and MLB, respectively). An Olympic Gold Medal is awarded in an international multi-sport event, not a professional league championship.",
         "completed": false
     },
     {
         "tokens": [
-            "Morse",
-            "Babbage",
-            "Marconi",
-            "Bell",
-            "Gutenberg"
+            "Compass",
+            "Mummification",
+            "Printing Press",
+            "Papermaking",
+            "Gunpowder"
         ],
         "answer_index": 1,
-        "category": "Pioneers of Communication Technology",
-        "explanation": "Gutenberg (printing press), Morse (telegraph), Bell (telephone), and Marconi (radio) all made foundational contributions to communication technology. Charles Babbage is considered the 'Father of the Computer' due to his work on the Analytical Engine, which was primarily a calculating and processing device, not a communication method in the same direct sense.",
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Papermaking, the Compass, and Printing are collectively known as the 'Four Great Inventions' of Ancient China. Mummification is an ancient Egyptian practice.",
         "completed": false
     },
     {
         "tokens": [
-            "DUET",
-            "TWIN",
-            "BICYCLE",
-            "BINOCULARS",
-            "TRIPOD"
+            "Eye",
+            "Ate",
+            "To",
+            "Won",
+            "For"
         ],
-        "answer_index": 4,
-        "category": "Concepts or Objects Defined by the Number Two",
-        "explanation": "The first four tokens (BICYCLE, BINOCULARS, DUET, TWIN) are all intrinsically linked to the number two or the concept of a pair. A BICYCLE has two wheels, BINOCULARS have two lenses, a DUET involves two performers, and a TWIN is one of two identical individuals. A TRIPOD, however, is defined by having three legs.",
+        "answer_index": 0,
+        "category": "Homophones for Cardinal Numbers",
+        "explanation": "All tokens except 'Eye' are homophones for cardinal numbers: 'Won' (one), 'To' (two), 'For' (four), and 'Ate' (eight). 'Eye' does not correspond to a number.",
         "completed": false
     }
 ]
