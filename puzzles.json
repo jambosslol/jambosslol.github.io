@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "World Series Trophy",
-            "Larry O'Brien Trophy",
-            "Olympic Gold Medal",
-            "Stanley Cup",
-            "Vince Lombardi Trophy"
-        ],
-        "answer_index": 2,
-        "category": "Major North American Professional Sports Championship Trophies",
-        "explanation": "The Stanley Cup, Vince Lombardi Trophy, Larry O'Brien Trophy, and World Series Trophy are all major championship trophies awarded to teams in professional North American sports leagues (NHL, NFL, NBA, and MLB, respectively). An Olympic Gold Medal is awarded in an international multi-sport event, not a professional league championship.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Compass",
-            "Mummification",
-            "Printing Press",
-            "Papermaking",
-            "Gunpowder"
+            "Town Crier",
+            "Typewriter",
+            "Carrier Pigeon",
+            "Semaphore",
+            "Smoke Signal"
         ],
         "answer_index": 1,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Papermaking, the Compass, and Printing are collectively known as the 'Four Great Inventions' of Ancient China. Mummification is an ancient Egyptian practice.",
+        "category": "Traditional non-electronic message transmission methods",
+        "explanation": "The first four tokens represent historical or non-electronic methods used to transmit messages over distance or to an audience. A typewriter is a machine used for creating written text, not for its direct transmission to others.",
         "completed": false
     },
     {
         "tokens": [
-            "Eye",
-            "Ate",
-            "To",
-            "Won",
-            "For"
+            "Statue of Zeus at Olympia",
+            "Colosseum",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza",
+            "Temple of Artemis at Ephesus"
         ],
-        "answer_index": 0,
-        "category": "Homophones for Cardinal Numbers",
-        "explanation": "All tokens except 'Eye' are homophones for cardinal numbers: 'Won' (one), 'To' (two), 'For' (four), and 'Ate' (eight). 'Eye' does not correspond to a number.",
+        "answer_index": 1,
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Statue of Zeus at Olympia are all included in the traditional list of the Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient structure, is not part of this original list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Through",
+            "Around",
+            "Under",
+            "Down",
+            "Often"
+        ],
+        "answer_index": 4,
+        "category": "Parts of Speech",
+        "explanation": "Around, Through, Under, and Down are all common prepositions. 'Often' is an adverb, making it the odd one out.",
         "completed": false
     }
 ]
