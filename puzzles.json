@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Town Crier",
-            "Typewriter",
-            "Carrier Pigeon",
-            "Semaphore",
-            "Smoke Signal"
+            "Prototype",
+            "Iteration",
+            "Retirement",
+            "Blueprint",
+            "Launch"
         ],
-        "answer_index": 1,
-        "category": "Traditional non-electronic message transmission methods",
-        "explanation": "The first four tokens represent historical or non-electronic methods used to transmit messages over distance or to an audience. A typewriter is a machine used for creating written text, not for its direct transmission to others.",
+        "answer_index": 2,
+        "category": "Stages of Product Development",
+        "explanation": "Blueprint, Prototype, Launch, and Iteration are all active stages within the creation, testing, and refinement of a product. Retirement signifies the end of a product's lifecycle or its removal from active use.",
         "completed": false
     },
     {
         "tokens": [
-            "Statue of Zeus at Olympia",
-            "Colosseum",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza",
-            "Temple of Artemis at Ephesus"
+            "Leonardo",
+            "Michelangelo",
+            "Donatello",
+            "Medici",
+            "Raphael"
         ],
-        "answer_index": 1,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Statue of Zeus at Olympia are all included in the traditional list of the Seven Wonders of the Ancient World. The Colosseum, while an iconic ancient structure, is not part of this original list.",
+        "answer_index": 3,
+        "category": "Key Figures of the Italian Renaissance",
+        "explanation": "Donatello, Leonardo, Michelangelo, and Raphael are four of the most celebrated artists of the Italian Renaissance. The Medici family, while immensely influential patrons of the arts during the same period, were not artists themselves.",
         "completed": false
     },
     {
         "tokens": [
-            "Through",
-            "Around",
-            "Under",
-            "Down",
-            "Often"
+            "Pace",
+            "Digit",
+            "Hand",
+            "Yard",
+            "Foot"
         ],
-        "answer_index": 4,
-        "category": "Parts of Speech",
-        "explanation": "Around, Through, Under, and Down are all common prepositions. 'Often' is an adverb, making it the odd one out.",
+        "answer_index": 3,
+        "category": "Units of Measurement with Human Body Connotations",
+        "explanation": "Foot, Hand, Digit, and Pace are all units of measurement that are also terms for parts of the human body or actions performed by the body. Yard is a unit of measurement but does not have this dual meaning related to the human body.",
         "completed": false
     }
 ]
