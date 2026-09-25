@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Prototype",
-            "Iteration",
-            "Retirement",
-            "Blueprint",
-            "Launch"
+            "Seed",
+            "Weed",
+            "Water",
+            "Soil",
+            "Sun"
         ],
-        "answer_index": 2,
-        "category": "Stages of Product Development",
-        "explanation": "Blueprint, Prototype, Launch, and Iteration are all active stages within the creation, testing, and refinement of a product. Retirement signifies the end of a product's lifecycle or its removal from active use.",
+        "answer_index": 1,
+        "category": "Elements essential for plant life",
+        "explanation": "Seed, Soil, Sun, and Water are all vital components or conditions required for a plant to grow and thrive. A Weed, conversely, is an undesirable plant that competes with cultivated plants for these resources.",
         "completed": false
     },
     {
         "tokens": [
-            "Leonardo",
-            "Michelangelo",
-            "Donatello",
-            "Medici",
-            "Raphael"
+            "Democracy",
+            "Philosophy",
+            "Archimedes' Screw",
+            "Euclidean Geometry",
+            "Gunpowder"
         ],
-        "answer_index": 3,
-        "category": "Key Figures of the Italian Renaissance",
-        "explanation": "Donatello, Leonardo, Michelangelo, and Raphael are four of the most celebrated artists of the Italian Renaissance. The Medici family, while immensely influential patrons of the arts during the same period, were not artists themselves.",
+        "answer_index": 4,
+        "category": "Contributions of Ancient Greece",
+        "explanation": "Democracy, Euclidean Geometry, Archimedes' Screw, and Philosophy are all significant concepts, inventions, or intellectual movements that originated in Ancient Greece. Gunpowder was invented in China.",
         "completed": false
     },
     {
         "tokens": [
-            "Pace",
-            "Digit",
-            "Hand",
-            "Yard",
-            "Foot"
+            "To",
+            "Won",
+            "Fore",
+            "Ate",
+            "Seven"
         ],
-        "answer_index": 3,
-        "category": "Units of Measurement with Human Body Connotations",
-        "explanation": "Foot, Hand, Digit, and Pace are all units of measurement that are also terms for parts of the human body or actions performed by the body. Yard is a unit of measurement but does not have this dual meaning related to the human body.",
+        "answer_index": 4,
+        "category": "Homophones of Numbers",
+        "explanation": "The words 'Won', 'Ate', 'To', and 'Fore' are homophones for the numbers one, eight, two, and four, respectively. 'Seven' is itself a number and does not function as a homophone for another word in the same manner.",
         "completed": false
     }
 ]
