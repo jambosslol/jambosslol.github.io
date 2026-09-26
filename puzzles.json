@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Seed",
-            "Weed",
-            "Water",
-            "Soil",
-            "Sun"
+            "Apostrophe",
+            "Exclamation Mark",
+            "Comma",
+            "Question Mark",
+            "Period"
         ],
-        "answer_index": 1,
-        "category": "Elements essential for plant life",
-        "explanation": "Seed, Soil, Sun, and Water are all vital components or conditions required for a plant to grow and thrive. A Weed, conversely, is an undesirable plant that competes with cultivated plants for these resources.",
+        "answer_index": 0,
+        "category": "Punctuation Marks for Sentence Boundaries or Major Pauses",
+        "explanation": "Comma, Period, Exclamation Mark, and Question Mark are all used to end a sentence or indicate a significant pause within or at the end of a clause. An Apostrophe is used for possession or contractions within a word, not for marking sentence boundaries or major pauses.",
         "completed": false
     },
     {
         "tokens": [
-            "Democracy",
-            "Philosophy",
-            "Archimedes' Screw",
-            "Euclidean Geometry",
-            "Gunpowder"
+            "Skidbladnir",
+            "Gungnir",
+            "Excalibur",
+            "Draupnir",
+            "Mjolnir"
         ],
-        "answer_index": 4,
-        "category": "Contributions of Ancient Greece",
-        "explanation": "Democracy, Euclidean Geometry, Archimedes' Screw, and Philosophy are all significant concepts, inventions, or intellectual movements that originated in Ancient Greece. Gunpowder was invented in China.",
+        "answer_index": 2,
+        "category": "Legendary Artifacts of Norse Mythology",
+        "explanation": "Mjolnir, Gungnir, Skidbladnir, and Draupnir are all iconic magical artifacts and weapons from Norse mythology. Excalibur is a legendary sword from Arthurian mythology, not Norse.",
         "completed": false
     },
     {
         "tokens": [
-            "To",
-            "Won",
-            "Fore",
-            "Ate",
-            "Seven"
+            "Tangent",
+            "Pyramid",
+            "Sphere",
+            "Cube",
+            "Cone"
         ],
-        "answer_index": 4,
-        "category": "Homophones of Numbers",
-        "explanation": "The words 'Won', 'Ate', 'To', and 'Fore' are homophones for the numbers one, eight, two, and four, respectively. 'Seven' is itself a number and does not function as a homophone for another word in the same manner.",
+        "answer_index": 0,
+        "category": "Three-Dimensional Geometric Shapes",
+        "explanation": "Sphere, Cube, Cone, and Pyramid are all names of three-dimensional geometric shapes. A \"Tangent\" describes a relationship between a line/plane and a curve/surface, but is not a shape itself.",
         "completed": false
     }
 ]
