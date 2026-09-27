@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Apostrophe",
-            "Exclamation Mark",
-            "Comma",
-            "Question Mark",
-            "Period"
+            "Pawn",
+            "Dice",
+            "Card",
+            "Spinner",
+            "Board"
         ],
-        "answer_index": 0,
-        "category": "Punctuation Marks for Sentence Boundaries or Major Pauses",
-        "explanation": "Comma, Period, Exclamation Mark, and Question Mark are all used to end a sentence or indicate a significant pause within or at the end of a clause. An Apostrophe is used for possession or contractions within a word, not for marking sentence boundaries or major pauses.",
+        "answer_index": 4,
+        "category": "Interactive Game Components",
+        "explanation": "Dice, Pawn, Card, and Spinner are all active components that are manipulated, moved, or used to determine actions and outcomes within a game. The Board is the static playing surface upon which the game is played, rather than an interactive piece itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Skidbladnir",
-            "Gungnir",
-            "Excalibur",
-            "Draupnir",
-            "Mjolnir"
+            "Great Barrier Reef",
+            "Machu Picchu",
+            "Mount Everest",
+            "Grand Canyon",
+            "Aurora Borealis"
+        ],
+        "answer_index": 1,
+        "category": "Wonders of the World",
+        "explanation": "The first four are renowned natural wonders of the world, while Machu Picchu is a historical man-made citadel.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Promise",
+            "Silence",
+            "Glass",
+            "News",
+            "Record"
         ],
         "answer_index": 2,
-        "category": "Legendary Artifacts of Norse Mythology",
-        "explanation": "Mjolnir, Gungnir, Skidbladnir, and Draupnir are all iconic magical artifacts and weapons from Norse mythology. Excalibur is a legendary sword from Arthurian mythology, not Norse.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Tangent",
-            "Pyramid",
-            "Sphere",
-            "Cube",
-            "Cone"
-        ],
-        "answer_index": 0,
-        "category": "Three-Dimensional Geometric Shapes",
-        "explanation": "Sphere, Cube, Cone, and Pyramid are all names of three-dimensional geometric shapes. A \"Tangent\" describes a relationship between a line/plane and a curve/surface, but is not a shape itself.",
+        "category": "Things That Can Be 'Broken' (Non-Physical)",
+        "explanation": "All items except 'Glass' represent abstract concepts, states, or agreements that can be 'broken' in an idiomatic or non-physical sense. 'Glass' is a physical object that undergoes physical breakage.",
         "completed": false
     }
 ]
