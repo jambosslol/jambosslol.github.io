@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Microscope",
-            "Telescope",
-            "Stethoscope",
-            "Kaleidoscope",
-            "Periscope"
-        ],
-        "answer_index": 2,
-        "category": "Optical Instruments Ending in '-scope'",
-        "explanation": "Microscope, Telescope, Periscope, and Kaleidoscope are all optical instruments that end with '-scope'. A Stethoscope is an acoustic instrument, despite also ending with '-scope'.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Christopher Columbus",
-            "Vasco da Gama",
-            "Ferdinand Magellan",
-            "Neil Armstrong",
-            "James Cook"
+            "Tutu",
+            "Tights",
+            "Leotard",
+            "Cello",
+            "Pointe Shoes"
         ],
         "answer_index": 3,
-        "category": "Pioneers of Maritime Exploration",
-        "explanation": "Christopher Columbus, Vasco da Gama, Ferdinand Magellan, and James Cook were all renowned figures who pioneered significant maritime explorations during the Age of Sail. Neil Armstrong was a 20th-century astronaut, famous for being the first person to walk on the Moon, not a seaborne explorer.",
+        "category": "Ballet Dancer's Essential Gear",
+        "explanation": "Pointe Shoes, Tutu, Leotard, and Tights are all essential components of a ballet dancer's costume or specialized footwear. A Cello is a musical instrument, not a part of the dancer's attire or equipment.",
         "completed": false
     },
     {
         "tokens": [
-            "Venue",
-            "Era",
-            "Epoch",
-            "Eon",
-            "Age"
+            "Hanging Gardens",
+            "Stonehenge",
+            "Great Pyramid",
+            "Colossus of Rhodes",
+            "Statue of Zeus"
         ],
-        "answer_index": 0,
-        "category": "Units of Time",
-        "explanation": "Epoch, Era, Age, and Eon are all terms used to describe distinct periods or divisions of time. 'Venue' refers to a place where an event or meeting is held.",
+        "answer_index": 1,
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid, Hanging Gardens, Statue of Zeus, and Colossus of Rhodes are all part of the classical list of the Seven Wonders of the Ancient World. Stonehenge is an ancient monument but is not one of the original seven wonders.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "CRATE",
+            "REACT",
+            "CATER",
+            "CHART",
+            "TRACE"
+        ],
+        "answer_index": 3,
+        "category": "Anagrams",
+        "explanation": "CRATE, TRACE, REACT, and CATER are all anagrams of each other, formed using the exact same set of five letters: A, C, E, R, T. CHART contains an 'H' and is missing an 'E', making it the odd one out.",
         "completed": false
     }
 ]
