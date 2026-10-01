@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Tutu",
-            "Tights",
-            "Leotard",
-            "Cello",
-            "Pointe Shoes"
+            "Gramophone",
+            "Stethoscope",
+            "Microscope",
+            "Telescope",
+            "Periscope"
         ],
-        "answer_index": 3,
-        "category": "Ballet Dancer's Essential Gear",
-        "explanation": "Pointe Shoes, Tutu, Leotard, and Tights are all essential components of a ballet dancer's costume or specialized footwear. A Cello is a musical instrument, not a part of the dancer's attire or equipment.",
+        "answer_index": 0,
+        "category": "Instruments for Extending Natural Senses",
+        "explanation": "All items except the Gramophone are instruments designed to extend or enhance a natural human sense (sight or hearing) for observation or detection. A Gramophone is used to reproduce recorded sound.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens",
-            "Stonehenge",
-            "Great Pyramid",
             "Colossus of Rhodes",
-            "Statue of Zeus"
+            "Eiffel Tower",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Great Pyramid of Giza"
         ],
         "answer_index": 1,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid, Hanging Gardens, Statue of Zeus, and Colossus of Rhodes are all part of the classical list of the Seven Wonders of the Ancient World. Stonehenge is an ancient monument but is not one of the original seven wonders.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Lighthouse of Alexandria, Colossus of Rhodes, and Hanging Gardens of Babylon are all traditionally listed among the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not one of the ancient wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "CRATE",
-            "REACT",
-            "CATER",
-            "CHART",
-            "TRACE"
+            "Mercurial",
+            "Saturnine",
+            "Lunar",
+            "Martial",
+            "Jovial"
         ],
-        "answer_index": 3,
-        "category": "Anagrams",
-        "explanation": "CRATE, TRACE, REACT, and CATER are all anagrams of each other, formed using the exact same set of five letters: A, C, E, R, T. CHART contains an 'H' and is missing an 'E', making it the odd one out.",
+        "answer_index": 2,
+        "category": "Adjectives derived from planetary names",
+        "explanation": "Saturnine, Mercurial, Jovial, and Martial are all adjectives derived from the names of planets (Saturn, Mercury, Jupiter, and Mars, respectively). 'Lunar' is derived from 'Luna', which refers to Earth's moon, a natural satellite, not a planet.",
         "completed": false
     }
 ]
