@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Gramophone",
-            "Stethoscope",
-            "Microscope",
-            "Telescope",
-            "Periscope"
+            "Pat Sajak",
+            "Vowel",
+            "Puzzle Board",
+            "Spin the Wheel",
+            "Answer Buzzer"
+        ],
+        "answer_index": 4,
+        "category": "Elements of the Game Show Wheel of Fortune",
+        "explanation": "Vowel, Puzzle Board, Pat Sajak, and Spin the Wheel are all core elements directly associated with the game show Wheel of Fortune. An Answer Buzzer is typically used in other quiz-style game shows, not Wheel of Fortune.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Papermaking",
+            "Compass",
+            "Printing Press",
+            "Gunpowder",
+            "Steam Engine"
+        ],
+        "answer_index": 4,
+        "category": "Ancient Chinese Innovations",
+        "explanation": "The first four items (Printing Press, Compass, Gunpowder, Papermaking) are widely recognized as the 'Four Great Inventions' of Ancient China. The Steam Engine, while a monumental invention, originated during the Industrial Revolution in the West.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Thought",
+            "About",
+            "Through",
+            "After",
+            "Under"
         ],
         "answer_index": 0,
-        "category": "Instruments for Extending Natural Senses",
-        "explanation": "All items except the Gramophone are instruments designed to extend or enhance a natural human sense (sight or hearing) for observation or detection. A Gramophone is used to reproduce recorded sound.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Colossus of Rhodes",
-            "Eiffel Tower",
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Great Pyramid of Giza"
-        ],
-        "answer_index": 1,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Lighthouse of Alexandria, Colossus of Rhodes, and Hanging Gardens of Babylon are all traditionally listed among the Seven Wonders of the Ancient World. The Eiffel Tower is a modern structure and not one of the ancient wonders.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Mercurial",
-            "Saturnine",
-            "Lunar",
-            "Martial",
-            "Jovial"
-        ],
-        "answer_index": 2,
-        "category": "Adjectives derived from planetary names",
-        "explanation": "Saturnine, Mercurial, Jovial, and Martial are all adjectives derived from the names of planets (Saturn, Mercury, Jupiter, and Mars, respectively). 'Lunar' is derived from 'Luna', which refers to Earth's moon, a natural satellite, not a planet.",
+        "category": "Words That Can Function as Prepositions",
+        "explanation": "About, After, Under, and Through are all common prepositions. 'Thought' is a noun or a verb (past tense of 'think'), but it does not function as a preposition.",
         "completed": false
     }
 ]
