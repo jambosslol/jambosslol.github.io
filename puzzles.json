@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pat Sajak",
-            "Vowel",
-            "Puzzle Board",
-            "Spin the Wheel",
-            "Answer Buzzer"
+            "Ball",
+            "Coin",
+            "Brick",
+            "Donut",
+            "Wheel"
         ],
-        "answer_index": 4,
-        "category": "Elements of the Game Show Wheel of Fortune",
-        "explanation": "Vowel, Puzzle Board, Pat Sajak, and Spin the Wheel are all core elements directly associated with the game show Wheel of Fortune. An Answer Buzzer is typically used in other quiz-style game shows, not Wheel of Fortune.",
+        "answer_index": 2,
+        "category": "Objects with a Predominantly Round Form",
+        "explanation": "Wheel, Coin, Donut, and Ball are all typically round or spherical in their most common form. A Brick is typically rectangular.",
         "completed": false
     },
     {
         "tokens": [
-            "Papermaking",
-            "Compass",
-            "Printing Press",
-            "Gunpowder",
-            "Steam Engine"
+            "Temple of Artemis",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria"
         ],
-        "answer_index": 4,
-        "category": "Ancient Chinese Innovations",
-        "explanation": "The first four items (Printing Press, Compass, Gunpowder, Papermaking) are widely recognized as the 'Four Great Inventions' of Ancient China. The Steam Engine, while a monumental invention, originated during the Industrial Revolution in the West.",
+        "answer_index": 3,
+        "category": "Status of Ancient Wonders",
+        "explanation": "Four of these are wonders from the ancient world that no longer exist. The Great Pyramid of Giza is the only one of the original Seven Wonders of the Ancient World that is still largely intact today.",
         "completed": false
     },
     {
         "tokens": [
-            "Thought",
-            "About",
-            "Through",
-            "After",
-            "Under"
+            "Knot",
+            "Psychology",
+            "Wrist",
+            "Gnome",
+            "Table"
         ],
-        "answer_index": 0,
-        "category": "Words That Can Function as Prepositions",
-        "explanation": "About, After, Under, and Through are all common prepositions. 'Thought' is a noun or a verb (past tense of 'think'), but it does not function as a preposition.",
+        "answer_index": 4,
+        "category": "Words Beginning with a Silent Letter",
+        "explanation": "All words except 'Table' begin with a silent letter (K in Knot, P in Psychology, W in Wrist, G in Gnome). 'Table' does not have a silent initial letter.",
         "completed": false
     }
 ]
