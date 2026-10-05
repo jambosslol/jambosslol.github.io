@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ball",
-            "Coin",
-            "Brick",
-            "Donut",
-            "Wheel"
+            "Melody",
+            "Score",
+            "Rhythm",
+            "Harmony",
+            "Tempo"
+        ],
+        "answer_index": 1,
+        "category": "Core Sonic Components of Music",
+        "explanation": "Melody, Rhythm, Harmony, and Tempo are fundamental sonic components or characteristics of music as it is heard. A Score is the written notation or visual representation of music.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Temple of Artemis at Ephesus",
+            "Mausoleum at Halicarnassus",
+            "Colossus of Rhodes"
         ],
         "answer_index": 2,
-        "category": "Objects with a Predominantly Round Form",
-        "explanation": "Wheel, Coin, Donut, and Ball are all typically round or spherical in their most common form. A Brick is typically rectangular.",
+        "category": "Ancient Wonders Primarily Destroyed by Natural Phenomena",
+        "explanation": "Four of these (Colossus of Rhodes, Lighthouse of Alexandria, Mausoleum at Halicarnassus, Hanging Gardens of Babylon) were Ancient Wonders of the World believed to have been primarily destroyed by natural causes like earthquakes or decay. The Temple of Artemis at Ephesus, however, was famously destroyed by arson, a deliberate human act.",
         "completed": false
     },
     {
         "tokens": [
-            "Temple of Artemis",
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza",
-            "Lighthouse of Alexandria"
-        ],
-        "answer_index": 3,
-        "category": "Status of Ancient Wonders",
-        "explanation": "Four of these are wonders from the ancient world that no longer exist. The Great Pyramid of Giza is the only one of the original Seven Wonders of the Ancient World that is still largely intact today.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Knot",
-            "Psychology",
-            "Wrist",
-            "Gnome",
-            "Table"
+            "Eight",
+            "Two",
+            "Sun",
+            "Four",
+            "Cloud"
         ],
         "answer_index": 4,
-        "category": "Words Beginning with a Silent Letter",
-        "explanation": "All words except 'Table' begin with a silent letter (K in Knot, P in Psychology, W in Wrist, G in Gnome). 'Table' does not have a silent initial letter.",
+        "category": "Homophones of Numbers",
+        "explanation": "All tokens except 'Cloud' are homophones for common numbers: Eight (Ate), Four (For), Two (Too), and Sun (One).",
         "completed": false
     }
 ]
