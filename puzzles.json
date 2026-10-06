@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Melody",
-            "Score",
-            "Rhythm",
-            "Harmony",
-            "Tempo"
+            "Hercule Poirot",
+            "James Bond",
+            "Philip Marlowe",
+            "Miss Marple",
+            "Sherlock Holmes"
         ],
         "answer_index": 1,
-        "category": "Core Sonic Components of Music",
-        "explanation": "Melody, Rhythm, Harmony, and Tempo are fundamental sonic components or characteristics of music as it is heard. A Score is the written notation or visual representation of music.",
+        "category": "Iconic Fictional Detectives",
+        "explanation": "Sherlock Holmes, Hercule Poirot, Miss Marple, and Philip Marlowe are all renowned fictional detectives known for solving mysteries. James Bond, while a famous fictional character, is a secret agent or spy, not primarily a detective.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes",
             "Lighthouse of Alexandria",
-            "Temple of Artemis at Ephesus",
-            "Mausoleum at Halicarnassus",
-            "Colossus of Rhodes"
+            "Hanging Gardens of Babylon",
+            "Great Wall of China",
+            "Great Pyramid of Giza"
         ],
-        "answer_index": 2,
-        "category": "Ancient Wonders Primarily Destroyed by Natural Phenomena",
-        "explanation": "Four of these (Colossus of Rhodes, Lighthouse of Alexandria, Mausoleum at Halicarnassus, Hanging Gardens of Babylon) were Ancient Wonders of the World believed to have been primarily destroyed by natural causes like earthquakes or decay. The Temple of Artemis at Ephesus, however, was famously destroyed by arson, a deliberate human act.",
+        "answer_index": 3,
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Wall of China is a monumental structure but was not included in the traditional list of the Original Seven Wonders of the Ancient World, unlike the other four listed which are part of that ancient canon.",
         "completed": false
     },
     {
         "tokens": [
-            "Eight",
-            "Two",
-            "Sun",
-            "Four",
-            "Cloud"
+            "Tunnel",
+            "Stairs",
+            "Elevator",
+            "Ladder",
+            "Ramp"
         ],
-        "answer_index": 4,
-        "category": "Homophones of Numbers",
-        "explanation": "All tokens except 'Cloud' are homophones for common numbers: Eight (Ate), Four (For), Two (Too), and Sun (One).",
+        "answer_index": 0,
+        "category": "Structures or Methods for Vertical Ascent",
+        "explanation": "Elevator, Stairs, Ladder, and Ramp are all common structures or devices used to facilitate movement upwards or between different elevations. A Tunnel, however, is primarily designed for horizontal passage, often through an obstacle or underground.",
         "completed": false
     }
 ]
