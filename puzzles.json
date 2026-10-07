@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Hercule Poirot",
-            "James Bond",
-            "Philip Marlowe",
-            "Miss Marple",
-            "Sherlock Holmes"
+            "Pen",
+            "Correction Fluid",
+            "Pencil",
+            "Stapler",
+            "Eraser"
         ],
-        "answer_index": 1,
-        "category": "Iconic Fictional Detectives",
-        "explanation": "Sherlock Holmes, Hercule Poirot, Miss Marple, and Philip Marlowe are all renowned fictional detectives known for solving mysteries. James Bond, while a famous fictional character, is a secret agent or spy, not primarily a detective.",
+        "answer_index": 3,
+        "category": "Items used to apply or modify written marks on paper",
+        "explanation": "Pencil, Eraser, Pen, and Correction Fluid are all tools directly used for making, changing, or removing written marks on paper. A Stapler is used to fasten sheets of paper together, not to write or correct text.",
         "completed": false
     },
     {
         "tokens": [
             "Colossus of Rhodes",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
             "Great Wall of China",
-            "Great Pyramid of Giza"
+            "Hanging Gardens of Babylon",
+            "Temple of Artemis at Ephesus",
+            "Pyramid of Giza"
         ],
-        "answer_index": 3,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Wall of China is a monumental structure but was not included in the traditional list of the Original Seven Wonders of the Ancient World, unlike the other four listed which are part of that ancient canon.",
+        "answer_index": 1,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "The Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Colossus of Rhodes are all traditionally listed among the original Seven Wonders of the Ancient World. The Great Wall of China, while an impressive ancient structure, is not part of that classical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Tunnel",
-            "Stairs",
-            "Elevator",
-            "Ladder",
-            "Ramp"
+            "Traffic",
+            "Heavy",
+            "Street",
+            "Head",
+            "Spot"
         ],
-        "answer_index": 0,
-        "category": "Structures or Methods for Vertical Ascent",
-        "explanation": "Elevator, Stairs, Ladder, and Ramp are all common structures or devices used to facilitate movement upwards or between different elevations. A Tunnel, however, is primarily designed for horizontal passage, often through an obstacle or underground.",
+        "answer_index": 1,
+        "category": "Words Preceding 'Light'",
+        "explanation": "Head, Spot, Street, and Traffic can all combine with 'light' to form common compound words or phrases (Headlight, Spotlight, Streetlight, Traffic Light). 'Heavy Light' is not a common or standard compound.",
         "completed": false
     }
 ]
