@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Mirage",
-            "Waterfall",
-            "Dune",
-            "Oasis",
-            "Cactus"
-        ],
-        "answer_index": 1,
-        "category": "Elements of a Desert Environment",
-        "explanation": "Dune, Oasis, Mirage, and Cactus are all strongly associated with deserts, either as physical features, natural phenomena, or flora. A waterfall is typically found in other geographical regions.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Colossus of Rhodes",
-            "Statue of Zeus at Olympia",
-            "Lighthouse of Alexandria",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza"
+            "Candle",
+            "Lightbulb",
+            "Sun",
+            "Firefly",
+            "Moon"
         ],
         "answer_index": 4,
-        "category": "Fate of the Ancient Wonders",
-        "explanation": "All tokens are traditionally listed as one of the Seven Wonders of the Ancient World. However, the Colossus of Rhodes, Lighthouse of Alexandria, Hanging Gardens of Babylon, and Statue of Zeus at Olympia have all been destroyed or vanished over time. The Great Pyramid of Giza is the only one that largely remains intact to this day.",
+        "category": "Self-Luminous Objects",
+        "explanation": "The Sun, Firefly, Candle, and Lightbulb are all sources that produce their own light. The Moon, however, only reflects light from the Sun and does not generate its own luminosity.",
         "completed": false
     },
     {
         "tokens": [
-            "Head",
-            "Basket",
-            "Base",
-            "Foot",
-            "Soccer"
+            "James Madison",
+            "John Hancock",
+            "Benjamin Franklin",
+            "Thomas Jefferson",
+            "Samuel Adams"
         ],
         "answer_index": 0,
-        "category": "Compound Sports with 'Ball'",
-        "explanation": "Soccer, Basket, Foot, and Base are all words that combine with 'ball' to form a common sport (Soccer Ball, Basketball, Football, Baseball). 'Head' does not form a recognized sport when combined with 'ball'.",
+        "category": "Signers of the Declaration of Independence",
+        "explanation": "John Hancock, Thomas Jefferson, Benjamin Franklin, and Samuel Adams all signed the United States Declaration of Independence. James Madison, while a prominent Founding Father, was not a signatory to that document.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Melody",
+            "Whisper",
+            "Echo",
+            "Resonance",
+            "Glimmer"
+        ],
+        "answer_index": 4,
+        "category": "Sensory Phenomena",
+        "explanation": "All tokens except 'Glimmer' describe concepts or qualities related to sound. 'Glimmer' refers to light or a visual perception.",
         "completed": false
     }
 ]
