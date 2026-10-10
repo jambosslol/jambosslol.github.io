@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Candle",
-            "Lightbulb",
-            "Sun",
-            "Firefly",
-            "Moon"
+            "Terabyte",
+            "Gigabyte",
+            "Kilobyte",
+            "Byte",
+            "Pixel"
         ],
         "answer_index": 4,
-        "category": "Self-Luminous Objects",
-        "explanation": "The Sun, Firefly, Candle, and Lightbulb are all sources that produce their own light. The Moon, however, only reflects light from the Sun and does not generate its own luminosity.",
+        "category": "Units of Digital Storage Capacity",
+        "explanation": "Byte, Kilobyte, Gigabyte, and Terabyte are all standard units used to measure digital data storage capacity. A Pixel, however, is the smallest individual unit of a digital image or display, measuring resolution, not storage size.",
         "completed": false
     },
     {
         "tokens": [
-            "James Madison",
-            "John Hancock",
-            "Benjamin Franklin",
-            "Thomas Jefferson",
-            "Samuel Adams"
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Statue of Liberty",
+            "Colossus of Rhodes"
         ],
-        "answer_index": 0,
-        "category": "Signers of the Declaration of Independence",
-        "explanation": "John Hancock, Thomas Jefferson, Benjamin Franklin, and Samuel Adams all signed the United States Declaration of Independence. James Madison, while a prominent Founding Father, was not a signatory to that document.",
+        "answer_index": 3,
+        "category": "Ancient Wonders of the World",
+        "explanation": "All tokens except 'Statue of Liberty' are traditionally listed as one of the Seven Ancient Wonders of the World. The Statue of Liberty is a modern marvel.",
         "completed": false
     },
     {
         "tokens": [
-            "Melody",
-            "Whisper",
-            "Echo",
-            "Resonance",
-            "Glimmer"
+            "LUEB",
+            "LAPPPE",
+            "EERNG",
+            "DER",
+            "LLOYWE"
         ],
-        "answer_index": 4,
-        "category": "Sensory Phenomena",
-        "explanation": "All tokens except 'Glimmer' describe concepts or qualities related to sound. 'Glimmer' refers to light or a visual perception.",
+        "answer_index": 1,
+        "category": "Anagrams of Colors",
+        "explanation": "\"LUEB\" (BLUE), \"EERNG\" (GREEN), \"LLOYWE\" (YELLOW), and \"DER\" (RED) are all anagrams of primary or secondary colors. \"LAPPPE\" is an anagram of \"APPLE\", which is a fruit.",
         "completed": false
     }
 ]
