@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Lamp",
-            "Candle",
-            "Firefly",
-            "Moon",
-            "Sun"
+            "Bookmark",
+            "Spine",
+            "Binding",
+            "Cover",
+            "Page"
         ],
-        "answer_index": 3,
-        "category": "Objects That Emit Their Own Light",
-        "explanation": "Lamp, Candle, Firefly, and Sun are all sources that generate or produce their own light. The Moon, however, reflects light from the Sun rather than producing its own.",
+        "answer_index": 0,
+        "category": "Essential Structural Components of a Traditional Book",
+        "explanation": "Spine, Page, Cover, and Binding are all fundamental physical components that make up a traditional printed book. A Bookmark is an accessory used with a book but is not part of its inherent structure.",
         "completed": false
     },
     {
         "tokens": [
-            "Compass",
-            "Gunpowder",
-            "Papermaking",
-            "Printing",
-            "Archimedes' Screw"
+            "Yuri Gagarin",
+            "Leonardo da Vinci",
+            "Amelia Earhart",
+            "Charles Lindbergh",
+            "Wright Brothers"
         ],
-        "answer_index": 4,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "The first four items (Gunpowder, Compass, Papermaking, and Printing) are traditionally known as the Four Great Inventions of Ancient China. Archimedes' Screw is an ancient invention from Greece.",
+        "answer_index": 1,
+        "category": "Pioneers of Achieved Human Flight",
+        "explanation": "Amelia Earhart, Yuri Gagarin, Charles Lindbergh, and the Wright Brothers all successfully achieved or pioneered actual human flight or spaceflight. Leonardo da Vinci designed flying machines but never personally achieved practical flight.",
         "completed": false
     },
     {
         "tokens": [
-            "Fracture",
-            "Splinter",
-            "Shatter",
-            "Crumble",
-            "Rupture"
+            "Level",
+            "Noon",
+            "Apple",
+            "Civic",
+            "Madam"
         ],
-        "answer_index": 3,
-        "category": "Verbs of Sudden Structural Failure",
-        "explanation": "Shatter, Splinter, Fracture, and Rupture all describe a singular, often forceful event of breaking or tearing something apart, immediately compromising its structural integrity. 'Crumble' typically describes a gradual process of disintegration into small fragments, often due to decay or weakness, rather than a sudden, forceful break.",
+        "answer_index": 2,
+        "category": "Words with Matching First and Last Letters",
+        "explanation": "Level, Noon, Civic, and Madam all begin and end with the same letter. Apple does not.",
         "completed": false
     }
 ]
