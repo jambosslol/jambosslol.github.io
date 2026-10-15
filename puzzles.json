@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Bookmark",
-            "Spine",
-            "Binding",
-            "Cover",
-            "Page"
-        ],
-        "answer_index": 0,
-        "category": "Essential Structural Components of a Traditional Book",
-        "explanation": "Spine, Page, Cover, and Binding are all fundamental physical components that make up a traditional printed book. A Bookmark is an accessory used with a book but is not part of its inherent structure.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Yuri Gagarin",
-            "Leonardo da Vinci",
-            "Amelia Earhart",
-            "Charles Lindbergh",
-            "Wright Brothers"
-        ],
-        "answer_index": 1,
-        "category": "Pioneers of Achieved Human Flight",
-        "explanation": "Amelia Earhart, Yuri Gagarin, Charles Lindbergh, and the Wright Brothers all successfully achieved or pioneered actual human flight or spaceflight. Leonardo da Vinci designed flying machines but never personally achieved practical flight.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Level",
-            "Noon",
-            "Apple",
-            "Civic",
-            "Madam"
+            "Chisel",
+            "Sander",
+            "Splinter",
+            "Saw",
+            "Plane"
         ],
         "answer_index": 2,
-        "category": "Words with Matching First and Last Letters",
-        "explanation": "Level, Noon, Civic, and Madam all begin and end with the same letter. Apple does not.",
+        "category": "Woodworking Tools",
+        "explanation": "Chisel, Saw, Plane, and Sander are all instruments used for shaping or finishing wood. A Splinter is a small, sharp fragment of wood, typically a byproduct or a hazard, not a tool.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Temple of Artemis",
+            "Statue of Zeus",
+            "Colosseum",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza"
+        ],
+        "answer_index": 2,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "Four of the tokens are recognized as Seven Wonders of the Ancient World. The Colosseum is a significant ancient landmark but is not one of the original seven wonders; it is often considered one of the New7Wonders of the World.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "SHOE",
+            "KNIFE",
+            "SALT",
+            "BOW",
+            "CUP"
+        ],
+        "answer_index": 0,
+        "category": "First Items of Complementary Pairs",
+        "explanation": "SALT (with Pepper), KNIFE (with Fork), CUP (with Saucer), and BOW (with Arrow) are all the first items of commonly recognized complementary pairs where each item has a distinct role and function alongside its partner. SHOE, while typically worn in a pair, refers to one of two largely identical or mirror-image items, rather than a distinct complementary item.",
         "completed": false
     }
 ]
