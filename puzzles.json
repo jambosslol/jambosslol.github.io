@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Chisel",
-            "Sander",
-            "Splinter",
-            "Saw",
-            "Plane"
+            "Scroll",
+            "Diary",
+            "Microchip",
+            "Spectacles",
+            "Film Reel"
         ],
-        "answer_index": 2,
-        "category": "Woodworking Tools",
-        "explanation": "Chisel, Saw, Plane, and Sander are all instruments used for shaping or finishing wood. A Splinter is a small, sharp fragment of wood, typically a byproduct or a hazard, not a tool.",
+        "answer_index": 3,
+        "category": "Objects Designed to Store or Record Information",
+        "explanation": "Scrolls, Microchips, Diaries, and Film Reels are all items designed to store or record information, data, or content. Spectacles (glasses) are used to aid vision, not to store information.",
         "completed": false
     },
     {
         "tokens": [
-            "Temple of Artemis",
-            "Statue of Zeus",
-            "Colosseum",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza"
+            "Bill of Rights",
+            "US Constitution",
+            "Magna Carta",
+            "Treaty of Versailles",
+            "Declaration of Independence"
         ],
-        "answer_index": 2,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "Four of the tokens are recognized as Seven Wonders of the Ancient World. The Colosseum is a significant ancient landmark but is not one of the original seven wonders; it is often considered one of the New7Wonders of the World.",
+        "answer_index": 3,
+        "category": "Foundational Documents for Individual Rights or Governance",
+        "explanation": "Magna Carta, Declaration of Independence, US Constitution, and Bill of Rights are all seminal historical documents that established fundamental principles of individual rights, democratic governance, or constitutional law. The Treaty of Versailles, conversely, was a peace treaty signed at the end of World War I, primarily addressing reparations and territorial changes, not establishing foundational legal or governmental frameworks.",
         "completed": false
     },
     {
         "tokens": [
-            "SHOE",
-            "KNIFE",
-            "SALT",
-            "BOW",
-            "CUP"
+            "Left",
+            "Pair",
+            "Knight",
+            "Waist",
+            "Right"
         ],
         "answer_index": 0,
-        "category": "First Items of Complementary Pairs",
-        "explanation": "SALT (with Pepper), KNIFE (with Fork), CUP (with Saucer), and BOW (with Arrow) are all the first items of commonly recognized complementary pairs where each item has a distinct role and function alongside its partner. SHOE, while typically worn in a pair, refers to one of two largely identical or mirror-image items, rather than a distinct complementary item.",
+        "category": "Words with Common Homophones",
+        "explanation": "Knight (night), Waist (waste), Pair (pear), and Right (write) all have commonly recognized homophones. Left does not have a widely used or common homophone.",
         "completed": false
     }
 ]
