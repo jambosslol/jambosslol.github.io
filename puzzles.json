@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Scroll",
-            "Diary",
-            "Microchip",
-            "Spectacles",
-            "Film Reel"
+            "Props",
+            "Overture",
+            "Script",
+            "Stage",
+            "Audience"
         ],
-        "answer_index": 3,
-        "category": "Objects Designed to Store or Record Information",
-        "explanation": "Scrolls, Microchips, Diaries, and Film Reels are all items designed to store or record information, data, or content. Spectacles (glasses) are used to aid vision, not to store information.",
+        "answer_index": 1,
+        "category": "Core Components of a Non-Musical Play",
+        "explanation": "Script, Stage, Audience, and Props are all fundamental elements required for a non-musical theatrical play. An Overture is a musical introduction, typically associated with operas or musicals, not generally a spoken play.",
         "completed": false
     },
     {
         "tokens": [
-            "Bill of Rights",
-            "US Constitution",
-            "Magna Carta",
-            "Treaty of Versailles",
-            "Declaration of Independence"
+            "Mahatma Gandhi",
+            "Rosa Parks",
+            "Nelson Mandela",
+            "Genghis Khan",
+            "Martin Luther"
         ],
         "answer_index": 3,
-        "category": "Foundational Documents for Individual Rights or Governance",
-        "explanation": "Magna Carta, Declaration of Independence, US Constitution, and Bill of Rights are all seminal historical documents that established fundamental principles of individual rights, democratic governance, or constitutional law. The Treaty of Versailles, conversely, was a peace treaty signed at the end of World War I, primarily addressing reparations and territorial changes, not establishing foundational legal or governmental frameworks.",
+        "category": "Leaders of Transformative Non-Violent or Social Justice Movements",
+        "explanation": "Martin Luther initiated the Protestant Reformation, Mahatma Gandhi led India's independence through non-violent resistance, Nelson Mandela fought against apartheid, and Rosa Parks sparked the Montgomery Bus Boycott for civil rights. All four are associated with leading or inspiring significant social, religious, or political changes primarily through non-violent means or advocating for justice. Genghis Khan, however, was primarily a military conqueror and empire-builder.",
         "completed": false
     },
     {
         "tokens": [
-            "Left",
-            "Pair",
-            "Knight",
-            "Waist",
-            "Right"
+            "Incipient",
+            "Finale",
+            "Prologue",
+            "Inauguration",
+            "Genesis"
         ],
-        "answer_index": 0,
-        "category": "Words with Common Homophones",
-        "explanation": "Knight (night), Waist (waste), Pair (pear), and Right (write) all have commonly recognized homophones. Left does not have a widely used or common homophone.",
+        "answer_index": 1,
+        "category": "Terms Signifying a Beginning",
+        "explanation": "Genesis, Incipient, Prologue, and Inauguration all refer to the beginning or initial stage of something. 'Finale' refers to the end or final part.",
         "completed": false
     }
 ]
