@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Props",
-            "Overture",
-            "Script",
-            "Stage",
-            "Audience"
+            "Baking Powder",
+            "Yeast",
+            "Cream of Tartar",
+            "Baking Soda",
+            "Egg Whites"
         ],
-        "answer_index": 1,
-        "category": "Core Components of a Non-Musical Play",
-        "explanation": "Script, Stage, Audience, and Props are all fundamental elements required for a non-musical theatrical play. An Overture is a musical introduction, typically associated with operas or musicals, not generally a spoken play.",
+        "answer_index": 2,
+        "category": "Ingredients Used for Leavening in Baking",
+        "explanation": "Baking Soda, Baking Powder, Yeast, and Egg Whites all directly contribute to the leavening (rising) of baked goods. Cream of Tartar is an acid that stabilizes egg whites or activates baking soda, but it does not produce leavening gas or air on its own.",
         "completed": false
     },
     {
         "tokens": [
-            "Mahatma Gandhi",
-            "Rosa Parks",
-            "Nelson Mandela",
-            "Genghis Khan",
-            "Martin Luther"
+            "Michael Faraday",
+            "Benjamin Franklin",
+            "Alessandro Volta",
+            "Thomas Edison",
+            "Leonardo da Vinci"
         ],
-        "answer_index": 3,
-        "category": "Leaders of Transformative Non-Violent or Social Justice Movements",
-        "explanation": "Martin Luther initiated the Protestant Reformation, Mahatma Gandhi led India's independence through non-violent resistance, Nelson Mandela fought against apartheid, and Rosa Parks sparked the Montgomery Bus Boycott for civil rights. All four are associated with leading or inspiring significant social, religious, or political changes primarily through non-violent means or advocating for justice. Genghis Khan, however, was primarily a military conqueror and empire-builder.",
+        "answer_index": 4,
+        "category": "Pioneering Figures in Electricity and Magnetism",
+        "explanation": "All tokens except Leonardo da Vinci are historical figures renowned for their significant contributions to the understanding, discovery, or application of electricity and magnetism. Leonardo da Vinci was a Renaissance polymath whose work predated the scientific study of these phenomena by centuries.",
         "completed": false
     },
     {
         "tokens": [
-            "Incipient",
-            "Finale",
-            "Prologue",
-            "Inauguration",
-            "Genesis"
+            "Duet",
+            "Quintet",
+            "Solo",
+            "Quartet",
+            "Trio"
         ],
-        "answer_index": 1,
-        "category": "Terms Signifying a Beginning",
-        "explanation": "Genesis, Incipient, Prologue, and Inauguration all refer to the beginning or initial stage of something. 'Finale' refers to the end or final part.",
+        "answer_index": 2,
+        "category": "Musical Group Sizes",
+        "explanation": "Duet, Trio, Quartet, and Quintet refer to musical groups composed of two, three, four, and five performers respectively. 'Solo' refers to a single performer, not a group.",
         "completed": false
     }
 ]
