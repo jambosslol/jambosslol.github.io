@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Baking Powder",
-            "Yeast",
-            "Cream of Tartar",
-            "Baking Soda",
-            "Egg Whites"
+            "Sticks",
+            "Apple",
+            "Straw",
+            "Wolf",
+            "Bricks"
         ],
-        "answer_index": 2,
-        "category": "Ingredients Used for Leavening in Baking",
-        "explanation": "Baking Soda, Baking Powder, Yeast, and Egg Whites all directly contribute to the leavening (rising) of baked goods. Cream of Tartar is an acid that stabilizes egg whites or activates baking soda, but it does not produce leavening gas or air on its own.",
+        "answer_index": 1,
+        "category": "Elements from 'The Three Little Pigs'",
+        "explanation": "Straw, Sticks, Bricks, and the Wolf are all central elements or characters in the classic fable 'The Three Little Pigs'. Apple is not directly associated with this story.",
         "completed": false
     },
     {
         "tokens": [
-            "Michael Faraday",
-            "Benjamin Franklin",
-            "Alessandro Volta",
-            "Thomas Edison",
-            "Leonardo da Vinci"
+            "Great Pyramid of Giza",
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Great Wall of China"
         ],
         "answer_index": 4,
-        "category": "Pioneering Figures in Electricity and Magnetism",
-        "explanation": "All tokens except Leonardo da Vinci are historical figures renowned for their significant contributions to the understanding, discovery, or application of electricity and magnetism. Leonardo da Vinci was a Renaissance polymath whose work predated the scientific study of these phenomena by centuries.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four items are traditionally recognized as four of the Seven Wonders of the Ancient World. The Great Wall of China is a monumental ancient structure but is not included in that specific classical list of wonders.",
         "completed": false
     },
     {
         "tokens": [
-            "Duet",
-            "Quintet",
-            "Solo",
-            "Quartet",
-            "Trio"
+            "Level",
+            "Banana",
+            "Rotor",
+            "Madam",
+            "Racecar"
         ],
-        "answer_index": 2,
-        "category": "Musical Group Sizes",
-        "explanation": "Duet, Trio, Quartet, and Quintet refer to musical groups composed of two, three, four, and five performers respectively. 'Solo' refers to a single performer, not a group.",
+        "answer_index": 1,
+        "category": "Palindromic Words",
+        "explanation": "Madam, Level, Racecar, and Rotor are all palindromes; they read the same forwards and backwards. Banana does not.",
         "completed": false
     }
 ]
