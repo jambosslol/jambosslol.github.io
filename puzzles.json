@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Span",
-            "Cubits",
-            "Hand",
+            "Preface",
+            "Bookmark",
+            "Glossary",
+            "Chapter",
+            "Index"
+        ],
+        "answer_index": 1,
+        "category": "Structural Components of a Book",
+        "explanation": "Chapter, Index, Preface, and Glossary are all sections or structural components found within a book. A bookmark is an external item used with a book but is not part of its inherent content or structure.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Persephone",
+            "Hades",
+            "Zeus",
+            "Cerberus",
+            "Charon"
+        ],
+        "answer_index": 2,
+        "category": "Figures of the Greek Underworld",
+        "explanation": "Hades, Persephone, Charon, and Cerberus are all directly associated with and reside in the Greek Underworld. Zeus, while an Olympian god, rules the sky and Mount Olympus, not the Underworld.",
+        "completed": false
+    },
+    {
+        "tokens": [
             "Foot",
-            "Pound"
+            "Gram",
+            "Celsius",
+            "Meter",
+            "Liter"
         ],
-        "answer_index": 4,
-        "category": "Historical Body-Based Units of Length",
-        "explanation": "Foot, Hand (as in 'hands-breadth'), Cubit, and Span are all historical units of length derived from parts of the human body. Pound, however, is a unit of mass.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza",
-            "Eiffel Tower"
-        ],
-        "answer_index": 4,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Lighthouse of Alexandria, and Colossus of Rhodes are all traditionally recognized as four of the Seven Wonders of the Ancient World. The Eiffel Tower is a modern architectural marvel, not part of the ancient list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Branch",
-            "Bone",
-            "Plate",
-            "Promise",
-            "Glass"
-        ],
-        "answer_index": 3,
-        "category": "Literal Objects That Can Be Physically Broken",
-        "explanation": "Glass, bone, plate, and branch are all physical objects that can be literally broken, fractured, or shattered. A promise is an abstract concept that can be 'broken' only in a figurative sense.",
+        "answer_index": 0,
+        "category": "Measurement Systems",
+        "explanation": "Meter, Liter, Gram, and Celsius are all standard units of measurement within the metric system. Foot is a unit of length in the imperial and U.S. customary systems, making it the odd one out.",
         "completed": false
     }
 ]
