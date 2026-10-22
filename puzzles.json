@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Preface",
-            "Bookmark",
-            "Glossary",
-            "Chapter",
-            "Index"
+            "Frying Pan",
+            "Dishwasher",
+            "Oven",
+            "Spatula",
+            "Chopping Board"
         ],
         "answer_index": 1,
-        "category": "Structural Components of a Book",
-        "explanation": "Chapter, Index, Preface, and Glossary are all sections or structural components found within a book. A bookmark is an external item used with a book but is not part of its inherent content or structure.",
+        "category": "Active Food Preparation Items",
+        "explanation": "All items except 'Dishwasher' are directly involved in the process of preparing or cooking food. A dishwasher is used for cleaning up afterwards.",
         "completed": false
     },
     {
         "tokens": [
-            "Persephone",
-            "Hades",
-            "Zeus",
-            "Cerberus",
-            "Charon"
+            "Spices",
+            "Silk",
+            "Coffee",
+            "Gunpowder",
+            "Porcelain"
         ],
         "answer_index": 2,
-        "category": "Figures of the Greek Underworld",
-        "explanation": "Hades, Persephone, Charon, and Cerberus are all directly associated with and reside in the Greek Underworld. Zeus, while an Olympian god, rules the sky and Mount Olympus, not the Underworld.",
+        "category": "Major Commodities Traded Along the Ancient Silk Road",
+        "explanation": "Silk, Spices, Porcelain, and Gunpowder were all prominent and historically significant commodities traded along the ancient Silk Road connecting East and West. Coffee, while an important trade good, primarily originated in Ethiopia and spread through Arabian trade routes, not the classical Silk Road.",
         "completed": false
     },
     {
         "tokens": [
-            "Foot",
-            "Gram",
-            "Celsius",
-            "Meter",
-            "Liter"
+            "Float",
+            "Canter",
+            "Trot",
+            "Gallop",
+            "Pace"
         ],
         "answer_index": 0,
-        "category": "Measurement Systems",
-        "explanation": "Meter, Liter, Gram, and Celsius are all standard units of measurement within the metric system. Foot is a unit of length in the imperial and U.S. customary systems, making it the odd one out.",
+        "category": "Horse Gaits",
+        "explanation": "Gallop, Trot, Canter, and Pace are all distinct forms of locomotion or 'gaits' used by horses. Float describes something suspended in air or liquid, not a way a horse moves.",
         "completed": false
     }
 ]
