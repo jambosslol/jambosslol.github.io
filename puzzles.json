@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Kilobyte",
-            "Megabyte",
-            "Byte",
-            "Gigabyte",
-            "Bit"
+            "Scroll",
+            "Wheel",
+            "Dice",
+            "Rolling Pin",
+            "Bowling Ball"
         ],
-        "answer_index": 4,
-        "category": "Digital Storage Units",
-        "explanation": "All tokens except 'Bit' represent amounts of digital data that are multiples of a 'byte' (or a byte itself). A 'Bit' is the fundamental, smallest unit of information, a single binary digit, and a byte is composed of 8 bits.",
+        "answer_index": 0,
+        "category": "Items associated with the dynamic action of rolling",
+        "explanation": "Dice, Wheel, Bowling Ball, and Rolling Pin are all items primarily defined by or used for the dynamic action of rolling. A scroll is an object that *is* rolled up (a 'roll'), but it does not perform the action of rolling itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Bamboo Slips",
-            "Quill Pen",
-            "Clay Tablet",
-            "Papyrus",
-            "Parchment"
-        ],
-        "answer_index": 1,
-        "category": "Ancient Writing Media",
-        "explanation": "The first four tokens are distinct materials historically used as surfaces or media for writing across various ancient cultures. The Quill Pen, however, is an instrument used *for* writing, not a surface upon which writing is done.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Up",
-            "In",
-            "Down",
-            "Left",
-            "On"
+            "Hanging Gardens of Babylon",
+            "Lighthouse of Alexandria",
+            "Pyramids of Giza",
+            "Pantheon",
+            "Colossus of Rhodes"
         ],
         "answer_index": 3,
-        "category": "Single-Word Prepositions",
-        "explanation": "Up, Down, In, and On are all common single-word prepositions in English that indicate position or direction. Left is primarily an adjective, adverb, or verb, and not typically used as a standalone preposition.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally listed among the Seven Wonders of the Ancient World. The Pantheon is an iconic ancient Roman temple but is not part of this specific list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Skull",
+            "River",
+            "Coin",
+            "Nail",
+            "Bed"
+        ],
+        "answer_index": 0,
+        "category": "Non-Living Entities with a 'Head' as a Part",
+        "explanation": "River (headwaters), Bed (headboard), Coin (the 'heads' side), and Nail (the head of a nail) all refer to a specific part or aspect of the object using the term 'head'. A Skull, however, *is* the bony structure of a head itself, not an object that possesses a separate 'head' component.",
         "completed": false
     }
 ]
