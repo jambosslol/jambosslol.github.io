@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Scroll",
-            "Wheel",
-            "Dice",
-            "Rolling Pin",
-            "Bowling Ball"
+            "Record Player",
+            "Ferris Wheel",
+            "Toaster",
+            "Blender",
+            "Washing Machine"
         ],
-        "answer_index": 0,
-        "category": "Items associated with the dynamic action of rolling",
-        "explanation": "Dice, Wheel, Bowling Ball, and Rolling Pin are all items primarily defined by or used for the dynamic action of rolling. A scroll is an object that *is* rolled up (a 'roll'), but it does not perform the action of rolling itself.",
+        "answer_index": 2,
+        "category": "Objects with a Primary Spinning/Rotating Mechanism",
+        "explanation": "Four of the items (Record Player, Ferris Wheel, Washing Machine, Blender) perform their main function through a primary spinning or rotating mechanism. A toaster heats bread and does not spin.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria",
-            "Pyramids of Giza",
-            "Pantheon",
-            "Colossus of Rhodes"
+            "Printing",
+            "Concrete",
+            "Papermaking",
+            "Gunpowder",
+            "Compass"
         ],
-        "answer_index": 3,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally listed among the Seven Wonders of the Ancient World. The Pantheon is an iconic ancient Roman temple but is not part of this specific list.",
+        "answer_index": 1,
+        "category": "Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Compass, Papermaking, and Printing are collectively known as the Four Great Inventions of Ancient China. Concrete was a significant innovation of the Roman Empire.",
         "completed": false
     },
     {
         "tokens": [
-            "Skull",
-            "River",
-            "Coin",
-            "Nail",
-            "Bed"
+            "Decade",
+            "Pentagon",
+            "Journey",
+            "Trio",
+            "Quartet"
         ],
-        "answer_index": 0,
-        "category": "Non-Living Entities with a 'Head' as a Part",
-        "explanation": "River (headwaters), Bed (headboard), Coin (the 'heads' side), and Nail (the head of a nail) all refer to a specific part or aspect of the object using the term 'head'. A Skull, however, *is* the bony structure of a head itself, not an object that possesses a separate 'head' component.",
+        "answer_index": 2,
+        "category": "Concepts Defined by a Specific Number",
+        "explanation": "Trio refers to three, Quartet to four, Pentagon is a shape with five sides, and Decade is a period of ten years. Journey does not inherently specify a number.",
         "completed": false
     }
 ]
