@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Record Player",
-            "Ferris Wheel",
-            "Toaster",
-            "Blender",
-            "Washing Machine"
+            "Biscuit",
+            "Noodles",
+            "Pancake",
+            "Bread",
+            "Quinoa"
         ],
-        "answer_index": 2,
-        "category": "Objects with a Primary Spinning/Rotating Mechanism",
-        "explanation": "Four of the items (Record Player, Ferris Wheel, Washing Machine, Blender) perform their main function through a primary spinning or rotating mechanism. A toaster heats bread and does not spin.",
+        "answer_index": 4,
+        "category": "Foods Primarily Made From Flour",
+        "explanation": "Bread, Noodles, Biscuit, and Pancake are all staple foods predominantly made from flour. Quinoa is a pseudocereal typically cooked and consumed as whole grains, not primarily processed into flour for its common culinary uses.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing",
-            "Concrete",
-            "Papermaking",
-            "Gunpowder",
-            "Compass"
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza",
+            "Temple of Artemis at Ephesus",
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes"
         ],
         "answer_index": 1,
-        "category": "Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Compass, Papermaking, and Printing are collectively known as the Four Great Inventions of Ancient China. Concrete was a significant innovation of the Roman Empire.",
+        "category": "Status of the Seven Wonders of the Ancient World",
+        "explanation": "The Hanging Gardens of Babylon, Colossus of Rhodes, Lighthouse of Alexandria, and Temple of Artemis at Ephesus are all among the Seven Wonders of the Ancient World that have been destroyed and no longer stand. The Great Pyramid of Giza is the only one of the original Seven Wonders that still largely exists today.",
         "completed": false
     },
     {
         "tokens": [
-            "Decade",
-            "Pentagon",
-            "Journey",
-            "Trio",
-            "Quartet"
+            "Pound",
+            "Kilometer",
+            "Gallon",
+            "Mile",
+            "Inch"
         ],
-        "answer_index": 2,
-        "category": "Concepts Defined by a Specific Number",
-        "explanation": "Trio refers to three, Quartet to four, Pentagon is a shape with five sides, and Decade is a period of ten years. Journey does not inherently specify a number.",
+        "answer_index": 1,
+        "category": "Imperial Units of Measurement",
+        "explanation": "Mile, Gallon, Pound, and Inch are all common units of measurement belonging to the Imperial system. Kilometer is a unit of length from the Metric system.",
         "completed": false
     }
 ]
