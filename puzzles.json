@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Dozen",
-            "Second",
-            "Meter",
-            "Kilogram",
-            "Liter"
+            "Potatoes",
+            "Eggs",
+            "Sugar",
+            "Butter",
+            "Cream"
         ],
-        "answer_index": 0,
-        "category": "International System of Units (SI)",
-        "explanation": "Kilogram, Liter, Meter, and Second are all fundamental or commonly derived units within the International System of Units (SI). Dozen is a unit of quantity but is not an SI unit.",
+        "answer_index": 2,
+        "category": "Foods that can be whipped or aerated",
+        "explanation": "Cream, eggs (whites), butter (softened), and potatoes (mashed) can all be whipped or aerated to change their texture. Sugar is an additive, but cannot be whipped on its own.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Great Wall of China",
-            "Statue of Zeus at Olympia",
-            "Colossus of Rhodes",
-            "Great Pyramid of Giza"
-        ],
-        "answer_index": 1,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, and Colossus of Rhodes are all featured on the classical list of the 'Seven Wonders of the Ancient World'. The Great Wall of China, though an iconic landmark, is not part of this original ancient list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Pint",
-            "Liter",
-            "Gallon",
-            "Quart",
-            "Meter"
+            "Papermaking",
+            "Printing",
+            "Compass",
+            "Gunpowder",
+            "Steam Engine"
         ],
         "answer_index": 4,
-        "category": "Units of Volume",
-        "explanation": "Liter, Gallon, Quart, and Pint are all common units used to measure liquid volume. Meter is a unit of length.",
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, Compass, Papermaking, and Printing are traditionally regarded as the 'Four Great Inventions' of Ancient China. The Steam Engine, while a pivotal invention, originated in Europe during the Industrial Revolution much later.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Heart",
+            "News",
+            "Glass",
+            "Code",
+            "Silence"
+        ],
+        "answer_index": 2,
+        "category": "Things that can be 'broken' (metaphorical vs. literal)",
+        "explanation": "Heart, Code, Silence, and News can all be 'broken' in a non-physical, metaphorical sense (e.g., a broken heart, broken code, broken silence, breaking news). Glass is typically broken physically.",
         "completed": false
     }
 ]
