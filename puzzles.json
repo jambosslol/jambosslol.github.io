@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Potatoes",
-            "Eggs",
-            "Sugar",
-            "Butter",
-            "Cream"
-        ],
-        "answer_index": 2,
-        "category": "Foods that can be whipped or aerated",
-        "explanation": "Cream, eggs (whites), butter (softened), and potatoes (mashed) can all be whipped or aerated to change their texture. Sugar is an additive, but cannot be whipped on its own.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Papermaking",
-            "Printing",
-            "Compass",
-            "Gunpowder",
-            "Steam Engine"
+            "Tornado",
+            "Galaxy",
+            "Earth",
+            "Top",
+            "Pyramid"
         ],
         "answer_index": 4,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "Gunpowder, Compass, Papermaking, and Printing are traditionally regarded as the 'Four Great Inventions' of Ancient China. The Steam Engine, while a pivotal invention, originated in Europe during the Industrial Revolution much later.",
+        "category": "Objects or Phenomena Defined by Rotation",
+        "explanation": "Galaxy, Top, Earth, and Tornado all inherently involve rotational motion or spinning as a defining characteristic or action. A Pyramid is a static, non-rotating structure.",
         "completed": false
     },
     {
         "tokens": [
-            "Heart",
-            "News",
-            "Glass",
-            "Code",
-            "Silence"
+            "Dante Alighieri",
+            "Donatello",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Michelangelo"
         ],
-        "answer_index": 2,
-        "category": "Things that can be 'broken' (metaphorical vs. literal)",
-        "explanation": "Heart, Code, Silence, and News can all be 'broken' in a non-physical, metaphorical sense (e.g., a broken heart, broken code, broken silence, breaking news). Glass is typically broken physically.",
+        "answer_index": 0,
+        "category": "Key Figures of the Italian Renaissance",
+        "explanation": "Leonardo da Vinci, Michelangelo, Raphael, and Donatello are widely considered the four greatest visual artists (painters and sculptors) of the Italian High Renaissance. Dante Alighieri was a pivotal Italian poet and writer, renowned for 'The Divine Comedy', but not primarily a visual artist.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Lamp",
+            "Mirror",
+            "Candle",
+            "Lantern",
+            "Torch"
+        ],
+        "answer_index": 1,
+        "category": "Objects primarily designed to generate light",
+        "explanation": "Torch, Lamp, Candle, and Lantern are all objects created to produce their own light. A Mirror reflects light but does not generate it.",
         "completed": false
     }
 ]
