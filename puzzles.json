@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Tornado",
-            "Galaxy",
-            "Earth",
-            "Top",
-            "Pyramid"
-        ],
-        "answer_index": 4,
-        "category": "Objects or Phenomena Defined by Rotation",
-        "explanation": "Galaxy, Top, Earth, and Tornado all inherently involve rotational motion or spinning as a defining characteristic or action. A Pyramid is a static, non-rotating structure.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Dante Alighieri",
-            "Donatello",
-            "Raphael",
-            "Leonardo da Vinci",
-            "Michelangelo"
+            "The Parthenon",
+            "Hanging Gardens of Babylon",
+            "Great Pyramid of Giza",
+            "Colossus of Rhodes",
+            "Temple of Artemis"
         ],
         "answer_index": 0,
-        "category": "Key Figures of the Italian Renaissance",
-        "explanation": "Leonardo da Vinci, Michelangelo, Raphael, and Donatello are widely considered the four greatest visual artists (painters and sculptors) of the Italian High Renaissance. Dante Alighieri was a pivotal Italian poet and writer, renowned for 'The Divine Comedy', but not primarily a visual artist.",
+        "category": "Classical Seven Wonders of the Ancient World",
+        "explanation": "The first four items are traditionally listed as four of the Seven Wonders of the Ancient World. The Parthenon, while a significant ancient structure, is not part of that classical list.",
         "completed": false
     },
     {
         "tokens": [
-            "Lamp",
-            "Mirror",
-            "Candle",
-            "Lantern",
-            "Torch"
+            "Jupiter",
+            "Zeus",
+            "Hades",
+            "Poseidon",
+            "Hera"
         ],
-        "answer_index": 1,
-        "category": "Objects primarily designed to generate light",
-        "explanation": "Torch, Lamp, Candle, and Lantern are all objects created to produce their own light. A Mirror reflects light but does not generate it.",
+        "answer_index": 0,
+        "category": "Major Greek Deities",
+        "explanation": "Zeus, Poseidon, Hera, and Hades are major deities from Greek mythology. Jupiter is the Roman equivalent of Zeus, making it the odd one out as a Roman deity among Greek ones.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Live",
+            "Vile",
+            "Love",
+            "Veil",
+            "Evil"
+        ],
+        "answer_index": 2,
+        "category": "Anagrammatic Relations",
+        "explanation": "The words 'Evil', 'Veil', 'Vile', and 'Live' are all anagrams of each other, using the letters L, I, V, E. 'Love' uses a different set of letters (L, O, V, E) and therefore is not an anagram of 'Live' or the other words.",
         "completed": false
     }
 ]
