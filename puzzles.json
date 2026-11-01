@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "The Parthenon",
-            "Hanging Gardens of Babylon",
-            "Great Pyramid of Giza",
-            "Colossus of Rhodes",
-            "Temple of Artemis"
+            "Sauerkraut",
+            "Kimchi",
+            "Pickle",
+            "Mayonnaise",
+            "Yogurt"
         ],
-        "answer_index": 0,
-        "category": "Classical Seven Wonders of the Ancient World",
-        "explanation": "The first four items are traditionally listed as four of the Seven Wonders of the Ancient World. The Parthenon, while a significant ancient structure, is not part of that classical list.",
+        "answer_index": 3,
+        "category": "Fermented or Cured Foods",
+        "explanation": "Yogurt, Kimchi, Sauerkraut, and Pickle are all food items that traditionally undergo a fermentation or curing process. Mayonnaise is an emulsion of oil, egg yolk, and an acid, and does not involve fermentation or curing.",
         "completed": false
     },
     {
         "tokens": [
-            "Jupiter",
-            "Zeus",
-            "Hades",
-            "Poseidon",
-            "Hera"
+            "Compass",
+            "Gunpowder",
+            "Papermaking",
+            "Penicillin",
+            "Printing Press"
         ],
-        "answer_index": 0,
-        "category": "Major Greek Deities",
-        "explanation": "Zeus, Poseidon, Hera, and Hades are major deities from Greek mythology. Jupiter is the Roman equivalent of Zeus, making it the odd one out as a Roman deity among Greek ones.",
+        "answer_index": 3,
+        "category": "The Four Great Inventions of China",
+        "explanation": "Compass, Gunpowder, Papermaking, and Printing Press are traditionally known as the Four Great Inventions of ancient China. Penicillin is a modern antibiotic discovered in the 20th century.",
         "completed": false
     },
     {
         "tokens": [
-            "Live",
-            "Vile",
-            "Love",
-            "Veil",
-            "Evil"
+            "Celsius",
+            "Decibel",
+            "Mohs",
+            "Beaufort",
+            "Richter"
         ],
-        "answer_index": 2,
-        "category": "Anagrammatic Relations",
-        "explanation": "The words 'Evil', 'Veil', 'Vile', and 'Live' are all anagrams of each other, using the letters L, I, V, E. 'Love' uses a different set of letters (L, O, V, E) and therefore is not an anagram of 'Live' or the other words.",
+        "answer_index": 0,
+        "category": "Scales of Intensity or Magnitude",
+        "explanation": "Decibel (sound intensity), Richter (earthquake magnitude), Mohs (mineral hardness), and Beaufort (wind speed) are all scales used to quantify the intensity or magnitude of a specific phenomenon. Celsius is a scale used to measure temperature, a fundamental physical property, which differs from the others' focus on intensity.",
         "completed": false
     }
 ]
