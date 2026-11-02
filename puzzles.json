@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Sauerkraut",
-            "Kimchi",
-            "Pickle",
-            "Mayonnaise",
-            "Yogurt"
+            "Homerun",
+            "Touchdown",
+            "Checkmate",
+            "Foul",
+            "Goal"
         ],
         "answer_index": 3,
-        "category": "Fermented or Cured Foods",
-        "explanation": "Yogurt, Kimchi, Sauerkraut, and Pickle are all food items that traditionally undergo a fermentation or curing process. Mayonnaise is an emulsion of oil, egg yolk, and an acid, and does not involve fermentation or curing.",
+        "category": "Scoring or Winning Events in Sports and Games",
+        "explanation": "Checkmate (Chess), Touchdown (American Football), Goal (Soccer/Hockey), and Homerun (Baseball) are all specific events that directly result in scoring points or winning in their respective games. A 'Foul' is an infraction of the rules and does not directly constitute a scoring or winning event.",
         "completed": false
     },
     {
         "tokens": [
-            "Compass",
-            "Gunpowder",
-            "Papermaking",
-            "Penicillin",
-            "Printing Press"
+            "Great Pyramid of Giza",
+            "St. Peter's Basilica",
+            "Westminster Abbey",
+            "Colosseum",
+            "Taj Mahal"
         ],
         "answer_index": 3,
-        "category": "The Four Great Inventions of China",
-        "explanation": "Compass, Gunpowder, Papermaking, and Printing Press are traditionally known as the Four Great Inventions of ancient China. Penicillin is a modern antibiotic discovered in the 20th century.",
+        "category": "Prominent Historical Structures Primarily Built as Tombs or Religious Burial Sites",
+        "explanation": "The Great Pyramid of Giza, Taj Mahal, St. Peter's Basilica, and Westminster Abbey were all primarily constructed as tombs, mausoleums, or religious burial sites. The Colosseum, however, was built as an amphitheater for public spectacles and entertainment.",
         "completed": false
     },
     {
         "tokens": [
-            "Celsius",
-            "Decibel",
-            "Mohs",
-            "Beaufort",
-            "Richter"
+            "Ampere",
+            "Ohm",
+            "Farad",
+            "Watt",
+            "Volt"
         ],
-        "answer_index": 0,
-        "category": "Scales of Intensity or Magnitude",
-        "explanation": "Decibel (sound intensity), Richter (earthquake magnitude), Mohs (mineral hardness), and Beaufort (wind speed) are all scales used to quantify the intensity or magnitude of a specific phenomenon. Celsius is a scale used to measure temperature, a fundamental physical property, which differs from the others' focus on intensity.",
+        "answer_index": 2,
+        "category": "Core Electrical Circuit Quantities",
+        "explanation": "Volt, Ampere, Ohm, and Watt are fundamental SI units directly defining voltage, current, resistance, and power, respectively, which are intrinsically linked by Ohm's Law (V=IR) and the power formula (P=VI) in basic electrical circuits. Farad is the SI unit for capacitance, a distinct property related to charge storage, and not directly part of the core Ohm's Law and Power Law relationships.",
         "completed": false
     }
 ]
