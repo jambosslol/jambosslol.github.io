@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Homerun",
-            "Touchdown",
-            "Checkmate",
-            "Foul",
-            "Goal"
+            "Shutter",
+            "Aperture",
+            "Sensor",
+            "Tripod",
+            "Lens"
         ],
         "answer_index": 3,
-        "category": "Scoring or Winning Events in Sports and Games",
-        "explanation": "Checkmate (Chess), Touchdown (American Football), Goal (Soccer/Hockey), and Homerun (Baseball) are all specific events that directly result in scoring points or winning in their respective games. A 'Foul' is an infraction of the rules and does not directly constitute a scoring or winning event.",
+        "category": "Essential Camera Mechanisms",
+        "explanation": "Lens, Shutter, Aperture, and Sensor are all integral internal components or fundamental functions of a camera directly involved in the process of capturing an image. A Tripod is an external accessory used for camera stabilization.",
         "completed": false
     },
     {
         "tokens": [
+            "Statue of Zeus at Olympia",
             "Great Pyramid of Giza",
-            "St. Peter's Basilica",
-            "Westminster Abbey",
-            "Colosseum",
-            "Taj Mahal"
+            "Temple of Artemis at Ephesus",
+            "Mausoleum at Halicarnassus",
+            "Hanging Gardens of Babylon"
         ],
-        "answer_index": 3,
-        "category": "Prominent Historical Structures Primarily Built as Tombs or Religious Burial Sites",
-        "explanation": "The Great Pyramid of Giza, Taj Mahal, St. Peter's Basilica, and Westminster Abbey were all primarily constructed as tombs, mausoleums, or religious burial sites. The Colosseum, however, was built as an amphitheater for public spectacles and entertainment.",
+        "answer_index": 1,
+        "category": "Fate of the Ancient Wonders",
+        "explanation": "All tokens except 'Great Pyramid of Giza' represent Wonders of the Ancient World that have been destroyed or lost over time, existing only as ruins or historical accounts. The Great Pyramid of Giza is the only one of the original seven wonders that is still largely intact and standing today.",
         "completed": false
     },
     {
         "tokens": [
-            "Ampere",
-            "Ohm",
-            "Farad",
-            "Watt",
-            "Volt"
+            "Liter",
+            "Foot",
+            "Yard",
+            "Mile",
+            "Inch"
         ],
-        "answer_index": 2,
-        "category": "Core Electrical Circuit Quantities",
-        "explanation": "Volt, Ampere, Ohm, and Watt are fundamental SI units directly defining voltage, current, resistance, and power, respectively, which are intrinsically linked by Ohm's Law (V=IR) and the power formula (P=VI) in basic electrical circuits. Farad is the SI unit for capacitance, a distinct property related to charge storage, and not directly part of the core Ohm's Law and Power Law relationships.",
+        "answer_index": 0,
+        "category": "Units of Length (Imperial/US Customary)",
+        "explanation": "Foot, Inch, Yard, and Mile are all units of length within the Imperial and US customary systems of measurement. Liter is a unit of volume in the metric system.",
         "completed": false
     }
 ]
