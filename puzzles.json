@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Shutter",
-            "Aperture",
-            "Sensor",
-            "Tripod",
-            "Lens"
-        ],
-        "answer_index": 3,
-        "category": "Essential Camera Mechanisms",
-        "explanation": "Lens, Shutter, Aperture, and Sensor are all integral internal components or fundamental functions of a camera directly involved in the process of capturing an image. A Tripod is an external accessory used for camera stabilization.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Statue of Zeus at Olympia",
-            "Great Pyramid of Giza",
-            "Temple of Artemis at Ephesus",
-            "Mausoleum at Halicarnassus",
-            "Hanging Gardens of Babylon"
-        ],
-        "answer_index": 1,
-        "category": "Fate of the Ancient Wonders",
-        "explanation": "All tokens except 'Great Pyramid of Giza' represent Wonders of the Ancient World that have been destroyed or lost over time, existing only as ruins or historical accounts. The Great Pyramid of Giza is the only one of the original seven wonders that is still largely intact and standing today.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Liter",
-            "Foot",
-            "Yard",
-            "Mile",
-            "Inch"
+            "Aurora Borealis",
+            "International Date Line",
+            "Prime Meridian",
+            "Tropic of Cancer",
+            "Equator"
         ],
         "answer_index": 0,
-        "category": "Units of Length (Imperial/US Customary)",
-        "explanation": "Foot, Inch, Yard, and Mile are all units of length within the Imperial and US customary systems of measurement. Liter is a unit of volume in the metric system.",
+        "category": "Key Imaginary Lines on a Globe",
+        "explanation": "The Equator, Tropic of Cancer, Prime Meridian, and International Date Line are all imaginary lines of latitude or longitude used to define coordinates and time zones on Earth. Aurora Borealis is a natural atmospheric phenomenon.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Mausoleum at Halicarnassus",
+            "Hanging Gardens of Babylon",
+            "Statue of Zeus at Olympia",
+            "Temple of Artemis at Ephesus",
+            "Great Pyramid of Giza"
+        ],
+        "answer_index": 1,
+        "category": "Confirmed Ancient Wonders",
+        "explanation": "The Great Pyramid, Statue of Zeus, Temple of Artemis, and Mausoleum are widely accepted as historically existing structures among the Seven Ancient Wonders of the World (though most are now destroyed). The existence and exact location of the Hanging Gardens of Babylon are extensively debated by historians and archaeologists, making it the odd one out.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Candle",
+            "Mirror",
+            "Lamp",
+            "Lantern",
+            "Torch"
+        ],
+        "answer_index": 1,
+        "category": "Objects That Produce Light",
+        "explanation": "Lamp, Torch, Candle, and Lantern are all objects designed to produce or emit light. A Mirror reflects light rather than producing it.",
         "completed": false
     }
 ]
