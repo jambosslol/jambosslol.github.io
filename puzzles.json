@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Aurora Borealis",
-            "International Date Line",
-            "Prime Meridian",
-            "Tropic of Cancer",
-            "Equator"
+            "Stapler",
+            "Ink",
+            "Pen",
+            "Paper",
+            "Correction Fluid"
         ],
         "answer_index": 0,
-        "category": "Key Imaginary Lines on a Globe",
-        "explanation": "The Equator, Tropic of Cancer, Prime Meridian, and International Date Line are all imaginary lines of latitude or longitude used to define coordinates and time zones on Earth. Aurora Borealis is a natural atmospheric phenomenon.",
+        "category": "Items Essential for Writing by Hand",
+        "explanation": "Pen, Paper, Ink, and Correction Fluid are all directly used in the process of writing or correcting handwritten text. A Stapler is used for binding papers together after writing, not for the act of writing itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Mausoleum at Halicarnassus",
-            "Hanging Gardens of Babylon",
-            "Statue of Zeus at Olympia",
-            "Temple of Artemis at Ephesus",
-            "Great Pyramid of Giza"
+            "Cerberus",
+            "Mount Olympus",
+            "Charon",
+            "Tartarus",
+            "River Styx"
         ],
         "answer_index": 1,
-        "category": "Confirmed Ancient Wonders",
-        "explanation": "The Great Pyramid, Statue of Zeus, Temple of Artemis, and Mausoleum are widely accepted as historically existing structures among the Seven Ancient Wonders of the World (though most are now destroyed). The existence and exact location of the Hanging Gardens of Babylon are extensively debated by historians and archaeologists, making it the odd one out.",
+        "category": "Elements of Greek Mythology's Underworld",
+        "explanation": "Charon (the ferryman), the River Styx, Tartarus (the abyss), and Cerberus (the guardian dog) are all integral components or figures of the Greek mythological underworld. Mount Olympus is the home of the Olympian gods, distinct from the underworld.",
         "completed": false
     },
     {
         "tokens": [
-            "Candle",
-            "Mirror",
-            "Lamp",
-            "Lantern",
-            "Torch"
+            "Congratulate",
+            "Depend",
+            "Insist",
+            "Comply",
+            "Rely"
         ],
-        "answer_index": 1,
-        "category": "Objects That Produce Light",
-        "explanation": "Lamp, Torch, Candle, and Lantern are all objects designed to produce or emit light. A Mirror reflects light rather than producing it.",
+        "answer_index": 3,
+        "category": "Verbs and Prepositional Usage",
+        "explanation": "All verbs except 'Comply' are commonly followed by the preposition 'on'. 'Comply' is commonly followed by 'with'.",
         "completed": false
     }
 ]
