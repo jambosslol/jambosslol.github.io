@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Stapler",
-            "Ink",
-            "Pen",
-            "Paper",
-            "Correction Fluid"
-        ],
-        "answer_index": 0,
-        "category": "Items Essential for Writing by Hand",
-        "explanation": "Pen, Paper, Ink, and Correction Fluid are all directly used in the process of writing or correcting handwritten text. A Stapler is used for binding papers together after writing, not for the act of writing itself.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Cerberus",
-            "Mount Olympus",
-            "Charon",
-            "Tartarus",
-            "River Styx"
-        ],
-        "answer_index": 1,
-        "category": "Elements of Greek Mythology's Underworld",
-        "explanation": "Charon (the ferryman), the River Styx, Tartarus (the abyss), and Cerberus (the guardian dog) are all integral components or figures of the Greek mythological underworld. Mount Olympus is the home of the Olympian gods, distinct from the underworld.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Congratulate",
-            "Depend",
-            "Insist",
-            "Comply",
-            "Rely"
+            "Propeller",
+            "Turbine",
+            "Dynamo",
+            "Wheel",
+            "Centrifuge"
         ],
         "answer_index": 3,
-        "category": "Verbs and Prepositional Usage",
-        "explanation": "All verbs except 'Comply' are commonly followed by the preposition 'on'. 'Comply' is commonly followed by 'with'.",
+        "category": "Devices Generating Output Through Rotation",
+        "explanation": "Dynamo, Turbine, Centrifuge, and Propeller all utilize spinning motion to actively produce a specific output (electricity, power, separation force, or thrust), while a wheel primarily facilitates movement or supports weight through its rotation, rather than generating an output from the spin itself.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Hieroglyphics",
+            "Rosetta Stone",
+            "Papyrus",
+            "Acropolis",
+            "Cuneiform"
+        ],
+        "answer_index": 3,
+        "category": "Ancient Writing and Decipherment",
+        "explanation": "Cuneiform and Hieroglyphics are ancient writing systems. Papyrus is an ancient writing material. The Rosetta Stone is an artifact crucial for deciphering ancient scripts. The Acropolis is an ancient citadel or fortified part of a city.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Record",
+            "Silence",
+            "Heart",
+            "Glass",
+            "Law"
+        ],
+        "answer_index": 3,
+        "category": "Things that can be 'broken' metaphorically",
+        "explanation": "Silence, Record, Heart, and Law are all concepts or intangible things that can be 'broken' in a metaphorical sense. Glass is a physical object that can be literally broken.",
         "completed": false
     }
 ]
