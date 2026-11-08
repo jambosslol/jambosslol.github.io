@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pen",
-            "Keyboard",
-            "Eraser",
-            "Typewriter",
-            "Pencil"
+            "Bishop",
+            "Knight",
+            "Rook",
+            "Queen",
+            "Pawn"
         ],
-        "answer_index": 2,
-        "category": "Text Production Tools",
-        "explanation": "Pen, Pencil, Typewriter, and Keyboard are all instruments used to produce or generate written text or characters. An Eraser is used to remove or correct text, not to create it.",
+        "answer_index": 4,
+        "category": "Chess Pieces with Unrestricted Movement",
+        "explanation": "Rook, Knight, Bishop, and Queen are all chess pieces that can move multiple squares (or jump over pieces, in the Knight's case) in a single turn and are not restricted to one-step forward movement. A Pawn typically moves only one square forward at a time, making it the outlier.",
         "completed": false
     },
     {
         "tokens": [
-            "A Midsummer Night's Dream",
+            "King Lear",
             "Hamlet",
             "Othello",
-            "King Lear",
+            "A Midsummer Night's Dream",
             "Macbeth"
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "category": "Shakespearean Tragedies",
-        "explanation": "All tokens except 'A Midsummer Night's Dream' are considered tragedies written by William Shakespeare. 'A Midsummer Night's Dream' is one of Shakespeare's comedies.",
+        "explanation": "Hamlet, Othello, Macbeth, and King Lear are all major tragedies written by William Shakespeare. 'A Midsummer Night's Dream' is one of Shakespeare's most famous comedies, making it the outlier.",
         "completed": false
     },
     {
         "tokens": [
-            "Cricket",
-            "Tennis",
-            "Polo",
-            "Badminton",
-            "Bowling"
+            "Crystal",
+            "Base",
+            "Foot",
+            "Volley",
+            "Basket"
         ],
-        "answer_index": 3,
-        "category": "Sports Played Primarily With a Ball",
-        "explanation": "Tennis, Cricket, Polo, and Bowling are all sports where the primary object used in play is a type of ball. Badminton, in contrast, is played primarily with a shuttlecock.",
+        "answer_index": 0,
+        "category": "Words Forming 'Ball' Sports",
+        "explanation": "Foot, Base, Basket, and Volley can each precede the word 'ball' to form the name of a sport (Football, Baseball, Basketball, Volleyball). 'Crystal' can precede 'ball' (Crystal Ball), but it does not form the name of a sport.",
         "completed": false
     }
 ]
