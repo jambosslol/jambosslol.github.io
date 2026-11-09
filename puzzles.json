@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Bishop",
-            "Knight",
-            "Rook",
-            "Queen",
-            "Pawn"
+            "Typhoon",
+            "Blizzard",
+            "Cyclone",
+            "Hurricane",
+            "Tornado"
         ],
-        "answer_index": 4,
-        "category": "Chess Pieces with Unrestricted Movement",
-        "explanation": "Rook, Knight, Bishop, and Queen are all chess pieces that can move multiple squares (or jump over pieces, in the Knight's case) in a single turn and are not restricted to one-step forward movement. A Pawn typically moves only one square forward at a time, making it the outlier.",
+        "answer_index": 1,
+        "category": "Types of Rotational Storms",
+        "explanation": "Tornado, Hurricane, Cyclone, and Typhoon are all terms for intense, rotational weather systems (low-pressure systems). A Blizzard is a severe snowstorm characterized by strong winds and low visibility, but it is not inherently a rotational storm.",
         "completed": false
     },
     {
         "tokens": [
             "King Lear",
             "Hamlet",
+            "Macbeth",
             "Othello",
-            "A Midsummer Night's Dream",
-            "Macbeth"
+            "A Midsummer Night's Dream"
         ],
-        "answer_index": 3,
+        "answer_index": 4,
         "category": "Shakespearean Tragedies",
-        "explanation": "Hamlet, Othello, Macbeth, and King Lear are all major tragedies written by William Shakespeare. 'A Midsummer Night's Dream' is one of Shakespeare's most famous comedies, making it the outlier.",
+        "explanation": "Hamlet, Othello, Macbeth, and King Lear are considered four of William Shakespeare's greatest tragedies. A Midsummer Night's Dream is one of his most popular comedies.",
         "completed": false
     },
     {
         "tokens": [
-            "Crystal",
-            "Base",
-            "Foot",
-            "Volley",
-            "Basket"
+            "Play",
+            "Script",
+            "Novel",
+            "Symphony",
+            "Poem"
         ],
-        "answer_index": 0,
-        "category": "Words Forming 'Ball' Sports",
-        "explanation": "Foot, Base, Basket, and Volley can each precede the word 'ball' to form the name of a sport (Football, Baseball, Basketball, Volleyball). 'Crystal' can precede 'ball' (Crystal Ball), but it does not form the name of a sport.",
+        "answer_index": 3,
+        "category": "Forms of Literary Art",
+        "explanation": "All tokens except 'Symphony' refer to forms of written or performed literary art. A 'Symphony' is a musical composition, not a literary one.",
         "completed": false
     }
 ]
