@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Typhoon",
-            "Blizzard",
-            "Cyclone",
-            "Hurricane",
-            "Tornado"
+            "Calendar",
+            "Atomic Clock",
+            "Hourglass",
+            "Water Clock",
+            "Sundial"
+        ],
+        "answer_index": 0,
+        "category": "Devices for Measuring the Continuous Passage of Time",
+        "explanation": "Sundials, hourglasses, water clocks, and atomic clocks are all instruments designed to actively measure the continuous flow of time. A calendar is a system for organizing and marking periods of time, but it does not actively measure its passage.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Aqueduct",
+            "Pyramid",
+            "Concrete",
+            "Arch",
+            "Colosseum"
         ],
         "answer_index": 1,
-        "category": "Types of Rotational Storms",
-        "explanation": "Tornado, Hurricane, Cyclone, and Typhoon are all terms for intense, rotational weather systems (low-pressure systems). A Blizzard is a severe snowstorm characterized by strong winds and low visibility, but it is not inherently a rotational storm.",
+        "category": "Ancient Roman Engineering & Architecture",
+        "explanation": "The Arch, Aqueduct, Colosseum, and Concrete are all iconic elements or materials fundamental to Ancient Roman engineering and architecture. A Pyramid is a monumental structure primarily associated with Ancient Egyptian and Mesoamerican civilizations, not Roman.",
         "completed": false
     },
     {
         "tokens": [
-            "King Lear",
-            "Hamlet",
-            "Macbeth",
-            "Othello",
-            "A Midsummer Night's Dream"
+            "Inch",
+            "Celsius",
+            "Gram",
+            "Liter",
+            "Meter"
         ],
-        "answer_index": 4,
-        "category": "Shakespearean Tragedies",
-        "explanation": "Hamlet, Othello, Macbeth, and King Lear are considered four of William Shakespeare's greatest tragedies. A Midsummer Night's Dream is one of his most popular comedies.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Play",
-            "Script",
-            "Novel",
-            "Symphony",
-            "Poem"
-        ],
-        "answer_index": 3,
-        "category": "Forms of Literary Art",
-        "explanation": "All tokens except 'Symphony' refer to forms of written or performed literary art. A 'Symphony' is a musical composition, not a literary one.",
+        "answer_index": 0,
+        "category": "Metric System Units",
+        "explanation": "Meter, Liter, Gram, and Celsius are all fundamental units within the metric system. Inch is a unit of length from the imperial system.",
         "completed": false
     }
 ]
