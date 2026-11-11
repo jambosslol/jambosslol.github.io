@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Calendar",
-            "Atomic Clock",
-            "Hourglass",
-            "Water Clock",
-            "Sundial"
+            "Rosin",
+            "Bridge",
+            "Pick",
+            "Chin Rest",
+            "Bow"
         ],
-        "answer_index": 0,
-        "category": "Devices for Measuring the Continuous Passage of Time",
-        "explanation": "Sundials, hourglasses, water clocks, and atomic clocks are all instruments designed to actively measure the continuous flow of time. A calendar is a system for organizing and marking periods of time, but it does not actively measure its passage.",
+        "answer_index": 2,
+        "category": "Components for String Instruments",
+        "explanation": "Bow, Rosin, Chin Rest, and Bridge are all essential parts or accessories specifically used for playing a bowed string instrument like a violin or cello. A Pick is used for playing plucked string instruments such as a guitar or mandolin.",
         "completed": false
     },
     {
         "tokens": [
             "Aqueduct",
-            "Pyramid",
-            "Concrete",
-            "Arch",
-            "Colosseum"
+            "Great Wall of China",
+            "Colosseum",
+            "Roman Forum",
+            "Pantheon"
         ],
         "answer_index": 1,
-        "category": "Ancient Roman Engineering & Architecture",
-        "explanation": "The Arch, Aqueduct, Colosseum, and Concrete are all iconic elements or materials fundamental to Ancient Roman engineering and architecture. A Pyramid is a monumental structure primarily associated with Ancient Egyptian and Mesoamerican civilizations, not Roman.",
+        "category": "Iconic Structures of Ancient Rome",
+        "explanation": "The Colosseum, Pantheon, Roman Forum, and Aqueduct are all iconic structures built by the ancient Roman civilization. The Great Wall of China is a famous structure, but it was built by various Chinese dynasties, not the Romans.",
         "completed": false
     },
     {
         "tokens": [
-            "Inch",
-            "Celsius",
-            "Gram",
-            "Liter",
-            "Meter"
+            "Flock",
+            "Herd",
+            "Swarm",
+            "Cub",
+            "School"
         ],
-        "answer_index": 0,
-        "category": "Metric System Units",
-        "explanation": "Meter, Liter, Gram, and Celsius are all fundamental units within the metric system. Inch is a unit of length from the imperial system.",
+        "answer_index": 3,
+        "category": "Collective Nouns",
+        "explanation": "Flock (birds), Herd (cattle), Swarm (insects), and School (fish) are all collective nouns for groups of animals. Cub refers to a young, individual animal (e.g., a bear cub), not a collective group.",
         "completed": false
     }
 ]
