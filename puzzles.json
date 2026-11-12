@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Rosin",
-            "Bridge",
-            "Pick",
-            "Chin Rest",
-            "Bow"
+            "Pitcher",
+            "Point Guard",
+            "Forehand",
+            "Striker",
+            "Quarterback"
         ],
         "answer_index": 2,
-        "category": "Components for String Instruments",
-        "explanation": "Bow, Rosin, Chin Rest, and Bridge are all essential parts or accessories specifically used for playing a bowed string instrument like a violin or cello. A Pick is used for playing plucked string instruments such as a guitar or mandolin.",
+        "category": "Team Sport Offensive Positions",
+        "explanation": "Quarterback (American Football), Pitcher (Baseball), Point Guard (Basketball), and Striker (Soccer) are all key offensive player positions in major team sports. 'Forehand' is a type of stroke used in tennis.",
         "completed": false
     },
     {
         "tokens": [
-            "Aqueduct",
-            "Great Wall of China",
-            "Colosseum",
-            "Roman Forum",
-            "Pantheon"
+            "Diwali",
+            "Day of the Dead",
+            "Samhain",
+            "Halloween",
+            "Cherry Blossom Festival"
         ],
-        "answer_index": 1,
-        "category": "Iconic Structures of Ancient Rome",
-        "explanation": "The Colosseum, Pantheon, Roman Forum, and Aqueduct are all iconic structures built by the ancient Roman civilization. The Great Wall of China is a famous structure, but it was built by various Chinese dynasties, not the Romans.",
+        "answer_index": 4,
+        "category": "Autumn Festivals of Remembrance and Spirit",
+        "explanation": "Diwali, Day of the Dead, Halloween, and Samhain are all cultural festivals celebrated in the autumn months (October/November) with themes related to remembrance, the spirit world, or overcoming darkness. The Cherry Blossom Festival (Sakura Matsuri) is a spring celebration focused on nature's transient beauty.",
         "completed": false
     },
     {
         "tokens": [
+            "Hive",
+            "Pack",
+            "School",
             "Flock",
-            "Herd",
-            "Swarm",
-            "Cub",
-            "School"
+            "Herd"
         ],
-        "answer_index": 3,
-        "category": "Collective Nouns",
-        "explanation": "Flock (birds), Herd (cattle), Swarm (insects), and School (fish) are all collective nouns for groups of animals. Cub refers to a young, individual animal (e.g., a bear cub), not a collective group.",
+        "answer_index": 0,
+        "category": "Collective Nouns vs. Dwelling",
+        "explanation": "Flock (birds), Herd (cattle), School (fish), and Pack (wolves) are all collective nouns used to describe a group of animals. Hive refers to the dwelling of bees, not the collective noun for the bees themselves (which would be a swarm or colony).",
         "completed": false
     }
 ]
