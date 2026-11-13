@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Pitcher",
-            "Point Guard",
-            "Forehand",
-            "Striker",
-            "Quarterback"
-        ],
-        "answer_index": 2,
-        "category": "Team Sport Offensive Positions",
-        "explanation": "Quarterback (American Football), Pitcher (Baseball), Point Guard (Basketball), and Striker (Soccer) are all key offensive player positions in major team sports. 'Forehand' is a type of stroke used in tennis.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Diwali",
-            "Day of the Dead",
-            "Samhain",
-            "Halloween",
-            "Cherry Blossom Festival"
+            "Actor",
+            "Stage Manager",
+            "Director",
+            "Playwright",
+            "Audience"
         ],
         "answer_index": 4,
-        "category": "Autumn Festivals of Remembrance and Spirit",
-        "explanation": "Diwali, Day of the Dead, Halloween, and Samhain are all cultural festivals celebrated in the autumn months (October/November) with themes related to remembrance, the spirit world, or overcoming darkness. The Cherry Blossom Festival (Sakura Matsuri) is a spring celebration focused on nature's transient beauty.",
+        "category": "Roles in Theatrical Production",
+        "explanation": "Director, Actor, Playwright, and Stage Manager are all active participants or creators involved in bringing a theatrical production to life. The Audience passively observes the production.",
         "completed": false
     },
     {
         "tokens": [
-            "Hive",
-            "Pack",
-            "School",
-            "Flock",
-            "Herd"
+            "Roman Road Network",
+            "Printing Press",
+            "Concrete",
+            "Aqueduct",
+            "Arches"
         ],
-        "answer_index": 0,
-        "category": "Collective Nouns vs. Dwelling",
-        "explanation": "Flock (birds), Herd (cattle), School (fish), and Pack (wolves) are all collective nouns used to describe a group of animals. Hive refers to the dwelling of bees, not the collective noun for the bees themselves (which would be a swarm or colony).",
+        "answer_index": 1,
+        "category": "Ancient Roman Innovations",
+        "explanation": "Aqueducts, concrete, the vast Roman road network, and architectural arches were all significant engineering and construction innovations developed or extensively utilized by the Ancient Roman Empire. The printing press was invented much later in the 15th century by Johannes Gutenberg and is not associated with ancient Rome.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Bird",
+            "Kite",
+            "Time",
+            "Airplane",
+            "Bat"
+        ],
+        "answer_index": 2,
+        "category": "Entities capable of literal flight",
+        "explanation": "Airplane, Bird, Kite, and Bat are all physical entities that can literally fly or are capable of flight. 'Time' is an abstract concept that 'flies' only as an idiom, not in a physical sense.",
         "completed": false
     }
 ]
