@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Actor",
-            "Stage Manager",
-            "Director",
-            "Playwright",
-            "Audience"
+            "Blender",
+            "Wheel",
+            "Top",
+            "Propeller",
+            "Lever"
         ],
         "answer_index": 4,
-        "category": "Roles in Theatrical Production",
-        "explanation": "Director, Actor, Playwright, and Stage Manager are all active participants or creators involved in bringing a theatrical production to life. The Audience passively observes the production.",
+        "category": "Primary Function Involves Spinning or Rotation",
+        "explanation": "Top, Wheel, Propeller, and Blender all have a primary function that involves continuous or repetitive spinning or rotational motion. A Lever's primary function is to multiply force by pivoting on a fulcrum, not continuous rotation.",
         "completed": false
     },
     {
         "tokens": [
-            "Roman Road Network",
-            "Printing Press",
-            "Concrete",
-            "Aqueduct",
-            "Arches"
+            "Great Pyramid of Giza",
+            "Statue of Zeus at Olympia",
+            "Lighthouse of Alexandria",
+            "Hanging Gardens of Babylon",
+            "Colossus of Rhodes"
+        ],
+        "answer_index": 0,
+        "category": "The Seven Wonders of the Ancient World",
+        "explanation": "All tokens are part of the original Seven Wonders of the Ancient World, but the Great Pyramid of Giza is the only one that still largely stands today. The other four have been destroyed over time.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Daylight",
+            "Headlight",
+            "Moonlight",
+            "Starlight",
+            "Sunlight"
         ],
         "answer_index": 1,
-        "category": "Ancient Roman Innovations",
-        "explanation": "Aqueducts, concrete, the vast Roman road network, and architectural arches were all significant engineering and construction innovations developed or extensively utilized by the Ancient Roman Empire. The printing press was invented much later in the 15th century by Johannes Gutenberg and is not associated with ancient Rome.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Bird",
-            "Kite",
-            "Time",
-            "Airplane",
-            "Bat"
-        ],
-        "answer_index": 2,
-        "category": "Entities capable of literal flight",
-        "explanation": "Airplane, Bird, Kite, and Bat are all physical entities that can literally fly or are capable of flight. 'Time' is an abstract concept that 'flies' only as an idiom, not in a physical sense.",
+        "category": "Sources of Light",
+        "explanation": "Sunlight, Starlight, Moonlight, and Daylight all refer to natural forms of light or light originating from celestial bodies. Headlight, however, refers to an artificial light source, typically found on vehicles.",
         "completed": false
     }
 ]
