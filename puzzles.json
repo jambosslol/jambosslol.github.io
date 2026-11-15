@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Blender",
-            "Wheel",
-            "Top",
-            "Propeller",
-            "Lever"
+            "Ball of Yarn",
+            "Guitar String",
+            "Winding Key",
+            "Watch Spring",
+            "Wind-up Toy"
         ],
-        "answer_index": 4,
-        "category": "Primary Function Involves Spinning or Rotation",
-        "explanation": "Top, Wheel, Propeller, and Blender all have a primary function that involves continuous or repetitive spinning or rotational motion. A Lever's primary function is to multiply force by pivoting on a fulcrum, not continuous rotation.",
+        "answer_index": 1,
+        "category": "Items Related to 'Winding'",
+        "explanation": "The first four items are either themselves wound (toy, spring, yarn) or are explicitly used to wind a mechanism (key). A guitar string is stretched and tightened for tuning but is not 'wound' in the same material or mechanical sense as the others.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Pyramid of Giza",
-            "Statue of Zeus at Olympia",
-            "Lighthouse of Alexandria",
+            "Parthenon",
             "Hanging Gardens of Babylon",
+            "Temple of Artemis at Ephesus",
+            "Great Pyramid of Giza",
             "Colossus of Rhodes"
         ],
         "answer_index": 0,
-        "category": "The Seven Wonders of the Ancient World",
-        "explanation": "All tokens are part of the original Seven Wonders of the Ancient World, but the Great Pyramid of Giza is the only one that still largely stands today. The other four have been destroyed over time.",
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Colossus of Rhodes are all traditionally listed as four of the Seven Wonders of the Ancient World. The Parthenon, while an iconic ancient structure, is not included in that traditional list.",
         "completed": false
     },
     {
         "tokens": [
-            "Daylight",
-            "Headlight",
-            "Moonlight",
-            "Starlight",
-            "Sunlight"
+            "Lyra",
+            "Mars",
+            "Scorpius",
+            "Orion",
+            "Leo"
         ],
         "answer_index": 1,
-        "category": "Sources of Light",
-        "explanation": "Sunlight, Starlight, Moonlight, and Daylight all refer to natural forms of light or light originating from celestial bodies. Headlight, however, refers to an artificial light source, typically found on vehicles.",
+        "category": "Major Constellations",
+        "explanation": "Orion, Leo, Lyra, and Scorpius are all names of prominent constellations. Mars is a planet in our solar system, not a constellation.",
         "completed": false
     }
 ]
