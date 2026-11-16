@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Ball of Yarn",
-            "Guitar String",
-            "Winding Key",
-            "Watch Spring",
-            "Wind-up Toy"
-        ],
-        "answer_index": 1,
-        "category": "Items Related to 'Winding'",
-        "explanation": "The first four items are either themselves wound (toy, spring, yarn) or are explicitly used to wind a mechanism (key). A guitar string is stretched and tightened for tuning but is not 'wound' in the same material or mechanical sense as the others.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Parthenon",
-            "Hanging Gardens of Babylon",
-            "Temple of Artemis at Ephesus",
-            "Great Pyramid of Giza",
-            "Colossus of Rhodes"
+            "Kilometer",
+            "Rod",
+            "Fathom",
+            "League",
+            "Cubit"
         ],
         "answer_index": 0,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis at Ephesus, and Colossus of Rhodes are all traditionally listed as four of the Seven Wonders of the Ancient World. The Parthenon, while an iconic ancient structure, is not included in that traditional list.",
+        "category": "Historical Units of Length",
+        "explanation": "League, Fathom, Cubit, and Rod are all historical or non-standard units of length, often with varying definitions or based on human dimensions. Kilometer is a modern, standardized metric unit of length.",
         "completed": false
     },
     {
         "tokens": [
-            "Lyra",
-            "Mars",
-            "Scorpius",
-            "Orion",
-            "Leo"
+            "Gae Bulg",
+            "Masamune Sword",
+            "Caduceus",
+            "Mjolnir",
+            "Excalibur"
         ],
-        "answer_index": 1,
-        "category": "Major Constellations",
-        "explanation": "Orion, Leo, Lyra, and Scorpius are all names of prominent constellations. Mars is a planet in our solar system, not a constellation.",
+        "answer_index": 2,
+        "category": "Legendary Weapons or Combat Items",
+        "explanation": "Excalibur (King Arthur), Mjolnir (Thor), Gae Bulg (C\u00fa Chulainn), and the Masamune Sword (Japanese folklore) are all renowned legendary weapons or items explicitly used for combat in their respective mythologies and cultures. The Caduceus is a staff carried by the Greek god Hermes, primarily a symbol of commerce and later medicine, not a weapon.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Herd",
+            "Swarm",
+            "Flock",
+            "Pack",
+            "Lion"
+        ],
+        "answer_index": 4,
+        "category": "Collective Nouns",
+        "explanation": "Herd, Flock, Swarm, and Pack are all collective nouns used to describe groups of animals or things. Lion refers to a single animal, not a group.",
         "completed": false
     }
 ]
