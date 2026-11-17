@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Kilometer",
-            "Rod",
-            "Fathom",
-            "League",
-            "Cubit"
+            "Guitar",
+            "Piano",
+            "Violin",
+            "Conductor's Baton",
+            "Drums"
         ],
-        "answer_index": 0,
-        "category": "Historical Units of Length",
-        "explanation": "League, Fathom, Cubit, and Rod are all historical or non-standard units of length, often with varying definitions or based on human dimensions. Kilometer is a modern, standardized metric unit of length.",
+        "answer_index": 3,
+        "category": "Musical Instruments",
+        "explanation": "Guitar, Piano, Violin, and Drums are all instruments that produce musical sounds. A Conductor's Baton is used to direct music but does not produce sound itself.",
         "completed": false
     },
     {
         "tokens": [
-            "Gae Bulg",
-            "Masamune Sword",
-            "Caduceus",
-            "Mjolnir",
-            "Excalibur"
+            "Printing Press",
+            "Gunpowder",
+            "Papermaking",
+            "Steam Engine",
+            "Compass"
         ],
-        "answer_index": 2,
-        "category": "Legendary Weapons or Combat Items",
-        "explanation": "Excalibur (King Arthur), Mjolnir (Thor), Gae Bulg (C\u00fa Chulainn), and the Masamune Sword (Japanese folklore) are all renowned legendary weapons or items explicitly used for combat in their respective mythologies and cultures. The Caduceus is a staff carried by the Greek god Hermes, primarily a symbol of commerce and later medicine, not a weapon.",
+        "answer_index": 3,
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "The 'Printing Press', 'Compass', 'Gunpowder', and 'Papermaking' are traditionally known as the 'Four Great Inventions' of Ancient China. The 'Steam Engine' was a key invention of the Industrial Revolution, originating in Europe.",
         "completed": false
     },
     {
         "tokens": [
-            "Herd",
-            "Swarm",
-            "Flock",
-            "Pack",
-            "Lion"
+            "Gleam",
+            "Glitch",
+            "Glimmer",
+            "Glare",
+            "Glisten"
         ],
-        "answer_index": 4,
-        "category": "Collective Nouns",
-        "explanation": "Herd, Flock, Swarm, and Pack are all collective nouns used to describe groups of animals or things. Lion refers to a single animal, not a group.",
+        "answer_index": 1,
+        "category": "Words Describing Light",
+        "explanation": "Gleam, Glimmer, Glisten, and Glare are all verbs or nouns that describe different qualities or intensities of light, reflection, or visual appearance. Glitch refers to a sudden, usually temporary, malfunction or fault, and is unrelated to light.",
         "completed": false
     }
 ]
