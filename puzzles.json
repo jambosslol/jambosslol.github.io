@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Guitar",
-            "Piano",
-            "Violin",
-            "Conductor's Baton",
-            "Drums"
+            "Stapler",
+            "Notepad",
+            "Scissors",
+            "Webcam",
+            "Pen"
         ],
         "answer_index": 3,
-        "category": "Musical Instruments",
-        "explanation": "Guitar, Piano, Violin, and Drums are all instruments that produce musical sounds. A Conductor's Baton is used to direct music but does not produce sound itself.",
+        "category": "Common Office Desk Supplies",
+        "explanation": "A webcam is a peripheral device primarily for digital communication and recording, whereas the other items are traditional physical tools or materials commonly found and used on an office desk.",
         "completed": false
     },
     {
         "tokens": [
-            "Printing Press",
-            "Gunpowder",
-            "Papermaking",
-            "Steam Engine",
-            "Compass"
+            "Lighthouse of Alexandria",
+            "Colossus of Rhodes",
+            "Temple of Artemis",
+            "Parthenon",
+            "Great Pyramid of Giza"
         ],
         "answer_index": 3,
-        "category": "The Four Great Inventions of Ancient China",
-        "explanation": "The 'Printing Press', 'Compass', 'Gunpowder', and 'Papermaking' are traditionally known as the 'Four Great Inventions' of Ancient China. The 'Steam Engine' was a key invention of the Industrial Revolution, originating in Europe.",
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The first four tokens are all traditionally recognized as part of the Seven Wonders of the Ancient World. The Parthenon, while an iconic ancient structure, is not included in this traditional list.",
         "completed": false
     },
     {
         "tokens": [
-            "Gleam",
-            "Glitch",
-            "Glimmer",
-            "Glare",
-            "Glisten"
+            "Break a promise",
+            "Break a leg",
+            "Break a habit",
+            "Break a fast",
+            "Break a code"
         ],
         "answer_index": 1,
-        "category": "Words Describing Light",
-        "explanation": "Gleam, Glimmer, Glisten, and Glare are all verbs or nouns that describe different qualities or intensities of light, reflection, or visual appearance. Glitch refers to a sudden, usually temporary, malfunction or fault, and is unrelated to light.",
+        "category": "Meanings of 'Break'",
+        "explanation": "The first four phrases use the word 'break' to signify violating, ending, or interrupting something. 'Break a leg' is an idiom meaning 'good luck' and does not imply a literal or figurative disruption.",
         "completed": false
     }
 ]
