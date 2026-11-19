@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Stapler",
-            "Notepad",
-            "Scissors",
-            "Webcam",
-            "Pen"
+            "Mirror",
+            "Prism",
+            "Retina",
+            "Eardrum",
+            "Lens"
         ],
         "answer_index": 3,
-        "category": "Common Office Desk Supplies",
-        "explanation": "A webcam is a peripheral device primarily for digital communication and recording, whereas the other items are traditional physical tools or materials commonly found and used on an office desk.",
+        "category": "Elements of Vision and Optics",
+        "explanation": "Lens, Retina, Prism, and Mirror are all directly involved with light or the act of seeing. The Eardrum is a component of the auditory system, related to hearing.",
         "completed": false
     },
     {
         "tokens": [
-            "Lighthouse of Alexandria",
-            "Colossus of Rhodes",
-            "Temple of Artemis",
-            "Parthenon",
-            "Great Pyramid of Giza"
-        ],
-        "answer_index": 3,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The first four tokens are all traditionally recognized as part of the Seven Wonders of the Ancient World. The Parthenon, while an iconic ancient structure, is not included in this traditional list.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Break a promise",
-            "Break a leg",
-            "Break a habit",
-            "Break a fast",
-            "Break a code"
+            "Zeus",
+            "Perseus",
+            "Poseidon",
+            "Hestia",
+            "Hades"
         ],
         "answer_index": 1,
-        "category": "Meanings of 'Break'",
-        "explanation": "The first four phrases use the word 'break' to signify violating, ending, or interrupting something. 'Break a leg' is an idiom meaning 'good luck' and does not imply a literal or figurative disruption.",
+        "category": "Original Olympian Siblings",
+        "explanation": "Zeus, Poseidon, Hades, and Hestia are all children of Cronus and Rhea, making them primary siblings among the Olympian gods. Perseus is a demigod hero, son of Zeus and Dana\u00eb, not an original Olympian sibling.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "HEART",
+            "WINDOW",
+            "SPIRIT",
+            "RECORD",
+            "SILENCE"
+        ],
+        "answer_index": 1,
+        "category": "Concepts or Non-Physical Entities That Can Be 'Broken'",
+        "explanation": "Silence, record, heart, and spirit are all non-physical concepts or entities that can be 'broken' (e.g., break the silence, break a record, broken heart, broken spirit). A window is the only physical object that can be literally broken, requiring physical repair or replacement.",
         "completed": false
     }
 ]
