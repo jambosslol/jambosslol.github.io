@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Mirror",
-            "Prism",
-            "Retina",
-            "Eardrum",
-            "Lens"
+            "Inkwell",
+            "Typewriter",
+            "Parchment",
+            "Scribe",
+            "Quill"
         ],
-        "answer_index": 3,
-        "category": "Elements of Vision and Optics",
-        "explanation": "Lens, Retina, Prism, and Mirror are all directly involved with light or the act of seeing. The Eardrum is a component of the auditory system, related to hearing.",
+        "answer_index": 1,
+        "category": "Pre-Industrial Writing",
+        "explanation": "Parchment (surface), Quill (tool), Inkwell (supply), and Scribe (person) are all elements central to the historical, hand-written production of documents before the Industrial Revolution. A Typewriter is a mechanical device invented much later.",
         "completed": false
     },
     {
         "tokens": [
-            "Zeus",
-            "Perseus",
-            "Poseidon",
-            "Hestia",
-            "Hades"
+            "Pediment",
+            "Pointed Arch",
+            "Rose Window",
+            "Flying Buttress",
+            "Gargoyle"
         ],
-        "answer_index": 1,
-        "category": "Original Olympian Siblings",
-        "explanation": "Zeus, Poseidon, Hades, and Hestia are all children of Cronus and Rhea, making them primary siblings among the Olympian gods. Perseus is a demigod hero, son of Zeus and Dana\u00eb, not an original Olympian sibling.",
+        "answer_index": 0,
+        "category": "Elements of Gothic Architecture",
+        "explanation": "Gargoyles, Flying Buttresses, Rose Windows, and Pointed Arches are all distinctive features of Gothic architecture. A Pediment, however, is a triangular gable typically found in Classical Greek and Roman architecture.",
         "completed": false
     },
     {
         "tokens": [
-            "HEART",
-            "WINDOW",
-            "SPIRIT",
-            "RECORD",
-            "SILENCE"
+            "Roar",
+            "Bark",
+            "Gallop",
+            "Chirp",
+            "Hiss"
         ],
-        "answer_index": 1,
-        "category": "Concepts or Non-Physical Entities That Can Be 'Broken'",
-        "explanation": "Silence, record, heart, and spirit are all non-physical concepts or entities that can be 'broken' (e.g., break the silence, break a record, broken heart, broken spirit). A window is the only physical object that can be literally broken, requiring physical repair or replacement.",
+        "answer_index": 2,
+        "category": "Verbs describing animal sounds",
+        "explanation": "Bark, Roar, Hiss, and Chirp are all verbs used to describe specific sounds made by animals. Gallop describes a way an animal moves, not a sound it produces.",
         "completed": false
     }
 ]
