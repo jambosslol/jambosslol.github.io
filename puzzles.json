@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Inkwell",
-            "Typewriter",
-            "Parchment",
-            "Scribe",
-            "Quill"
-        ],
-        "answer_index": 1,
-        "category": "Pre-Industrial Writing",
-        "explanation": "Parchment (surface), Quill (tool), Inkwell (supply), and Scribe (person) are all elements central to the historical, hand-written production of documents before the Industrial Revolution. A Typewriter is a mechanical device invented much later.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Pediment",
-            "Pointed Arch",
-            "Rose Window",
-            "Flying Buttress",
-            "Gargoyle"
+            "Anchor",
+            "Fresnel Lens",
+            "Foghorn",
+            "Light Beam",
+            "Lighthouse Keeper"
         ],
         "answer_index": 0,
-        "category": "Elements of Gothic Architecture",
-        "explanation": "Gargoyles, Flying Buttresses, Rose Windows, and Pointed Arches are all distinctive features of Gothic architecture. A Pediment, however, is a triangular gable typically found in Classical Greek and Roman architecture.",
+        "category": "Elements of a Lighthouse System",
+        "explanation": "Light Beam, Fresnel Lens, Lighthouse Keeper, and Foghorn are all integral components, functions, or personnel directly associated with the operation and purpose of a lighthouse. An Anchor is used by ships for mooring, not a part of the lighthouse structure or its primary function.",
         "completed": false
     },
     {
         "tokens": [
-            "Roar",
-            "Bark",
-            "Gallop",
-            "Chirp",
-            "Hiss"
+            "Hanging Gardens of Babylon",
+            "Pyramids of Giza",
+            "Lighthouse of Alexandria",
+            "Great Wall of China",
+            "Colossus of Rhodes"
         ],
-        "answer_index": 2,
-        "category": "Verbs describing animal sounds",
-        "explanation": "Bark, Roar, Hiss, and Chirp are all verbs used to describe specific sounds made by animals. Gallop describes a way an animal moves, not a sound it produces.",
+        "answer_index": 3,
+        "category": "Original Seven Wonders of the Ancient World",
+        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all considered among the original Seven Wonders of the Ancient World. The Great Wall of China, while an ancient marvel, is not part of that original list.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Splash",
+            "Rustle",
+            "Ripple",
+            "Drip",
+            "Gurgle"
+        ],
+        "answer_index": 1,
+        "category": "Sounds of Water",
+        "explanation": "Ripple, splash, gurgle, and drip are all distinct sounds associated with water. Rustle is the sound made by dry leaves or fabric.",
         "completed": false
     }
 ]
