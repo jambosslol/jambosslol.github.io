@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Anchor",
-            "Fresnel Lens",
-            "Foghorn",
-            "Light Beam",
-            "Lighthouse Keeper"
-        ],
-        "answer_index": 0,
-        "category": "Elements of a Lighthouse System",
-        "explanation": "Light Beam, Fresnel Lens, Lighthouse Keeper, and Foghorn are all integral components, functions, or personnel directly associated with the operation and purpose of a lighthouse. An Anchor is used by ships for mooring, not a part of the lighthouse structure or its primary function.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Hanging Gardens of Babylon",
-            "Pyramids of Giza",
-            "Lighthouse of Alexandria",
-            "Great Wall of China",
-            "Colossus of Rhodes"
+            "King",
+            "Joker",
+            "Queen",
+            "Rook",
+            "Ace"
         ],
         "answer_index": 3,
-        "category": "Original Seven Wonders of the Ancient World",
-        "explanation": "The Pyramids of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all considered among the original Seven Wonders of the Ancient World. The Great Wall of China, while an ancient marvel, is not part of that original list.",
+        "category": "Elements of a Standard Playing Card Deck",
+        "explanation": "Ace, King, Queen, and Joker are all ranks or special cards found in a standard deck of playing cards. A Rook is a piece used in the game of chess.",
         "completed": false
     },
     {
         "tokens": [
-            "Splash",
-            "Rustle",
-            "Ripple",
-            "Drip",
-            "Gurgle"
+            "Chronometer",
+            "Sextant",
+            "Sundial",
+            "Microscope",
+            "Astrolabe"
+        ],
+        "answer_index": 3,
+        "category": "Historical Navigational and Timekeeping Instruments",
+        "explanation": "The Sundial, Astrolabe, Chronometer, and Sextant are all historical instruments used for navigation or precise timekeeping, often by observing celestial bodies or measuring geographical position. The Microscope is an instrument used for magnifying small objects, unrelated to navigation or large-scale timekeeping.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Tranquility",
+            "Meditate",
+            "Tumult",
+            "Serenity",
+            "Bliss"
         ],
         "answer_index": 1,
-        "category": "Sounds of Water",
-        "explanation": "Ripple, splash, gurgle, and drip are all distinct sounds associated with water. Rustle is the sound made by dry leaves or fabric.",
+        "category": "States of Being vs. Actions",
+        "explanation": "Tranquility, Serenity, Bliss, and Tumult are all nouns that describe a particular state or condition of existence. Meditate, however, is a verb, describing an action or process.",
         "completed": false
     }
 ]
