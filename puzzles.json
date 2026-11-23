@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "King",
-            "Joker",
-            "Queen",
-            "Rook",
-            "Ace"
-        ],
-        "answer_index": 3,
-        "category": "Elements of a Standard Playing Card Deck",
-        "explanation": "Ace, King, Queen, and Joker are all ranks or special cards found in a standard deck of playing cards. A Rook is a piece used in the game of chess.",
-        "completed": false
-    },
-    {
-        "tokens": [
-            "Chronometer",
-            "Sextant",
-            "Sundial",
             "Microscope",
-            "Astrolabe"
+            "Compass",
+            "Scale",
+            "Thermometer",
+            "Clock"
         ],
-        "answer_index": 3,
-        "category": "Historical Navigational and Timekeeping Instruments",
-        "explanation": "The Sundial, Astrolabe, Chronometer, and Sextant are all historical instruments used for navigation or precise timekeeping, often by observing celestial bodies or measuring geographical position. The Microscope is an instrument used for magnifying small objects, unrelated to navigation or large-scale timekeeping.",
+        "answer_index": 0,
+        "category": "Instruments of Direct Measurement or Indication",
+        "explanation": "Thermometer, Compass, Scale, and Clock are all instruments designed to directly measure or indicate specific physical quantities or directions (temperature, direction, weight, time). A Microscope's primary function is magnification, not direct measurement or indication.",
         "completed": false
     },
     {
         "tokens": [
-            "Tranquility",
-            "Meditate",
-            "Tumult",
-            "Serenity",
-            "Bliss"
+            "Kabuki",
+            "Bunraku",
+            "Opera",
+            "Noh",
+            "Gagaku"
         ],
-        "answer_index": 1,
-        "category": "States of Being vs. Actions",
-        "explanation": "Tranquility, Serenity, Bliss, and Tumult are all nouns that describe a particular state or condition of existence. Meditate, however, is a verb, describing an action or process.",
+        "answer_index": 2,
+        "category": "Traditional Japanese Performing Arts",
+        "explanation": "Opera is a Western musical art form, whereas Noh, Kabuki, Bunraku, and Gagaku are all distinct traditional Japanese performing arts.",
+        "completed": false
+    },
+    {
+        "tokens": [
+            "Subside",
+            "Wane",
+            "Dwindle",
+            "Amplify",
+            "Diminish"
+        ],
+        "answer_index": 3,
+        "category": "Words Meaning 'To Lessen'",
+        "explanation": "Dwindle, Diminish, Wane, and Subside all refer to the process of becoming smaller, weaker, or less intense. Amplify means to make something larger, stronger, or more intense.",
         "completed": false
     }
 ]
