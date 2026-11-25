@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Trampoline",
-            "Washing Machine",
-            "Record Player",
-            "Ferris Wheel",
-            "Merry-Go-Round"
+            "Script",
+            "Score",
+            "Stage",
+            "Rehearsal",
+            "Audience"
         ],
-        "answer_index": 0,
-        "category": "Objects with a Primary Rotational or Spinning Function",
-        "explanation": "Ferris wheels, record players, washing machines, and merry-go-rounds all perform their main function through a continuous rotational or spinning movement. A trampoline operates primarily by vertical bouncing.",
+        "answer_index": 1,
+        "category": "Elements of a Non-Musical Theatrical Play",
+        "explanation": "Script, Rehearsal, Stage, and Audience are all fundamental components or activities of a traditional, non-musical theatrical play. A \"Score\" specifically refers to a musical composition and is only relevant for musicals, not all plays.",
         "completed": false
     },
     {
         "tokens": [
-            "Hanging Gardens of Babylon",
-            "Colossus of Rhodes",
+            "Temple of Artemis at Ephesus",
             "Great Pyramid of Giza",
-            "Machu Picchu",
+            "The Pantheon",
+            "Colossus of Rhodes",
             "Lighthouse of Alexandria"
         ],
-        "answer_index": 3,
-        "category": "Ancient Wonders of the World",
-        "explanation": "The Great Pyramid of Giza, Hanging Gardens of Babylon, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally recognized as four of the Seven Wonders of the Ancient World. Machu Picchu is one of the New7Wonders of the World, not an ancient wonder from the original list.",
+        "answer_index": 2,
+        "category": "Seven Wonders of the Ancient World",
+        "explanation": "The Great Pyramid of Giza, Temple of Artemis at Ephesus, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally listed among the Seven Wonders of the Ancient World. The Pantheon, while an impressive ancient Roman structure, is not included in that list.",
         "completed": false
     },
     {
         "tokens": [
-            "Bone",
-            "Silence",
-            "Heart",
-            "Record",
-            "Law"
+            "Racecar",
+            "Rotor",
+            "Madam",
+            "Level",
+            "Apple"
         ],
-        "answer_index": 0,
-        "category": "Ways to be 'broken'",
-        "explanation": "Law, heart, record, and silence can all be 'broken' in a metaphorical or abstract sense (violated, saddened, surpassed, interrupted). A bone is physically broken.",
+        "answer_index": 4,
+        "category": "Palindromes",
+        "explanation": "Madam, Level, Racecar, and Rotor are all palindromes, meaning they read the same forwards and backwards. Apple does not share this property.",
         "completed": false
     }
 ]
