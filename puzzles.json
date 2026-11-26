@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Script",
-            "Score",
-            "Stage",
-            "Rehearsal",
-            "Audience"
+            "Calendar",
+            "Hourglass",
+            "Stopwatch",
+            "Sundial",
+            "Grandfather Clock"
         ],
-        "answer_index": 1,
-        "category": "Elements of a Non-Musical Theatrical Play",
-        "explanation": "Script, Rehearsal, Stage, and Audience are all fundamental components or activities of a traditional, non-musical theatrical play. A \"Score\" specifically refers to a musical composition and is only relevant for musicals, not all plays.",
+        "answer_index": 0,
+        "category": "Devices for Measuring or Indicating Time of Day/Short Durations",
+        "explanation": "Sundial, Hourglass, Grandfather Clock, and Stopwatch are all devices primarily used to measure or indicate the time within a day or specific short durations. A Calendar organizes time over days, weeks, and months, but does not indicate the current hour or minute.",
         "completed": false
     },
     {
         "tokens": [
-            "Temple of Artemis at Ephesus",
             "Great Pyramid of Giza",
-            "The Pantheon",
+            "Statue of Zeus at Olympia",
             "Colossus of Rhodes",
+            "Hanging Gardens of Babylon",
             "Lighthouse of Alexandria"
         ],
-        "answer_index": 2,
-        "category": "Seven Wonders of the Ancient World",
-        "explanation": "The Great Pyramid of Giza, Temple of Artemis at Ephesus, Colossus of Rhodes, and Lighthouse of Alexandria are all traditionally listed among the Seven Wonders of the Ancient World. The Pantheon, while an impressive ancient Roman structure, is not included in that list.",
+        "answer_index": 0,
+        "category": "Wonders of the Ancient World",
+        "explanation": "Four of these were wonders of the ancient world that have been completely destroyed. The Great Pyramid of Giza is the only one of the original Seven Wonders still largely intact today.",
         "completed": false
     },
     {
         "tokens": [
-            "Racecar",
-            "Rotor",
-            "Madam",
-            "Level",
-            "Apple"
+            "Pliers",
+            "Trousers",
+            "Shirt",
+            "Glasses",
+            "Scissors"
         ],
-        "answer_index": 4,
-        "category": "Palindromes",
-        "explanation": "Madam, Level, Racecar, and Rotor are all palindromes, meaning they read the same forwards and backwards. Apple does not share this property.",
+        "answer_index": 2,
+        "category": "Plural Nouns for Single, Dual-Part Objects",
+        "explanation": "Scissors, Trousers, Glasses, and Pliers are all words that are grammatically plural but refer to a single object made of two corresponding parts. 'Shirt' is a singular noun and refers to a single, non-dual object.",
         "completed": false
     }
 ]
