@@ -1,41 +1,41 @@
 [
     {
         "tokens": [
-            "Calendar",
-            "Hourglass",
-            "Stopwatch",
-            "Sundial",
-            "Grandfather Clock"
+            "Sun",
+            "Earth",
+            "Umbra",
+            "Comet",
+            "Moon"
         ],
-        "answer_index": 0,
-        "category": "Devices for Measuring or Indicating Time of Day/Short Durations",
-        "explanation": "Sundial, Hourglass, Grandfather Clock, and Stopwatch are all devices primarily used to measure or indicate the time within a day or specific short durations. A Calendar organizes time over days, weeks, and months, but does not indicate the current hour or minute.",
+        "answer_index": 3,
+        "category": "Elements of Eclipses",
+        "explanation": "The Sun, Moon, Earth, and Umbra are all fundamental components or direct phenomena involved in the occurrence of either a solar or lunar eclipse. A Comet is a celestial body but plays no direct role in the mechanics or viewing of an eclipse.",
         "completed": false
     },
     {
         "tokens": [
-            "Great Pyramid of Giza",
-            "Statue of Zeus at Olympia",
-            "Colossus of Rhodes",
-            "Hanging Gardens of Babylon",
-            "Lighthouse of Alexandria"
+            "Printing Press",
+            "Compass",
+            "Gunpowder",
+            "Steam Engine",
+            "Papermaking"
         ],
-        "answer_index": 0,
-        "category": "Wonders of the Ancient World",
-        "explanation": "Four of these were wonders of the ancient world that have been completely destroyed. The Great Pyramid of Giza is the only one of the original Seven Wonders still largely intact today.",
+        "answer_index": 3,
+        "category": "The Four Great Inventions of Ancient China",
+        "explanation": "Gunpowder, papermaking, the compass, and printing (specifically movable type) are traditionally known as the \"Four Great Inventions\" of Ancient China. The steam engine was a pivotal invention of the Industrial Revolution, primarily developed in the West.",
         "completed": false
     },
     {
         "tokens": [
-            "Pliers",
-            "Trousers",
-            "Shirt",
-            "Glasses",
-            "Scissors"
+            "Solo",
+            "Octave",
+            "Quartet",
+            "Duo",
+            "Trio"
         ],
-        "answer_index": 2,
-        "category": "Plural Nouns for Single, Dual-Part Objects",
-        "explanation": "Scissors, Trousers, Glasses, and Pliers are all words that are grammatically plural but refer to a single object made of two corresponding parts. 'Shirt' is a singular noun and refers to a single, non-dual object.",
+        "answer_index": 1,
+        "category": "Musical Ensemble Sizes",
+        "explanation": "Quartet, Trio, Duo, and Solo all refer to musical groups defined by the number of performers (4, 3, 2, and 1 respectively). An Octave refers to a musical interval of eight notes, not a group of performers.",
         "completed": false
     }
 ]
